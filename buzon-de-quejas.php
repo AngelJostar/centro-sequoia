@@ -51,19 +51,19 @@
                 </div>
                 <div class = "t-izquierda tercer-p">
                     <p>Nombre (opcional)</p>
-                    <input type="text" name="nombre" placeholder="Nombre" required>
+                    <input type="text" name="nombreB" placeholder="Nombre" required>
                 </div>
                 <div class = "t-izquierda tercer-p">
                     <p>Correo Electrónico (opcional)</p>
-                    <input type="email" name="correo" placeholder="Correo" required>
+                    <input type="email" name="correoB" placeholder="Correo" required>
                 </div>
                 <div class = "t-izquierda tercer-p">
                     <p>Teléfono (opcional)</p>
-                    <input type="tel" name="telefono" placeholder="Teléfono" >
+                    <input type="tel" name="telefonoB" placeholder="Teléfono" >
                 </div>
                 <div class = "t-izquierda tercer-p">
                     <p>ELIGE UN CENTRO *</p>
-                    <select name="centro" required>
+                    <select name="centroB" required>
                     <option selected disabled value="">Selecciona un centro:</option> 
                     <option value="CDMX">CDMX</option> 
                     <option value="GUADALAJARA">GUADALAJARA</option> 
@@ -72,7 +72,7 @@
                 </div>
                 <div class = "t-izquierda tercer-p">
                     <p>MENSAJE</p>
-                    <textarea name="mensaje" placeholder="Escriba aqui su mensaje" required></textarea>
+                    <textarea name="mensajeB" placeholder="Escriba aqui su mensaje" required></textarea>
                 </div>
                 <div class="t-izquierda tercer-p">
                     <p class="justificar-texto-90 ph-1">Envianos tus comentarios</p>
@@ -83,6 +83,7 @@
                 </form>
             </div>
         </section>
+
             <div class="textos-azules">
                 <p>Gracias por tu mensaje. Este es exactamente el tipo de aporte que necesitamos para servir mejor a las necesidades de nuestros pacientes.</p>
                 <p>Sus comentarios serán enviados directamente al gerente del centro. Agradecemos su participación y claro que vamos a considerar sus ideas en el futuro.</p>
