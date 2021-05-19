@@ -160,7 +160,7 @@
                     <input type="text" name="nombre" placeholder="Nombre" required>
                 </div>
                 <div class = "t-izquierda tercer-p">
-                    <p>CORREO ELECTRONICO *</p>
+                    <p>CORREO ELECTRÓNICO *</p>
                     <input type="email" name="correo" placeholder="Correo" required>
                 </div>
                 <div class = "t-izquierda tercer-p">
@@ -180,7 +180,7 @@
                     <p>MENSAJE</p>
                     <textarea name="mensaje" placeholder="Escriba aqui su mensaje" required></textarea>
                 </div>
-                <p class="justificar-texto-90 centrar-texto ph-1 input-color">Envianos tus dudas y conentarios</p>
+                <p class="justificar-texto-90 centrar-texto ph-1 input-color">Envíanos tus dudas y comentarios</p>
                     <div class="centrar-texto ph-1">
                         <input type="submit" value="ENVIAR" id="boton">
                     </div>
