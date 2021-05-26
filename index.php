@@ -36,7 +36,7 @@
                     </div>
                 </div>
             </div>
-            <div class="sombras-img ph-6 pb-2 tamaño-img ocultar">
+            <div class="sombras-img ph-5 pb-2 tamaño-img ocultar">
                 <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto" alt="Portada">
             </div>
             <div class="sombras-img ph-4  tamaño-img mostrar">

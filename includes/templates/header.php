@@ -54,6 +54,11 @@
                         <div class="linea-menu"></div>
                         <li class="size-hojita hojita-menu  hoja-grid">
                             <img src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">   
+                            <a href="/contact" class="menu-a"> Casos de éxito</a>
+                        </li>
+                        <div class="linea-menu"></div>
+                        <li class="size-hojita hojita-menu  hoja-grid">
+                            <img src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">   
                             <a href="/contact" class="menu-a"> Contacto</a>
                         </li>
                         <div class="linea-menu"></div>
@@ -98,10 +103,11 @@
                 <li><a href="https://centrosequoia.com.mx/">Inicio</a></li>
                 <li><a href="/crecimiento-infantil" class="menu-a">Crecimiento Infantil</a></li>
                 <li><a href="/especialistas-en-crecimiento"  class="menu-a">Especialistas en crecimiento infantil</a></li>
-                <br>
-                <li><a href="/crecimiento-infantil-deficiente" class="menu-a">Crecimiento infantil deficiente</a></li>
                 <li><a href="/preguntas-frecuentes" class="menu-a">Preguntas Frecuentes</a></li>
+                <li><a href="/crecimiento-infantil-deficiente" class="menu-a">Crecimiento infantil deficiente</a></li>
+                <li><a href="/preguntas-frecuentes" class="menu-a">Casos de éxito</a></li>
                 <li><a href="/contact" >Contacto</a></li>
+               
             </ul>
         </div>
     </div>
