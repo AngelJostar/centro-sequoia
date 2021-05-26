@@ -45,7 +45,7 @@
 
         <section class="contenedor-info-contacto">
             <div class="formulario">
-                <form action="/enviar.php" method="post">
+                <form action="/enviar-quejas.php" method="post">
                 <div class="titulos-principal ">
                     <h2><span class="font-bold">Formulario de Quejas, <br> Sugerencias o Comentarios</span></h2>
                 </div>

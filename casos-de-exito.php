@@ -9,7 +9,8 @@
 <meta name="format-detection" content="telephone=no">
 <title>Crecimiento infantil por edad</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style-slider.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">>
 
 </head>
 
@@ -54,57 +55,89 @@
                     <h2><span class="font-bold">@JuanPaZurita</span>, es un caso de éxito en Sequoia. <br> Conoce su historia:</h2>
                 </div>
             </div>
-            <p>video</p>
-            <div class="cuadros-crecimiento-2 ">
+            <div class="contenedor-video-2">
+                <div class="reproductor-rectangular" data-id="66cgRTMZr-A"></div>
+            </div>
+            <div class="cuadros-crecimiento-2 mt-2">
                 <div class="titulos-principal-casos-exito">
                     <h2><span class="font-bold">Camila (hija) e Irina (mamá)</span><br>"Me siento bien por que ya no soy la chaparrita<br> de la generación)..." ... <span class="font-blanquitas-curveadas"> Camila</span></h2>
                 </div>
             </div>
-            <p>video</p>
-            <div class="cuadros-crecimiento-2 ">
+            <div class="contenedor-video-2">
+                <div class="reproductor-rectangular" data-id="MUut6S7fTvQ"></div>
+            </div>
+            <div class="cuadros-crecimiento-2 mt-2">
                 <div class="titulos-principal-casos-exito">
                     <h2><span class="font-bold">Said (hijo) y Martha (mamá)</span><br>"Tenía 13 años, estaba en la escuela y no tenía la<br> misma estatura que mis amigos..." ... <span class="font-blanquitas-curveadas"> Said</span></h2>
                 </div>
             </div>
-            <p>video</p>
-            <div class="cuadros-crecimiento-2 ">
+            <div class="contenedor-video-2">
+                <div class="reproductor-rectangular" data-id="5Hk9LFjO0G8"></div>
+            </div>
+            <div class="cuadros-crecimiento-2 mt-2">
                 <div class="titulos-principal-casos-exito">
                     <h2><span class="font-bold">Nayeli (mama) y Jonathan (hijo)</span><br>"Yo veía que mi niño era como muy<br> bajito, siempre iba hasta adelante de la<br> formación..." ... <span class="font-blanquitas-curveadas"> Nayeli</span></h2>
                 </div>
             </div>
-            <p>video</p>
-            <div class="cuadros-crecimiento-2 ">
+            <div class="contenedor-video-2">
+                <div class="reproductor-rectangular" data-id="oqgU2a5-_2g"></div>
+            </div>
+            <div class="cuadros-crecimiento-2 mt-2 ">
                 <div class="titulos-principal-casos-exito">
                     <h2><span class="font-bold">Guillermo (ex paciente)</span><br>"Yo era de estatura baja cuando era chico,<br> mis amigos me molestaban porque era<br> el más chaparrito..." </h2>
                 </div>
             </div>
-            <p>video</p>
-            <div class="cuadros-crecimiento-2 ">
+            <div class="contenedor-video mt-2">
+                <div class="reproductor" data-id="JQM3tThaJvg"></div>
+            </div>
+            <div class="cuadros-crecimiento-2 mt-2">
                 <div class="titulos-principal-casos-exito">
                     <h2><span class="font-bold">Franco (ex paciente)</span><br>"Yo tenía 10 años y fue cuando mis papás<br> se empezarón a preocupar porque.." </h2>
                 </div>
             </div>
-            <p>video</p>
-            <div class="cuadros-crecimiento-2 ">
+            <div class="contenedor-video mt-2">
+                <div class="reproductor" data-id="C6hNGsIi27s"></div>
+            </div>
+            <div class="cuadros-crecimiento-2 mt-2 ">
                 <div class="titulos-principal-casos-exito">
                     <h2><span class="font-bold">MARÍA</span><br>"Mientras que las otras niñas habían<br> aumentado su estatura y progresando <br>a través de la pubertad en la..." </h2>
                 </div>
             </div>
-            <p>Imagen</p>
+            <div class="tamaño-img  ph-1">
+                <img src="/img/banners/IMAGENES-TESTIMONIO-niña-1.webp" alt="imagen de María">
+            </div>
             <p>Boton de saber mas</p>
             <div class="cuadros-crecimiento-2 ">
                 <div class="titulos-principal-casos-exito">
                     <h2><span class="font-bold">FERNANDA</span><br>"Empecé mi pubertad cuando tenía<br> solo 7 años..." </h2>
                 </div>
             </div>
-            <p>Imagen</p>
-            <p>Boton de saber mas</p>
+            <div class="tamaño-img  ph-1">
+                <img src="/img/banners/IMAGENES-TESTIMONIO-niña-2.webp" alt="imagen de Fernanda">
+            </div>
+
+            <div class="body-container ph-2">
+                <div class="container">
+                    <div class="accordion">
+                        <div class="accordion-item">
+                            <button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">Saber más..</span></button>
+                            <div class="accordion-content">
+                                <p>La genética es determinante en la estatura que alcanzan los hijos, pero conseguir la talla esperada depende también de otros factores. La manera correcta de saber si un niño tiene un crecimiento infantil adecuado es a través
+                                    del seguimiento continuo por parte del médico pediatra especialista. La frecuencia de estas valoraciones dependerá de la edad del niño. De esta manera, si en algún momento el niño abandona los valores de la talla considerados
+                                    normales de acuerdo a su edad y sexo, se puede prevenir a tiempo algún problema del crecimiento.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="cuadros-crecimiento-2 ">
                 <div class="titulos-principal-casos-exito">
                     <h2><span class="font-bold">GERARDO</span><br>"¿EL PORTERO ES BAJITO?<br> Siempre ha sido la historia de mi vida..." </h2>
                 </div>
             </div>
-            <p>Imagen</p>
+            <div class="tamaño-img  ph-1">
+                <img src="/img/banners/IMAGENES-TESTIMONIO-niño-3.webp" alt="imagen de Gerardo">
+            </div>
             <p>Boton de saber mas</p>
             <div class="ocultar-media">
                 <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
