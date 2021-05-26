@@ -765,6 +765,17 @@ textarea {
     line-height: 1.5
 }
 
+.titulos-principal-casos-exito h2 {
+    max-width: 90%;
+    text-align: center;
+    font-weight: 500;
+    color: #fff;
+    padding: 20px 0 20px 0;
+    margin: 0 auto;
+    font-size: calc(12px + .8vw);
+    line-height: 1.5
+}
+
 .titulos-azules {
     font-size: calc(10px + .5vw);
     color: #00235d;
@@ -2026,6 +2037,10 @@ th {
 
 .margin-negativo-top-18 {
     margin-top: -18px
+}
+
+.margin-negativo-top-18-5 {
+    margin-top: calc(-2.5em + 1.5vw);
 }
 
 .margin-negativo-top-35 {
