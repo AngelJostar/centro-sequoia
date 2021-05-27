@@ -9,8 +9,8 @@
 <meta name="format-detection" content="telephone=no">
 <title>Casos de éxito</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="/css/style-slider.css" media="all">
-<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">>
+<link rel="stylesheet" rel="preload" href="/css/style-casos-de-exito.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
@@ -106,7 +106,17 @@
             <div class="tamaño-img  ph-1">
                 <img src="/img/banners/IMAGENES-TESTIMONIO-niña-1.webp" alt="imagen de María">
             </div>
-            <p>Boton de saber mas</p>
+            <div class="body-container ph-2">
+                    <div class="accordion">
+                        <button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">Saber más...</span></button>
+                            <div class="accordion-content">
+                                <p>“Mientras que las otras niñas habían aumentado de estatura y progresado a través de la pubertad en la secundaria, yo había permanecido sin cambios. 
+                                No tuve un estirón de crecimiento durante el verano. 
+                                La brecha entre las otras niñas y yo se ensanchó, y me sentí atrapada en una carretera desierta mientras ellas pasaban zumbando a mi lado en autos rápidos, mirándome por el espejo retrovisor. 
+                                Después de molestar a mis padres por mi retraso en el crecimiento, mi pediatra me recomendó una cita con un endocrinólogo de Sequoia. Ahora, a los 23 años agradezco todo el trabajo que el equipo de Sequoia hizo por mi.” – MARÍA</p>
+                            </div>
+                    </div>
+            </div>
             <div class="cuadros-crecimiento-2 ">
                 <div class="titulos-principal-casos-exito">
                     <h2><span class="font-bold">FERNANDA</span><br>"Empecé mi pubertad cuando tenía<br> solo 7 años..." </h2>
@@ -117,18 +127,13 @@
             </div>
 
             <div class="body-container ph-2">
-                <div class="container">
                     <div class="accordion">
-                        <div class="accordion-item">
-                            <button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">Saber más..</span></button>
+                        <button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">Saber más...</span></button>
                             <div class="accordion-content">
-                                <p>La genética es determinante en la estatura que alcanzan los hijos, pero conseguir la talla esperada depende también de otros factores. La manera correcta de saber si un niño tiene un crecimiento infantil adecuado es a través
-                                    del seguimiento continuo por parte del médico pediatra especialista. La frecuencia de estas valoraciones dependerá de la edad del niño. De esta manera, si en algún momento el niño abandona los valores de la talla considerados
-                                    normales de acuerdo a su edad y sexo, se puede prevenir a tiempo algún problema del crecimiento.</p>
+                                <p>“Empecé mi pubertad cuando tenía solo 7 años” – FERNANDA</p>
+                                <p>“Como su mamá, yo tenia un manojo de nervios, preocupada por cómo mi hija manejaría los cambios físicos que se le avecinan a una edad tan temprana.” - ARACELI</p>
                             </div>
-                        </div>
                     </div>
-                </div>
             </div>
             <div class="cuadros-crecimiento-2 ">
                 <div class="titulos-principal-casos-exito">
@@ -138,7 +143,16 @@
             <div class="tamaño-img  ph-1">
                 <img src="/img/banners/IMAGENES-TESTIMONIO-niño-3.webp" alt="imagen de Gerardo">
             </div>
-            <p>Boton de saber mas</p>
+            <div class="body-container ph-2">
+                    <div class="accordion">
+                        <button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">Saber más...</span></button>
+                            <div class="accordion-content">
+                                <p>“¿EL PORTERO ES BAJITO?" <br> 
+                                    Siempre ha sido la historia de mi vida.</p>
+                                <p>Si pudiera darle un consejo a otro chavo como yo, podría decirles que no dejen de intentarlo ... averigüen qué está pasando ... manténganse decididos, de verdad. Existen centros como Sequoia que pueden ayudarlos a crecer más". - GERARDO</p>
+                            </div>
+                    </div>
+            </div>
             <div class="ocultar-media">
                 <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
