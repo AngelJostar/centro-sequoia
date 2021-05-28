@@ -104,7 +104,7 @@
                 </div>
             </div>
             <div class="tamaño-img  ph-1">
-                <img src="/img/banners/IMAGENES-TESTIMONIO-niña-1.webp" alt="imagen de María">
+                <img src="/img/banners/IMAGENES-TESTIMONIO-nina-1.webp" alt="imagen de María">
             </div>
             <div class="body-container ph-2">
                     <div class="accordion">
@@ -123,7 +123,7 @@
                 </div>
             </div>
             <div class="tamaño-img  ph-1">
-                <img src="/img/banners/IMAGENES-TESTIMONIO-niña-2.webp" alt="imagen de Fernanda">
+                <img src="/img/banners/IMAGENES-TESTIMONIO-nina-2.webp" alt="imagen de Fernanda">
             </div>
 
             <div class="body-container ph-2">
@@ -141,7 +141,7 @@
                 </div>
             </div>
             <div class="tamaño-img  ph-1">
-                <img src="/img/banners/IMAGENES-TESTIMONIO-niño-3.webp" alt="imagen de Gerardo">
+                <img src="/img/banners/IMAGENES-TESTIMONIO-nino-3.webp" alt="imagen de Gerardo">
             </div>
             <div class="body-container ph-2">
                     <div class="accordion">
