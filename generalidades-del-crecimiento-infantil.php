@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Generalidades del crecimiento infantil</title>
+<meta name="description" content="Somos los mejores especialistas de crecimiento en niños. Le presentamos toda la información necesaria para entender a fondo el crecimiento en niños.">
+<title>Crecimiento en niños - Especialista endocrinólogo pediatra</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

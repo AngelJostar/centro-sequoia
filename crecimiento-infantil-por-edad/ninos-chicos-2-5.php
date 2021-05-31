@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Niños Chicos 2-5</title>
+<meta name="description" content="Estatura de un niño de 2 años - Estatura de un niño de 3 años - Estatura de un niño de 4 años - Estatura de un niño de 5 años.">
+<title>Estatura de un niño de 5 años (Estatura en niños de 2 a 5 años)</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

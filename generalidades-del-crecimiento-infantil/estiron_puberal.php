@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Estiron puberal</title>
+<meta name="description" content="El estirón puberal es un cambio brusco de la velocidad de crecimiento, que muestra diferencias en uno y otro sexo, tanto en su cronología como en su intensidad.">
+<title>Estirón puberal en adolecentes - cambios en adolecentes</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

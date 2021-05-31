@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Página de lading CDMX v3">
-<title>Contacto CDMX v3</title>
+<meta name="description" content="Contacto Centro Sequoia Colonia del Valle, CDMX, Ciudad de México. Endocrinólogo Pediatra especialista en crecimiento de adolecentes y niños">
+<title>Contacto Centro Sequoia - CDMX Del Valle - 3 - Info crecimiento</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

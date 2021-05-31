@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Trabajo</title>
+<meta name="description" content="Se considera que los hombres y mujeres más altos son más dominantes e inteligentes. Se estima que una persona mas alta podría ganar mas ingreso económico.">
+<title>Importancia de ser mas alto - trabajo</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

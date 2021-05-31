@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Sindromes que afectan el crecimiento</title>
+<meta name="description" content="La velocidad de crecimiento de los niños varia, si n ose supervisa de cerca el crecimiento de los niños, es posible que no se detecten síndromes específicos.">
+<title>Síndromes de crecimiento - Pediatra endocrinólogo especialista</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

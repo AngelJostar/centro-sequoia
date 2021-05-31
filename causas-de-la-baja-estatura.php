@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Causas de la baja estatura</title>
+<meta name="description" content="Un crecimiento en niños y niñas mas lento de lo normal puede ser señal de un problema de salud importante.">
+<title>¿Porqué mi hijo no crece ni engorda? - Causas de la baja estatura</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

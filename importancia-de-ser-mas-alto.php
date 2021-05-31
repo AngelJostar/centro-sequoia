@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Importancia de ser más alto</title>
+<meta name="description" content="Ser chaparrito afecta desde la vida empresarial hasta las relaciones en pareja. Ser más alto conduce a una imagen más exitosa y efectiva.">
+<title>Importancia de ser mas alto - Endocrinólogo pediatra</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

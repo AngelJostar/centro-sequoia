@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Página de contacto MTY v3">
-<title>Contacto Monterrey v3</title>
+<meta name="description" content="Contacto Centro Sequoia MTY, Monterrey Nuevo León, San Pedro Garza Del Valle. Endocrinólogo Pediatra especialista en crecimiento de adolecentes y niños">
+<title>Contacto Centro Sequoia - Monterrey - 3- Info crecimiento</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

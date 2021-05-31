@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Baja estatura idiopatica</title>
+<meta name="description" content="Se denomina baja estatura idiopático cuando la talla de un niño o niña es inferior a -2 desviaciones estándar para su grupo de edad y sexo.  Sucede en el 70% - 80% de los casos.">
+<title>Baja estatura idiopática - Médicos especialistas en baja estatura</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

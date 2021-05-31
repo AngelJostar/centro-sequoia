@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Adolecentes 12-16</title>
+<meta name="description" content="Durante la adolescencia, las personas jóvenes atraviesan por muchos cambios a medida que pasan a la madurez física.">
+<title>Cambios en adolecentes - Crecimiento en la adolescencia</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

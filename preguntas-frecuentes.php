@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Crecimiento - especialistas-en-crecimiento</title>
+<meta name="description" content="¿Porqué mi hijo no crece? ¿Cómo saber si mi hijo esta creciendo bien? ¿En que consiste el tratamiento de talla baja? ¿Qué es hormona de crecimiento? ">
+<title>Preguntas frecuentes - ¿Porqué mi hijo no crece?</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/style-slider.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">

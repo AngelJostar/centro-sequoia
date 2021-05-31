@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Contacto Monterrey</title>
+<meta name="description" content="Contacto Centro Sequoia MTY, Monterrey Nuevo León, San Pedro Garza Del Valle. En Centro Sequoia lograremos que alcance una mayor estatura">
+<title>Contacto Centro Sequoia - Monterrey</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

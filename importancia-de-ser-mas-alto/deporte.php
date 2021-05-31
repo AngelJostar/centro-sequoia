@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Deporte</title>
+<meta name="description" content="Es una gran ventaja ser mas alto para casi todos los deportes. Esto es natural para deportes como el futbol, basquetbol, béisbol, tenis, taekwondo, etc.">
+<title>Importancia de ser mas alto - deporte</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

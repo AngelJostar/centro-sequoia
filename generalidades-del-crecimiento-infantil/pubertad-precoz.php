@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Pubertad Precoz o Atrasada</title>
+<meta name="description" content="Endocrinólogo pediatra especialista en pubertad precoz. La pubertad precoz es la maduración sexual que comienza antes de los 9 años en niños y antes de los 8 años en niñas. ">
+<title>Pubertad precoz y pubertad atrasada - Endocrinólogo pediatra</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

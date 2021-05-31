@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Edad Ósea</title>
+<meta name="description" content="La edad ósea radiológica muestra la maduración del esqueleto en un momento dado. No necesariamente tiene que coincidir con la edad cronológica del niño.">
+<title>Edad ósea radiológica en niños y niñas - Diagnostico de talla baja</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

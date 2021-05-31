@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Baja estatura familiar</title>
+<meta name="description" content="Los trastornos del crecimiento pueden tener muchas causas, entre ellas la Estatura baja familiar. Esto significa que un niño es parte del patrón de altura baja heredado de su familia.">
+<title>Baja estatura familiar - Médicos especialistas en baja estatura</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

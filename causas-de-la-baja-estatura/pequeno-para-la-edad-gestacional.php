@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Pequeño para la edad gestacional</title>
+<meta name="description" content="Los recién nacidos cuyo percentil esta por debajo del percentil 10 para la edad gestacional se clasifican como pequeños para edad gestacional.">
+<title>Pequeño para edad gestacional - Endocrinólogo pediatra</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

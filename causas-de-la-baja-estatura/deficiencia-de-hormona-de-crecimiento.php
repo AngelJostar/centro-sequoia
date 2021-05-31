@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Deficiecia de hormona de crecimiento</title>
+<meta name="description" content="La deficiencia de hormona de crecimiento es una afección en la que el cuerpo no produce suficiente hormona del crecimiento.">
+<title>Deficiencia de hormona de crecimiento - Endocrinólogos pediatras</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

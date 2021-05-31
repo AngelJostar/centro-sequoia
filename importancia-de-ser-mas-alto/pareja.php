@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Pareja</title>
+<meta name="description" content="Las personas altas suelen ser más atractivas para hombres y mujeres. Esto causa un problema de autoestima en las personas de baja estatura.">
+<title>Importancia de ser mas alto - relación de pareja</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Contacto Ciudad de México</title>
+<meta name="description" content="Contacto Centro Sequoia Colonia del Valle, CDMX, Ciudad de México. En Centro Sequoia lograremos que alcance una mayor estatura.">
+<title>Contacto Centro Sequoia - CDMX Del Valle</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

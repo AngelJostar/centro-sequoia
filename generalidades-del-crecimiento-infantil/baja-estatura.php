@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Baja Estatura</title>
+<meta name="description" content="La baja estatura es una estatura que es inferior a la de casi todos los demás niños de la misma edad y sexo, es un motivo de consulta médica frecuente.">
+<title>Baja estatura de niños y niñas - Baja estatura de adolecentes</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

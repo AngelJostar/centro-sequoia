@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Página de lading GDL v2">
-<title>Contacto Guadalajara v2</title>
+<meta name="description" content="Contacto Centro Sequoia GDJ, Guadalajara Jalisco, Colonia Providencia. En Centro Sequoia somos especialistas en crecimiento infantil">
+<title>Contacto Centro Sequoia - Guadalajara - 2 - video</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

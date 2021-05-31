@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Padecimientos y Enfermedades Cronicas que Afectan el Crecimiento</title>
+<meta name="description" content="El deterioro del crecimiento de los niños aparece en numerosos procesos crónicos. La fibrosis quística, la enfermedad de Crohn y la artritis juvenil son frecuentes en la infancia.">
+<title>¿Cómo se llama la enfermedad que afecta el crecimiento?</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

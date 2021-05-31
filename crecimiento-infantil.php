@@ -7,7 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Crecimiento infantil</title>
+<meta name="description" content="En Centro Sequoia te presentamos  los temas más importantes relacionados con el crecimiento de tu hijo y el crecimiento de tu hija.">
+<title>Crecimiento infantil - Especialistas en crecimiento infantil</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
