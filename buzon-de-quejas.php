@@ -50,15 +50,19 @@
                     <h2><span class="font-bold">Formulario de Quejas, <br> Sugerencias o Comentarios</span></h2>
                 </div>
                 <div class = "t-izquierda tercer-p">
-                    <p>Nombre (opcional)</p>
-                    <input type="text" name="nombreB" placeholder="Nombre" required>
+                    <p>Nombre</p>
+                    <input type="text" name="nombreB" placeholder="Nombre" >
                 </div>
                 <div class = "t-izquierda tercer-p">
-                    <p>Correo Electrónico (opcional)</p>
-                    <input type="email" name="correoB" placeholder="Correo" required>
+                    <p>Nombre del Paciente *</p>
+                    <input type="text" name="nombrePaciente" placeholder="Nombre del paciente" required>
                 </div>
                 <div class = "t-izquierda tercer-p">
-                    <p>Teléfono (opcional)</p>
+                    <p>Correo Electrónico </p>
+                    <input type="email" name="correoB" placeholder="Correo">
+                </div>
+                <div class = "t-izquierda tercer-p">
+                    <p>Teléfono </p>
                     <input type="tel" name="telefonoB" placeholder="Teléfono" >
                 </div>
                 <div class = "t-izquierda tercer-p">
@@ -71,7 +75,7 @@
                     </select>
                 </div>
                 <div class = "t-izquierda tercer-p">
-                    <p>MENSAJE</p>
+                    <p>MENSAJE *</p>
                     <textarea name="mensajeB" placeholder="Escriba aqui su mensaje" required></textarea>
                 </div>
                 <div class="t-izquierda tercer-p">
