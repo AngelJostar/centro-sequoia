@@ -129,7 +129,7 @@
                 <a href="/tablas/grasas.php" target="_blank"><button class="boton-e boton-esp">GRASAS</button></a>
             </div>
             <div class="centrar-texto texto-boton-esp pb-2">
-                <a href="/tablas/azucares.php" target="_blank"><button class="boton-e boton-esp">ÁZUCARES</button></a>
+                <a href="/tablas/azucares.php" target="_blank"><button class="boton-e boton-esp">AZÚCARES</button></a>
             </div>
             <div class="centrar-texto texto-boton-esp pb-2">
                 <a href="/tablas/cereales-con-grasa.php" target="_blank"><button class="boton-e boton-esp">CEREALES CON GRASA</button></a>

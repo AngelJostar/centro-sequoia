@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="¿Qué es un endocrinólogo pediatra? El endocrinólogo pediatra es un medico que estudio pediatría y además realiza una sub especialidad medica en endocrinología pediátrica.">
-<title>Endocrinólogo pediatra - Especialistas en endocrinología pediátrica</title>
+<meta name="description" content="¿Qué es un endocrinólogo pediatra? El endocrinólogo pediatra es un médico que estudió pediatría y además realiza una subespecialidad médica en endocrinología pediátrica.">
+<title>Endocrinólogo pediatra - Médicos especialistas en crecimiento</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
