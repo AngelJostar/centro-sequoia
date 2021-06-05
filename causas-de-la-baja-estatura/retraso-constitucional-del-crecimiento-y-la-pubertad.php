@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="El retraso constitucional del crecimiento y de la pubertad (RCCP) es una condición caracterizada por baja estatura y maduración esquelética retrasada, en niños sanos.">
+<meta name="description" content="El retraso constitucional del crecimiento y la pubertad (RCCP) es una condición caracterizada por baja estatura y maduración esquelética retrasada, en niños sanos.">
 <title>Pubertad atrasada - Especialistas endocrinólogos pediatras</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
