@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta name="description" content="En Centro Sequoia diagnosticaremos las causas por las que tu hijo no crece correctamente y lograremos que alcance una mayor estatura.">
-<title>Contacto - Centro Sequoia - Crecimiento en niños</title>
+<title>Contact - Centro Sequoia - Crecimiento en niños</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

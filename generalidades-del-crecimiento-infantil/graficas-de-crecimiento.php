@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta name="description" content="Las graficas de crecimiento (o curvas de crecimiento) y los percentiles de crecimiento se elaboran con las mediciones de amplios grupos de niños de distintas edades.">
-<title>Graficas de crecimiento y percentiles de crecimiento - Curvas de crecimiento</title>
+<title>Gráficas y percentiles de crecimiento - Curvas de crecimiento</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

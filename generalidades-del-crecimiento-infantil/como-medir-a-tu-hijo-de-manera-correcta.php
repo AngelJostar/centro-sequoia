@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta name="description" content="Al medir la estatura y peso se puede saber si tu hijo o hija esta creciendo bien y detectar a tiempo un estancamiento en su crecimiento.">
-<title>¿Cómo se mide la talla de un niño o niña? Medir estatura de tu hijo</title>
+<title>¿Cómo medir la altura de tu hijo o hija de manera correcta?</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

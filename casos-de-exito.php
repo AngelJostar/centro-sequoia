@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Casos de éxito</title>
+<title>Casos de éxito en pacientes de Sequoia</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/style-casos-de-exito.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
