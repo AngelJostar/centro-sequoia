@@ -123,10 +123,10 @@
                     </p>
                 </div>
                 <div class="tamaño-img ocultar-media">
-                    <a href="/importancia-de-ser-mas-alto.php"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
+                    <a href="/importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="/importancia-de-ser-mas-alto.php"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
+                    <a href="/importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
                 </div>
             </div>
 

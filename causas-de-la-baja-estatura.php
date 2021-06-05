@@ -110,7 +110,7 @@
                         <a href="/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad"><button class="boton-e boton-esp">Retraso del crecimiento y pubertad</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="/causas-de-la-baja-estatura/nutricion-malnutricion-y-crecimiento"><button class="boton-e boton-esp">Malnutrición y malabsorción </button></a>
+                        <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><button class="boton-e boton-esp">Malnutrición y malabsorción </button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
                         <a href="/causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional"><button class="boton-e boton-esp">Niños pequeños al nacer</button></a>
@@ -139,7 +139,7 @@
                         <a href="/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad"><button class="boton-e boton-esp">Retraso del crecimiento y pubertad</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="/causas-de-la-baja-estatura/nutricion-malnutricion-y-crecimiento"><button class="boton-e boton-esp">Malnutrición y malabsorción </button></a>
+                        <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><button class="boton-e boton-esp">Malnutrición y malabsorción </button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
                         <a href="/causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional"><button class="boton-e boton-esp">Niños pequeños al nacer</button></a>
