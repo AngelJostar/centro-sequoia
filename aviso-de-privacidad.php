@@ -7,6 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
+<meta name="description" content="El aviso de privacidad de Centro Sequoia basado en lo establecido en el Artículo 17, fracción II de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares es la Responsable del tratamiento de sus datos personales que se recaben en nuestras instalaciones (llamados en adelante Los Datos Personales).">
 <title>Aviso de Privacidad - Centro Sequoia</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">

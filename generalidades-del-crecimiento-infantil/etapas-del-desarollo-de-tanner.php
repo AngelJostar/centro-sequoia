@@ -7,6 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
+<meta name="description" content="Los autores Tanner y Marshall describieron los “estadios de Tanner” para evaluar la progresión de los patrones normales de pubertad. Es una clasificación que evalúa el grado de desarrollo puberal para ambos sexos (etapas del desarrollo de Tanner), clasificándose en 5 estadios o grados lo que nos permite tener un lenguaje universal común siendo ampliamente aceptada en la práctica clínica.">
 <title>Etapas del desarrollo de Tanner</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">

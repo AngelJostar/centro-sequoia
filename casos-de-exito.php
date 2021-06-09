@@ -7,6 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
+<meta name="description" content="Es útil conocer casos de otras familias que pasan por una situación parecida a la suya; cuando su hij@ no esta creciendo como quisiéra o como debería de estar creciendo según su edad y su genética.">
 <title>Casos de éxito en pacientes de Sequoia</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/style-casos-de-exito.css" media="all">

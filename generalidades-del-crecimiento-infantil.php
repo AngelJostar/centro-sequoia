@@ -96,7 +96,7 @@
                         <a href="/generalidades-del-crecimiento-infantil/talla-blanco-familiar"><button class="boton-e boton-esp">Talla genética o blanco familiar</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tenner"><button class="boton-e boton-esp">Cambios físicos en niños y niñas</button></a>
+                        <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"><button class="boton-e boton-esp">Cambios físicos en niños y niñas</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
                         <a href="/generalidades-del-crecimiento-infantil/estiron-puberal"><button class="boton-e boton-esp">Estirón Puberal</button></a>
@@ -128,7 +128,7 @@
                         <a href="/generalidades-del-crecimiento-infantil/talla-blanco-familiar"><button class="boton-e boton-esp">Talla genética o<br>blanco familiar</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tenner"><button class="boton-e boton-esp">Cambios físicos en<br>niños y niñas</button></a>
+                        <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"><button class="boton-e boton-esp">Cambios físicos en<br>niños y niñas</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
                         <a href="/generalidades-del-crecimiento-infantil/estiron-puberal"><button class="boton-e boton-esp">Estirón Puberal</button></a>
