@@ -11,6 +11,7 @@
 <title>Pubertad precoz y pubertad atrasada - Endocrinólogo pediatra</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style-casos-de-exito.css" media="all">
 
 </head>
 
@@ -30,7 +31,7 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1 style="font-size: calc(1.2em + 1vw);"> <span class="font-bold">PUBERTAD PRECOZ O ATRASADA</h1>
+                    <h1 style="font-size: calc(1.2em + 1vw);"> <span class="font-bold">PUBERTAD PRECOZ</h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
@@ -62,6 +63,22 @@
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
+                    <h2><span class="font-bold"></span>Signos de pubertad precoz en NIÑAS</h2>
+                </div>
+            </div>
+            <div class="contenedor-video ph-2">
+                <div class="reproductor" data-id="dZ-KswHq4uA"></div>
+            </div>
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-2 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold"></span>Signos de pubertad precoz en NIÑOS</h2>
+                </div>
+            </div>
+            <div class="contenedor-video ph-2">
+                <div class="reproductor" data-id="IwH0DJnsoqs"></div>
+            </div>
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-2 ">
+                <div class="titulos-principal">
                     <h2><span class="font-bold">¿CÓMO AFECTA LA PUBERTAD<br>PRECOZ AL CRECIMIENTO?</span></h2>
                 </div>
             </div>
@@ -70,49 +87,140 @@
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
-                    <h2><span class="font-bold">CAUSAS</span></h2>
+                    <h2><span class="font-bold">Diagnóstico de pubertad precoz</span></h2>
                 </div>
             </div>
-            <div class="justificar-texto-85 centrar-texto pt-15">
-                <p>No hay ninguna causa específica para la pubertad precoz. Algunos casos se deben a cambios en el cerebro, problemas genéticos o ciertos tumores que secretan hormonas. Estas afecciones incluyen:</p>
+            <div class="justificar-texto-85 pt-15">
+                <p>Para diagnosticar la pubertad precoz, el médico:</p>       
             </div>
-            <div class="contenedor-85porciento">
+            <div class="contenedor-85porciento ">
                 <div class="justificar-texto-90-listas pb-25">
                     <ul>
-                        <li>Trastornos de los testículos, los ovarios o las glándulas suprarrenales</li>
-                        <li>Tumor del hipotálamo (hamartoma hipotalámico)</li>
-                        <li>Tumores que secretan una hormona llamada gonadotropina coriónica humana (GCH)</li>
+                        <li>Revisará la historia clínica del niño y de su familia</li>
+                        <li>Hará un examen físico</li>
+                        <li>Hará análisis de sangre para medir los niveles hormonales</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="justificar-texto-85 ">
+                <p>Las radiografías de las manos y muñecas también son importantes para diagnosticar la pubertad precoz en las niñas y los niños. Estas radiografías pueden ayudar al médico a determinar la edad de los huesos del niño o niña, lo cual muestra si los huesos están madurando muy rápido.</p>       
+            </div>
+            <div class="tamaño-img pt-15 pb-30">
+                <a href="/generalidades-del-crecimiento-infantil/edad-osea"><img src="/img/banners/Banner-Edad-osea-.webp" alt="graficas-de-crecimiento"></a>
+            </div> 
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">Tratamiento de pubertad precoz</span></h2>
+                </div>
+            </div>
+            <div class="justificar-texto-85 ">
+                <p>La meta principal del tratamiento es permitir que el niño crezca hasta tener la estatura normal de un adulto.</p>
+                <p>El tratamiento para la pubertad precoz depende de la causa. Sin embargo, en algunos casos, no hay una causa identificable para la pubertad precoz. En este caso, es posible que tu hijo no necesite tratamiento dependiendo de su edad y de la rapidez con que avance la pubertad. Es posible que el médico de tu hijo quiera vigilarlo durante varios meses para ver cómo se está desarrollando.</p>
+                <p>La mayoría de los niños con pubertad precoz, en la que no hay una enfermedad subyacente, se pueden tratar de manera eficaz con medicamentos. Este tratamiento, llamado "terapia con análogos de GnRH", suele consistir en una inyección mensual de un medicamento que retrasa el desarrollo y les da tiempo de poder alcanzar su estatura ideal de adulto.</p>
+            </div>
+            <div class="cuadros-crecimiento-2 ">
+                <div class="titulos-principal">
+                    <h2 style="padding-bottom: 0"><span>CASO DE ÉXITO DE PUBERTAD PRECOZ EN CENTRO SEQUOIA:</span></h2>
+                </div>
+                <div class="titulos-principal-casos-exito">
+                    <h2><span class="font-bold">FERNANDA</span><br>"Empecé mi pubertad cuando tenía<br> solo 7 años..." </h2>
+                </div>
+            </div>
+            <div class="tamaño-img  ph-1">
+                <img src="/img/banners/IMAGENES-TESTIMONIO-nina-2.webp" alt="imagen de Fernanda">
+            </div>
+            <div class="body-container ph-2">
+                    <div class="accordion">
+                        <button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">Saber más...</span></button>
+                            <div class="accordion-content">
+                                <p>“Empecé mi pubertad cuando tenía solo 7 años” – FERNANDA</p>
+                                <p>“Como su mamá, yo tenia un manojo de nervios, preocupada por cómo mi hija manejaría los cambios físicos que se le avecinan a una edad tan temprana.” - ARACELI</p>
+                            </div>
+                    </div>
+            </div>
+            <div class="justificar-texto-85 ">
+                <p>Los niños que comienzan la pubertad de manera temprana se pueden sentir diferentes a sus pares. Es posible que el sentirse diferente pueda causar problemas sociales y emocionales, incluyendo una en etapa de experimentación sexual temprana. Como padre, quizás tú también tengas problemas para lidiar con el desarrollo temprano de tu hijo o hija.</p>
+            </div>
+            <div class="ocultar-media">
+                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="tamaño-img mostrar-media ph-1">
+                <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-2 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold"></span></h2>
+                </div>
+            </div>
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-2 ">
+                <div class="titulos-principal">
+                    <h2><span>¿Cómo prepararte para la consulta con nuestros especialistas?</span></h2>
+                </div>
+            </div>
+            <div class="justificar-texto-85 ">
+                <p>A continuación incluimos información que te ayudará a
+                    prepararte para la consulta de tu hija o hijo en Centro
+                    Sequoia:</p>
+            </div>
+            <div class="contenedor-85porciento pb-25">
+                <div class="justificar-texto-85 centrar-texto ">
+                    <p class="font-bold">Lo que puedes hacer:</p>
+                </div>
+                <div class="justificar-texto-90-listas-numeradas justificar-texto-85 ">
+                    <ul>
+                        <li><span class="font-bold"> Ten en cuenta cualquier acción previa a la consulta. </span>Cuando programes la consulta, pregunta si hay algo que debas hacer con anticipación, como hacer estudios de laboratorio para llegar preparada con el medico.</li>
+                        <li><span class="font-bold"> Anota los síntomas de tu hijo,</span> aun los que parezcan no tener relación con el motivo de la consulta.</li>
+                        <li><span class="font-bold">Anata información personal clave,</span> como episodios de estrés importantes o cambios recientes en tu vida. </li>
+                        <li><span class="font-bold">Haz una lista de ls medicamentos,</span> las vitaminas o los suplementos que toma tu hijo.</li>
+                        <li><span class="font-bold">Haz una lista de las estaturas de los familiares,</span> en especial, si alguno de ellos es bajo en la adultez.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="contenedor-85porciento pb-25">
+                <div class="justificar-texto-85 centrar-texto ">
+                    <p class="font-bold">Qué puedes esperar de tu médico:</p>
+                </div>
+                <div class="justificar-texto-85">
+                    <p>Es probable que tu médico te haga varias preguntas sobre lo siguiente:</p>
+                </div>
+                <div class="justificar-texto-90-listas-numeradas justificar-texto-85">
+                    <ul>
+                        <li>La historia clínica de tu familia, particularmente la estatura de los familiares y antecedentes de trastornos endocrinos o tumores</li>
+                        <li>La edad que tenían los padres y los hermanos al desarrollar la pubertad</li>
                     </ul>
                 </div>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
-                    <h2><span class="font-bold">TIPOS DE PUBERTAD PRECOZ</span></h2>
+                    <h2><span>Preguntas que puedes hacerle a tu medico en Centro de Sequoia</span></h2>
                 </div>
             </div>
-            <div class="titulos-azules pt-15">
-                <h2><span class="font-bold">PUBERTAD PRECOZ CENTRAL</span></h2>
+            <div class="contenedor-85porciento pb-25 ">
+                <div class="justificar-texto-85">
+                    <p>Haz una lista de preguntas que quieras hacernos de tu
+                        hija a fin de que te ayude a aprovechar al máximo el
+                        tiempo con nosotros. En el caso de la pubertad precoz,
+                        algunas preguntas básicas para hacerle a nuestro equipo
+                        medico son las siguientes:</p>
+                </div>
+                <div class="justificar-texto-90-listas-numeradas justificar-texto-85">
+                    <ul>
+                        <li>¿Cuál puede ser la causa de los síntomas o de la afección de mi hija?</li>
+                        <li>¿Hay otras causas posibles para los síntomas de mi hija?</li>
+                        <li>¿Qué pruebas se debe realizar mi hija?</li>
+                        <li>¿Esta situación suele ser temporal o crónica?</li>
+                        <li>¿Cuál es el mejor tratamiento?</li>
+                        <li>¿Cuándo debería comenzar el tratamiento y cuánto tiempo durará?</li>
+                        <li>¿Cuáles son las alternativas al enfoque primario que me indica?</li>
+                        <li>¿Hay restricciones que mi hija deba cumplir?</li>
+                    </ul>
+                </div>
+                <div class="justificar-texto-85">
+                    <p>No dudes en hacer otras preguntas que puedas tener.</p>
+                </div>
             </div>
-            <div class="justificar-texto-85 centrar-texto">
-                <p>Se da la liberación temprana de determinadas hormonas sexuales (gonadotropinas) por parte de la hipófisis. Estas hormonas hacen que los ovarios o los testículos (las glándulas sexuales) maduren y aumenten de tamaño. Después de completar su maduración, las glándulas sexuales comienzan a su vez a secretar otras hormonas sexuales, como los estrógenos o la testosterona, lo que desencadena la pubertad. Los cambios físicos suelen ser los de la pubertad normal para un niño del mismo sexo, pero comienzan a una edad más temprana.</p>
-            </div>
-            <div class="titulos-azules pt-15">
-                <h2><span class="font-bold">PUBERTAD PRECOZ PERIFÉRICA</span></h2>
-            </div>
-            <div class="justificar-texto-85 centrar-texto">
-                <p>En esta ocurre la liberación de estrógenos o de testosterona (y de las hormonas similares a la testosterona denominadas andrógenos) no es estimulada por las gonadotropinas de la hipófisis. Al contrario, los elevados niveles de andrógenos o de testosterona aparecen como consecuencia de un tumor u otra anomalía en la glándula suprarrenal o en un testículo o un ovario inmaduros. Los tumores y las anomalías que producen estrógenos ocasionan el crecimiento del tejido mamario en los niños y en las niñas, mientras que los que producen andrógenos ocasionan el crecimiento del vello púbico y axilar, el olor corporal de los adultos, y el acné en los niños y en las niñas y, en los niños, el aumento del tamaño del pene, pero no de los testículos.</p>
-            </div>
-            <div class="titulos-azules pt-15">
-                <h2><span class="font-bold">PUBERTAD INCOMPLETA</span></h2>
-            </div>
-            <div class="justificar-texto-85 centrar-texto">
-                <p>Normalmente tienen desarrollo mamario prematuro (telarca) o desarrollo del vello púbico prematuro (adrenarquia) sin ninguno de los otros cambios de la pubertad, como el crecimiento de los testículos o de los ovarios, la menstruación, o un estirón. En algunas niñas aparece desarrollo mamario durante los 2 primeros años de vida, pero no presentan concentraciones de hormonas elevadas. Los niños con el desarrollo del vello púbico temprano tienen a menudo un olor corporal de adulto y acné. Los cambios progresan lentamente.</p>
-            </div>
-            <div class="justificar-texto-85 centrar-texto font-bold">
-                <p>Si tu hijo presenta signos de pubertad precoz es importante acudir lo más pronto posible con los especialistas de SEQUOIA para atender de manera inmediata este padecimiento.<br>¡Ayuda a tu hijo a alcanzar una mayor estatura!</p>
-            </div>
-            <div class="tamaño-img pt-15 pb-30">
-                <a href="/generalidades-del-crecimiento-infantil/talla-blanco-familiar"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Talla-Familiar-Genertica.webp" alt="graficas-de-crecimiento"></a>
+            <div class="tamaño-img pt-15 ">
+                <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"><img src="/img/banners/Banner-Cambios-Fisicos.webp" alt="Banner-Cambios-Fisicos"></a>
             </div> 
 
         </div>
