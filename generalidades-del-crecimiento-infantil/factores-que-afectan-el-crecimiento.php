@@ -131,8 +131,9 @@
                 <p>En cuanto al sexo generalmente las niñas miden menos que los niños, la raza es un factor determinante en el crecimiento de un niño debido al estilo de vida que asume en el lugar en el que nace, crece y se desarrolla.</p>
             </div>
             <div class="tamaño-img">
-                <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Deficiencia-de-Hormano-del-Crecimiento.webp" alt="contacto crecimiento"></a>
+                <a href="/generalidades-del-crecimiento-infantil/como-medir-a-tu-hijo-de-manera-correcta"><img src="/img/banners/BANNER-Como-medir-a-tu-hijo-de-manera-correcta.webp" alt="contacto crecimiento"></a>
             </div>
+
             <div class="ocultar-media">
                 <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto crecimiento"></a>
             </div>

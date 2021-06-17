@@ -137,7 +137,7 @@
                 <img src="/img/generalidades-del-crecimiento-infantil/IMC-NINOS-2-A-20.webp" alt="graficas-de-crecimiento">
             </div>
             <div class="tamaño-img pt-15 pb-30">
-                <a href="/generalidades-del-crecimiento-infantil/edad-osea"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Edad-osea-.webp" alt="graficas-de-crecimiento"></a>
+                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="/img/causas-de-la-baja-estatura/Banner-Nutricion-y-Crecimiento-.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 

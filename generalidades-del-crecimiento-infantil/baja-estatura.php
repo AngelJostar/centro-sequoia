@@ -175,8 +175,9 @@
 
         </div>
         <div class="tamaño-img">
-            <a href="/generalidades-del-crecimiento-infantil/como-medir-a-tu-hijo-de-manera-correcta"><img src="/img/banners/BANNER-Como-medir-a-tu-hijo-de-manera-correcta.webp" alt="contacto crecimiento"></a>
+            <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"><img src="/img/banners/Banner-Graficas-de-Crecimiento.webp" alt="contacto crecimiento"></a>
         </div>
+        
 
         </div>
 
