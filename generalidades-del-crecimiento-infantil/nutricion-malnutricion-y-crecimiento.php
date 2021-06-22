@@ -144,7 +144,7 @@
                 <a href="/generalidades-del-crecimiento-infantil/edad-osea"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Edad-osea-.webp" alt="graficas-de-crecimiento"></a>
             </div>
             <div class="tamaño-img">
-                <a href="/causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional"><img src="/img/causas-de-la-baja-estatura/Banner-Pequeño-Edad-Gestacional.webp" alt="graficas-de-crecimiento"></a>
+                <a href="/causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional"><img src="/img/causas-de-la-baja-estatura/Banner-Pequeno-Edad-Gestacional.webp" alt="graficas-de-crecimiento"></a>
             </div>
             
         </div>
