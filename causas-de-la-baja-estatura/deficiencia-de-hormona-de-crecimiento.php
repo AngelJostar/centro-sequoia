@@ -90,7 +90,13 @@
                 </div>
             </div>
             <div class="tamaño-img pb-30">
-                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="/img/causas-de-la-baja-estatura/Banner-Nutricion-y-Crecimiento-.webp" alt="contacto crecimiento"></a>
+                <a href="/causas-de-la-baja-estatura/padecimientos-y-enfermedades-cronicas-que-afectan-el-crecimiento"><img src="/img/causas-baja/Banner-Padecimeintos-y-Enfermedades-Cronicas.webp" alt="contacto crecimiento"></a>
+               <!-- <div class="ocultar-media">
+                <a href="/crecimiento-infantil"><img src="/img/banners/Banner-mujer-y-nino.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="tamaño-img mostrar-media">
+                <a href="/crecimiento-infantil"><img src="/img/banners/estatura-crecer-crecimiento-infantil-1.webp" alt="contacto crecimiento"></a>
+            </div>-->
             </div>
             <div class="justificar-texto-90">
                 <h2><span class="font-bold ">¿CUÁL ES EL TRATAMIENTO PARA LA DEFICIENCIA DE LA HORMONA DE CRECIMIENTO EN LOS NIÑOS?</span></h2>

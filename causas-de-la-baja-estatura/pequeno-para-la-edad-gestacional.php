@@ -163,7 +163,8 @@
                 <p>Un lactante también puede tener retraso del crecimiento asimétrico y ser pequeño para la edad gestacional (PEG) si la madre es consumidora de opiáceos, cocaína, alcohol o tabaco durante el embarazo.</p>
             </div>
             <div class="tamaño-img pb-30">
-                <a href="/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad"><img src="/img/causas-de-la-baja-estatura/Banner-Retraso-constitucional-del-crecimiento-y-la-pubertad-.webp" alt="contacto crecimiento"></a>
+                <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><img src="/img/causas-baja/Banner-Deficiencia-de-Hormano-del-Crecimiento.webp" alt="contacto crecimiento"></a>
+                <!--<a href="/causas-de-la-baja-estatura/baja-estatura-familiar"><img src="/img/causas-de-la-baja-estatura/baja-estatura-familiar.webp" alt="contacto crecimiento"></a>-->
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 mt-2 ">
                 <div class="titulos-principal">

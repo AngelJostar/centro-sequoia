@@ -83,7 +83,7 @@
                 <P>Los cambios más fuertes generalmente se producen a los 12 o 18 meses de edad, en un período de semanas o meses. Los síntomas y su gravedad pueden variar bastante de un niño a otro.</P>
             </div>
             <div class="tamaño-img pt-15 pb-30">
-                <a href="/causas-de-la-baja-estatura/padecimientos-y-enfermedades-cronicas-que-afectan-el-crecimiento"><img src="/img/causas-baja/Banner-Padecimeintos-y-Enfermedades-Cronicas.webp" alt="contacto crecimiento"></a>
+                <a href="/causas-de-la-baja-estatura/baja-estatura-familiar"><img src="/img/causas-de-la-baja-estatura/baja-estatura-familiar.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
