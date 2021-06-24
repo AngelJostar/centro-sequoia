@@ -128,6 +128,119 @@
                 <div class="tamaño-img mostrar-media">
                     <a href="/importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
                 </div>
+
+                            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+            <div class="titulos-principal">
+            <h2><span class="font-bold">Endocrinólogo pediatra, lo que más quieres en las mejores manos</span></h2>
+            </div>
+            </div>
+             <div class="justificar-texto-85 justificar-derecha-texto  pt-1p">
+<p><style>
+  #masTexto{
+    display:none;
+  }
+  #myBtn{
+    display: inline-block;
+      margin-bottom: 0;
+      font-weight: 500;
+      text-align: center;
+      text-transform: uppercase;
+      vertical-align: middle;
+      touch-action: manipulation;
+      cursor: pointer;
+      background-image: none;
+      border: 1px solid transparent;
+      white-space: nowrap;
+      padding: 20px 30px;
+      font-size: 12px;
+      line-height: 2;
+      border-radius: 0;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      position: relative;
+      z-index: 1;
+      background-color: #000000 !important;
+      border: 1px solid #000000 !important;
+      color: #fff;
+      line-height: normal;
+}
+  </style>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">El </span><a href="https://centrosequoia.com.mx/" data-mce-fragment="1" data-mce-href="https://centrosequoia.com.mx/"><b data-mce-fragment="1">endocrinólogo pediatra</b></a><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> comprende cómo el crecimiento y el desarrollo influyen en los problemas endocrinos. Estos profesionales médicos altamente capacitados se especializan en el manejo de </span><b data-mce-fragment="1">las necesidades de salud únicas de niños y adolescentes</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> con </span><b data-mce-fragment="1">afecciones</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> endocrinas u </span><b data-mce-fragment="1">hormonales</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">, como problemas de tiroides, trastornos del crecimiento y problemas reproductivos.</span></p>
+<p style="text-align: center;"><span id="dots">... </span></p>
+<div id="masTexto">
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">&nbsp;</span></p>
+<div class="titulos-azules">
+<h3>¿Qué es un endocrinólogo infantil?</h3>
+</div>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">El </span><b data-mce-fragment="1">endocrinólogo pediatra</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> es un </span><b data-mce-fragment="1">especialista en hormonas</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> y en el tratamiento de los problemas glandulares asociados con el sistema endocrino que incluyen:</span></p>
+<ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Tiroides</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Paratiroides</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Páncreas</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Ovarios</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Testículos</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Hipotálamo</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Pituitaria</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Glándulas suprarrenales</span></li>
+</ul>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Cuando acudas a </span><b data-mce-fragment="1">tu primera cita</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> con el endocrinólogo pediatra para tu hijo será principalmente para obtener información. Nuestro profesional </span><b data-mce-fragment="1">revisará su historial médico</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> y te hará preguntas importantes sobre las condiciones médicas de tu familia. Tu hijo puede pasar por algunas </span><b data-mce-fragment="1">pruebas de diagnóstico, como análisis de sangre y radiografías.</b></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Una vez que se </span><b data-mce-fragment="1">establece un diagnóstico</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">, el médico y tú se reunirán para discutir el diagnóstico y los posibles tratamientos. Si tu hijo necesita ver a otro especialista, el médico hará la derivación en ese momento.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">&nbsp;</span></p>
+<div class="titulos-azules">
+<h3>¿Qué enfermedades trata el Endocrinólogo Pediatra?</h3>
+</div>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Algunas de las </span><b data-mce-fragment="1">afecciones de salud</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> tratadas por los médicos endocrinólogos pediatras son:&nbsp;</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Disfunción tiroidea que conlleva a desequilibrios en el desarrollo normal, así como diversos problemas con el metabolismo, la </span><b data-mce-fragment="1">frecuencia cardíaca, la energía</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">, la temperatura corporal y la digestión.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Trastornos del crecimiento y la pubertad en los que las hormonas que regulan el crecimiento o el inicio de la pubertad requieren regulación y tratamiento para que tu hijo alcance y mantenga sus </span><b data-mce-fragment="1">objetivos de desarrollo esperados, altura y peso.</b></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Disfunción de las paratiroides que </span><b data-mce-fragment="1">controla la forma en que el cuerpo absorbe el calcio</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> y entra al torrente sanguíneo y afecta la masa o densidad ósea.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">En </span><b data-mce-fragment="1">Centro Sequoia </b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">nos especializamos exclusivamente en Crecimiento infantil, somos un grupo formado por </span><b data-mce-fragment="1">Médicos Pediatras Endocrinólogos</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">, certificados por el Consejo Mexicano de Endocrinología A.C. En</span><b data-mce-fragment="1"> Centro Sequoia</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> diagnosticamos las causas por las que tu hijo no crece adecuadamente y lo ayudarán a alcanzar una mayor estatura.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">&nbsp;</span></p>
+<div class="titulos-azules">
+<h3>¿Por qué consultar a un Endrocrinólogo Pediatra?</h3>
+</div>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Como seres en crecimiento, los niños y adolescentes tienen </span><b data-mce-fragment="1">necesidades especiales principalmente relacionadas con el crecimiento y el desarrollo</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">. Además, sus requerimientos psicológicos son diferentes a los de los adultos.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Los problemas hormonales que afectan el crecimiento o el desarrollo sexual</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> pueden tener efectos significativos en el bienestar físico y emocional de un niño. Los </span><b data-mce-fragment="1">endocrinólogos pediátricos</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> son sensibles a estos problemas.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Un endocrinólogo pediátrico especialista en crecimiento atenderá a tu hijo en un entorno apropiado para niños y adolescentes. El personal de apoyo, que incluye</span><b data-mce-fragment="1"> endocrinólogos especialistas en crecimiento, enfermeras, psicólogos y nutricionistas</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">, está en sintonía con las necesidades de los niños y adolescentes.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Los niños con necesidades especiales necesitan que los endocrinólogos pediátricos </span><b data-mce-fragment="1">trabajen en estrecha colaboración con los pediatras de atención primaria</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> para brindar una atención integral y coordinada.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Los endocrinólogos pediátricos son especialistas y tienen mucha experiencia en el trato con niños y en </span><b data-mce-fragment="1">el tratamiento de niños con trastornos endocrinos y problemas hormonales</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">. Si tu pediatra sugiere que tu pequeño vea a un endocrinólogo pediatra, en las manos de </span><b data-mce-fragment="1">Centro Sequoia</b> <span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">recibirá la mejor atención posible.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">&nbsp;</span></p>
+<div class="titulos-azules">
+<h3>La endocrinología y la pubertad</h3>
+</div>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">La pubertad se conoce como el momento de la vida en el que </span><b data-mce-fragment="1">el cuerpo de los niños comienza a cambiar y desarrollarse</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> a un adulto joven. La pubertad es una etapa de desarrollo que define la vida de cada niño, tanto física como psicológicamente.&nbsp; Las niñas desarrollan senos y los niños comienzan a parecerse más a los hombres.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Esta etapa del desarrollo se caracteriza por una </span><b data-mce-fragment="1">mayor secreción de hormonas especiales</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> (hormonas gonadales) en la glándula pituitaria (una glándula con forma de guisante ubicada en la parte inferior de su cerebro).</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Estas hormonas </span><b data-mce-fragment="1">contribuyen al desarrollo de características sexuales secundarias</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> (crecimiento del cabello y de los senos) y a la aceleración de las funciones reproductivas. Dependiendo de si se trata de un niño o una niña, estas hormonas funcionan en diferentes partes del cuerpo.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Para un padre, descubrir que su hijo está entrando en la pubertad en etapa temprana puede ser alarmante. Sin embargo, las preocupaciones sobre </span><b data-mce-fragment="1">la normalidad del desarrollo puberal y los patrones menstruales</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> se encuentran entre las dudas más comunes que se plantean a todos los médicos que atienden a niños.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">¿Qué es la pubertad precoz? ¿Por qué está sucediendo? ¿Puede tu hijo realmente manejar los efectos tanto física como psicológicamente? Todas estas son preguntas e inquietudes válidas son las que un endocrinólogo del</span> <b data-mce-fragment="1">Centro Sequoia</b> <span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">puede responder.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">&nbsp;</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Si tú eres un padre y estás preocupado por la posibilidad de que </span><b data-mce-fragment="1">tu hijo no se esté desarrollando</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> o comenzando la pubertad cuando se supone o crees que debería hacerlo, programe una visita en </span><b data-mce-fragment="1">nuestro centro médico</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">. Nuestro </span><b data-mce-fragment="1">pediatra especialista en desarrollo </b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">sabe todo sobre la pubertad y puede ayudar a determinar si tu hijo se está desarrollando normalmente.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">&nbsp;</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Los </span><b data-mce-fragment="1">problemas hormonales</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> que afectan el crecimiento o el desarrollo sexual de un adolescente o un niño pueden tener efectos significativos en el bienestar físico y emocional del mismo. En </span><b data-mce-fragment="1">Centro Sequoia</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> somos sensibles a estos temas y entendemos a su hijo.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Nuestro equipo médico está conformado por, </span><b data-mce-fragment="1">médicos endocrinólogos pediatras,</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> enfermeras, </span><b data-mce-fragment="1">psicólogos y nutriólogos</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> estamos en sintonía con las necesidades de los niños y adolescentes que atendemos. Con el objetivo de lograr que todos nuestros pacientes consigan una mayor estatura.</span><a href="https://centrosequoia.com.mx/contact/" data-mce-fragment="1" data-mce-href="https://centrosequoia.com.mx/contact/"> <b data-mce-fragment="1">¡Contáctanos aquí!</b></a></p>
+</div>
+<p style="text-align: center;"><button id="myBtn" onclick="leerMasCategoria()">Leer Más</button></p>
+<script>
+function leerMasCategoria() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("masTexto");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Leer Más"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Leer Menos"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+
+
             </div>
 
 
