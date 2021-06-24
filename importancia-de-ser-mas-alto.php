@@ -47,10 +47,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-3 ocultar-media">
-                <img src="/img/importancia-de-ser-mas-alto/Banner-Importancuia-de-ser-mas-Alto-.webp" alt="altura crecimiento estatura">
+                <img src="/img/importancia-de-ser-mas-alto/Banner-Importancuia-de-ser-mas-Alto-.webp" alt="Importancia de ser más alto en ciertos aspectos de tu vida.">
             </div>
             <div class="tamaño-img ph-3 mostrar-media">
-                <img src="/img/importancia-de-ser-mas-alto/Banner-Importancuia-de-ser-mas-Alto-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/importancia-de-ser-mas-alto/Banner-Importancuia-de-ser-mas-Alto-desktop.webp" alt="Importancia de ser más alto en ciertos aspectos de tu vida.">
             </div>
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="ygP78ev4eQI"></div>
@@ -86,7 +86,7 @@
                     <h2>SER MÁS ALTO MEJORA LA RELACIÓN ENTRE HOMBRES Y MUJERES<span class="font-blanquitas-curveadas"> (CONSEGUIR PAREJA)</span></h2>
                 </div>
                 <div class="img-95 padding-1">
-                    <img src="/img/importancia-de-ser-mas-alto/pexels-pixabay-258421.webp" alt="">
+                    <img src="/img/importancia-de-ser-mas-alto/pexels-pixabay-258421.webp" alt="Ser más alto mejora la relación entre hombres y mujeres (conseguir pareja)">
                 </div>
                 <div class="texto-importancia-2">
                     <p>Las personas altas suelen ser más atractivas para hombres y mujeres. Esto causa un problema de autoestima en las personas de baja estatura y conduce a relaciones poco saludables.
@@ -101,7 +101,7 @@
                     <h2>SER MÁS ALTO MEJORA<br>LA VIDA EMPRESARIAL</h2>
                 </div>
                 <div class="img-95 padding-1">
-                    <img src="/img/importancia-de-ser-mas-alto/portrait-of-confident-businessman.webp" alt="">
+                    <img src="/img/importancia-de-ser-mas-alto/portrait-of-confident-businessman.webp" alt="Ser más alto mejora la vida empresarial.">
                 </div>
                 <div class="texto-importancia-2">
                     <P>En nuestra sociedad se considera que los hombres y mujeres más altos son más dominantes e inteligentes. Se estigma que si una persona ganara cinco centímetros adicionales de altura, podría ganar porcentajes adicionales de ingreso económico
@@ -116,7 +116,7 @@
                     <h2>SER MÁS ALTO MEJORA EL RENDIMIENTO EN LOS DEPORTES</h2>
                 </div>
                 <div class="img-95 padding-1">
-                    <a href="causas-de-la-baja-estatura"><img src="/img/importancia-de-ser-mas-alto/female-football-player-with-ball-close-up.webp" alt=""></a>
+                    <a href="causas-de-la-baja-estatura"><img src="/img/importancia-de-ser-mas-alto/female-football-player-with-ball-close-up.webp" alt="Ser más alto mejora el rendimiento en los deportes."></a>
                 </div>
                 <div class="texto-importancia-2">
                     <P>Es una gran ventaja tener piernas y brazos mas largos para casi todas las ramas deportivas. Esto es natural especialmente para deportes relacionados con la altura como el futbol, basquetbol, béisbol, tenis, taekwondo, etc.
@@ -132,7 +132,7 @@
                     <h2>SER MÁS ALTO MEJORA LA IMAGEN<br>Y AUTOESTIMA DE TU HIJO</h2>
                 </div>
                 <div class="img-95 padding-1">
-                    <img src="/img/importancia-de-ser-mas-alto/banner-with-surprised-children-peeking-edge.webp" alt="">
+                    <img src="/img/importancia-de-ser-mas-alto/banner-with-surprised-children-peeking-edge.webp" alt="La imagen y autoestima de tu hijo mejoran cuando son más altos.">
                 </div>
                 <div class="texto-importancia-2">
                     <p>Las personas altas son más estéticas. Esto los hace lucir mejor con la ropa que usan, lo que les da una ventaja en apariencia. Socialmente las personas altas tienen más probabilidades de adaptarse y obtener una aprobación social, lo
@@ -163,10 +163,10 @@
                 </div>
             </div>
             <div class="ocultar-media">
-                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="Banner, tu hijo puede ser más alto CONTÁCTANOS"></a>
             </div>
             <div class="tamaño-img mostrar-media ph-1">
-                <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="Banner, tu hijo puede ser más alto CONTÁCTANOS"></a>
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>

@@ -37,10 +37,10 @@
                 </div>
             </div>
             <div class="sombras-img ph-3 pb-2 tamaño-img ocultar">
-                <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto" alt="Portada">
+                <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil">
             </div>
             <div class="sombras-img ph-4  tamaño-img mostrar">
-                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="auto" height="auto" alt="Portada">
+                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="auto" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil">
             </div>
             <div class="cuadros-crecimiento-2 margin-negativo-top-18-5 ">
                 <div class="titulos-principal">
@@ -105,7 +105,7 @@
                 </div>
             </div>
             <div class="tamaño-img  ph-1">
-                <img src="/img/banners/IMAGENES-TESTIMONIO-nina-1.webp" alt="imagen de María">
+                <img src="/img/banners/IMAGENES-TESTIMONIO-nina-1.webp" alt="Caso de éxito de María">
             </div>
             <div class="body-container ph-2">
                     <div class="accordion">
@@ -124,7 +124,7 @@
                 </div>
             </div>
             <div class="tamaño-img  ph-1">
-                <img src="/img/banners/IMAGENES-TESTIMONIO-nina-2.webp" alt="imagen de Fernanda">
+                <img src="/img/banners/IMAGENES-TESTIMONIO-nina-2.webp" alt="Caso de éxito de Fernanda">
             </div>
 
             <div class="body-container ph-2">
@@ -142,7 +142,7 @@
                 </div>
             </div>
             <div class="tamaño-img  ph-1">
-                <img src="/img/banners/IMAGENES-TESTIMONIO-nino-3.webp" alt="imagen de Gerardo">
+                <img src="/img/banners/IMAGENES-TESTIMONIO-nino-3.webp" alt="Caso de éxito de Gerardo">
             </div>
             <div class="body-container ph-2">
                     <div class="accordion">
@@ -155,10 +155,10 @@
                     </div>
             </div>
             <div class="ocultar-media">
-                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="Banner, tu hijo puede ser más alto CONTÁCTANOS"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="Banner, tu hijo puede ser más alto CONTÁCTANOS"></a>
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>

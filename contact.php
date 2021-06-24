@@ -38,10 +38,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-4 ocultar-media">
-                <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="1123" height="auto" alt="Portada" loading="lazy">
+                <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="1123" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil" loading="lazy">
             </div>
             <div class="tamaño-img ph-4 mostrar-media">
-                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="1123" height="auto" alt="Portada" loading="lazy">
+                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="1123" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil" loading="lazy">
             </div>
 
             <div class="textos-azules">
@@ -188,10 +188,10 @@
             </div>
         </section>
         <div class="ocultar-media">
-                <a href="/crecimiento-infantil"><img src="/img/banners/Banner-mujer-y-nino.webp" width="1080" height="auto" alt="contacto crecimiento" loading="lazy"></a>
+                <a href="/crecimiento-infantil"><img src="/img/banners/Banner-mujer-y-nino.webp" width="1080" height="auto" alt="Banner aprende todo sobre el crecimiento infantil." loading="lazy"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/crecimiento-infantil"><img src="/img/banners/estatura-crecer-crecimiento-infantil-1.webp" width="1080" height="auto" alt="contacto crecimiento" loading="lazy"></a>
+                <a href="/crecimiento-infantil"><img src="/img/banners/estatura-crecer-crecimiento-infantil-1.webp" width="1080" height="auto" alt="Banner aprende todo sobre el crecimiento infantil." loading="lazy"></a>
             </div>
         </div>
 

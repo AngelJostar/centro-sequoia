@@ -37,10 +37,10 @@
                 </div>
             </div>
             <div class="sombras-img tamaño-img ocultar">
-                <a href="es"><img src="/img/ERROR-404-MOVIL-Y-ESCRITORIO-MOVIL.webp" alt="Portada"></a>
+                <a href="es"><img src="/img/ERROR-404-MOVIL-Y-ESCRITORIO-MOVIL.webp" alt="Error 404. Lo sentimos, no hemos podido encontrar la página que buscas."></a>
             </div>
             <div class="sombras-img tamaño-img mostrar">
-                <a href=""><img src="/img/ERROR-404-MOVIL-Y-ESCRITORIO -ESCRITORIO.webp" alt="Portada"></a>
+                <a href=""><img src="/img/ERROR-404-MOVIL-Y-ESCRITORIO -ESCRITORIO.webp" alt="Error 404. Lo sentimos, no hemos podido encontrar la página que buscas."></a>
             </div>
         </section>
 
