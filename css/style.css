@@ -523,7 +523,7 @@ a {
 }
 
 .justificar-izquierda-input {
-    text-align: right
+    text-align: right !important;
 }
 
 .centrar-objeto {
@@ -1635,6 +1635,10 @@ div.youtube-play:hover {
 
 .mt-2 {
     margin-top: 2.5rem
+}
+
+.mt-5 {
+    margin-top: 5rem
 }
 
 .mt-205 {
