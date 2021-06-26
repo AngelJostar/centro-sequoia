@@ -132,6 +132,45 @@
                 <p><span class="font-bold">Centro Sequoia</span> es el <span class="font-bold">CENTRO MÁS ESPECIALIZADO</span> de México en baja estatura. Nuestro equipo médico de alta especialidad junto con el personal altamente calificado para el servicio,
                     buscamos brindarte una grata experiencia y los mejores resultados para tu hijo.</p>
             </div>
+            <section class="contenedor-info-contacto">
+            <div class="formulario">
+                <form action="/enviar.php" method="post">
+                <div class="titulos-principal ">
+                    <h2>FORMULARIO DE CONTACTO<br><span class="letra-cursiva">Juntos ayudamos a tu hij@</span></h2>
+                </div>
+                <div class = "t-izquierda tercer-p">
+                    <p>NOMBRE *</p>
+                    <input type="text" name="nombre" placeholder="Nombre" required>
+                </div>
+                <div class = "t-izquierda tercer-p">
+                    <p>CORREO ELECTRÓNICO *</p>
+                    <input type="email" name="correo" placeholder="Correo" required>
+                </div>
+                <div class = "t-izquierda tercer-p">
+                    <p>TELÉFONO</p>
+                    <input type="tel" name="telefono" placeholder="Teléfono" >
+                </div>
+                <div class = "t-izquierda tercer-p">
+                    <p>ELIGE UN CENTRO *</p>
+                    <select name="centro" required>
+                    <option selected disabled value="">Selecciona un centro:</option> 
+                    <option value="CDMX">CDMX</option> 
+                    <option value="GUADALAJARA">GUADALAJARA</option> 
+                    <option value="MONTERREY">MONTERREY</option>
+                    </select>
+                </div>
+                <div class = "t-izquierda tercer-p">
+                    <p>MENSAJE</p>
+                    <textarea name="mensaje" placeholder="Escriba aqui su mensaje" required></textarea>
+                </div>
+                <p class="justificar-texto-90 centrar-texto ph-1 input-color">Envíanos tus dudas y comentarios</p>
+                    <div class="centrar-texto ph-1">
+                        <input type="submit" value="ENVIAR" id="boton">
+                    </div>
+                </form>
+            </div>
+
+            </section>
             <div class="ocultar-media">
                 <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
