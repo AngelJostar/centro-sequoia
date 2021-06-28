@@ -36,7 +36,7 @@
                 </div>
             </div>
             <div class="tamaño-img ph-6">
-                <img src="/img/crecimiento-infantil-por-edad/Banner-Crecimiento-Infantil-por-Edades-.webp" alt="altura crecimiento estatura">
+                <img src="/img/crecimiento-infantil-por-edad/Banner-Crecimiento-Infantil-por-Edades-.webp" alt="Es importante comprender que el crecimiento en niños y niñas varian según su edad.">
             </div>
             <div class="contenedor-video ph-2">
                 <div class="reproductor" data-id="mDDpzwoPKek"></div>
@@ -72,7 +72,7 @@
                     alcanzar la estatura adulta. Para las niñas, la pubertad generalmente comienza alrededor de los 11 años, y para los niños, la pubertad comienza alrededor de los 13 años.</p>
             </div>
             <div class="ocultar-media">
-                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
             </div>
             <div class="tamaño-img mostrar-media">
                 <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
@@ -82,7 +82,7 @@
                     <h2>CRECIMIENTO EN BEBÉS <br> <span class="letra-cursiva">(0 a 2 años de edad)</span></h2>
                 </div>
                 <div class="img-95 padding-1">
-                    <img src="/img/crecimiento-infantil-por-edad/father-holds-hand-of-newly-born-babe-in-diapers (2).webp" alt="">
+                    <img src="/img/crecimiento-infantil-por-edad/father-holds-hand-of-newly-born-babe-in-diapers (2).webp" alt="Crecimiento en bebes de 0 a 2 años de edad.">
                 </div>
                 <div class="texto-importancia-2">
                     <p style=" font-size: calc(1.1em + .7vw);">Desde el nacimiento hasta el segundo año, es importante realizar un seguimiento del crecimiento de su bebé para identificar potencialmente cualquier problema temprano. Obtenga más información sobre el crecimiento de los bebés.</p>
@@ -96,7 +96,7 @@
                     <h2>CRECIMIENTO EN NIÑOS PEQUEÑOS <br> <span class="letra-cursiva">(2 a 5 años de edad)</span></h2>
                 </div>
                 <div class="img-95 padding-1">
-                    <img src="/img/crecimiento-infantil-por-edad/portrait-of-cute-girl-with-paintbrush (2).webp" alt="">
+                    <img src="/img/crecimiento-infantil-por-edad/portrait-of-cute-girl-with-paintbrush (2).webp" alt="Crecimiento en niños pequeños de 2 a 5 años de edad.">
                 </div>
                 <div class="texto-importancia-2">
                     <p style=" font-size: calc(1.1em + .7vw);">Su pequeño bebé se ha convertido de repente en un niño pequeño, ¡y parece de la nada! Obtenga más información sobre el crecimiento de los niños pequeños.</p>
@@ -110,7 +110,7 @@
                     <h2>CRECIMIENTO EN NIÑOS<br> <span class="letra-cursiva">(6 a 11 años de edad)</span></h2>
                 </div>
                 <div class="img-95 padding-1">
-                    <img src="/img/crecimiento-infantil-por-edad/classmates-friends-bag-school-education (2).webp" alt="">
+                    <img src="/img/crecimiento-infantil-por-edad/classmates-friends-bag-school-education (2).webp" alt="Crecimiento en niños de 6 a 11 años de edad.">
                 </div>
                 <div class="texto-importancia-2">
                     <p style=" font-size: calc(1.1em + .7vw);">Si su hijo comenzó la escuela y usted nota señales de que tal vez su hijo no está creciendo como debería. Como por ejemplo, que este dentro de los 3 mas bajitos de su salón de clases.</p>
@@ -124,7 +124,7 @@
                     <h2>CRECIMIENTO EN ADOLESCENTES<br> <span class="letra-cursiva">(12 a 17 años de edad)</span></h2>
                 </div>
                 <div class="img-95 padding-1">
-                    <img src="/img/crecimiento-infantil-por-edad/beautiful-schoolgirl-sitting-in-the-library-and-reading-book-education (2).webp" alt="">
+                    <img src="/img/crecimiento-infantil-por-edad/beautiful-schoolgirl-sitting-in-the-library-and-reading-book-education (2).webp" alt="Crecimiento en adolescentes de 12 a 17 años de edad.">
                 </div>
                 <div class="texto-importancia-2">
                     <p style=" font-size: calc(1.1em + .7vw);">La pubertad es un momento de crecimiento rápido. A esta edad es importante actuar rápido ya que una vez que tu hijo termine de crecer ya no es posible hacer nada para corregir su estatura.</p>
@@ -138,10 +138,10 @@
                     en caso de requerirlo y no sufra de estatura baja.</p>
             </div>
             <div class="pb-25 tamaño-img ocultar-media pt-15">
-                <a href="/preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-2.webp" alt="banners-especialistas"></a>
+                <a href="/preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-2.webp" alt="Banner preguntas frecuentes sobre el crecimiento infantil en niños."></a>
             </div>
             <div class="pb-25 tamaño-img mostrar-media ph-3">
-                <a href="/preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-1.webp" alt="banners-especialistas"></a>
+                <a href="/preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-1.webp" alt="Banner preguntas frecuentes sobre el crecimiento infantil en niños."></a>
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>

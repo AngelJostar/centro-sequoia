@@ -198,13 +198,6 @@
 
 
 
-
-
-
-
-
-
-
         <?php include_once 'includes/templates/footer.php';?>
 
     </section>

@@ -37,10 +37,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-4 ocultar-media">
-                <img src="/img/banners/Banner-crecimiento-deficiente.webp" alt="altura crecimiento estatura">
+                <img src="/img/banners/Banner-crecimiento-deficiente.webp" alt="Es importante saber si la tasa de crecimiento del niñoes la que debería ser.">
             </div>
             <div class="tamaño-img ph-5 mostrar-media">
-                <img src="/img/banners/Banner-crecimiento-deficiente-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/banners/Banner-crecimiento-deficiente-desktop.webp" alt="Es importante saber si la tasa de crecimiento del niñoes la que debería ser.">
             </div>
             <div class="textos-principal justificar-texto ">
                 <p>Si el niño no está creciendo adecuadamente, puede ser el primer signo de una posible condición médica.
@@ -68,10 +68,10 @@
                     <p>Hay señales a las que debe prestar atención que podrían indicar que su hijo no está creciendo como debería: </p>
                 </div>
                 <div class="tamaño-img">
-                    <img src="/img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="">
+                    <img src="/img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="Señales a las que se debe prestar atención, pues indican que su hijo no esta creciendo como debería.">
                 </div>
                 <div class="tamaño-img">
-                    <a href="/contact"><img src="/img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
+                    <a href="/contact"><img src="/img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
                 </div>
                 <div class="cuadros-crecimiento margin-top-20">
                     <div class="titulos-principal">
@@ -82,13 +82,13 @@
                     <p>En algunos niños y niñas, el crecimiento deficiente puede no ser una causa de preocupación, pero, en otros, puede estar asociado con serios problemas de salud, el niño puede presentar afectaciones en: </p>
                 </div>
                 <div class="tamaño-img">
-                    <img src="/img/banners/ICONOS WEB Sequoia 2021-17.webp" alt="">
+                    <img src="/img/banners/ICONOS WEB Sequoia 2021-17.webp" alt="Problemas de salud que están asociados con el crecimiento infantil deficiente.">
                 </div>
                 <div class="tamaño-img ocultar-media">
-                    <a href="/contact"><img src="/img/banners/BANNER-2-DOC-VERTICAL.webp" alt="causas crecimiento hijo"></a>
+                    <a href="/contact"><img src="/img/banners/BANNER-2-DOC-VERTICAL.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="causas crecimiento hijo"></a>
+                    <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
                 </div>
 
             </div>

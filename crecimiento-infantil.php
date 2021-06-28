@@ -36,10 +36,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
-                <img src="/img/banners/Banner-crecimiento-infantil.webp" alt="altura crecimiento estatura">
+                <img src="/img/banners/Banner-crecimiento-infantil.webp" alt="Información que necesitas para entender el crecimiento de tu hijo o hija.">
             </div>
             <div class="tamaño-img ph-6 mostrar-media contenedor-50porciento">
-                <img src="/img/banners/Banner-crecimiento-infantil-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/banners/Banner-crecimiento-infantil-desktop.webp" alt="Información que necesitas para entender el crecimiento de tu hijo o hija.">
             </div>
             <div class="contenedor-video-2 ph-2">
                 <div class="reproductor-rectangular" data-id="ygP78ev4eQI"></div>
@@ -55,7 +55,7 @@
                     <h2>CRECIMIENTO INFANTIL <br> <span class="letra-cursiva"> Generalidades</span></h2>
                 </div>
                 <div>
-                    <img src="/img/banners/ninio-astronauta.webp" alt="">
+                    <img src="/img/banners/ninio-astronauta.webp" alt="Generalidades del crecimiento infantil">
                 </div>
                 <p>Le presentamos toda la información necesaria para entender a fondo el crecimiento de tu hijo o hija.</p>
                 <div class="centrar-texto texto-boton-esp pb-2">
@@ -68,7 +68,7 @@
                     <h2>CRECIMIENTO INFANTIL<br> <span class="letra-cursiva">Por edad de niños y adolescentes</span></h2>
                 </div>
                 <div>
-                    <img src="/img/banners/ninios-acostados.webp" alt="">
+                    <img src="/img/banners/ninios-acostados.webp" alt="Crecimiento infantil por edad de niños y adolescentes.">
                 </div>
                 <p>El crecimiento de niños y niñas puede variar según su edad. Las tasas de crecimiento dependen de la edad de los niños y niñas.</p>
                 <div class="centrar-texto texto-boton-esp pb-2">
@@ -81,7 +81,7 @@
                     <h2>CAUSAS DE LA<br> <span class="letra-cursiva">Baja Estatura</span></h2>
                 </div>
                 <div>
-                    <img src="/img/banners/oximetro.webp" alt="">
+                    <img src="/img/banners/oximetro.webp" alt="Causas de la baja estatura.">
                 </div>
                 <p>Los diferentes transtornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores.</p>
                 <div class="centrar-texto texto-boton-esp pb-2 ">
@@ -95,7 +95,7 @@
                     </h2>
                 </div>
                 <div>
-                    <img src="/img/banners/ninia-con-vestido.webp" alt="">
+                    <img src="/img/banners/ninia-con-vestido.webp" alt="Saber si tu hijo o hija esta creciendo bien.">
                 </div>
                 <p>Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.</p>
                 <div class="centrar-texto texto-boton-esp pb-2">
@@ -108,7 +108,7 @@
                     <h2>IMPORTANCIA DE SER <br> <span class="letra-cursiva">Más Alto</span></h2>
                 </div>
                 <div>
-                    <img src="/img/banners/ninio-en-la-nauraleza.webp" alt="">
+                    <img src="/img/banners/ninio-en-la-nauraleza.webp" alt="Importancia de ser más alto.">
                 </div>
                 <p>Además de tener más confianza y habilidades sociales debidas a su complexión física, las personas altas también pueden presumir de mayor sueldo, más likes en redes sociales y también de una productividad laboral más amplia.</p>
                 <div class="centrar-texto texto-boton-esp pb-2">
@@ -116,10 +116,10 @@
                 </div>
             </div>
             <div class="tamaño-img ocultar-media ph-2">
-                <a href="/especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="banners-especialistas"></a>
+                <a href="/especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="Banner, especialistas adecuados para tratar el crecimiento de tu hijo."></a>
             </div>
             <div class=" tamaño-img mostrar-media ph-2 contenedor-50porciento">
-                <a href="/especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="banners-especialistas"></a>
+                <a href="/especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="Banner, especialistas adecuados para tratar el crecimiento de tu hijo."></a>
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>

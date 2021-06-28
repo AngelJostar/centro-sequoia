@@ -38,7 +38,7 @@
             </div>
         </div>
         <div class="tamaño-img ph-6">
-            <img src="/img/banners/PREGUNTAS-FRECUENTES-BANNER.webp" alt="altura crecimiento estatura">
+            <img src="/img/banners/PREGUNTAS-FRECUENTES-BANNER.webp" alt="Preguntas frecuentes sobre el crecimiento infantil">
         </div>
         <div class="titulos-azules">
             <h3>¿Mi hij@ esta creciendo bien? <br>
@@ -99,7 +99,7 @@
                         </div>
                     </div>
                     <div class="tamaño-img ph-05">
-                        <a href="/crecimiento-infantil-deficiente"><img src="/img/banners/CRECIMIENTO-Sequoia-Inicio-2021.webp" alt="altura crecimiento estatura"></a>
+                        <a href="/crecimiento-infantil-deficiente"><img src="/img/banners/CRECIMIENTO-Sequoia-Inicio-2021.webp" alt="Banner, crecimiento infantil deficiente."></a>
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">6.-¿Hasta qué edad se puede recibir tratamiento?<span class="icon" aria-hidden="true"></span></span></button>
@@ -147,7 +147,7 @@
                         </div>
                     </div>
                     <div class="tamaño-img ph-05">
-                        <a href="/crecimiento-infantil-por-edad"><img src="/img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo hija"></a>
+                        <a href="/crecimiento-infantil-por-edad"><img src="/img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="Banner, crecimiento infantil por edades."></a>
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">11.-¿Cómo afecta la estatura en la autoestima de un niño?<span class="icon" aria-hidden="true"></span></span></button>
@@ -239,10 +239,10 @@
 
         </div>
         <div class="ocultar-media ph-05">
-            <a href="/contact"><img src="/img/banners/BANNER-2-NINA-VERTICAL.webp" alt=""></a>
+            <a href="/contact"><img src="/img/banners/BANNER-2-NINA-VERTICAL.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
         </div>
         <div class="tamaño-img mostrar-media ph-05">
-            <a href="/contact"><img src="/img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt=""></a>
+            <a href="/contact"><img src="/img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
         </div>  
         </div>
 
