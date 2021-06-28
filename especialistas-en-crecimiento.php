@@ -84,10 +84,10 @@
                     <img src="/img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="contacto crecimiento infantil">
                 </div>
                 <div class="ocultar-media">
-                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                    <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
                 </div>
                 <div class="cuadros-crecimiento">
                     <div class="titulos-principal">
@@ -123,10 +123,10 @@
                     </p>
                 </div>
                 <div class="tamaño-img ocultar-media">
-                    <a href="/importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
+                    <a href="/importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="Banner, importancia de que tu hijo o hija sea más alto."></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="/importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
+                    <a href="/importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="Banner, importancia de que tu hijo o hija sea más alto."></a>
                 </div>
 
                             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">

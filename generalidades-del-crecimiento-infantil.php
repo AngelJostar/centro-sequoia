@@ -135,10 +135,10 @@
                     </div>
                 </div>
                 <div class="ocultar-media">
-                    <a href="/crecimiento-infantil-por-edad"><img src="/img/banners/medir-edad-hijo-hija-crecimiento-infantil-2.webp" alt="medir edad hijo"></a>
+                    <a href="/crecimiento-infantil-por-edad"><img src="/img/banners/medir-edad-hijo-hija-crecimiento-infantil-2.webp" alt="Banner, crecimiento infantil por edades."></a>
                 </div>
                 <div class="tamaño-img mostrar-media pt-20">
-                    <a href="/crecimiento-infantil-por-edad"><img src="/img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo"></a>
+                    <a href="/crecimiento-infantil-por-edad"><img src="/img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="Banner, crecimiento infantil por edades."></a>
                 </div>
                 <div class="cuadros-crecimiento margin-top-20 ">
                     <div class="titulos-principal">
@@ -206,10 +206,10 @@
                         </ul>
                     </div>
                     <div class="ocultar-media">
-                        <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                        <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
                     </div>
                     <div class="tamaño-img mostrar-media">
-                        <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                        <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
                     </div>
             </div>
 

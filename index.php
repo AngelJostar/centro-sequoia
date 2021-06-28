@@ -58,10 +58,10 @@
                     de 30,000 casos atendidos en este campo, lo que nos lleva a ser el centro <span class="font-bold">MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</span></p>
             </div>
             <div class=" tamaño-img ocultar-media">
-                <a href="especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" width="auto" height="auto" alt="banners-especialistas"></a>
+                <a href="especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" width="auto" height="auto" alt="Banner, especialistas adecuados para tratar el crecimiento de tu hijo."></a>
             </div>
             <div class="pb-25 tamaño-img mostrar-media">
-                <a href="especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" width="auto" height="auto" alt="banners-especialistas"></a>
+                <a href="especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" width="auto" height="auto" alt="Banner, especialistas adecuados para tratar el crecimiento de tu hijo."></a>
             </div>
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="ygP78ev4eQI"></div>
@@ -115,10 +115,10 @@
                 </p>
             </div>
             <div class="tamaño-img ocultar-media">
-                <a href="importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
+                <a href="importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="Banner importancia de que tu hijo o hija sea más alto"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
+                <a href="importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="Banner importancia de que tu hijo o hija sea más alto"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-2">
                 <div class="titulos-principal">
@@ -172,10 +172,10 @@
 
             </section>
             <div class="ocultar-media">
-                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="Banner, tu hijo puede ser más alto CONTÁCTANOS"></a>
             </div>
             <div class="tamaño-img mostrar-media ph-1">
-                <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="Banner, tu hijo puede ser más alto CONTÁCTANOS"></a>
             </div>
 
         </section>
