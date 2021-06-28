@@ -64,7 +64,7 @@
                 <div>
                     <div class="tercer-p">
                         <h2 class="font-ciudades">CDMX<br>
-                            <a href="tel:+555687-6118">
+                            <a href="tel:555687-6118">
                                 <span>(55) 5687-6118</span>
                             </a>
                         </h2>
@@ -95,7 +95,7 @@
                 <div>
                     <div class="tercer-p">
                         <h2 class="font-ciudades">GUADALAJARA<br>
-                            <a href="tel:+333615-2825">
+                            <a href="tel:333615-2825">
                                 <span>(33) 36152825</span>
                             </a>
                         </h2>
@@ -125,7 +125,7 @@
                 <div>
                     <div class="tercer-p">
                         <h2 class="font-ciudades">MONTERREY<br>
-                            <a href="tel:+811159-2265">
+                            <a href="tel:811159-2265">
                                 <span>(81) 11592265</span>
                             </a>
                         </h2>
