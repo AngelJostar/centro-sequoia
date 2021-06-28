@@ -36,10 +36,10 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-4 ocultar-media">
+            <div class="tamaño-img ocultar-media">
                 <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="1123" height="auto" alt="Portada" >
             </div>
-            <div class="tamaño-img ph-4 mostrar-media">
+            <div class="tamaño-img mostrar-media">
                 <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="1123" height="auto" alt="Portada" >
             </div>
             <div class="textos-azules">

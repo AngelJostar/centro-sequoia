@@ -37,7 +37,7 @@
                     </div>
                 </div>
             </div>
-            <div class="textos-azules ph-4">
+            <div class="textos-azules">
                 <p>Si tienes una queja, comentario o sugerencia relacionado a la institución o sobre algún asunto en específico, por favor hazla llegar a través de este buzón.</p>
                 <p>De antemano, gracias por tu queja, sugerencia o comentario, ya que nos ayuda a mejorar y poder brindarte un mejor servicio.</p>
             </div>

@@ -36,10 +36,10 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-3-5 ocultar-media">
+            <div class="tamaño-img ocultar-media">
                 <img src="/img/generalidades-del-crecimiento-infantil/Banner-edad-osea.webp" alt="altura crecimiento estatura">
             </div>
-            <div class="tamaño-img ph-3 mostrar-media">
+            <div class="tamaño-img mostrar-media">
                 <img src="/img/generalidades-del-crecimiento-infantil/Banner-edad-osea-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video ph-2">

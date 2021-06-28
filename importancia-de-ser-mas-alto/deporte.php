@@ -37,10 +37,10 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-5 ocultar-media">
+            <div class="tamaño-img ocultar-media">
                 <img src="/img/banners/banner-trabajo-1.webp" alt="altura crecimiento estatura">
             </div>
-            <div class="tamaño-img ph-6 mostrar-media">
+            <div class="tamaño-img mostrar-media">
                 <img src="/img/banners/banner-trabajo-1-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="justificar-texto-90-listas">

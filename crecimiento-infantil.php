@@ -35,10 +35,10 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-5 ocultar-media">
+            <div class="tamaño-img ocultar-media">
                 <img src="/img/banners/Banner-crecimiento-infantil.webp" alt="altura crecimiento estatura">
             </div>
-            <div class="tamaño-img ph-6 mostrar-media contenedor-50porciento">
+            <div class="tamaño-img mostrar-media contenedor-50porciento">
                 <img src="/img/banners/Banner-crecimiento-infantil-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video-2 ph-2">

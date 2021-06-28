@@ -37,7 +37,7 @@
                 </div>
             </div>
         </div>
-        <div class="tamaño-img ph-6">
+        <div class="tamaño-img ">
             <img src="/img/banners/PREGUNTAS-FRECUENTES-BANNER.webp" alt="altura crecimiento estatura">
         </div>
         <div class="titulos-azules">

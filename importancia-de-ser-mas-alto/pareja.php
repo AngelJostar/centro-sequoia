@@ -36,10 +36,10 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-5-2 ocultar-media">
+            <div class="tamaño-img ocultar-media">
                 <img src="/img/importancia-de-ser-mas-alto/Banner-deporte-y-estatura.webp" alt="altura crecimiento estatura">
             </div>
-            <div class="tamaño-img ph-6-5 mostrar-media">
+            <div class="tamaño-img mostrar-media">
                 <img src="/img/importancia-de-ser-mas-alto/Banner-deporte-y-estatura-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="justificar-texto-90">

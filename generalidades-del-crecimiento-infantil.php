@@ -47,10 +47,10 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-5-5 ocultar-media">
+            <div class="tamaño-img ocultar-media">
                 <img src="/img/generalidades-del-crecimiento-infantil/Banner-generalidades.webp" alt="altura crecimiento estatura">
             </div>
-            <div class="tamaño-img ph-6 mostrar-media">
+            <div class="tamaño-img mostrar-media">
                 <img src="/img/generalidades-del-crecimiento-infantil/Banner-generalidades-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video-2">
@@ -67,11 +67,11 @@
                     <h2><span class="font-bold">TEMAS IMPORTANTES</span> RELACIONADOS CON EL CRECIMIENTO DE TU HIJ@</h2>
                     </div>
                 </div>
-                <div class="textos-principal  ph-13">
+                <div class="textos-principal">
                     <p>La desinformación puede retrasar las intervenciones cuando realmente es necesario hacer algo. A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:</p>
                 </div>
                 <div class="ocultar-media">
-                    <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
+                    <div class="centrar-texto texto-boton-esp pb-2 ">
                         <a href="/generalidades-del-crecimiento-infantil/factores-que-afectan-el-crecimiento"><button class="boton-e boton-esp">Factores que afectan el crecimiento</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
@@ -145,7 +145,7 @@
                     <h2>CRECIMIENTO INFANTIL</h2>
                     </div>
                 </div>
-                <div class="textos-principal ph-8">
+                <div class="textos-principal">
                     <p>El crecimiento infantil es un proceso extremadamente complejo en el que intervienen diversos factores y es uno de los indicadores del estado de salud del niño, ya que muchas enfermedades pueden dar como primera manifestación la detención
                         del crecimiento.
                     </p>
@@ -159,7 +159,7 @@
                         <h2>FACTORES ENDÓGENOS <br> (PROPIOS DEL NIÑO)</h2>
                         </div>
                     </div>
-                    <div class="justificar-texto-90-listas ph-9 ocultar">
+                    <div class="justificar-texto-90-listas ocultar">
                         <ul >
                             <li><span class="font-bold"> Factores genéticos del crecimiento:</span><br>Existen genes en el cuerpo humano que participan en el crecimiento de un niño y que son heredados de ambos padres . Los genes del crecimiento de los papás determinan el 80 % de la talla final
                                 adulta de su hijo.</li>
@@ -167,7 +167,7 @@
                                 hormonas tiroideas realizarán esta función. En la pubertad las hormonas sexuales (que son las que dan los cambios de la adolescencia) se suman a la función del crecimiento para culminar en la talla final adulta.</li>
                         </ul>
                     </div>
-                    <div class="textos-principal  ph-8 mostrar contenedor-50porciento ">
+                    <div class="textos-principal   mostrar contenedor-50porciento ">
                         <ul type="point">
                             <li><span class="font-bold"> Factores genéticos del crecimiento:</span><br>Existen genes en el cuerpo humano que participan en el crecimiento de un niño y que son heredados de ambos padres . Los genes del crecimiento de los papás determinan el 80 % de la talla final
                                 adulta de su hijo.</li>
@@ -181,7 +181,7 @@
                         <h2>FACTORES EXÓGENOS <br> (EXTERNOS):</h2>
                         </div>
                     </div>
-                    <div class="justificar-texto-90-listas ph-12 pb-2 ocultar">
+                    <div class="justificar-texto-90-listas  pb-2 ocultar">
                         <ul>
                             <li> La alimentación correcta del niño aporta el material energético necesario para su crecimiento. La desnutrición o enfermedades que no permitan la absorción adecuada de los nutrientes pueden dar como resultado una talla baja.
                             </li>
@@ -193,7 +193,7 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="justificar-texto-90-listas  ph-15 mostrar contenedor-50porciento pb-2">
+                    <div class="justificar-texto-90-listas  mostrar contenedor-50porciento pb-2">
                         <ul>
                             <li> La alimentación correcta del niño aporta el material energético necesario para su crecimiento. La desnutrición o enfermedades que no permitan la absorción adecuada de los nutrientes pueden dar como resultado una talla baja.
                             </li>

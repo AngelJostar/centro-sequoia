@@ -37,10 +37,10 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-5 ocultar-media">
+            <div class="tamaño-img ocultar-media">
                 <img src="/img/generalidades-del-crecimiento-infantil/BANNERS-factores-crecimeinto-Web-Sequoia-2021.webp" alt="altura crecimiento estatura">
             </div>
-            <div class="tamaño-img ph-7 mostrar-media">
+            <div class="tamaño-img mostrar-media">
             <img src="/img/generalidades-del-crecimiento-infantil/BANNERS-factores-crecimeinto-Web-Sequoia-2021.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video ph-1">

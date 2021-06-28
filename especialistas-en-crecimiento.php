@@ -36,10 +36,10 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-5punto5 ocultar-media">
+            <div class="tamaño-img ocultar-media">
                 <img src="/img/banners/Banner-Especialistas-en-crecimeinto-Infantil-.webp" alt="altura crecimiento estatura">
             </div>
-            <div class="tamaño-img ph-8 mostrar-media">
+            <div class="tamaño-img mostrar-media">
                 <img src="/img/banners/Banner-Especialistas-en-crecimeinto-Infantil-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video-2">
@@ -56,7 +56,7 @@
                         <h2 style="font-size: calc(13px + .8vw) !important;  "><span class="font-bold">El Pediatra Endocrinólogo</span> es el especialista <br> encargado  de los <span class="font-bold">problemas del crecimiento</span> </h2>
                     </div>
                 </div>
-                <div class=" ph-9">
+                <div class="">
                     <div class="textos-principal ">
                     <p><span class="font-bold">Las hormonas son sustancias químicas</span> que afectan el funcionamiento muchas partes del cuerpo. Por ejemplo, las hormonas deciden cómo crece y madura un niño. <span class="font-bold">La endocrinología pediátrica es la ciencia que estudia estas glándulas y los
                         efectos de las hormonas en los niños. </span>
@@ -71,7 +71,7 @@
                         <h2><span class="font-bold">¿Cuándo acudir con un especialista en crecimiento infantil?</span></h2>
                     </div>
                 </div>
-                <div class="textos-principal ph-11">
+                <div class="textos-principal">
                     <p><span class="font-bold"> La baja estatura </span>con un crecimiento anormalmente lento es la preocupación más común a la que hay que estar pendientes . <span class="font-bold"> Un niño más bajo que sus compañeros es el claro ejemplo de que hay que visitar al especialista en crecimiento. </span>
                     </p>
                 </div>
@@ -80,7 +80,7 @@
                         <h2><span class="font-bold"> Agenda</span> una cita con nuestros especialistas cuando tu hijo o hija:</h2>
                     </div>
                 </div>
-                <div class="tamaño-img pt-20 ph-9">
+                <div class="tamaño-img pt-20">
                     <img src="/img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="contacto crecimiento infantil">
                 </div>
                 <div class="ocultar-media">
@@ -94,12 +94,12 @@
                         <h2>¿POR QUÉ ACUDIR A <span class="font-bold">CENTRO SEQUOIA?</span></h2>
                     </div>
                 </div>
-                <div class="textos-principal ph-9 ocultar-media">
+                <div class="textos-principal ocultar-media">
                     <p>En Centro Sequoia única y exclusivamente atendemos los padecimientos que afectan la estatura de los niños. Nuestros médicos especialistas tienen la experiencia de muchos miles de casos atendidos en este campo, lo que nos lleva a ser
                         el centro más especializado en crecimiento de México.
                     </p>
                 </div>
-                <div class="textos-principal ph-7 mostrar-media pb-15">
+                <div class="textos-principal mostrar-media pb-15">
                     <p>En Centro Sequoia única y exclusivamente atendemos los padecimientos que afectan la estatura de los niños. Nuestros médicos especialistas tienen la experiencia de muchos miles de casos atendidos en este campo, lo que nos lleva a ser
                         el centro más especializado en crecimiento de México.
                     </p>
@@ -116,7 +116,7 @@
                         <div class="barra-titulo"></div>
                     </div>
                 </div>
-                <div class="textos-principal ph-24">
+                <div class="textos-principal">
                     <p>Los problemas hormonales que afectan el crecimiento o el desarrollo sexual de un adolecente o un niño pueden tener efectos significativos en el bienestar físico y emocional del mismo. En Centro Sequoia somos sensibles a estos temas
                         y entendemos a su hijo. El personal de apoyo, incluidos enfermeras, psicólogos y nutriólogos estamos en sintonía con las necesidades de los niños y adolescentes que atendemos. Con el objetivo de lograr que todos nuestros pacientes
                         consigan una mayor estatura.

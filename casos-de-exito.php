@@ -36,10 +36,10 @@
                     </div>
                 </div>
             </div>
-            <div class="sombras-img ph-3 pb-2 tamaño-img ocultar">
+            <div class="sombras-img pb-2 tamaño-img ocultar">
                 <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil">
             </div>
-            <div class="sombras-img ph-4  tamaño-img mostrar">
+            <div class="sombras-img tamaño-img mostrar">
                 <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="auto" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil">
             </div>
             <div class="cuadros-crecimiento-2 margin-negativo-top-18-5 ">

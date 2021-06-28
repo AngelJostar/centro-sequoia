@@ -37,10 +37,10 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-4 ocultar-media">
+            <div class="tamaño-img ocultar-media">
                 <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="1123" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil" loading="lazy">
             </div>
-            <div class="tamaño-img ph-4 mostrar-media">
+            <div class="tamaño-img mostrar-media">
                 <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="1123" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil" loading="lazy">
             </div>
 
@@ -59,7 +59,7 @@
             </div>
         <section class="contenedor-info-contacto">
 
-            <div class="contacto-box ph-10">
+            <div class="contacto-box">
 
                 <div>
                     <div class="tercer-p">

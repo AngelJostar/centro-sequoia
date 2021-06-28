@@ -46,16 +46,16 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-3 ocultar-media">
+            <div class="tamaño-img ocultar-media">
                 <img src="/img/importancia-de-ser-mas-alto/Banner-Importancuia-de-ser-mas-Alto-.webp" alt="Importancia de ser más alto en ciertos aspectos de tu vida.">
             </div>
-            <div class="tamaño-img ph-3 mostrar-media">
+            <div class="tamaño-img mostrar-media">
                 <img src="/img/importancia-de-ser-mas-alto/Banner-Importancuia-de-ser-mas-Alto-desktop.webp" alt="Importancia de ser más alto en ciertos aspectos de tu vida.">
             </div>
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="ygP78ev4eQI"></div>
             </div>
-            <div class="cuadros-crecimiento margin-top-20 pb-25">
+            <div class="cuadros-crecimiento margin-top-20">
                 <div class="titulos-principal-3 ocultar-media">
                     <h2>La importancia de ser MÁS ALTO </h2>
                 </div>
@@ -72,7 +72,7 @@
             <div class="box efecto3 ocultar-media">
                 <h3>¡Ser alto es uno de los factores que hacen<br>que las personas tengan éxito y sean felices!</h3>
             </div>
-            <div class="box efecto3 mb-22em mostrar-media">
+            <div class="box efecto3 mostrar-media">
                 <h3>¡Ser alto es uno de los factores que hacen<br>que las personas tengan éxito <br>y sean felices!</h3>
             </div>
             <div class="textos-principal">

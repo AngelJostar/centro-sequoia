@@ -36,10 +36,10 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-4 ocultar-media">
+            <div class="tamaño-img ocultar-media">
                 <img src="/img/banners/Banner-crecimiento-deficiente.webp" alt="altura crecimiento estatura">
             </div>
-            <div class="tamaño-img ph-5 mostrar-media">
+            <div class="tamaño-img mostrar-media">
                 <img src="/img/banners/Banner-crecimiento-deficiente-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="textos-principal justificar-texto ">
@@ -64,7 +64,7 @@
                         <h2><span class="font-bold">¿CÓMO RECONOCER UN CRECIMIENTO <br> DEFICIENTE EN TU HIJO?</span></h2>
                     </div>
                 </div>
-                <div class="textos-principal ph-14">
+                <div class="textos-principal ">
                     <p>Hay señales a las que debe prestar atención que podrían indicar que su hijo no está creciendo como debería: </p>
                 </div>
                 <div class="tamaño-img">
@@ -78,11 +78,14 @@
                         <h2><span class="font-bold">¿QUÉ SIGNIFICA UN CRECIMIENTO <br> DEFICIENTE EN MI HIJO?<br></h2>
                     </div>
                 </div>
-                <div class="textos-principal ph-12">
+                <div class="textos-principal ">
                     <p>En algunos niños y niñas, el crecimiento deficiente puede no ser una causa de preocupación, pero, en otros, puede estar asociado con serios problemas de salud, el niño puede presentar afectaciones en: </p>
                 </div>
                 <div class="tamaño-img">
                     <img src="/img/banners/ICONOS WEB Sequoia 2021-17.webp" alt="">
+                </div>
+                <div class="centrar-texto texto-boton-esp pb-2">
+                    <a href="/crecimiento-infantil-deficiente/a-que-edad-dejan-de-crecer-las-mujeres"><button style="font-size: calc(1.1em + .6vw); !important" class="boton-e boton-esp">A que edad dejan de crecer las mujeres</button></a>
                 </div>
                 <div class="tamaño-img ocultar-media">
                     <a href="/contact"><img src="/img/banners/BANNER-2-DOC-VERTICAL.webp" alt="causas crecimiento hijo"></a>

@@ -35,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-3">
+            <div class="tamaño-img">
                 <img src="/img/tablas/productos-de-origen-animal.webp" alt="contacto crecimiento">
             </div>
             <div class="justificar-texto-90 centrar-texto">

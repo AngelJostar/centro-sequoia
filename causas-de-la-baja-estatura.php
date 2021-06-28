@@ -22,7 +22,7 @@
     <!-- CANVAS -->
     <section id="site-canvas">
 
-        <?php include_once 'includes/templates/header.php';?>
+        <?php include_once 'includes/templates/header.php';?>  
         
         <section class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento">
@@ -127,6 +127,9 @@
                         <a href="/causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento"><button class="boton-e boton-esp">Síndromes que afectan el
                         crecimiento</button></a>
                     </div>
+                    <div class="centrar-texto texto-boton-esp pb-2">
+                        <a href="/causas-de-la-baja-estatura/sindrome-de-turner"><button class="boton-e boton-esp">Sindrome de turner</button></a>
+                    </div>
                 </div>
                 <div class="fondo-gris mostrar-media pt-15 pb-15 efecto3-2">
                     <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
@@ -155,6 +158,9 @@
                     <div class="centrar-texto texto-boton-esp pb-2">
                         <a href="/causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento"><button class="boton-e boton-esp">Síndromes que afectan el
                         crecimiento</button></a>
+                    </div>
+                    <div class="centrar-texto texto-boton-esp pb-2">
+                        <a href="/causas-de-la-baja-estatura/sindrome-de-turner"><button class="boton-e boton-esp">Sindrome de turner</button></a>
                     </div>
                 </div>
                 <div class="tamaño-img ocultar-media">

@@ -35,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-6">
+            <div class="tamaño-img ">
                 <img src="/img/crecimiento-infantil-por-edad/Banner-Crecimiento-Infantil-por-Edades-.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video ph-2">
@@ -52,10 +52,10 @@
                 </div>
             </div>
 
-            <div class="justificar-texto-90 ph-10 ocultar-media">
+            <div class="justificar-texto-90 ocultar-media">
                 <p>Existe una guía conocida como la<span class="font-bold">"regla de los cinco"</span> que describe la tasa de crecimiento típica de un niño. Esta sugiere:</p>
             </div>
-            <div class="justificar-texto-90 ph-7 mostrar-media">
+            <div class="justificar-texto-90 mostrar-media">
                 <p>Existe una guía conocida como la <span class="font-bold">"regla de los cinco"</span> que describe la tasa de crecimiento típica de un niño. Esta sugiere:</p>
             </div>
             <div class="contenedor-principal margin-negativo-top-35">

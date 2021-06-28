@@ -36,7 +36,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-5">
+            <div class="tamaño-img">
                 <img src="/img/banners/AVISO-PRIVACIDAD (1).webp" alt="altura crecimiento estatura">
             </div>
                 <div class="justificar-texto-85  contenedor-45porciento-d centrar-texto"> 

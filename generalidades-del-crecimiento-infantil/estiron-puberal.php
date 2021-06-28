@@ -37,10 +37,10 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-3-5 ocultar-media">
+            <div class="tamaño-img ocultar-media">
                 <img src="/img/generalidades-del-crecimiento-infantil/Banner-estiron-puberal.webp" alt="altura crecimiento estatura">
             </div>
-            <div class="tamaño-img ph-3-5 mostrar-media">
+            <div class="tamaño-img mostrar-media">
                 <img src="/img/generalidades-del-crecimiento-infantil/Banner-estiron-puberal-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video ph-1">

@@ -36,10 +36,10 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-3 ocultar-media">
+            <div class="tamaño-img ocultar-media">
                 <img src="/img/banners/Banner-baja-estatura-familiar.webp" alt="">
             </div>
-            <div class="tamaño-img ph-3 mostrar-media">
+            <div class="tamaño-img mostrar-media">
                 <img src="/img/banners/Banner-baja-estatura-familiar.webp" alt="">
             </div>
             <div class="contenedor-video ph-1">

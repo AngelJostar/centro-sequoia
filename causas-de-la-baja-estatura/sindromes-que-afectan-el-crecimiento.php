@@ -36,7 +36,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-5">
+            <div class="tamaño-img">
                 <img src="/img/banners/Banner-sindromes-que-afectan-el-crecimiento.webp" alt="">
             </div>
             <div class="contenedor-video">
@@ -47,7 +47,7 @@
                     <h2><span class="font-bold">SÍNDROMES DISMÓRFICOS</span></h2>
                 </div>
             </div>
-            <div class=" pt-15 justificar-texto-90">
+            <div class="justificar-texto-90">
                 <h2><span class="font-bold ">SÍNDROME DE TURNER:</span></h2>
             </div>
             <div class="justificar-texto-85 pt-1p">
