@@ -64,13 +64,13 @@
                         <div class="linea-menu"></div>
                     </ul>
                     <div class="centrar-texto">
-                        <a href="tel:+5556876118"><button class="boton-brexia-menu"><span class="color-verde">CDMX:</span><br><span>(55)5687-6118</span></button></a>
+                        <a href="tel:5556876118"><button class="boton-brexia-menu"><span class="color-verde">CDMX:</span><br><span>(55)5687-6118</span></button></a>
                     </div>
                     <div class="centrar-texto">
-                        <a href="tel:+3336152835"><button class="boton-brexia-menu"><span class="color-verde">GDL</span><br><span>(33)3615-2835</span></button></a>
+                        <a href="tel:3336152835"><button class="boton-brexia-menu"><span class="color-verde">GDL</span><br><span>(33)3615-2835</span></button></a>
                     </div>
                     <div class="centrar-texto">
-                        <a href="tel:+8111592265"><button class="boton-brexia-menu"><span class="color-verde">MTY</span><br><span>(81)1159-2265</span></button></a>
+                        <a href="tel:8111592265"><button class="boton-brexia-menu"><span class="color-verde">MTY</span><br><span>(81)1159-2265</span></button></a>
                     </div>
                     <div class="redes-footer ">
                         <div class="wow fadeInDown" data-wow-delay="0.1s">

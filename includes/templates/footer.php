@@ -16,7 +16,7 @@
                     <p>CDMX - Colonia Del Valle:</p>
                 </div>
                 <div class="texto-footer">
-                    <a href="tel:+555687-6118">
+                    <a href="tel:555687-6118">
                         <p>Tel: (55) 5687-6118</p>
                     </a>
                 </div>
@@ -24,7 +24,7 @@
                     <p>Guadalajara – Colonia Providencia:</p>
                 </div>
                 <div class="texto-footer">
-                    <a href="tel:+333615-2835">
+                    <a href="tel:333615-2835">
                         <p>Tel: (33) 3615-2835</p>
                     </a>
                 </div>
@@ -34,7 +34,7 @@
                     </p>
                 </div>
                 <div class="texto-footer">
-                    <a href="tel:+811159-2265">
+                    <a href="tel:811159-2265">
                         <p>Tel: (81) 1159-2265</p>
                     </a>
                 </div>
@@ -76,19 +76,19 @@
             <div class="tel-grid-footer">
                 <div class="texto-footer">
                     <p class="letras-blue-footer">CDMX</p>
-                    <a href="tel:+555687-6118">
+                    <a href="tel:555687-6118">
                         <p>(55) 5687-6118</p>
                     </a>
                 </div>
                 <div class="texto-footer">
                     <p>GDL</p>
-                    <a href="tel:+333615-2835">
+                    <a href="tel:333615-2835">
                         <p>(33) 3615-2835</p>
                     </a>
                 </div>
                 <div class="texto-footer">
                     <p>MTY</p>
-                    <a href="tel:+811159-2265" >
+                    <a href="tel:811159-2265" >
                         <p>(81) 1159-2265</p>
                     </a>
                 </div>
