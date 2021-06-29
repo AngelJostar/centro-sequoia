@@ -101,6 +101,9 @@
                     <div class="centrar-texto texto-boton-esp pb-2">
                         <a href="/generalidades-del-crecimiento-infantil/estiron-puberal"><button class="boton-e boton-esp">Estirón Puberal</button></a>
                     </div>
+                    <div class="centrar-texto texto-boton-esp pb-2">
+                        <a href="/generalidades-del-crecimiento-infantil/hormona-del-crecimiento"><button class="boton-e boton-esp">Hormona del crecimiento</button></a>
+                    </div>
                 </div>
                 <div class="fondo-gris mostrar-media pt-15 pb-15 efecto3-2">
                     <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
@@ -132,6 +135,9 @@
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
                         <a href="/generalidades-del-crecimiento-infantil/estiron-puberal"><button class="boton-e boton-esp">Estirón Puberal</button></a>
+                    </div>
+                    <div class="centrar-texto texto-boton-esp pb-2">
+                        <a href="/generalidades-del-crecimiento-infantil/hormona-del-crecimiento"><button class="boton-e boton-esp">Hormona del crecimiento</button></a>
                     </div>
                 </div>
                 <div class="ocultar-media">
