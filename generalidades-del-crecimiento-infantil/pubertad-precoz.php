@@ -220,7 +220,7 @@
                 </div>
             </div>
             <div class="tamaño-img pt-15 ">
-                <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"><img src="/img/banners/Banner-Cambios-Fisicos.webp" alt="Banner-Cambios-Fisicos"></a>
+                <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"><img src="/img/banners/Banner-cambios-fisicos.webp" alt="Banner-Cambios-Fisicos"></a>
             </div> 
 
         </div>
