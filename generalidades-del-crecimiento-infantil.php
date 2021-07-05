@@ -139,6 +139,9 @@
                     <div class="centrar-texto texto-boton-esp pb-2">
                         <a href="/generalidades-del-crecimiento-infantil/hormona-del-crecimiento"><button class="boton-e boton-esp">Hormona del crecimiento</button></a>
                     </div>
+                    <div class="centrar-texto texto-boton-esp pb-2">
+                        <a href="/generalidades-del-crecimiento-infantil/como-crecer-de-estatura"><button class="boton-e boton-esp">Como crecer de estatura</button></a>
+                    </div>
                 </div>
                 <div class="ocultar-media">
                     <a href="/crecimiento-infantil-por-edad"><img src="/img/banners/medir-edad-hijo-hija-crecimiento-infantil-2.webp" alt="Banner, crecimiento infantil por edades."></a>
