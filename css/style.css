@@ -2566,3 +2566,94 @@ th {
     text-align: center;
     margin: 0 auto;
 }
+
+
+/*pop up -INICIO*/
+
+@media (max-width: 768px) {
+    .modal-contenido {
+        background-color: white;
+        width: 80px;
+        height: 300px;
+        padding: none;
+        margin: 20% auto;
+        position: relative;
+        bottom: 0;
+        top: 50px;
+    }
+}
+
+.modal-contenido {
+    background-color: white;
+    width: 300px;
+    height: 510px;
+    padding: none;
+    margin: 20% auto;
+    position: relative;
+    bottom: 190px;
+}
+
+.modal {
+    background-color: rgba(0, 0, 0, .8);
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.texto-principal p {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #914568;
+    line-height: 2rem;
+}
+
+.texto-secundario p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 10px;
+}
+
+.texto-secundario-2 p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 10px;
+    color: #6c757d;
+}
+
+.boton-vino {
+    color: #ffffff;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 8px;
+    margin-bottom: 5px;
+    display: inline-block;
+    text-align: center;
+    border: none;
+    background-color: #914568;
+}
+
+.boton-vino:hover {
+    color: white;
+}
+
+.imagen-brexia {
+    width: 80px;
+    height: 150px;
+    display: grid;
+}
+
+.boton-no a {
+    line-height: 1rem;
+    font-size: 15px;
+    display: grid;
+}
+
+
+/*pop up -FIN*/
