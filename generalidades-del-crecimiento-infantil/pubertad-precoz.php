@@ -106,7 +106,7 @@
                 <p>Las radiografías de las manos y muñecas también son importantes para diagnosticar la pubertad precoz en las niñas y los niños. Estas radiografías pueden ayudar al médico a determinar la edad de los huesos del niño o niña, lo cual muestra si los huesos están madurando muy rápido.</p>       
             </div>
             <div class="tamaño-img pt-15 pb-30">
-                <a href="/generalidades-del-crecimiento-infantil/edad-osea"><img src="/img/banners/Banner-Edad-osea-.webp" alt="graficas-de-crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/diagnostico-de-pubertad-precoz.webp" alt="agenda tu cita en sequoia"></a>
             </div> 
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
