@@ -1,7 +1,14 @@
 $(document).ready(function() {
+
+    (function() {
+        setTimeout(function() {
+            $('#ventana-modal').modal()
+        }, 60);
+    }());
+
     $(function() { $(".toggle-nav").click(function() { $("#site-wrapper").hasClass("show-nav") ? ($("#site-wrapper").removeClass("show-nav"), $("#top-header").removeClass("mover-header"), $("#mid-image").removeClass("blur"), $("#contenedor-principal").removeClass("blur"), $("#top-header").removeClass("blur")) : ($("#site-wrapper").addClass("show-nav"), $("#top-header").addClass("mover-header"), $("#mid-image").addClass("blur"), $("#contenedor-principal").addClass("blur"), $("#top-header").addClass("blur")) }) }), $("ul.tabs li a:first").addClass("active"), $(".secciones article").hide(), $(".secciones article:first").show(), $("ul.tabs li a").click(function() { $("ul.tabs li a").removeClass("active"), $(this).addClass("active"), $(".secciones article").hide(); var e = $(this).attr("href"); return $(e).show(), !1 });
     document.getElementById("myHeader");
-    setTimeout(function() { $("#ventana-modal").modal() }, 35000);
+
     const e = document.querySelectorAll(".accordion button");
 
     function a() { const a = this.getAttribute("aria-expanded"); for (i = 0; i < e.length; i++) e[i].setAttribute("aria-expanded", "false"); "false" == a && this.setAttribute("aria-expanded", "true") }
@@ -23,4 +30,5 @@ $(document).ready(function() {
                 i.innerHTML = '<img class="imagen-previa-rectangular" alt="vista previa del video" src="//i.ytimg.com/vi/' + e[a].dataset.id + '/hqdefault.jpg"><div class="youtube-play"></div>', i.onclick = t, e[a].appendChild(i)
             }
         }()
+
 });
