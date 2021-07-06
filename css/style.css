@@ -2573,10 +2573,11 @@ th {
 .modal-contenido {
     background-color: white;
     width: 314px;
-    height: 598px;
+    height: 583px;
     padding: none;
-    margin: 20% auto;
+    margin: 0 auto;
     position: relative;
+    margin-top: 10% !important;
 }
 
 .modal {
@@ -2596,15 +2597,15 @@ th {
 }
 
 .texto-secundario-pop p {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     font-weight: 600;
     line-height: 2.4rem;
     color: #6c757d;
 }
 
 .texto-secundario-2-pop p {
-    font-size: 1.8rem;
-    font-weight: 600;
+    font-size: 1.5rem;
+    font-weight: 500;
     line-height: 1rem;
     color: #6c757d;
 }
