@@ -3,7 +3,7 @@ $(document).ready(function() {
     (function() {
         setTimeout(function() {
             $('#ventana-modal').modal()
-        }, 350);
+        }, 35000);
     }());
 
     $(function() { $(".toggle-nav").click(function() { $("#site-wrapper").hasClass("show-nav") ? ($("#site-wrapper").removeClass("show-nav"), $("#top-header").removeClass("mover-header"), $("#mid-image").removeClass("blur"), $("#contenedor-principal").removeClass("blur"), $("#top-header").removeClass("blur")) : ($("#site-wrapper").addClass("show-nav"), $("#top-header").addClass("mover-header"), $("#mid-image").addClass("blur"), $("#contenedor-principal").addClass("blur"), $("#top-header").addClass("blur")) }) }), $("ul.tabs li a:first").addClass("active"), $(".secciones article").hide(), $(".secciones article:first").show(), $("ul.tabs li a").click(function() { $("ul.tabs li a").removeClass("active"), $(this).addClass("active"), $(".secciones article").hide(); var e = $(this).attr("href"); return $(e).show(), !1 });
