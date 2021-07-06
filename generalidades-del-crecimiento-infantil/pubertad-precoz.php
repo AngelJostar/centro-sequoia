@@ -240,33 +240,28 @@
 
 <div id="ventana-modal" class="modal">
         <div class="modal-contenido">
-
-            <div class="header-imagen">
-                <img src="/img/Doctores.webp" alt="Imagen Brexia">
-            </div>
-            <div class="paddingTop-2 paddingBottom-1 centrar-texto texto-principal">
-                <p><strong>¿Quieres curar tu</strong></p>
-                <p><strong>Cáncer de Ovario?</strong></p>
+                <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto" alt="Portada">
+            <div class="pt-20 pb-15 centrar-texto texto-azul-pop">
+                <p><strong>Ayuda a tu hijo</strong></p>
+                <p><strong>a ser MÁS ALTO </strong></p>
             </div>
             <div class="centrar-texto">
-                <div  class="texto-secundario">
-                    <P>Llámanos y un especialista en <strong>Cáncer</strong>
-                    <P> <strong>de Ovario</strong> te dará un tratamiento</P>
-                    <p>para <strong>curar tu cáncer.</strong> </p>
+                <div  class="texto-secundario-pop">
+                    <p>Tu hija ya NO crecerá si presenta <br> pubertad precoz.</p>
                 </div>
                 <a href="../contacto " class="boton-vino" style= "text-decoration:none;">Contáctanos</a>
                 <div class="boton-no">
                     <a style="padding-bottom: 20px;"   class="btn waves-effect" data-dismiss="modal">No, gracias</a>
                 </div>
-                <div  class="texto-secundario-2">
-                    <p>Se parte de los + 1000 pacientes</p>
-                    <p>que han logrado vencer el cáncer</p>
-                    <p>gracias a los especialistas de Brexia.</p>
+                <div  class="texto-secundario-2-pop pt-15">
+                    <p>Se parte de los + 30,000 pacientes</p>
+                    <p>que han logrado ser más altos</p>
+                    <p>gracias a los especialistas de Sequoia.</p>
                 </div>
-                <div  class="texto-secundario-2 paddingTop-2 paddingBottom-2">
-                    <p>Tu salud es primero, el cáncer no espera.</p>
+                <div  class="texto-secundario-2-pop pt-15 pb-25">
+                    <p>Su salud es primero. Atíendelo.</p>
                 </div>
-                <a style="font-size: 10px; font-weight: 700; color: black; letter-spacing:10px; text-decoration: none;"   class=" waves-effect" data-dismiss="modal">CERRAR</a>
+                <a style="font-size: 1.2rem; font-weight: 700; color: black; letter-spacing:10px; text-decoration: none;"   class=" waves-effect" data-dismiss="modal">CERRAR</a>
             </div>
         </div>
     </div>

@@ -2573,8 +2573,8 @@ th {
 @media (max-width: 768px) {
     .modal-contenido {
         background-color: white;
-        width: 80px;
-        height: 300px;
+        width: 90px;
+        height: 100px;
         padding: none;
         margin: 20% auto;
         position: relative;
@@ -2585,8 +2585,8 @@ th {
 
 .modal-contenido {
     background-color: white;
-    width: 300px;
-    height: 510px;
+    width: 400px;
+    height: 630px;
     padding: none;
     margin: 20% auto;
     position: relative;
@@ -2602,23 +2602,24 @@ th {
     left: 0;
 }
 
-.texto-principal p {
-    font-size: 2rem;
-    font-weight: 700;
-    color: #914568;
+.texto-azul-pop p {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #00235d;
     line-height: 2rem;
 }
 
-.texto-secundario p {
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 10px;
+.texto-secundario-pop p {
+    font-size: 1.8rem;
+    font-weight: 600;
+    line-height: 2.4rem;
+    color: #6c757d;
 }
 
-.texto-secundario-2 p {
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 10px;
+.texto-secundario-2-pop p {
+    font-size: 1.8rem;
+    font-weight: 600;
+    line-height: 1rem;
     color: #6c757d;
 }
 
@@ -2626,17 +2627,17 @@ th {
     color: #ffffff;
     font-weight: 700;
     text-decoration: none;
-    font-size: 20px;
-    padding-top: 7px;
-    padding-bottom: 7px;
-    padding-left: 50px;
-    padding-right: 50px;
+    font-size: 2.3rem;
+    padding-top: .4em;
+    padding-bottom: .55em;
+    padding-left: 3.5em;
+    padding-right: 3.5em;
     margin-top: 8px;
     margin-bottom: 5px;
     display: inline-block;
     text-align: center;
     border: none;
-    background-color: #914568;
+    background-color: #00235d;
 }
 
 .boton-vino:hover {
@@ -2651,7 +2652,7 @@ th {
 
 .boton-no a {
     line-height: 1rem;
-    font-size: 15px;
+    font-size: 1.5rem;
     display: grid;
 }
 
