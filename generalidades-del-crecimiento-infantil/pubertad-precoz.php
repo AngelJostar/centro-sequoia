@@ -249,7 +249,7 @@
                 <div  class="texto-secundario-pop">
                     <p>Tu hija ya NO crecerá si presenta <br> pubertad precoz.</p>
                 </div>
-                <a href="/contacto " class="boton-vino" style= "text-decoration:none;">Contáctanos</a>
+                <a href="/contact " class="boton-vino" style= "text-decoration:none;">Contáctanos</a>
                 <div class="boton-no">
                     <a style="padding-bottom: 20px;"   class="btn waves-effect" data-dismiss="modal">No, gracias</a>
                 </div>

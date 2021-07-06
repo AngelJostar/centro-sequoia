@@ -125,7 +125,7 @@
                         <a href="/generalidades-del-crecimiento-infantil/edad-osea"><button class="boton-e boton-esp">Radiografía de <br>Edad Ósea*</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="/generalidades-del-crecimiento-infantil/pubertad-precoz"><button class="boton-e boton-esp">Pubertad<br>precoz o atrasada</button></a>
+                        <a href="/generalidades-del-crecimiento-infantil/pubertad-precoz"><button class="boton-e boton-esp">Pubertad<br>precoz</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
                         <a href="/generalidades-del-crecimiento-infantil/talla-blanco-familiar"><button class="boton-e boton-esp">Talla genética o<br>blanco familiar</button></a>
