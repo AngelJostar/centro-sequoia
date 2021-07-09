@@ -75,7 +75,7 @@
                 <p>Los caracteres sexuales secundarios en los niños implican una musculatura más desarrollada, ensanche de tórax y hombros, mayor cantidad de vello corporal, salida del vello facial, voz más grave y depósito de grasa en torno al abdomen.</p>
             </div>
             <div class="tamaño-img centrar-imagen pb-30">
-                <a href="/generalidades-del-crecimiento-infantil/estiron_puberal"><img src="/img/nueva/Banner-Estiron-Puberal.webp" alt=""></a>
+                <a><img src="/img/nueva/Banner-Estiron-Puberal.webp" alt=""></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">

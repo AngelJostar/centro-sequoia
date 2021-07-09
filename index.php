@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Centro SEQUOIA es un Centro Pediátrico Exclusivo para el Crecimiento de los niños formado por Médicos Pediatras Endocrinólogos certificados.">
-<title>Home - Centro Sequoia - Crecimiento de los niños</title>
+<meta name="description" content="Centro SEQUOIA es un Centro Pediátrico Exclusivo para el Crecimiento de los niños ">
+<title>Home - Centrosequoia.com.mx - Crecimiento de los niños</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/style-slider.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
@@ -58,10 +58,10 @@
                     de 30,000 casos atendidos en este campo, lo que nos lleva a ser el centro <span class="font-bold">MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</span></p>
             </div>
             <div class=" tamaño-img ocultar-media">
-                <a href="especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" width="auto" height="auto" alt="Banner, especialistas adecuados para tratar el crecimiento de tu hijo."></a>
+                <a href="/especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" width="auto" height="auto" alt="Banner, especialistas adecuados para tratar el crecimiento de tu hijo."></a>
             </div>
             <div class="pb-25 tamaño-img mostrar-media">
-                <a href="especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" width="auto" height="auto" alt="Banner, especialistas adecuados para tratar el crecimiento de tu hijo."></a>
+                <a href="/especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" width="auto" height="auto" alt="Banner, especialistas adecuados para tratar el crecimiento de tu hijo."></a>
             </div>
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="ygP78ev4eQI"></div>
@@ -80,10 +80,10 @@
                 </div>
             </div>
             <div class="pb-2 ocultar-media ">
-                <a href="crecimiento-infantil"><img src="/img/banners/Banner-mujer-y-nino.webp" alt="Banners-estatura-crecer"></a>
+                <a href="/crecimiento-infantil"><img src="/img/banners/Banner-mujer-y-nino.webp" alt="Banners-estatura-crecer"></a>
             </div>
             <div class="pb-2 mostrar-media tamaño-img ">
-                <a href="crecimiento-infantil"><img src="/img/banners/BANNER-7-HORIZONTAL.webp" alt="Banners-estatura-crecer"></a>
+                <a href="/crecimiento-infantil"><img src="/img/banners/BANNER-7-HORIZONTAL.webp" alt="Banners-estatura-crecer"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
@@ -115,10 +115,10 @@
                 </p>
             </div>
             <div class="tamaño-img ocultar-media">
-                <a href="importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="Banner importancia de que tu hijo o hija sea más alto"></a>
+                <a href="/importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="Banner importancia de que tu hijo o hija sea más alto"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="Banner importancia de que tu hijo o hija sea más alto"></a>
+                <a href="/importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="Banner importancia de que tu hijo o hija sea más alto"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-2">
                 <div class="titulos-principal">
@@ -193,7 +193,7 @@
 
 <!--####HEADER####-->
 
-<a href="contact" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

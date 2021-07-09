@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta name="description" content="El Síndrome de Turner es un padecimiento que ocurre únicamente en mujeres. El Síndrome de Turner causa diferentes afecciones médicas y del desarrollo y crecimiento, que incluyen baja estatura, afecciones cardiacas y deficiencias en el desarrollo de ovarios.">
-<title>Síndrome de Turner</title>
+<title>Síndrome de Turner | Baja Estatura | Centrosequoia.com.mx </title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

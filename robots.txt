@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Disallow: /c?*
+
+Sitemap: https://centrosequoia.com.mx/sitemap.xml

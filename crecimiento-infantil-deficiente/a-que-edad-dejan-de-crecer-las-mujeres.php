@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Las mujeres dejan de crecer a los 14 o 15 años de edad. O un par de años después de que comienza la menstruación. Las niñas crecen a un ritmo rápido durante la infancia y la niñez. Cuando llegan a la pubertad, el crecimiento vuelve a aumentar drásticamente.">
-<title>¿A qué edad dejan de crecer las mujeres? Pubertad, crecimiento y más</title>
+<meta name="description" content="Las mujeres dejan de crecer a los 14 o 15 años de edad. Las niñas crecen a un ritmo rápido durante la infancia y la niñez.">
+<title>¿A qué edad dejan de crecer las mujeres?</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
@@ -135,7 +135,7 @@
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>Hay muchos factores que afectan el crecimiento, que van desde la desnutrición hasta los medicamentos.</p>
                 <p>Algunas mujeres pueden ver un <b> retraso en el crecimiento </b> debido a ciertas condiciones de salud, como problemas con la <a href=""> hormona del crecimiento </a>, artritis severa o cáncer.</p>
-                <p>Las condiciones genéticas también juegan un papel. Por ejemplo, las niñas con síndrome de Down, síndrome de Noonan o <a href="causas-de-la-baja-estatura/sindrome-de-turner">síndrome de Turner</a> pueden ser más bajas que sus familiares.</p>
+                <p>Las condiciones genéticas también juegan un papel. Por ejemplo, las niñas con síndrome de Down, síndrome de Noonan o <b> síndrome de Turner </b> pueden ser más bajas que sus familiares.</p>
                 <p>Si tiene inquietudes sobre el crecimiento de su hijo, comuníquese con un <a href="/especialistas-en-crecimiento"> endocrinólogo pediatra de Centro Sequoia especialista en crecimiento infantil. </a> Una vez que una niña llega a la pubertad,
                     el crecimiento generalmente se detiene un par de años después de su primer período. Un adolescente que ha retrasado el crecimiento tendrá menos tiempo para crecer antes del final de su <a href="/generalidades-del-crecimiento-infantil/estiron-puberal"> estirón puberal.</a></p>
             </div>

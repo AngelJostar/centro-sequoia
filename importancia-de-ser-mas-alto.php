@@ -116,7 +116,7 @@
                     <h2>SER MÁS ALTO MEJORA EL RENDIMIENTO EN LOS DEPORTES</h2>
                 </div>
                 <div class="img-95 padding-1">
-                    <a href="causas-de-la-baja-estatura"><img src="/img/importancia-de-ser-mas-alto/female-football-player-with-ball-close-up.webp" alt="Ser más alto mejora el rendimiento en los deportes."></a>
+                    <a><img src="/img/importancia-de-ser-mas-alto/female-football-player-with-ball-close-up.webp" alt="Ser más alto mejora el rendimiento en los deportes."></a>
                 </div>
                 <div class="texto-importancia-2">
                     <P>Es una gran ventaja tener piernas y brazos mas largos para casi todas las ramas deportivas. Esto es natural especialmente para deportes relacionados con la altura como el futbol, basquetbol, béisbol, tenis, taekwondo, etc.
