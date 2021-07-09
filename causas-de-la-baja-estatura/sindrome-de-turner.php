@@ -36,7 +36,10 @@
                     </div>
                 </div>
             </div>
-            <div class=" pt-15 justificar-texto-90  mt-5">
+            <div class="contenedor-video mt-2">
+                <div class="reproductor" data-id="IhbFXF61kTM"></div>
+            </div>
+            <div class=" pt-15 justificar-texto-90 ">
                 <h2><b>¿Qué es el Síndrome de Turner? </b></h2>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">

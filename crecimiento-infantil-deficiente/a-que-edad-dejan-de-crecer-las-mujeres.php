@@ -31,14 +31,17 @@
                         <div class="barra-titulo"></div>
                     </div>
                     <h1 class="img-90" style="font-size: calc(1em + 1vw) !important;"><b>Estatura en mujeres: A qué edad dejan de crecer las mujeres, cómo les impacta la pubertad, cuáles son sus cambios físicos y más </b></h1>
-                    <div class="justificar-texto-85 justificar-derecha-texto">
-                        <p class="crecer-mujeres-font-cursivas"><em> “Revisado médicamente por el equipo de Centro Sequoia, México” – Actualizado el 25 de Enero del 2021"</em></p>
-                    </div>
+
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
                 </div>
-
+            </div>
+            <div class="justificar-texto-85 justificar-derecha-texto mt-2">
+                <p class="crecer-mujeres-font-cursivas"><em> “Revisado médicamente por el equipo de Centro Sequoia, México” – Actualizado el 25 de Enero del 2021"</em></p>
+            </div>
+            <div class="contenedor-video mt-2">
+                <div class="reproductor" data-id="myKEnhsqgFU"></div>
             </div>
             <div class=" pt-15 justificar-texto-90 ">
                 <h2><b>¿A qué edad dejan de crecer las mujeres?</b></h2>

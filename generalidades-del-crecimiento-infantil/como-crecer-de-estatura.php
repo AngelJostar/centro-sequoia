@@ -30,15 +30,17 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1 class="img-90" style="font-size: calc(1em + 1vw) !important;"><b>Cómo crecer de estatura: Te enseñamos cómo crecer más</b></h1>
-                    <div class="justificar-texto-85 justificar-derecha-texto">
-                        <p class="crecer-mujeres-font-cursivas"><em> “Revisado médicamente por el equipo médico de Centro Sequoia - Actualizado el 28 de junio de 2021."</em></p>
-                    </div>
+                    <h1 class="img-90" style="font-size: calc(1.3em + 1vw) !important;"><b>Cómo crecer de estatura: Te enseñamos cómo crecer más</b></h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
                 </div>
-
+            </div>
+            <div class="justificar-texto-85 justificar-derecha-texto mt-2">
+                <p class="crecer-mujeres-font-cursivas"><em> “Revisado médicamente por el equipo médico de Centro Sequoia - Actualizado el 28 de junio de 2021."</em></p>
+            </div>
+            <div class="contenedor-video mt-2">
+                <div class="reproductor" data-id="DPf6unFntus"></div>
             </div>
             <div class=" pt-15 justificar-texto-90 ">
                 <h2><b>Qué si puedes controlar y qué no puedes controlar</b></h2>
@@ -90,7 +92,9 @@
                 <p>La <b>vitamina D</b> también promueve la salud de los huesos. Las fuentes comunes de vitamina D incluyen el atún, la leche fortificada y las yemas de huevo. Si no obtiene suficiente vitamina D en su dieta, hable con su médico sobre la posibilidad de tomar un suplemento para alcanzar la cantidad diaria recomendada.</p>
                 <p>Para obtener más información de la nutrición y el crecimiento <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento">¡Da clic aquí!</a></p>
             </div>
-            <!-- Banner -->
+            <div class="tamaño-img">
+                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="/img/causas-de-la-baja-estatura/Banner-Nutricion-y-Crecimiento-.webp" alt="Banner nutrición crecimiento"></a>
+            </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>2. Usar suplementos y vitaminas</b></h2>
             </div>
@@ -166,7 +170,9 @@
                 <p>Eso significa que realmente no puede hacerse más alto una vez que haya alcanzado la edad adulta. Todavía es posible experimentar pequeñas variaciones diarias de estatura. Estas variaciones son el resultado de la compresión de los discos espinales durante las actividades diarias. Como resultado, es posible perder hasta 1,5 centímetros de estatura durante el día, que se recuperará mientras duerme. Esta variación es tan pequeña que casi nunca se nota.</p>
                 <p>Para obtener más información de la edad osea <a href="/generalidades-del-crecimiento-infantil/edad-osea">¡Da clic aquí!</a></p>
             </div>
-            <!-- Banner -->
+            <div class="tamaño-img">
+                <a href="/generalidades-del-crecimiento-infantil/edad-osea"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Edad-osea-.webp" alt="Banner edad osea"></a>
+            </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>8. Tratar a tiempo enfermedades o padecimiento crónicos</b></h2>
             </div>
@@ -253,6 +259,9 @@
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>En cuanto al sexo generalmente las niñas miden menos que los niños, la raza es un factor determinante en el crecimiento de un niño debido al estilo de vida que asume en el lugar en el que nace, crece y se desarrolla.</p>
                 <p>¡Si quieres hablar con un médico especialista en crecimiento infantil que te asesore en <b>cómo crecer de estatura</b> no dudes en comunicarte con nosotros! Somos especialistas en crecimiento infantil.</p>
+            </div>
+            <div class="tamaño-img">
+                <a href="/generalidades-del-crecimiento-infantil/factores-que-afectan-el-crecimiento"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Factores-que-Afectan-el-crecimienito.webp" alt="Banner factores que afectan el crecimiento"></a>
             </div>
         </div>
 

@@ -88,7 +88,7 @@
                     <a href="/crecimiento-infantil-deficiente/a-que-edad-dejan-de-crecer-las-mujeres"><button style="font-size: calc(1.1em + .6vw); !important" class="boton-e boton-esp">A que edad dejan de crecer las mujeres</button></a>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="/crecimiento-infantil-deficiente/hasta-que-edad-crecen-los-hombres"><button style="font-size: calc(1.1em + .6vw); !important" class="boton-e boton-esp">hasta que edad crecen los hombres</button></a>
+                    <a href="/crecimiento-infantil-deficiente/hasta-que-edad-crecen-los-hombres"><button style="font-size: calc(1.1em + .6vw); !important" class="boton-e boton-esp">Hasta que edad crecen los hombres</button></a>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
                     <a href="/generalidades-del-crecimiento-infantil/como-crecer-de-estatura"><button class="boton-e boton-esp">Como crecer de estatura</button></a>

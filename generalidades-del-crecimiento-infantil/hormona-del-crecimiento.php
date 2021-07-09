@@ -36,24 +36,27 @@
                     </div>
                 </div>
             </div>
-            <div class=" pt-15 justificar-texto-90  mt-5">
+            <div class="contenedor-video mt-2">
+                <div class="reproductor" data-id="kBmh9tJAQd8"></div>
+            </div>
+            <div class=" pt-15 justificar-texto-90 ">
                 <h2><b>¿Qué es la hormona del crecimiento?</b></h2>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>La <b>Hormona del crecimiento</b>también puede ser llamada <b>somatotropina</b>. Es una hormona que provoca el crecimiento y desarrollo de todos los tejidos del cuerpo, incluidos los huesos y los músculos. La <b>Hormona del crecimiento</b>                    es secretada por células de la glándula pituitaria anterior bajo el control del hipotálamo. Estas liberan entre uno y dos miligramos de la <b>hormona</b> cada día.
-                    <p>La <b>Hormona del crecimiento</b> es vital para el <a href="/generalidades-del-crecimiento-infantil"><b>crecimiento físico normal de los niños</b></a>. Sus niveles aumentan progresivamente durante la infancia y alcanzan su punto máximo
-                        durante el <a href="/generalidades-del-crecimiento-infantil/estiron-puberal"><b>estirón de crecimiento</b></a> que se produce en la <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"><b>pubertad.</b></a></p>
+                    <p>La <b>Hormona del crecimiento</b> es vital para el <a href="/generalidades-del-crecimiento-infantil">crecimiento físico normal de los niños</a>. Sus niveles aumentan progresivamente durante la infancia y alcanzan su punto máximo
+                        durante el <a href="/generalidades-del-crecimiento-infantil/estiron-puberal">estirón de crecimiento</a> que se produce en la <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner">pubertad.</a></p>
             </div>
             <!-- video -->
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>Hormona del crecimiento niños </b></h2>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto pt-15 ">
-                <p>Habitualmente se puede detectar que un niño o niña no está <b>creciendo</b> como debería hasta <a href="/crecimiento-infantil-por-edad/ninos-chicos-2-5"><b>los tres años</b></a>, cuando es más chaparrito en comparación con otros niños
-                    o niñas de su misma edad. Para conocer si es que tu hijo puede necesitar tratamiento con <b>hormona del crecimiento</b>, el <a href="/especialistas-en-crecimiento"><b>médico de Centro Sequoia</b></a> podría pedir una serie de <b>exámenes</b>                    para conocer diferentes variables como la <a href="/generalidades-del-crecimiento-infantil/edad-osea"><b>edad ósea de tu hijo</b></a>, sus niveles de insulina, producción de hormona del crecimiento o la tolerancia a insulina. Dependiendo
+                <p>Habitualmente se puede detectar que un niño o niña no está <b>creciendo</b> como debería hasta <a href="/crecimiento-infantil-por-edad/ninos-chicos-2-5">los tres años</a>, cuando es más chaparrito en comparación con otros niños
+                    o niñas de su misma edad. Para conocer si es que tu hijo puede necesitar tratamiento con <b>hormona del crecimiento</b>, el <a href="/especialistas-en-crecimiento">médico de Centro Sequoia</a> podría pedir una serie de <b>exámenes</b>                    para conocer diferentes variables como la <a href="/generalidades-del-crecimiento-infantil/edad-osea">edad ósea de tu hijo</a>, sus niveles de insulina, producción de hormona del crecimiento o la tolerancia a insulina. Dependiendo
                     de los resultados, podría recetarle o no tratamiento con hormona del crecimiento.</p>
                 <p>Los tratamientos que comienzan <b>a edad temprana tienen más probabilidades de éxito</b> que uno que empieza de forma tardía. Los niños en tratamiento pueden alcanzar una diferencia de altura de entre 5 y 15 cm de más. El niño puede llegar
-                    a alcanzar una <a href="/importancia-de-ser-mas-alto"><b>mayor estatura</b></a> comparada con su estimado genético si el proceso empieza en sus primeros años de vida.</p>
+                    a alcanzar una <a href="/importancia-de-ser-mas-alto">mayor estatura</a> comparada con su estimado genético si el proceso empieza en sus primeros años de vida.</p>
             </div>
             <div class="tamaño-img ">
                 <img src="/img/generalidades-del-crecimiento-infantil/Hormona-del-Crecimiento.webp" alt="La hormona del crecimiento en niños se produce en la glándula pituitaria.">
@@ -63,7 +66,7 @@
             </div>
             <!-- video -->
             <div class="justificar-texto-85 justificar-derecha-texto pt-15 ">
-                <p>La <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><b>deficiencia de la hormona del crecimiento</b></a>es un padecimiento que es causado por la baja producción de <b>hormona del crecimiento</b> en el cuerpo. Los niños con <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><b>deficiencia de la hormona del crecimiento</b></a> tienen una estatura anormalmente baja con proporciones corporales normales. La <b>deficiencia de la hormona del crecimiento</b> puede presentarse desde el nacimiento  o presentarse más tarde en la vida. La afección ocurre si la glándula pituitaria produce muy poca hormona del crecimiento. En algunos niños y niñas no se puede identificar la causa clara. </p>
+                <p>La <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento">deficiencia de la hormona del crecimiento</a>es un padecimiento que es causado por la baja producción de <b>hormona del crecimiento</b> en el cuerpo. Los niños con <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento">deficiencia de la hormona del crecimiento</a> tienen una estatura anormalmente baja con proporciones corporales normales. La <b>deficiencia de la hormona del crecimiento</b> puede presentarse desde el nacimiento  o presentarse más tarde en la vida. La afección ocurre si la glándula pituitaria produce muy poca hormona del crecimiento. En algunos niños y niñas no se puede identificar la causa clara. </p>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>Padecimientos que se tratan con Hormona del crecimiento </b></h2>
@@ -117,13 +120,13 @@
                         	El tratamiento con <b>inyección de hormona del crecimiento</b> se prescribe en niños a quienes se les ha diagnosticado una deficiencia de la hormona del crecimiento y otras afecciones que causan baja estatura.                        
                         </li>
                         <li>
-                        	Primero se deben realizar otras pruebas para confirmar la <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><b>deficiencia de hormona de crecimiento</b></a>, el <a href="/causas-de-la-baja-estatura/sindrome-de-turner"><b>síndrome de Turner</b></a> u otras afecciones para las que está indicada la terapia. Estas pruebas pueden incluir pruebas de estimulación, resonancias magnéticas y radiografías.
+                        	Primero se deben realizar otras pruebas para confirmar la <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento">deficiencia de hormona de crecimiento</a>, el <a href="/causas-de-la-baja-estatura/sindrome-de-turner">síndrome de Turner</a> u otras afecciones para las que está indicada la terapia. Estas pruebas pueden incluir pruebas de estimulación, resonancias magnéticas y radiografías.
                         </li>
                         <li>
                         	El tratamiento con Hormona de crecimiento tiene pocos efectos secundarios. 
                         </li>
                         <li>
-                        	El tratamiento con Hormona de crecimiento es una forma segura y eficaz de tratar la <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><b>deficiencia de la hormona del crecimiento</b></a>, el <a href="/causas-de-la-baja-estatura/sindrome-de-turner"><b>síndrome de Turner</b></a> y <a href="/causas-de-la-baja-estatura"><b>algunas otras afecciones asociadas con la baja estatura</b></a>.  
+                        	El tratamiento con Hormona de crecimiento es una forma segura y eficaz de tratar la <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento">deficiencia de la hormona del crecimiento</a>, el <a href="/causas-de-la-baja-estatura/sindrome-de-turner">síndrome de Turner</a> y <a href="/causas-de-la-baja-estatura">algunas otras afecciones asociadas con la baja estatura</a>.  
                         </li>
                     </ul>
                 </div>
@@ -132,7 +135,7 @@
                 <h2><b>¿Cómo es el tratamiento con hormona del crecimiento? </b></h2>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto pt-15 ">
-                <p>Una vez que un niño ha sido diagnosticado con <b>deficiencia de Hormona de crecimiento</b>, síndrome de Turner u otras condiciones tratables con terapia de Hormona de crecimiento, el <a href="/especialistas-en-crecimiento"><b>endocrinólogo pediátrico</b></a> discutirá los pros y los contras de, y generalmente recomendará, la terapia de Hormona de crecimiento. Esta hormona utilizada en el tratamiento se fabrica en el laboratorio para que sea idéntica a la producida por la <b>glándula pituitaria</b>, por lo que es segura y eficaz. La hormona se administra mediante una <b>inyección subcutánea</b>, lo que significa que ingresa al tejido graso justo debajo de la superficie de la piel. Se puede administrar mediante un dispositivo de <b>inyección</b> especial que parece una pluma. Debido a que es una <b>inyección</b> tan superficial, la aguja es muy pequeña y no duele mucho.</p>
+                <p>Una vez que un niño ha sido diagnosticado con <b>deficiencia de Hormona de crecimiento</b>, síndrome de Turner u otras condiciones tratables con terapia de Hormona de crecimiento, el <a href="/especialistas-en-crecimiento">endocrinólogo pediátrico</a> discutirá los pros y los contras de, y generalmente recomendará, la terapia de Hormona de crecimiento. Esta hormona utilizada en el tratamiento se fabrica en el laboratorio para que sea idéntica a la producida por la <b>glándula pituitaria</b>, por lo que es segura y eficaz. La hormona se administra mediante una <b>inyección subcutánea</b>, lo que significa que ingresa al tejido graso justo debajo de la superficie de la piel. Se puede administrar mediante un dispositivo de <b>inyección</b> especial que parece una pluma. Debido a que es una <b>inyección</b> tan superficial, la aguja es muy pequeña y no duele mucho.</p>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>¿Qué esperar del tratamiento?  </b></h2>
@@ -265,11 +268,11 @@
                 <p>Consulte al médico de su hijo para obtener más información.</p>
             </div>
             <div class=" pt-15 justificar-texto-90  mt-2">
-                <h3><a href="/casos-de-exito"><b>Caso de éxito de tratamiento </b></a></h3>
+                <h3><a href="/casos-de-exito">Caso de éxito de tratamiento</a></h3>
             </div>
             <div class="cuadros-crecimiento-2 mt-2">
                 <div class="titulos-principal-casos-exito">
-                    <h2><span class="font-bold">Said (hijo) y Martha (mamá)</span><br>"Tenía 13 años, estaba en la escuela y no tenía la<br> misma estatura que mis amigos..." ... <span class="font-blanquitas-curveadas"> Said</span></h2>
+                    <h2><span class="font-bold">Said (hijo) y Martha (mamá)</span>"Tenía 13 años, estaba en la escuela y no tenía la<br> misma estatura que mis amigos..." ... <span class="font-blanquitas-curveadas"> Said</span></h2>
                 </div>
             </div>
             <div class="contenedor-video-2">

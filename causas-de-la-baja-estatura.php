@@ -36,7 +36,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-3">
+            <div class="tamaño-img">
                 <img src="/img/causas-de-la-baja-estatura/Banner-Causas-Baja-Estatural-.webp" alt="Un crecimiento más lento de lo normal puede ser señal de un problema de salud.">
             </div>
             <div class="textos-principal ph-3">
@@ -46,12 +46,8 @@
             <div class="contenedor-video">
                 <div class="reproductor" data-id="BXOOo5c3LGM"></div>
             </div>
-            <div class="contenedor-principal margin-negativo-top-35">
-                    <div class="cuadros-crecimiento margin-top-20 ocultar-media">
-                    </div>
-                    <div class="cuadros-crecimiento margin-top-20 mostrar-media">
-                    </div>
-                    <div class="justificar-texto-90-listas ph-3 font-bold">
+            <div class="contenedor-principal">
+                    <div class="justificar-texto-90-listas font-bold">
                         <ul>
                             <li>Baja estatura en la familia</li>
                             <li>Baja estatura idiopática (sin causa identificable).</li>
@@ -68,7 +64,7 @@
                             <h2>Entre las afecciones médicas que <span class="font-bold">SI SE ASOCIAN</span> con el crecimiento, se incluyen:</h2>
                         </div>
                     </div>
-                    <div class="justificar-texto-90-listas font-bold ph-12">
+                    <div class="justificar-texto-90-listas font-bold">
                         <ul>
                             <li>Mala nutrición</li>
                             <li>Niños pequeños al nacer.</li>
@@ -90,17 +86,17 @@
                         <h2><span class="font-bold">OBTENGA MÁS INFORMACIÓN SOBRE LAS CAUSAS ESPECIFÍCAS DEL CRECIMIENTO DEFICIENTE</span></h2>
                     </div>
                 </div>
-                <div class="cuadros-crecimiento margin-top-20 mostrar-media">
+                <div class="cuadros-crecimiento mostrar-media">
                     <div class="titulos-principal  contenedor-50porciento font-bold">
                         <h2><span class="font-bold">OBTENGA MÁS INFORMACIÓN SOBRE LAS CAUSAS ESPECIFÍCAS DEL CRECIMIENTO DEFICIENTE</span></h2>
                     </div>
                 </div>
-                <div class="justificar-texto-90 ph-9">
+                <div class="justificar-texto-90">
                     <p>Los diferentes trastornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores. Explora los enlaces a continuación para aprender a fondo todo acerca de las
                         causas mas comunes de una baja estatura en tu niño o niña. </p>
                 </div>
                 <div class="ocultar-media">
-                    <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
+                    <div class="centrar-texto texto-boton-esp pb-2">
                         <a href="/causas-de-la-baja-estatura/baja-estatura-familiar"><button class="boton-e boton-esp">Baja estatura familiar</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
