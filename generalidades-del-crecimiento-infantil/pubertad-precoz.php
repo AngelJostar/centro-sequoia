@@ -196,7 +196,7 @@
                     <h2><span>Preguntas que puedes hacerle a tu medico en Centro de Sequoia</span></h2>
                 </div>
             </div>
-            <div class="contenedor-85porciento pb-25 ">
+            <div class="contenedor-85porciento mt-5 ">
                 <div class="justificar-texto-85">
                     <p>Haz una lista de preguntas que quieras hacernos de tu
                         hija a fin de que te ayude a aprovechar al máximo el

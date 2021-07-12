@@ -245,8 +245,8 @@
                 <p>Si se inyecta hormona de crecimiento, es importante mantener saludables los lugares de inyección. Practicar la rotación adecuada del lugar de la inyección y siempre inyectarse en lugares saludables son dos formas en las que puede ayudar a mantener el tratamiento en el buen camino.</p>
                 <p>Los expertos coinciden en que la mejor manera de mantener saludables los lugares de inyección y evitar complicaciones es practicar la rotación adecuada del lugar de inyección, siguiendo los siguientes pasos:</p>    
             </div>
-            <div class="tamaño-img ">
-                <img src="/img/generalidades-del-crecimiento-infantil/Infografia-Como-inyectar--Hormona-del-Crecimiento.webp" alt="Como inyectar hormona del crecimiento. Sigue tu tratamiento de la mano de tu especialista en crecimiento infantil.">
+            <div class="tamaño-img">
+                <img src="/img/generalidades-del-crecimiento-infantil/infografia-como-inyectar-la-hormona-de-crecimiento.webp" alt="Como inyectar hormona del crecimiento. Sigue tu tratamiento de la mano de tu especialista en crecimiento infantil.">
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto pt-15 ">
                 <p><b>Recuerde estos importantes consejos:</b></p> 

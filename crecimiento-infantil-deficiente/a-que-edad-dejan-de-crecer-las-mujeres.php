@@ -64,7 +64,7 @@
                 <p>La mayoría de las mujeres alcanzan su estatura adulta a los 14 o 15 años. Esta edad podría ser más joven dependiendo de cuándo una niña tenga su primer período. Es posible que desee comunicarse con un <a href="/especialistas-en-crecimiento"> médico especialista en crecimiento de Centro Sequoia</a>                    si su hija tiene 15 años y aún no ha comenzado su período.</p>
             </div>
             <div class="tamaño-img ">
-                <img src="/img/banners/Banner-cambios-fisicos.webp" alt="Banner cambios Fisicos">
+                <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"><img src="/img/banners/Banner-cambios-fisicos.webp" alt="Banner cambios Fisicos"></a>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>¿Cuál es la conexión entre la pubertad y el desarrollo de los senos?</b></h2>
@@ -159,7 +159,7 @@
                 <p>El sobrepeso puede afectar los niveles hormonales y señalar el comienzo de la pubertad antes de lo esperado.</p>
             </div>
             <div class="tamaño-img ">
-                <img src="/img/banners/Banner-Pubertad-adelantada-o-atrasada.webp" alt="banner pubertad adelantada">
+                <a href="/generalidades-del-crecimiento-infantil/pubertad-precoz"><img src="/img/banners/Banner-Pubertad-adelantada-o-atrasada.webp" alt="banner pubertad adelantada"></a>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>Nutrición</b></h2>
@@ -173,7 +173,7 @@
                     de otras complicaciones del desarrollo.</p>
             </div>
             <div class="tamaño-img ">
-                <img src="/img/causas-de-la-baja-estatura/Banner-Nutricion-y-Crecimiento-.webp" alt="Banner nutricion y crecimiento">
+                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="/img/causas-de-la-baja-estatura/Banner-Nutricion-y-Crecimiento-.webp" alt="Banner nutricion y crecimiento"></a>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>Cuando ver a un doctor</b></h2>

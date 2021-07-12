@@ -104,7 +104,7 @@
                 <p>La mayoría de las <b> niñas con síndrome de Turner</b> necesitan comenzar la <b> terapia con estrógenos </b> y hormonas relacionadas para comenzar la pubertad. A menudo, la terapia con estrógenos se inicia alrededor de los 11 o 12 años. El estrógeno ayuda a promover el desarrollo de los senos y mejora el tamaño del útero. El estrógeno ayuda con la mineralización ósea y, cuando se usa con la <b> hormona del crecimiento,</b> también puede ayudar con la altura. La terapia de reemplazo de estrógenos generalmente continúa durante toda la vida, hasta que se alcanza la edad promedio de la menopausia.</p>
             </div>
             <div class="tamaño-img ">
-                <img src="/img/causas-de-la-baja-estatura/Banner-Sindrome-de-Williams.webp" alt="Otros síndromes que afectan el crecimiento">
+                <a href="/causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento"><img src="/img/causas-de-la-baja-estatura/Banner-Sindrome-de-Williams.webp" alt="Otros síndromes que afectan el crecimiento"></a>
             </div>
             <div class=" pt-15 justificar-texto-90 ">
                 <h2><b>Síndrome de Turner Causas </b></h2>
@@ -142,7 +142,7 @@
                 <p>En caso de que el médico sospeche que su niña tiene o puede tener síndrome de Turner, este le pedira una prueba de laboratorio para analizar los cromosomas de su niña. El estudio clínico es una toma de sangre. El médico también puede solicitar una frotis bucal o una muestra de piel. El análisis cromosómico determina si falta o no un cromosoma X o una anomalía en uno de los cromosomas X.</p>
             </div>
             <div class="tamaño-img ">
-                <img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hija-1.webp" alt="contacto crecimiento infantil">
+                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hija-1.webp" alt="contacto crecimiento infantil"></a>
             </div>
             <div class=" pt-15 justificar-texto-90  mt-2">
                 <h3><b>Diagnóstico prenatal </b></h3>

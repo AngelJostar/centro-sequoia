@@ -1,238 +1,272 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>https://centrosequoia.com.mx/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>1.00</priority>
+  <loc>https://centrosequoia.com.mx/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/crecimiento-infantil/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://centrosequoia.com.mx/crecimiento-infantil/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/especialistas-en-crecimiento/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://centrosequoia.com.mx/especialistas-en-crecimiento/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/crecimiento-infantil-deficiente/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://centrosequoia.com.mx/crecimiento-infantil-deficiente/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/preguntas-frecuentes/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://centrosequoia.com.mx/preguntas-frecuentes/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/contact/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://centrosequoia.com.mx/casos-de-exito/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/importancia-de-ser-mas-alto</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://centrosequoia.com.mx/contact/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/aviso-de-privacidad/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://centrosequoia.com.mx/importancia-de-ser-mas-alto/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://centrosequoia.com.mx/aviso-de-privacidad/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/crecimiento-infantil-por-edad/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://centrosequoia.com.mx/crecimiento-infantil-por-edad/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/importancia-de-ser-mas-alto/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/importancia-de-ser-mas-alto/pareja/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://centrosequoia.com.mx/crecimiento-infantil-deficiente/a-que-edad-dejan-de-crecer-las-mujeres/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/importancia-de-ser-mas-alto/trabajo/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://centrosequoia.com.mx/crecimiento-infantil-deficiente/hasta-que-edad-crecen-los-hombres/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/importancia-de-ser-mas-alto/deporte/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/como-crecer-de-estatura/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/importancia-de-ser-mas-alto/autoestima/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://centrosequoia.com.mx/importancia-de-ser-mas-alto/pareja/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/importancia-de-ser-mas-alto/trabajo/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/como-medir-a-tu-hijo-de-manera-correcta/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/importancia-de-ser-mas-alto/deporte/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/baja-estatura/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/importancia-de-ser-mas-alto/autoestima/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/graficas-de-crecimiento/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/factores-que-afectan-el-crecimiento/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/como-medir-a-tu-hijo-de-manera-correcta/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/edad-osea/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/baja-estatura/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/pubertad-precoz/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/graficas-de-crecimiento/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/talla_blanco_familiar/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/etapas_del_desarollo_de_tenner/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/edad-osea/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/estiron_puberal/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/pubertad-precoz/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/crecimiento-infantil-por-edad/bebes-0-2/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/talla-blanco-familiar/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/crecimiento-infantil-por-edad/ninos-chicos-2-5/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/crecimiento-infantil-por-edad/ninos-de-6-11/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/estiron-puberal/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/crecimiento-infantil-por-edad/adolecentes-12-16/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/hormona-del-crecimiento/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/baja-estatura-familiar/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/crecimiento-infantil-por-edad/bebes-0-2/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/baja-estatura-idiopatica/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/crecimiento-infantil-por-edad/ninos-chicos-2-5/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/crecimiento-infantil-por-edad/ninos-de-6-11/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/nutricion-malnutricion-y-crecimiento/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/crecimiento-infantil-por-edad/adolecentes-12-16/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/baja-estatura-familiar/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/baja-estatura-idiopatica/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/padecimientos-y-enfermedades-cronicas-que-afectan-el-crecimiento/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento/</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/tablas/verduras.php</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.41</priority>
+  <loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/tablas/productos-de-origen-animal.php</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.41</priority>
+  <loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/padecimientos-y-enfermedades-cronicas-que-afectan-el-crecimiento/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/tablas/leche.php</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.41</priority>
+  <loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/tablas/leguminosas.php</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.41</priority>
+  <loc>https://centrosequoia.com.mx/causas-de-la-baja-estatura/sindrome-de-turner/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/tablas/grasas.php</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.41</priority>
+  <loc>https://centrosequoia.com.mx/index/</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/tablas/azucares.php</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.41</priority>
+  <loc>https://centrosequoia.com.mx/tablas/verduras.php</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.41</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/tablas/cereales-con-grasa.php</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.41</priority>
+  <loc>https://centrosequoia.com.mx/tablas/productos-de-origen-animal.php</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.41</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/tablas/cereales-y-tuberculos.php</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.41</priority>
+  <loc>https://centrosequoia.com.mx/tablas/leche.php</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.41</priority>
 </url>
 <url>
-<loc>https://centrosequoia.com.mx/tablas/frutas.php</loc>
-<lastmod>2021-05-19T16:29:14+00:00</lastmod>
-<priority>0.41</priority>
+  <loc>https://centrosequoia.com.mx/tablas/leguminosas.php</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.41</priority>
 </url>
+<url>
+  <loc>https://centrosequoia.com.mx/tablas/grasas.php</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://centrosequoia.com.mx/tablas/azucares.php</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://centrosequoia.com.mx/tablas/cereales-con-grasa.php</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://centrosequoia.com.mx/tablas/cereales-y-tuberculos.php</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://centrosequoia.com.mx/tablas/frutas.php</loc>
+  <lastmod>2021-07-10T03:03:39+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
 </urlset>

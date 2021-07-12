@@ -266,7 +266,7 @@ function leerMasCategoria() {
             </div>
             </div><div class="textos-principal ph-7 mostrar-media pb-15">
 <p><style>
-  #masTexto{
+  #masTexto1{
     display:none;
   }
   #myBtn1{
@@ -298,8 +298,8 @@ function leerMasCategoria() {
 }
   </style>
 <p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">Muchas veces la </span><a href="https://centrosequoia.com.mx/importancia-de-ser-mas-alto/" data-mce-href="https://centrosequoia.com.mx/importancia-de-ser-mas-alto/" data-mce-fragment="1"><b data-mce-fragment="1">altura</b></a><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1"> está determinada principalmente por los </span><b data-mce-fragment="1">genes</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1"> de las familias. Aproximadamente entre el 60 y el 80% de la diferencia de altura entre individuos está </span><b data-mce-fragment="1">determinada por factores genéticos</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">, mientras que entre el 20 y el 40% puede atribuirse a efectos ambientales, principalmente a la nutrición.</span></p>
-<p style="text-align: center;"><span id="dots">... </span></p>
-<div id="masTexto">
+<p style="text-align: center;"><span id="dots1">... </span></p>
+<div id="masTexto1">
 <p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">Sin embargo, existen algunos consejos y trucos que pueden resultar útiles para lograr una buena altura.</span></p>
 <p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">&nbsp;</span></p>
 <div class="titulos-azules">
@@ -356,21 +356,21 @@ function leerMasCategoria() {
 <p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">Los </span><b data-mce-fragment="1">problemas hormonales</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1"> que afectan el crecimiento o el desarrollo sexual de un adolescente o un niño pueden tener efectos significativos en el bienestar físico y emocional del mismo. En </span><b data-mce-fragment="1">Centro Sequoia</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1"> somos sensibles a estos temas y entendemos a su hijo.</span></p>
 <p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">Nuestro equipo médico está conformado por, </span><b data-mce-fragment="1">médicos endocrinólogos pediatras,</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1"> enfermeras, </span><b data-mce-fragment="1">psicólogos y nutriólogos</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1"> estamos en sintonía con las necesidades de los niños y adolescentes que atendemos. Con el objetivo de lograr que todos nuestros pacientes consigan una mayor estatura.</span><a href="https://centrosequoia.com.mx/contact/" data-mce-href="https://centrosequoia.com.mx/contact/" data-mce-fragment="1"> <b data-mce-fragment="1">¡Contáctanos aquí!</b></a></p>
 </div>
-<p style="text-align: center;"><button id="myBtn1" onclick="leerMasCategoria()">Leer Más</button></p>
+<p style="text-align: center;"><button id="myBtn1" onclick="leerMasCategoria1()">Leer Más</button></p>
 <script>
-function leerMasCategoria() {
-  var dots = document.getElementById("dots");
-  var moreText = document.getElementById("masTexto");
-  var btnText = document.getElementById("myBtn1");
+function leerMasCategoria1() {
+  var dots1 = document.getElementById("dots1");
+  var moreText1 = document.getElementById("masTexto1");
+  var btnText1 = document.getElementById("myBtn1");
 
-  if (dots.style.display === "none") {
-    dots.style.display = "inline";
-    btnText.innerHTML = "Leer Más"; 
-    moreText.style.display = "none";
+  if (dots1.style.display === "none") {
+    dots1.style.display = "inline";
+    btnText1.innerHTML = "Leer Más"; 
+    moreText1.style.display = "none";
   } else {
-    dots.style.display = "none";
-    btnText.innerHTML = "Leer Menos"; 
-    moreText.style.display = "inline";
+    dots1.style.display = "none";
+    btnText1.innerHTML = "Leer Menos"; 
+    moreText1.style.display = "inline";
   }
 }
 </script>
