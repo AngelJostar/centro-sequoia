@@ -90,7 +90,7 @@
                     <div class="tercer-p">
                         <h2 class="font-ciudades">MONTERREY<br>
                             <a href="tel:+811159-2265">
-                                <span>(81) 11592265</span>
+                                <span>Tel: (81) 11592265</span>
                             </a>
                         </h2>
                         <p><span class="font-bold">DIRECCIÓN:</span>Rio Amazonas Ote. #316 Col. Del Valle</p>

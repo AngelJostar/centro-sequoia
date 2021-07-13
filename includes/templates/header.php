@@ -63,15 +63,19 @@
                         </li>
                         <div class="linea-menu"></div>
                     </ul>
-                    <div class="centrar-texto">
-                        <a href="tel:5556876118"><button class="boton-brexia-menu"><span class="color-verde">CDMX:</span><br><span>(55)5687-6118</span></button></a>
+                    <div class="centrar-texto button-menu">
+                        <a href="tel:5556876118"><span class="color-verde">CDMX:</span><br><span>Tel. (55) 5687-6118</span></a>
+                        <a href="https://api.whatsapp.com/send?phone=525559677135&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia.%0A" target="_blank"><span>WA: (55) 5967-7135 </span></a>
                     </div>
-                    <div class="centrar-texto">
-                        <a href="tel:3336152835"><button class="boton-brexia-menu"><span class="color-verde">GDL</span><br><span>(33)3615-2835</span></button></a>
+                    <div class="centrar-texto button-menu">
+                        <a href="tel:3336152825"><span class="color-verde">GDL:</span><br><span>Tel. (33) 36152825</span></a>
+                        <a href="https://api.whatsapp.com/send?phone=525559677135&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia.%0A" target="_blank"><span>WA: (33) 3337-1392</span></a>
                     </div>
-                    <div class="centrar-texto">
-                        <a href="tel:8111592265"><button class="boton-brexia-menu"><span class="color-verde">MTY</span><br><span>(81)1159-2265</span></button></a>
+                    <div class="centrar-texto button-menu">
+                        <a href="tel:8111592265"><span class="color-verde">MTY</span><br><span>Tel: (81) 11592265</span></a>
                     </div>
+
+
                     <div class="redes-footer ">
                         <div class="wow fadeInDown" data-wow-delay="0.1s">
                             <div class="widget">

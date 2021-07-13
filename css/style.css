@@ -90,6 +90,42 @@ img {
     }
 }
 
+.top-header-inter-temp {
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.top-header-inter-temp-p1 {
+    color: #b5cd59;
+    margin: 0;
+    font-size: 1.7em;
+}
+
+.top-header-inter-temp-p2 {
+    color: white;
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.top-header-inter-temp .fa-greater-than {
+    color: #b5cd59;
+    font-size: 1.2em;
+    padding-left: 0.7em;
+}
+
+@media (max-width:767px) {
+    .top-header-inter-temp-p1 {
+        font-size: 1.2em;
+    }
+    .top-header-inter-temp-p2 {
+        font-size: 1em;
+    }
+}
+
 .mid-header {
     margin: 0 auto 0;
     padding-top: 3.2rem;
@@ -332,6 +368,24 @@ img {
     padding: 0!important;
 }
 
+.button-menu {
+    background: #00205e;
+    height: 6rem;
+    width: 18rem;
+    text-align: center!important;
+    margin: 0 auto;
+    margin-bottom: 1em;
+}
+
+.button-menu span {
+    color: white;
+    font-weight: 500;
+}
+
+.button-menu a {
+    padding-top: 0.2em;
+}
+
 .linea-menu {
     border-top: 1px solid #a79a9a;
     margin: 0 auto;
@@ -464,9 +518,11 @@ img {
         max-width: 100%;
         margin-left: 23px
     }
+    /*
     .top-header p {
         font-size: 12px
     }
+    */
     .top-header {
         padding-top: .8rem;
         padding-bottom: .8rem
@@ -645,8 +701,8 @@ a {
 }
 
 .font-ciudades {
-    font-size: 5vw;
-    font-weight: 900;
+    font-size: 6vw;
+    font-weight: 700;
     text-align: center;
     color: #c0d41f;
     margin: 18px 0 0 0;
@@ -654,8 +710,7 @@ a {
 }
 
 .font-ciudades span {
-    font-weight: 600;
-    font-weight: 900;
+    font-weight: 700;
     text-align: center;
     color: #c0d41f
 }
@@ -1135,10 +1190,11 @@ div.youtube-play:hover {
 
 .letras-blue-footer {
     font-weight: 700;
-    font-size: 10px;
+    font-size: 17px;
     color: #00205e;
     text-align: center;
-    margin: 0
+    margin: 0;
+    margin-bottom: 0.4em;
 }
 
 .pb-15 {
@@ -1916,7 +1972,6 @@ th {
 .texto-imagen-footer {
     font-weight: 700;
     position: absolute;
-    top: 20px;
     left: 0;
     right: 0;
     bottom: 0;
@@ -2307,7 +2362,7 @@ th {
         max-height: 55em
     }
     .texto-imagen-footer {
-        top: 60px
+        top: 18px
     }
     .ocultar-media {
         display: none

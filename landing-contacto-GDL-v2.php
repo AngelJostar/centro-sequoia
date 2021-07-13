@@ -53,10 +53,11 @@
             <div class="contacto-box">
                 <div>
                     <div class="tercer-p">
-                        <h2 class="font-ciudades">GUADALAJARA<br>
-                            <a href="tel:+333615-2825">
-                                <span>(33) 36152825</span>
-                            </a>
+                        <h2 class="font-ciudades">Guadalajara<br>
+                                <a href="tel:333615-2825">
+                                    <span>Tel. (33) 36152825</span>
+                                </a> <br>
+                                <a href="https://api.whatsapp.com/send?phone=523333371392&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia.%0A" target="_blank"><span>WA: (33) 3337-1392</span></a>
                         </h2>
                         <p><span class="font-bold">DIRECCIÓN:</span> José María Vigil #2750, Colonia Providencia,</p>
                         <p>C.P.44639, Guadalajara, Jalisco</p>

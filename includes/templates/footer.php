@@ -13,25 +13,29 @@
             </div>
             <div class="">
                 <div class="letras-blue-footer">
-                    <p>CDMX - Colonia Del Valle:</p>
+                    <p>CDMX - Colonia del Valle:</p>
                 </div>
                 <div class="texto-footer">
                     <a href="tel:555687-6118">
-                        <p>Tel: (55) 5687-6118</p>
+                        <p style="padding-bottom: 0px;">Tel. (55) 5687-6118</p>
+                    </a>
+                    <a href="tel:5s55687-6118">
+                        <p >WA: (55) 5967-7135</p>
                     </a>
                 </div>
                 <div class="letras-blue-footer">
-                    <p>Guadalajara – Colonia Providencia:</p>
+                    <p>Guadalajara:</p>
                 </div>
                 <div class="texto-footer">
                     <a href="tel:333615-2835">
-                        <p>Tel: (33) 3615-2835</p>
+                        <p style="padding-bottom: 0px;">Tel. (33) 3615-2835</p>
+                    </a>
+                    <a href="tel:333615-2835">
+                        <p>WA: (33) 3337-1382</p>
                     </a>
                 </div>
                 <div class="letras-blue-footer">
-                    <p>Monterrey / San Pedro – Centrito Valle:
-
-                    </p>
+                    <p>Monterrey:</p>
                 </div>
                 <div class="texto-footer">
                     <a href="tel:811159-2265">
@@ -77,19 +81,25 @@
                 <div class="texto-footer">
                     <p class="letras-blue-footer">CDMX</p>
                     <a href="tel:555687-6118">
-                        <p>(55) 5687-6118</p>
+                        <p>Tel. (55) 5687-6118</p>
+                    </a>
+                    <a href="tel:5s55687-6118">
+                        <p>WA: (55) 5967-7135</p>
                     </a>
                 </div>
                 <div class="texto-footer">
                     <p>GDL</p>
                     <a href="tel:333615-2835">
-                        <p>(33) 3615-2835</p>
+                        <p>Tel. (33) 3615-2835</p>
+                    </a>
+                    <a href="tel:333615-2835">
+                        <p>WA: (33) 3337-1382</p>
                     </a>
                 </div>
                 <div class="texto-footer">
                     <p>MTY</p>
                     <a href="tel:811159-2265" >
-                        <p>(81) 1159-2265</p>
+                        <p>Tel. (81) 1159-2265</p>
                     </a>
                 </div>
             </div>
@@ -106,7 +116,7 @@
             <div class="redes-footer">
                 <div class="wow fadeInDown" data-wow-delay="0.1s">
                     <div class="widget">
-                        <ul style="padding-top: 80px;" class="company-social">
+                        <ul style="" class="company-social">
                             <li class="social-facebook"><a href="https://www.facebook.com/centrosequoia/" target="_blank" rel="noopener"><i class="fab fa-facebook-f fa-2x"></i></a></li>
                             <li class="social-youtube"><a href="https://www.youtube.com/watch?v=ygP78ev4eQI" target="_blank" rel="noopener"><i class="fab fa-youtube fa-2x"></i></a></li>
                             <li class="social-whatsapp"><a href="https://api.whatsapp.com/send?phone=525559677135&text=%F0%9F%8D%83%20Hola!%20%0AQuiero%20informaci%C3%B3n%20de%20Centro%20Sequoia." target="_blank" rel="noopener"><i class="fab fa-whatsapp fa-2x"></i></a></li>

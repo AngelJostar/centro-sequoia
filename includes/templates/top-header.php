@@ -1,4 +1,18 @@
 <div id="top-header" class="top-header">
+
+
+    <div class="top-header-inter-temp">
+            <div>
+                <a href="/contact"><p class="top-header-inter-temp-p1">Llamanos, estamos disponibles</p></a>
+                <a href="/contact"><p class="top-header-inter-temp-p2">Centro en CDMX, Guadalajara y Monterrey</p></a>
+            </div>
+            <div>
+                <a href="/contact"><i class="fas fa-greater-than top-header-inter-temp-i"></i></a>
+            </div>
+    </div>
+
+
+    <!-- 
     <div class="top-header-inter">
         <img class="top-header-icono" src="/img/banners/Telefono web sequoia-01.webp" alt="">
         <a href="tel:5556876118">
@@ -27,4 +41,7 @@
             </span>
         </a>
     </div>
+    -->
+
+
 </div>
