@@ -1,5 +1,4 @@
 <div class="caja-imagen-footer">
-    <img class="img-footer" src="/img/index/fondo-footer.webp" alt="">
     <div class="texto-imagen-footer">
         <footer class="contenedor-footer ocultar-media">
             <div class="texto-footer">
