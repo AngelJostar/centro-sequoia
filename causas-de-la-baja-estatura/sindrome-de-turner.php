@@ -36,6 +36,9 @@
                     </div>
                 </div>
             </div>
+            <div class="justificar-texto-85 justificar-derecha-texto mt-2">
+                <p class="crecer-mujeres-font-cursivas"><em> “Revisado médicamente por el equipo de Centro Sequoia, México” – Actualizado el 25 de Enero del 2021"</em></p>
+            </div>
             <div class="contenedor-video mt-2">
                 <div class="reproductor" data-id="IhbFXF61kTM"></div>
             </div>
