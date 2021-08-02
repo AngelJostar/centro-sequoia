@@ -25,6 +25,8 @@
         <?php include_once 'includes/templates/header.php';?>
 
         <div class="contenedor-principal" id="contenedor-principal">
+
+        
             <div class="cuadros-crecimiento">
                         <div class="">
                             <div class="flexbox padre">
@@ -36,24 +38,30 @@
                     </div>
                 </div>
             </div>
+            <div class="sombras-img tamaño-img ocultar">
+                    <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto" alt="Portada">
+                </div>
+                <div class="sombras-img tamaño-img mostrar">
+                    <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="auto" height="auto" alt="Portada">
+                </div>
             <div class="centrar-div pt-1p">
 
                 <div>
                     <h2 class="about-us-h2">Quienes somos</h2>
                     <div>
-                        <h3 class="about-us-h3">Bienvenido</h3>
-                        <h3 class="about-us-h3">Acerca de nosotros</h3>
-                        <h3 class="about-us-h3">Conoce nuestros editores médicos</h3>
-                        <h3 class="about-us-h3">Acreditaciones y premios</h3>
-                        <h3 class="about-us-h3">Contacto</h3>
+                        <h3 class="about-us-h3"><a class="effect-underline" href="/contact">Bienvenido</a></h3>
+                        <h3 class="about-us-h3"><a class="effect-underline" href="/contact">Acerca de nosotros</a></h3>
+                        <h3 class="about-us-h3"><a class="effect-underline" href="/contact">Conoce nuestros editores médicos</a></h3>
+                        <h3 class="about-us-h3"><a class="effect-underline" href="/contact">Acreditaciones y premios</a></h3>
+                        <h3 class="about-us-h3"><a class="effect-underline" href="/contact">Contacto</a></h3>
                     </div>
                 </div>
                 <div class=""> 
                     <h2 class="about-us-h2 ">Nuestras políticas</h2>
                     <div>
-                        <h3 class="about-us-h3">Política de desarrollo de contenido</h3>
-                        <h3 class="about-us-h3">Política sobre los términos y condiciones de uso</h3>
-                        <h3 class="about-us-h3">Aviso de privacidad</h3>
+                        <h3 class="about-us-h3"><a class="effect-underline" href="/contact">Política de desarrollo de contenido</a></h3>
+                        <h3 class="about-us-h3"><a class="effect-underline" href="/contact">Política sobre los términos y condiciones de uso</a></h3>
+                        <h3 class="about-us-h3"><a class="effect-underline" href="/contact">Aviso de privacidad</a></h3>
                     </div>
                 </div>
             </div>
