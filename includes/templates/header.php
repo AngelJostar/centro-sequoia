@@ -68,7 +68,7 @@
                         <a href="https://api.whatsapp.com/send?phone=525559677135&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia.%0A" target="_blank"><span>WA: (55) 5967-7135 </span></a>
                     </div>
                     <div class="centrar-texto button-menu">
-                        <a href="tel:3336152825"><span class="color-verde">GDL:</span><br><span>Tel. (33) 36152825</span></a>
+                        <a href="tel:3336152835"><span class="color-verde">GDL:</span><br><span>Tel. (33) 36152835</span></a>
                         <a href="https://api.whatsapp.com/send?phone=525559677135&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia.%0A" target="_blank"><span>WA: (33) 3337-1392</span></a>
                     </div>
                     <div class="centrar-texto button-menu">
