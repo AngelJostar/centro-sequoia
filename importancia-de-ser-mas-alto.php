@@ -165,18 +165,66 @@
             <div class="ocultar-media">
                 <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="Banner, tu hijo puede ser más alto CONTÁCTANOS"></a>
             </div>
-            <div class="tamaño-img mostrar-media ph-1">
-                <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
-            </div>
 
-             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
-            <div class="titulos-principal">
-            <h2><span class="font-bold">¿Cómo ser más alto? Te ayudamos a alcanzar la estatura ideal?</span></h2>
-            </div>
-            </div>
-            <div class="textos-principal ph-7 mostrar-media pb-15">
-<p><style>
-  #masTexto{
+<div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
+<div class="titulos-principal">
+    <div class="barra-titulo"></div>
+<h2><span class="font-bold">¿Cómo ser más alto? Te ayudamos a alcanzar la estatura ideal?</span></h2>
+</div>
+<div class="barra-titulo"></div>
+</div>
+<div class="textos-principal ph-7 mostrar-media pb-15">
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">La pregunta de </span><a data-mce-fragment="1" href="https://centrosequoia.com.mx/importancia-de-ser-mas-alto/" data-mce-href="https://centrosequoia.com.mx/importancia-de-ser-mas-alto/"><b data-mce-fragment="1">cómo ser más alto</b></a><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> se asocia con muchas ventajas en la vida. Se ha estudiado que </span><b data-mce-fragment="1">las personas más altas tienden a ganar más y son más populares</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> en los sitios de citas en línea. Asimismo, los economistas han especulado durante mucho tiempo sobre qué hace que las personas altas tengan más éxito.</span></p>
+<p style="text-align: center;"><span id="dots">... </span></p>
+<div id="masTexto">
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Una explicación común era que </span><b data-mce-fragment="1">ser más alto</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> implicaba mejores habilidades sociales derivadas de ser un adolescente atractivo y muy conocido. Se suponía que una juventud positiva aumentaría la confianza en uno mismo y con ella las claves para una vida llena de éxitos.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">La teoría de que </span><a href="https://centrosequoia.com.mx/importancia-de-ser-mas-alto/pareja/" data-mce-href="https://centrosequoia.com.mx/importancia-de-ser-mas-alto/pareja/"><b data-mce-fragment="1">las personas altas son más agradables</b></a><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> parecía una explicación plausible de sus mayores ingresos. Lo bueno de ser alto.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">&nbsp;</span></p>
+<div class="titulos-azules">
+<h2>¿La altura tiene que ver con la genética?</h2>
+</div>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Es importante saber que el factor principal que influye en la altura de una persona es </span><a href="https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/factores-que-afectan-el-crecimiento/" data-mce-href="https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/factores-que-afectan-el-crecimiento/"><b data-mce-fragment="1">su composición genética</b></a><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">. A pesar de ello, muchos otros factores pueden influir en la altura durante el desarrollo, incluida la </span><b data-mce-fragment="1">nutrición, las hormonas, los niveles de actividad y las afecciones médicas.</b></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Las investigaciones científicas han llegado a la conclusión de que </span><b data-mce-fragment="1">la composición genética, </b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">o ADN, es responsable de</span><b data-mce-fragment="1"> aproximadamente el 80% de la altura de una persona.</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> Esto significa que las personas altas tienden a tener hijos que también crecen para ser más altos, por ejemplo.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Los especialistas de </span><b data-mce-fragment="1">Centro Sequoia</b> <span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">resolverán tus dudas sobre; como estar más alto, los factores que afectan la altura de una persona, a que estatura se considera alto, algunas formas en que las personas </span><a href="https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/como-crecer-de-estatura/" data-mce-href="https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/como-crecer-de-estatura/"><b data-mce-fragment="1">pueden aumentar la altura</b></a><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> durante el desarrollo y si los adultos pueden aumentar su altura o no.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">&nbsp;</span></p>
+<div class="titulos-azules">
+<h2>La respuesta al cómo aumentar estatura tiene que ver con la alimentación</h2>
+</div>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">La </span><a href="https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/factores-que-afectan-el-crecimiento/" data-mce-href="https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/factores-que-afectan-el-crecimiento/"><b data-mce-fragment="1">alimentación</b></a><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> durante la etapa infantil complementaria inadecuada y la falta exagerada de </span><b data-mce-fragment="1">nutrientes</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> vitales además de la </span><b data-mce-fragment="1">ingesta calórica</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> pura es una de las causas más frecuentes del retraso en el crecimiento.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Los niños deben de alimentarse con dietas que cumplan los requisitos mínimos en términos de frecuencia y diversidad para </span><b data-mce-fragment="1">prevenir la desnutrición</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">. Se recomienda la lactancia materna exclusiva durante los primeros seis meses de vida y </span><b data-mce-fragment="1">la ingesta complementaria de alimentos nutritivos</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> junto con la lactancia materna para los </span><b data-mce-fragment="1">niños de seis meses a dos años de edad.</b></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">La </span><b data-mce-fragment="1">lactancia materna prolongada se asocia con desnutrición</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> porque la leche materna sola es nutricionalmente insuficiente para los niños mayores de seis meses. Además conduce a un retraso en el crecimiento debido a la insuficiencia de nutrientes que son esenciales para el desarrollo infantil.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">&nbsp;</span></p>
+<div class="titulos-azules">
+<h2>¿Qué es el retraso del crecimiento?</h2>
+</div>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">El retraso en el crecimiento es una </span><b data-mce-fragment="1">manifestación primaria de desnutrición</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> e infecciones recurrentes, como diarrea y </span><b data-mce-fragment="1">helmintiasis,</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> en la primera infancia e incluso antes del nacimiento, debido a la desnutrición durante el desarrollo fetal provocada por </span><b data-mce-fragment="1">una madre desnutrida.</b></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">La definición de retraso del crecimiento según la Organización Mundial de la Salud (OMS) es que el valor de "altura para la edad" sea inferior a dos desviaciones estándar de la mediana de los patrones de crecimiento infantil de la OMS.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Hace casi 10 años, se estimaba que aproximadamente 162 millones de niños menores de 5 años, o el 25%, sufrían retraso en el crecimiento. </span><b data-mce-fragment="1">Más del 90% de los niños con retraso en el crecimiento del mundo viven en África y Asia</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">, donde, respectivamente, el 36% y el 56% de los niños se ven afectados. Lo peor de todo respecto al retraso del crecimiento y sus efectos suelen volverse permanentes.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Es posible que los niños con retraso del crecimiento nunca</span><b data-mce-fragment="1"> recuperen la altura perdida</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> y la mayoría de los niños nunca ganarán el peso corporal correspondiente. Vivir en un entorno en el que muchas personas defecan al aire libre debido a la falta de saneamiento es una causa importante del retraso en el crecimiento de los niños, por ejemplo, en la India.</span></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Los </span><a href="https://centrosequoia.com.mx/blog/2021/07/12/hormona-del-crecimiento/" data-mce-href="https://centrosequoia.com.mx/blog/2021/07/12/hormona-del-crecimiento/"><b data-mce-fragment="1">problemas hormonales</b></a><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> que afectan el crecimiento o el desarrollo sexual de un adolescente o un niño pueden tener efectos significativos en el bienestar físico y emocional del mismo. En </span><b data-mce-fragment="1">Centro Sequoia</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> somos sensibles a estos temas y entendemos a su hijo.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Nuestro equipo médico está conformado por, </span><b data-mce-fragment="1"><a href="https://centrosequoia.com.mx/especialistas-en-crecimiento/">médicos endocrinólogos pediatras</a>,</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> enfermeras, </span><b data-mce-fragment="1">psicólogos y nutriólogos</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> estamos en sintonía con las necesidades de los niños y adolescentes que atendemos. Con el objetivo de lograr que todos nuestros pacientes consigan una mayor estatura.</span><a data-mce-fragment="1" href="https://centrosequoia.com.mx/contact/" data-mce-href="https://centrosequoia.com.mx/contact/"> <b data-mce-fragment="1">¡Contáctanos aquí!</b></a></p>
+</div>
+<p style="text-align: center;"><button id="myBtn" onclick="leerMasCategoria()">Leer Más</button></p>
+<script>
+function leerMasCategoria() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("masTexto");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Leer Más"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Leer Menos"; 
+    moreText.style.display = "inline";
+  }
+}
+</script></div>
+<style><!--
+#masTexto{
     display:none;
   }
   #myBtn{
@@ -206,64 +254,14 @@
       color: #fff;
       line-height: normal;
 }
-  </style>
-
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">La pregunta de </span><a href="https://centrosequoia.com.mx/importancia-de-ser-mas-alto/" data-mce-fragment="1" data-mce-href="https://centrosequoia.com.mx/importancia-de-ser-mas-alto/"><b data-mce-fragment="1">cómo ser más alto</b></a><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> se asocia con muchas ventajas en la vida. Se ha estudiado que </span><b data-mce-fragment="1">las personas más altas tienden a ganar más y son más populares</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> en los sitios de citas en línea. Asimismo, los economistas han especulado durante mucho tiempo sobre qué hace que las personas altas tengan más éxito.</span></p>
-<p style="text-align: center;"><span id="dots">... </span></p>
-<div id="masTexto">
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Una explicación común era que </span><b data-mce-fragment="1">ser más alto</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> implicaba mejores habilidades sociales derivadas de ser un adolescente atractivo y muy conocido. Se suponía que una juventud positiva aumentaría la confianza en uno mismo y con ella las claves para una vida llena de éxitos.</span></p>
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">La teoría de que </span><b data-mce-fragment="1">las personas altas son más agradables</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> parecía una explicación plausible de sus mayores ingresos. Lo bueno de ser alto.</span></p>
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">&nbsp;</span></p>
-<div class="titulos-azules">
-<h2>¿La altura tiene que ver con la genética?</h2>
-</div>
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Es importante saber que el factor principal que influye en la altura de una persona es </span><b data-mce-fragment="1">su composición genética</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">. A pesar de ello, muchos otros factores pueden influir en la altura durante el desarrollo, incluida la </span><b data-mce-fragment="1">nutrición, las hormonas, los niveles de actividad y las afecciones médicas.</b></p>
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Las investigaciones científicas han llegado a la conclusión de que </span><b data-mce-fragment="1">la composición genética, </b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">o ADN, es responsable de</span><b data-mce-fragment="1"> aproximadamente el 80% de la altura de una persona.</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> Esto significa que las personas altas tienden a tener hijos que también crecen para ser más altos, por ejemplo.</span></p>
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Los especialistas de </span><b data-mce-fragment="1">Centro Sequoia</b> <span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">resolverán tus dudas sobre; como estar más alto, los factores que afectan la altura de una persona, a que estatura se considera alto, algunas formas en que las personas </span><b data-mce-fragment="1">pueden aumentar la altura</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> durante el desarrollo y si los adultos pueden aumentar su altura o no.</span></p>
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">&nbsp;</span></p>
-<div class="titulos-azules">
-<h2>La respuesta al cómo aumentar estatura tiene que ver con la alimentación</h2>
-</div>
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">La </span><b data-mce-fragment="1">alimentación</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> durante la etapa infantil complementaria inadecuada y la falta exagerada de </span><b data-mce-fragment="1">nutrientes</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> vitales además de la </span><b data-mce-fragment="1">ingesta calórica</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> pura es una de las causas más frecuentes del retraso en el crecimiento.</span></p>
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Los niños deben de alimentarse con dietas que cumplan los requisitos mínimos en términos de frecuencia y diversidad para </span><b data-mce-fragment="1">prevenir la desnutrición</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">. Se recomienda la lactancia materna exclusiva durante los primeros seis meses de vida y </span><b data-mce-fragment="1">la ingesta complementaria de alimentos nutritivos</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> junto con la lactancia materna para los </span><b data-mce-fragment="1">niños de seis meses a dos años de edad.</b></p>
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">La </span><b data-mce-fragment="1">lactancia materna prolongada se asocia con desnutrición</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> porque la leche materna sola es nutricionalmente insuficiente para los niños mayores de seis meses. Además conduce a un retraso en el crecimiento debido a la insuficiencia de nutrientes que son esenciales para el desarrollo infantil.</span></p>
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">&nbsp;</span></p>
-<div class="titulos-azules">
-<h2>¿Qué es el retraso del crecimiento?</h2>
-</div>
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">El retraso en el crecimiento es una </span><b data-mce-fragment="1">manifestación primaria de desnutrición</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> e infecciones recurrentes, como diarrea y </span><b data-mce-fragment="1">helmintiasis,</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> en la primera infancia e incluso antes del nacimiento, debido a la desnutrición durante el desarrollo fetal provocada por </span><b data-mce-fragment="1">una madre desnutrida.</b></p>
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">La definición de retraso del crecimiento según la Organización Mundial de la Salud (OMS) es que el valor de "altura para la edad" sea inferior a dos desviaciones estándar de la mediana de los patrones de crecimiento infantil de la OMS.</span></p>
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Hace casi 10 años, se estimaba que aproximadamente 162 millones de niños menores de 5 años, o el 25%, sufrían retraso en el crecimiento. </span><b data-mce-fragment="1">Más del 90% de los niños con retraso en el crecimiento del mundo viven en África y Asia</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">, donde, respectivamente, el 36% y el 56% de los niños se ven afectados. Lo peor de todo respecto al retraso del crecimiento y sus efectos suelen volverse permanentes.</span></p>
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Es posible que los niños con retraso del crecimiento nunca</span><b data-mce-fragment="1"> recuperen la altura perdida</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> y la mayoría de los niños nunca ganarán el peso corporal correspondiente. Vivir en un entorno en el que muchas personas defecan al aire libre debido a la falta de saneamiento es una causa importante del retraso en el crecimiento de los niños, por ejemplo, en la India.</span></p>
-<br data-mce-fragment="1">
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Los </span><b data-mce-fragment="1">problemas hormonales</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> que afectan el crecimiento o el desarrollo sexual de un adolescente o un niño pueden tener efectos significativos en el bienestar físico y emocional del mismo. En </span><b data-mce-fragment="1">Centro Sequoia</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> somos sensibles a estos temas y entendemos a su hijo.</span></p>
-<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Nuestro equipo médico está conformado por, </span><b data-mce-fragment="1">médicos endocrinólogos pediatras,</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> enfermeras, </span><b data-mce-fragment="1">psicólogos y nutriólogos</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> estamos en sintonía con las necesidades de los niños y adolescentes que atendemos. Con el objetivo de lograr que todos nuestros pacientes consigan una mayor estatura.</span><a href="https://centrosequoia.com.mx/contact/" data-mce-fragment="1" data-mce-href="https://centrosequoia.com.mx/contact/"> <b data-mce-fragment="1">¡Contáctanos aquí!</b></a></p>
-</div>
-<p style="text-align: center;"><button id="myBtn" onclick="leerMasCategoria()">Leer Más</button></p>
-<script>
-function leerMasCategoria() {
-  var dots = document.getElementById("dots");
-  var moreText = document.getElementById("masTexto");
-  var btnText = document.getElementById("myBtn");
-
-  if (dots.style.display === "none") {
-    dots.style.display = "inline";
-    btnText.innerHTML = "Leer Más"; 
-    moreText.style.display = "none";
-  } else {
-    dots.style.display = "none";
-    btnText.innerHTML = "Leer Menos"; 
-    moreText.style.display = "inline";
-  }
-}
-</script>
-
-        </div>
+--></style>
 
              <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
             <div class="titulos-principal">
+                <div class="barra-titulo"></div>
             <h2><span class="font-bold">En Centro Sequoia te decimos cómo aumentar tu estatura</span></h2>
             </div>
+            <div class="barra-titulo"></div>
             </div><div class="textos-principal ph-7 mostrar-media pb-15">
 <p><style>
   #masTexto1{

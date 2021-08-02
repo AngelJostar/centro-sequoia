@@ -48,7 +48,7 @@
                 <a href="/contact"><button class="boton-e boton-esp">CONTACTO</button></a>
             </div>
             <div class="centrar-texto texto-boton-esp pb-2">
-                <a href="/index"><button class="boton-e boton-esp">WEB</button></a>
+                <a href="https://centrosequoia.com.mx/"><button class="boton-e boton-esp">WEB</button></a>
             </div>
             <div class="centrar-texto texto-boton-esp pb-2">
                 <a href="https://blog-centro-sequoia.blogspot.com/"><button class="boton-e boton-esp">BLOG</button></a>

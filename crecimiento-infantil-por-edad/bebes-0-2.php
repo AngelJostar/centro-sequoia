@@ -110,7 +110,7 @@
                 <p>Basándonos en las indicaciones de la OMS, podemos calcular el crecimiento del bebé y el niño mes a mes, basándonos en si es niño o niña, en su edad.</p>
             </div>
             <div class="tamaño-img centrar-imagen pb-30">
-                <img src="/img/nueva/imagen-bebe.webp" alt="Brexia_especialistas">
+                <img src="/img/nueva/imagen-bebe.webp" alt="Brexia especialistas">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">
@@ -126,10 +126,10 @@
                 </div>
             </div>
             <div class="tamaño-img centrar-imagen pt-2">
-                <img src="/img/nueva/longitud1.webp" alt="Brexia_especialistas">
+                <img src="/img/nueva/longitud1.webp" alt="Longitud para niñas">
             </div>
             <div class="tamaño-img centrar-imagen pt-2 pb-30">
-                <img src="/img/nueva/longitud2.webp" alt="Brexia_especialistas">
+                <img src="/img/nueva/longitud2.webp" alt="Longitud para niños">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">
@@ -137,13 +137,13 @@
                 </div>
             </div>
             <div class="tamaño-img centrar-imagen pt-2">
-                <img src="/img/nueva/peso1.webp" alt="Brexia_especialistas">
+                <img src="/img/nueva/peso1.webp" alt="Peso ideal Niñas">
             </div>
             <div class="tamaño-img centrar-imagen pt-2">
-                <img src="/img/nueva/peso2.webp" alt="Brexia_especialistas">
+                <img src="/img/nueva/peso2.webp" alt="Peso ideal Niños">
             </div>
             <div class="tamaño-img centrar-imagen pb-30">
-                <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"><img src="/img/nueva/Banner-Graficas-de-Crecimiento.webp" alt="Brexia_especialistas"></a>
+                <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"><img src="/img/nueva/Banner-Graficas-de-Crecimiento.webp" alt="Crecimientos Percentiles"></a>
             </div>
 
           <div class="cuadros-crecimiento">

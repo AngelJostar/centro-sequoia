@@ -121,6 +121,90 @@
             <div class=" tamaño-img mostrar-media ph-2 contenedor-50porciento">
                 <a href="/especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="Banner, especialistas adecuados para tratar el crecimiento de tu hijo."></a>
             </div>
+            
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+            <div class="titulos-principal">
+            <div class="barra-titulo"></div>
+            <h2><span class="font-bold">Crecimiento y desarrollo en los niños: infórmate de todo</span></h2>
+            </div>
+            </div>
+            <div class="barra-titulo"></div>
+             <div class="justificar-texto-85 justificar-derecha-texto  pt-1p">
+                 <style><!--
+#masTexto{
+    display:none;
+  }
+  #myBtn{
+    display: inline-block;
+      margin-bottom: 0;
+      font-weight: 500;
+      text-align: center;
+      text-transform: uppercase;
+      vertical-align: middle;
+      touch-action: manipulation;
+      cursor: pointer;
+      background-image: none;
+      border: 1px solid transparent;
+      white-space: nowrap;
+      padding: 20px 30px;
+      font-size: 12px;
+      line-height: 2;
+      border-radius: 0;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      position: relative;
+      z-index: 1;
+      background-color: #000000 !important;
+      border: 1px solid #000000 !important;
+      color: #fff;
+      line-height: normal;
+}
+--></style>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">El </span><b data-mce-fragment="1">crecimiento y desarrollo</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> es vital en todos los seres humanos, básicamente esto es lo que hace que podamos completar nuestro ciclo. Por ello, el </span><a href="https://centrosequoia.com.mx/crecimiento-infantil/" data-mce-fragment="1" data-mce-href="https://centrosequoia.com.mx/crecimiento-infantil/"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">crecimiento y desarrollo</span></a><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> en los niños debe estar puesto bajo la lupa todo el tiempo.</span></p>
+<p style="text-align: center;"><span id="dots">... </span></p>
+<div id="masTexto">
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">¿Qué tiene de importante conocer el desarrollo en niños? ¡Fácil! Es de vital importancia debido a que diferentes afecciones pueden interrumpir su desarrollo e incluso, tener mayores consecuencias. Sin embargo, antes de iniciar debemos aclarar estos dos conceptos.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Al crecer los niños, se desarrollan de diferentes maneras. El </span><b data-mce-fragment="1">desarrollo</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> del niño incluye cambios físicos, intelectuales, sociales y emocionales. Los niños crecen y maduran a velocidades muy distintas. Es difícil definir lo que es "normal".&nbsp;</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Pueden existir grandes diferencias de altura, peso y contextura entre los niños sanos dependiendo de la dieta, el ejercicio y los genes. Algunos niños comienzan la pubertad o están cerca de ella antes de ser adolescentes.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Se entiende por </span><b data-mce-fragment="1">crecimiento</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> al aumento del peso y de las dimensiones de todo el organismo y de las partes que lo conforman; se expresa en kilogramos y se mide en centímetros. El </span><b data-mce-fragment="1">desarrollo</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> implica la bio diferenciación y madurez de las células y se refiere a la adquisición de destrezas y habilidades en varias etapas de la vida.</span></p>
+<h1 data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">¿Por qué se relacionan entre sí?</span></h1>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">El </span><b data-mce-fragment="1">crecimiento y desarrollo</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> en niños es un proceso vital para el desarrollo total y completo de su proceso de vida. Sin embargo, muchas veces se pueden confundir ya que son términos parecidos.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Su relación principal radica en que el </span><b data-mce-fragment="1">desarrollo</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> es un proceso que conlleva al crecimiento del niño, por lo que si no hay un correcto proceso del desarrollo, el </span><b data-mce-fragment="1">crecimiento</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> del niño no se puede dar.</span></p>
+<h2 data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Etapas del crecimiento de los niños</span></h2>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Las cuatro principales etapas del crecimiento de los niños son: </span><b data-mce-fragment="1">lactancia</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">, </span><b data-mce-fragment="1">años preescolares</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">, la </span><b data-mce-fragment="1">pubertad</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> y la </span><b data-mce-fragment="1">adolescencia</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">. En este caso, cuando el joven llega a la adolescencia se considera que ha terminado su ciclo de </span><a href="https://centrosequoia.com.mx/crecimiento-infantil/" data-mce-fragment="1" data-mce-href="https://centrosequoia.com.mx/crecimiento-infantil/"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">desarrollo y crecimiento</span></a><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Un niño sano seguirá una curva de crecimiento individual a pesar de las variaciones en la ingesta de nutrientes. Los padres deben proporcionar al niño una dieta apropiada para cada edad y ofrecerle una amplia variedad de alimentos para garantizar una nutrición adecuada para fomentar su </span><b data-mce-fragment="1">desarrollo y crecimiento</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Todos los niños de edades comprendidas entre los </span><b data-mce-fragment="1">primeros meses de la vida y los tres años </b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">deben acudir a su revisión periódica con el pediatra para que los mida y los pese, lo que le permitirá en cada caso orientar a los padres en su manejo.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Pero, a pesar de que hay cosas que podemos controlar y cosas que no, el desarrollo y crecimiento involucra diversos factores.</span></p>
+<h1 data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Indicadores del crecimiento y desarrollo</span></h1>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Hasta la edad de 5 años, los niños están descubriendo su entorno, por lo que es normal que sean tan curiosos. Los </span><a href="https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/hormona-del-crecimiento/" data-mce-fragment="1" data-mce-href="https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/hormona-del-crecimiento/"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">niños en crecimiento</span></a><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> también tienen otras necesidades importantes, entre las que destacan la conformación de su identidad.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">En este punto, los 5 primeros años de </span><b data-mce-fragment="1">crecimiento y desarrollo</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> son importantes. Los padres deben prestar especial atención en los sentidos primarios por los que nos regimos, cosas sencillas como que el bebé sonría, intente dar sus primeros pasos o intente hablar son signos del </span><b data-mce-fragment="1">crecimiento de un niño</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Un factor importante en este punto podría ser la alimentación y la </span><a href="https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/hormona-del-crecimiento/" data-mce-fragment="1" data-mce-href="https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/hormona-del-crecimiento/"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">hormona del crecimiento</span></a><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">. Esto repercutirá de inmediato en su </span><a href="https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/como-crecer-de-estatura/" data-mce-fragment="1" data-mce-href="https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/como-crecer-de-estatura/"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">estatura</span></a><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> y como padre, debes de saber que hay una forma de hacer crecer a tu hijo o al menos de apoyarlo en su </span><b data-mce-fragment="1">crecimiento</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">.&nbsp;</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Si tienes la sospecha de que tu niño sufre de crecimiento deficiente, no dudes en leer este </span><a href="https://centrosequoia.com.mx/crecimiento-infantil-deficiente/" data-mce-fragment="1" data-mce-href="https://centrosequoia.com.mx/crecimiento-infantil-deficiente/"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">blog</span></a><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> y contactar al Centro Sequoia.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">En este caso, una revisión de la hormona del crecimiento sería ideal para tu hijo, sin embargo, debes prestar atención al resto de su </span><b data-mce-fragment="1">crecimiento y desarrollo</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> infantil. ¡Contáctanos! Y no olvides visitar las páginas internas para encontrar más contenido relevante.</span></p>
+</div>
+<p style="text-align: center;"><button id="myBtn" onclick="leerMasCategoria()">Leer Más</button></p>
+<script>
+function leerMasCategoria() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("masTexto");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Leer Más"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Leer Menos"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+                 
+                 </div>
+            
         </div>
         <?php include_once 'includes/templates/footer.php';?>
 

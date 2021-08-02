@@ -2,5 +2,7 @@ User-agent: *
 Allow: /
 
 Disallow: /c?*
-
+Disallow: /wp-login.php/
+Disallow: /email-protection/
+Disallow: /wp-login.php?action=register/
 Sitemap: https://centrosequoia.com.mx/sitemap.xml

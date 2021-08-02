@@ -208,6 +208,23 @@ function leerMasCategoria() {
     </section>
     <!-- END SITE CONTENT -->
 
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "name": "causas de la baja estatura",
+        "item": "https://centrosequoia.com.mx/causas-de-la-baja-estatura/"
+      },{
+        "@type": "ListItem",
+        "position": 2,
+        "name": "retraso constitucional del crecimiento y la pubertad",
+        "item": "https://centrosequoia.com.mx/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad/https://centrosequoia.com.mx/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad/"
+      }]
+    }
+    </script>
 </section>
 <!--####HEADER####-->
 

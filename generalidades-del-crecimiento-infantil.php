@@ -227,6 +227,55 @@
     </section>
     <!-- END SITE CONTENT -->
 
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalOrganization",
+      "image": [
+        "https://centrosequoia.com.mx/img/Logo-Horizontal.webp"
+       ],
+      "@id": "https://centrosequoia.com.mx/",
+      "name": "SOMOS ESPECIALISTAS EN CRECIMIENTO INFANTIL",
+      "address": {
+        "@type": "PostalAddress",
+            "streetAddress": "San Francisco 516, Col del Valle Centro",
+            "addressLocality": "Benito Juarez",
+            "addressRegion": "CDMX",
+            "postalCode": "03100",
+            "addressCountry": "MX"
+      },
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Centrosequoia"
+        }
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 19.391888410941686,
+        "longitude": -99.17084980258738
+      },
+      "openingHoursSpecification": [{
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "opens": "08:00:00",
+            "closes": "16:00:00"
+        }]
+    }
+    </script>
+
 </section>
 <!--####HEADER####-->
 
