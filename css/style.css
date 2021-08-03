@@ -1928,9 +1928,9 @@
         margin: 0 auto;
         height: 600px;
         background-color: #efefef;
-        -webkit-box-shadow: inset -1px 15px 46px -23px rgba(0, 0, 0, 0.75);
+        -webkit-box-shadow: inset -1px 15px 46px -23px rgb(0 0 0 / 75%);
         -moz-box-shadow: inset -1px 15px 46px -23px rgba(0, 0, 0, 0.75);
-        box-shadow: inset -1px 15px 46px -23px rgba(0, 0, 0, 0.75);
+        box-shadow: inset -1px 15px 46px -23px rgb(0 0 0 /17%);
     }
     
     .texto-imagen-izquierda h2 {
@@ -2705,26 +2705,34 @@
     /*Centrar div sin centrar contenido*/
     
     .centrar-div {
-        max-width: 85%;
+        max-width: 90%;
         margin: 0 auto;
         line-height: 1.5;
         text-align: center;
     }
     
-    @media (min-width: 767px) {
-        .centrar-div {
-            max-width: 40%;
-        }
-    }
-    
     .about-us-h2 {
         color: #838383;
-        font-size: calc(1.2em + 1vw);
+        font-size: calc(1.3em + 1vw);
     }
     
     .about-us-h3 {
         color: #00235d;
         font-size: calc(0.4em + 1vw);
+    }
+    
+    @media (max-width:767px) {
+        .centrar-div {
+            line-height: 1;
+        }
+        .about-us-h2 {
+            color: #838383;
+            font-size: calc(1.7em + 1vw);
+        }
+        .about-us-h3 {
+            color: #00235d;
+            font-size: calc(2em + 1vw);
+        }
     }
     /*Underline*/
     
@@ -2757,4 +2765,136 @@
         position: relative;
         color: #00235d;
         font-size: calc(0.4em + 1vw);
+    }
+    
+    .meet-us-container {
+        max-width: 80%;
+        margin: 0 auto;
+    }
+    
+    .meet-us-container h2 {
+        text-align: center;
+        color: #54585a;
+        font-size: calc(1.8em + 1vw);
+    }
+    
+    .meet-us-container h3 {
+        color: #54585a;
+        font-size: calc(1.5em + 1vw);
+    }
+    
+    .meet-us-container h4 {
+        color: #111;
+        font-size: calc(1em + 1vw);
+    }
+    
+    .meet-us-container ul {
+        padding-inline-start: 20px !important;
+    }
+    
+    .meet-us-container ul li {
+        list-style: none;
+        font-size: calc(0.9em + 1vw);
+        line-height: 2.5;
+        text-decoration: underline;
+    }
+    
+    .meet-us-sub-container {
+        margin-left: 10%;
+    }
+    
+    @media (min-width:767px) {
+        .meet-us-container {
+            max-width: 45%;
+            margin: 0 auto;
+        }
+    }
+    
+    .medic-container {
+        max-width: 90%;
+        margin: 0 auto;
+        line-height: 1.15;
+    }
+    
+    .medic-container h2 {
+        color: #00205e;
+        font-size: calc(2em + 1vw);
+    }
+    
+    .medic-container h3 {
+        color: #111;
+        font-size: calc(1.1em + 1vw);
+    }
+    
+    .mlist-style-no ul li {
+        list-style: none;
+    }
+    
+    .medic-container a li {
+        color: #003da5;
+        padding-bottom: 1.1em;
+    }
+    
+    .medic-container li {
+        font-size: 15px;
+    }
+    
+    .medic-container li:not(:last-child) {
+        padding-bottom: 1.1em;
+    }
+    
+    .medic-container p {
+        font-size: 15px;
+        text-align: justify;
+    }
+    
+    .medic-container ul li {
+        max-width: 100%;
+    }
+    
+    .medic-container ul {
+        padding-inline-start: 20px;
+        list-style: none;
+    }
+    
+    .medic-inner-list {
+        list-style: outside!important;
+    }
+    
+    .medic-grid {
+        margin: 0 auto;
+        line-height: 1.15;
+        display: grid;
+        grid-template-columns: 60% 40%;
+        margin-top: 1em;
+    }
+    
+    .medic-grid img {
+        width: 200%;
+    }
+    
+    @media (min-width:767px) {
+        .medic-container {
+            max-width: 50%;
+            margin: 0 auto;
+            line-height: 1.15;
+        }
+        .medic-container p {
+            font-size: 20px;
+        }
+        .medic-container li {
+            font-size: 20px;
+        }
+        .medic-container h3 {
+            font-size: calc(0.6em + 1vw);
+        }
+    }
+    
+    @media (max-width:767px) {
+        .medic-grid {
+            grid-template-columns: 100%;
+        }
+        .medic-grid img {
+            width: 100%;
+        }
     }
