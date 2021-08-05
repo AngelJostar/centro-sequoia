@@ -1418,6 +1418,10 @@
         background-color: #00205e;
     }
     
+    .cuadros-crecimiento a {
+        color: rgb(255, 255, 255);
+    }
+    
     .cuadros-crecimiento-2 {
         background-color: #00205e
     }
@@ -2824,6 +2828,7 @@
     .medic-container h3 {
         color: #111;
         font-size: calc(1.1em + 1vw);
+        cursor: pointer;
     }
     
     .mlist-style-no ul li {
@@ -2897,4 +2902,91 @@
         .medic-grid img {
             width: 100%;
         }
+    }
+    
+    .breadcrumb__list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: var(--uiBreadcrumbIndent);
+    }
+    
+    .breadcrumb__list span {
+        padding: 0 0.5rem;
+        color: #7a7a7a;
+    }
+    
+    .breadcrumb__group {
+        display: inline-flex;
+        align-items: center;
+    }
+    
+    .breadcrumb__group a {
+        color: #7a7a7a;
+    }
+    
+    .page {
+        font-size: calc(0.7em + 1vw);
+        font-weight: 500;
+        font-style: italic;
+        box-sizing: border-box;
+        margin-top: 1.2em;
+        margin-bottom: 1.4em;
+    }
+    
+    .page ol {
+        padding-inline-start: calc(0.5em + 1vw);
+        list-style: none;
+    }
+    
+    @media (min-width:767px) {
+        .page {
+            max-width: 65%;
+            font-size: calc(0.2em + 1vw);
+        }
+    }
+    /*Desplegables code*/
+    
+    details {
+        color: white;
+        margin-bottom: 1em;
+    }
+    
+    details summary {
+        margin-bottom: 0.25em;
+        font-weight: 600;
+    }
+    
+    details summary:focus {
+        outline: none;
+    }
+    
+    details summary::-webkit-details-marker {
+        color: lightskyblue;
+    }
+    
+    details summary::-webkit-details-marker:hover {
+        cursor: pointer;
+    }
+    
+    details section {
+        margin-left: 18px;
+        padding: 0.75em 0;
+    }
+    
+    details section:focus {
+        outline: none;
+    }
+    
+    details section p {
+        margin: 0;
+        padding-bottom: 0.5em;
+    }
+    
+    details section p:last-child {
+        padding-bottom: 0;
+    }
+    
+    [contenteditable]:empty:before {
+        content: attr(placeholder);
+        color: #727272;
     }

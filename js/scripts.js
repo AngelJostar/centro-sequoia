@@ -31,4 +31,18 @@ $(document).ready(function() {
             }
         }()
 
+    /*Codigo de desplegable*/
+    document.execCommand('defaultParagraphSeparator', false, 'p');
+    const space = document.querySelector('#space')
+
+    space.addEventListener('click', () => {
+        if (!space.hasChildNodes()) {
+            const para = document.createElement('p')
+            para.innerHTML = '<br>'
+            space.appendChild(para)
+        }
+    })
+
+
+
 });

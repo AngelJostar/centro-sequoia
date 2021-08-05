@@ -30,11 +30,26 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1 class="img-90" style="font-size: calc(1em + 2vw) !important;"><b>Hasta que edad crecen los hombres </b></h1>
+                    <h1 class="img-90" style="font-size: calc(1em + 2vw) !important;"><a href="#"><b>Hasta que edad crecen los hombres </b></a></h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
                 </div>
+            </div>
+
+            <div class="page"> 
+                <nav>
+                    <ol class="breadcrumb__list">
+                        <li class="breadcrumb__group">
+                            <a href="#0">Inicio</a>
+                            <span>></span>
+                        </li>
+                        <li class="breadcrumb__group">
+                            <a href="#0">Crecimiento Infantil Deficiente</a>
+                            
+                        </li>
+                    </ol>
+                </nav>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2">
                 <p class="crecer-mujeres-font-cursivas"><em> “Revisado médicamente por el equipo de Centro Sequoia, México” – Actualizado el 20 de Febrero del 2021"</em></p>
@@ -235,7 +250,20 @@
                 <p>Si le preocupa la imagen corporal de su hijo adolescente o sus hábitos alimenticios y de ejercicio, hable con el médico.</p>
                 <p>Muchos adolescentes se preocupan mucho por ser diferentes de sus compañeros y por cualquier cosa que los haga no encajar o parecer "normales". <a href="/importancia-de-ser-mas-alto"> Aprende la importancia de ser más alto dando clic AQUÍ.</a> Anime a su hijo adolescente a plantear cualquiera de estas inquietudes con el médico, si se siente cómodo haciéndolo. El médico puede asegurarle que otros niños tienen las mismas preocupaciones sobre su tamaño.</p>
                 <p><b>Si tiene otras inquietudes sobre el crecimiento o desarrollo de su hijo adolescente, hable con un médico de Centro Sequoia, especializado en crecimiento y desarrollo infantil.</b></p>
-
+            </div>
+            <div class="page">
+                <nav>
+                    <ol class="breadcrumb__list">
+                        <li class="breadcrumb__group">
+                            <a href="#0">Crecimiento Infantil Deficiente</a>
+                            <span>></span>
+                        </li>
+                        <li class="breadcrumb__group">
+                            <a href="#0">Hasta que edad crecen los hombres</a>
+                            
+                        </li>
+                    </ol>
+                </nav>
             </div>
             <div class="ocultar-media">
                 <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="Banner, tu hijo puede ser más alto CONTÁCTANOS"></a>
