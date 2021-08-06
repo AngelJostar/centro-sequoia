@@ -54,7 +54,7 @@
             </ul>
             <h3>Jede de redacción médica</h3>
             <ul>
-                <a href=""><li>Dr. Luis Miguel Dorantes Áñvarez</li></a>
+                <a href="/biografias/luis-miguel-dorantes-alvarez"><li>Dr. Luis Miguel Dorantes Álvarez</li></a>
             </ul>
             <h3>Autores médicos especializados</h3>
             <div class="meet-us-sub-container">

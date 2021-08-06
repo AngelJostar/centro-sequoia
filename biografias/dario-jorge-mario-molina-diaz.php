@@ -178,7 +178,7 @@
                 </ul>
                 <div class="container-drop-down ">
                     <details>
-                        <summary><h3>Sigue al Dr. Mario en redes sociales:</h3></summary>
+                        <summary><h3>Sigue al Dr. Dario en redes sociales:</h3></summary>
                         <section>
                             <p><a href="linkedin.com/in/mario-molina-bab712a7">linkedin.com/in/mario-molina-bab712a7</a></p>
                         </section>

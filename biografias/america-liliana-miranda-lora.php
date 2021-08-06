@@ -216,10 +216,14 @@
                             <li><a href="https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=dra.+america+liliana+miranda+lora&btnG=">Perfil de Google Académico</a></li>
                             <li><a href="https://www.researchgate.net/scientific-contributions/America-Liliana-Miranda-Lora-84667651">Research Gate</a></li>
                         </ul>
-                        <h3>Sigue a la Dra. América en redes sociales</h3>
-                        <ul class="medic-inner-list">
-                            <a href="https://twitter.com/americalml"><li>https://twitter.com/americalml</li></a>
-                        </ul>
+                        <div class="container-drop-down ">
+                            <details>
+                                <summary><h3>Sigue a la Dra. América en redes sociales</h3></summary>
+                                <section>
+                                    <p><a href="linkedin.com/in/mario-molina-bab712a7">linkedin.com/in/mario-molina-bab712a7</a></p>
+                                </section>
+                            </details>
+                        </div> 
                     </li>
                 </ul>
 

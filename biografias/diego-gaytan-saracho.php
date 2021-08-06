@@ -148,20 +148,17 @@
                     <li>Pediatric Endocrine Society</li>
                     <li>European Society of Pediatric Endocrinologist</li>
                 </ul>
-                <ul>
-                   <li>
-                       <h3>Sigue al Dr. Mario en redes sociales: </h3>
-                       <ul class="medic-inner-list">
-                           <a href="https://www.facebook.com/Endopediatra/"><li>https://www.facebook.com/Endopediatra/</li></a>
-                           <a href="https://www.instagram.com/endocrinopedia/?hl=es-la"><li>https://www.instagram.com/endocrinopedia/?hl=es-la</li></a>
-                           <a href="https://twitter.com/dgaytans?lang=es"><li>https://twitter.com/dgaytans?lang=es</li></a>
-                           <a href="https://www.linkedin.com/in/diego-gayt%C3%A1n-saracho/"><li>https://www.linkedin.com/in/diego-gayt%C3%A1n-saracho/</li></a>
-                       </ul>
-                   </li> 
-                </ul>
-                
-                
-
+                <div class="container-drop-down ">
+                    <details>
+                        <summary><h3>Sigue al Dr. Diego en redes sociales:</h3></summary>
+                        <section>
+                            <p><a href="https://www.facebook.com/Endopediatra/"><li>https://www.facebook.com/Endopediatra/</li></a></p>
+                           <p><a href="https://www.instagram.com/endocrinopedia/?hl=es-la"><li>https://www.instagram.com/endocrinopedia/?hl=es-la</li></a></p>
+                           <p><a href="https://twitter.com/dgaytans?lang=es"><li>https://twitter.com/dgaytans?lang=es</li></a></p>
+                           <p><a href="https://www.linkedin.com/in/diego-gayt%C3%A1n-saracho/"><li>https://www.linkedin.com/in/diego-gayt%C3%A1n-saracho/</li></a></p>
+                        </section>
+                    </details>
+                </div>                    
             </div>
         </div>
 

@@ -49,18 +49,10 @@
                 <div>
                     <h2 class="about-this-site-h2">Quienes somos</h2>
                     <div>
-                        <h3 class="about-this-site-h3"><a class="effect-underline" href="#">Bienvenido</a></h3>
                         <h3 class="about-this-site-h3"><a class="effect-underline" href="/acerca-de-este-sitio/acerca-de-centro-sequoia">Acerca de nosotros</a></h3>
                         <h3 class="about-this-site-h3"><a class="effect-underline" href="/acerca-de-este-sitio/conoce-a-nuestros-medicos-editores">Conoce nuestros editores médicos</a></h3>
                         <h3 class="about-this-site-h3"><a class="effect-underline" href="/acerca-de-este-sitio/premios-y-reconocimientos">Acreditaciones y premios</a></h3>
                         <h3 class="about-this-site-h3"><a class="effect-underline" href="/contacto">Contacto</a></h3>
-                    </div>
-                </div>
-                <div class=""> 
-                    <h2 class="about-this-site-h2 ">Nuestras políticas</h2>
-                    <div>
-                        <h3 class="about-this-site-h3"><a class="effect-underline" href="#">Política de desarrollo de contenido</a></h3>
-                        <h3 class="about-this-site-h3"><a class="effect-underline" href="#">Política sobre los términos y condiciones de uso</a></h3>
                         <h3 class="about-this-site-h3"><a class="effect-underline" href="/aviso-de-privacidad">Aviso de privacidad</a></h3>
                     </div>
                 </div>
