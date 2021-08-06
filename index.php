@@ -42,15 +42,15 @@
 
 
             <div class="sombras-img pb-2 tamaño-img ocultar">
-                <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto" alt="Portada">
+                <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto" alt="Doctores especialistas de Centro Sequoia">
             </div>
             <div class="sombras-img tamaño-img mostrar">
-                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="auto" height="auto" alt="Portada">
+                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="auto" height="auto" alt="Doctores especialistas de Centro Sequoia">
             </div>
 
 
 
-            <div class="textos-principal margin-negativo-top-15 ">
+            <div class="textos-principal margin-negativo-top-15  ">
                 <p><span class="font-bold">Centro SEQUOIA</span> es un <span class="font-bold">Centro Pediátrico Exclusivo para el Crecimiento infantil</span> formado por Médicos Pediatras Endocrinólogos, certificados por el Consejo Mexicano de Endocrinología
                     A.C. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente y lo ayudarán a alcanzar una mayor estatura.</p>
             </div>

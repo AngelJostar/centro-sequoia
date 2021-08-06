@@ -1705,7 +1705,7 @@
     }
     
     .mt-2 {
-        margin-top: 2.5rem
+        margin-top: 2.5rem !important;
     }
     
     .mt-5 {

@@ -70,7 +70,7 @@
                         </ul>
                     </div>
                     <div class="tamaño-img ">
-                        <img src="/img/doctores/dr-dorantes-sequoia.webp" width="auto" height="auto" alt="Portada">
+                        <img src="/img/doctores/dr-dorantes-sequoia.webp" width="auto" height="auto" alt="Perfil del Doctor Luis Miguel Dorantes Álvarez">
                     </div>
                 </div>
                 <h2>Departamentos</h2>

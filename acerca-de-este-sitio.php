@@ -39,28 +39,28 @@
                 </div>
             </div>
             <div class="sombras-img tamaño-img ocultar">
-                    <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto" alt="Portada">
+                    <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto" alt="Doctores especialistas de Centro Sequoia">
                 </div>
                 <div class="sombras-img tamaño-img mostrar">
-                    <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="auto" height="auto" alt="Portada">
+                    <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="auto" height="auto" alt="Doctores especialistas de Centro Sequoia">
                 </div>
             <div class="centrar-div pt-1p">
 
                 <div>
                     <h2 class="about-this-site-h2">Quienes somos</h2>
                     <div>
-                        <h3 class="about-this-site-h3"><a class="effect-underline" href="/contact">Bienvenido</a></h3>
+                        <h3 class="about-this-site-h3"><a class="effect-underline" href="#">Bienvenido</a></h3>
                         <h3 class="about-this-site-h3"><a class="effect-underline" href="/acerca-de-este-sitio/acerca-de-centro-sequoia">Acerca de nosotros</a></h3>
                         <h3 class="about-this-site-h3"><a class="effect-underline" href="/acerca-de-este-sitio/conoce-a-nuestros-medicos-editores">Conoce nuestros editores médicos</a></h3>
-                        <h3 class="about-this-site-h3"><a class="effect-underline" href="/contact">Acreditaciones y premios</a></h3>
-                        <h3 class="about-this-site-h3"><a class="effect-underline" href="/contact">Contacto</a></h3>
+                        <h3 class="about-this-site-h3"><a class="effect-underline" href="/acerca-de-este-sitio/premios-y-reconocimientos">Acreditaciones y premios</a></h3>
+                        <h3 class="about-this-site-h3"><a class="effect-underline" href="/contacto">Contacto</a></h3>
                     </div>
                 </div>
                 <div class=""> 
                     <h2 class="about-this-site-h2 ">Nuestras políticas</h2>
                     <div>
-                        <h3 class="about-this-site-h3"><a class="effect-underline" href="/contact">Política de desarrollo de contenido</a></h3>
-                        <h3 class="about-this-site-h3"><a class="effect-underline" href="/contact">Política sobre los términos y condiciones de uso</a></h3>
+                        <h3 class="about-this-site-h3"><a class="effect-underline" href="#">Política de desarrollo de contenido</a></h3>
+                        <h3 class="about-this-site-h3"><a class="effect-underline" href="#">Política sobre los términos y condiciones de uso</a></h3>
                         <h3 class="about-this-site-h3"><a class="effect-underline" href="/aviso-de-privacidad">Aviso de privacidad</a></h3>
                     </div>
                 </div>

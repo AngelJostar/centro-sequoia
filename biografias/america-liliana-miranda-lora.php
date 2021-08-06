@@ -63,7 +63,7 @@
                         </ul>
                     </div> 
                     <div class="tamaño-img ">
-                        <img src="/img/doctores/dra-america-sequoia.webp" width="auto" height="auto" alt="Portada">
+                        <img src="/img/doctores/dra-america-sequoia.webp" width="auto" height="auto" alt="Perfil Doctora America Liliana Miranda Lora">
                     </div>
                 </div>
                 <h2>Departamentos</h2>

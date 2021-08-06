@@ -62,7 +62,7 @@
                         </ul>
                     </div> 
                     <div class="tamaño-img ">
-                        <img src="/img/doctores/dr-diego-sequoia.webp" width="auto" height="auto" alt="Portada">
+                        <img src="/img/doctores/dr-diego-sequoia.webp" width="auto" height="auto" alt="Perfil Doctor Diego Gaytán Saracho ">
                     </div>
                 </div>
                 <h2>Departamentos</h2>

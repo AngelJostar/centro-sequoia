@@ -37,10 +37,10 @@
                 </div>
             </div>
             <div class="sombras-img pb-2 tamaño-img ocultar">
-                <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto" alt="Portada">
+                <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto" alt="Doctores especialistas de Centro Sequoia">
             </div>
             <div class="sombras-img tamaño-img mostrar">
-                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="auto" height="auto" alt="Portada">
+                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="auto" height="auto" alt="Doctores especialistas de Centro Sequoia">
             </div>
             <p></p>
             <div class="about-us h2-azules p-estandar centrar-texto mb-1">
@@ -48,15 +48,15 @@
                 <p>Centro Sequoia tiene sus sedes en la Ciudad de México (colonia del Valle y Santa Fe), Guadalajara y Monterrey. Cientos de pacientes de toda la Republica Mexicana viajan a las sedes de Centro Sequoia distribuidas en estas ciudades para que distancia no sea un obstáculo para recibir atención médica de primera categoría.</p>
                 <h2><b>Ciudad de México</b></h2>
                 <div class="tamaño-img">
-                    <img src="/img/Mapas/FOTO-CDMX-Sequoia.webp" alt="Foto de la fachada de Centro sequoia Ciudad de México">
+                    <img src="/img/Mapas/FOTO-CDMX-Sequoia.webp" alt="Foto de la fachada de Centro Sequoia Ciudad de México">
                 </div>
                 <h2><b>Monterrey</b></h2>
                 <div class="tamaño-img">
-                    <img src="/img/Mapas/FOTO-Monterrey-Sequoia.webp" alt="Foto de la fachada de Centro sequoia Monterey">
+                    <img src="/img/Mapas/FOTO-Monterrey-Sequoia.webp" alt="Foto de la fachada de Centro Sequoia Monterrey">
                 </div>
                 <h2><b>Guadalajara</b></h2>
                 <div class="tamaño-img">
-                    <img src="/img/Mapas/FOTO-Guadalajara-Sequoia.webp" alt="">
+                    <img src="/img/Mapas/FOTO-Guadalajara-Sequoia.webp" alt="Foto de la fachada de Centro Sequoia Guadalajara ">
                 </div>
                 <h2><b>Misión</b></h2>
                     <p>Ofrecer una alternativa medica profesional y especializada para lograr que los niños alcancen mayor estatura. Sirviendo a la sociedad de manera responsable, profesional y ética, pues los padres nos confían lo mas preciado que pueden tener: la salud y desarrollo de sus hijos.</p>
@@ -65,7 +65,7 @@
                 <h2><b>Valores</b></h2>
                     <p>Sequoia trabaja fundamentalmente con la mas alta ética profesional: HONESTIDAD, COMPROMISO y RESPETO por la gente.</p>
                 <div class="tamaño-img">
-                    <img src="/img/banners/estatura-crecer-crecimiento-infantil-1.webp" alt="">
+                    <img src="/img/banners/estatura-crecer-crecimiento-infantil-1.webp" alt="Imagen banner informativo aprende todo del crecimiento infantil">
                 </div>
             </div>
 

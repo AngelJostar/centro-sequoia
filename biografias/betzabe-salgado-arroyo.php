@@ -69,7 +69,7 @@
                         </ul>
                     </div>
                     <div class="tamaño-img ">
-                        <img src="/img/doctores/dra-betzabe-sequoia.webp" width="auto" height="auto" alt="Portada">
+                        <img src="/img/doctores/dra-betzabe-sequoia.webp" width="auto" height="auto" alt="Perfil Doctora Betzabe Salgado Arroyo ">
                     </div>
                 </div>
                 <h2>Departamentos</h2>

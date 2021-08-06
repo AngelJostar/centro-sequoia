@@ -39,16 +39,16 @@
                 </div>
             </div>
             <div class="sombras-img tamaño-img ocultar">
-                <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto" alt="Portada">
+                <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto" alt="Doctores especialistas de Centro Sequoia">
             </div>
             <div class="sombras-img tamaño-img mostrar">
-                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="auto" height="auto" alt="Portada">
+                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="auto" height="auto" alt="Doctores especialistas de Centro Sequoia">
             </div>
         </div>
 
         <div class="meet-us-container">
 
-            <h2>Conoce a nuestros editiores</h2>
+            <h2>Conoce a nuestros editores</h2>
             <ul>
                 <a href="#"><li style="font-size: calc(0.6em + 1vw) !important; text-decoration: none !important;">"Escrito por el personal de Centro Sequoia"</li></a>
             </ul>
