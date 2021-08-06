@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Conoce hasta que edad dejan de crecer los hombres, lo que ocurre después de que ha terminado la pubertad. Se incluyen detalles sobre la altura media y los factores genéticos implicados.">
-<title>Acerca de nosotros</title>
+<meta name="description" content="Aquí te explicamos cómo crecer de estatura. Si te preguntas cómo crecer más: existen tratamientos médicos que aumentan el crecimiento en niños y adolescentes. ">
+<title>Cómo crecer de estatura: Te enseñamos cómo crecer más alto</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
@@ -25,7 +25,6 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contenedor-principal" id="contenedor-principal">
-
             <div class="cuadros-crecimiento">
                 <div class="titulos-grid-index">
                     <div class="flexbox padre">
@@ -43,28 +42,34 @@
             <div class="sombras-img tamaño-img mostrar">
                 <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="auto" height="auto" alt="Portada">
             </div>
-            <p>Centro Sequoia es un líder mundial en atención del crecimiento y desarrollo infantil.</p>
-            <h2>Localizaciones de Centro Sequoia</h2>
-            <p>Centro Sequoia tiene sus sedes en la Ciudad de México (colonia del Valle y Santa Fe), Guadalajara y Monterrey. Cientos de pacientes de toda la Republica Mexicana viajan a las sedes de Centro Sequoia distribuidas en estas ciudades para que distancia no sea un obstáculo para recibir atención médica de primera categoría.</p>
-            <h2>Ciudad de México</h2>
-            <div class=" tamaño-img">
-                <a href=""><img src="" width="auto" height="auto" alt=""></a>
-            </div>
-            <div class=" tamaño-img">
-                <a href=""><img src="" width="auto" height="auto" alt=""></a>
-            </div>
-            <div class=" tamaño-img">
-                <a href=""><img src="" width="auto" height="auto" alt=""></a>
-            </div>
-            <h2>Misión</h2>
-            <p>Ofrecer una alternativa medica profesional y especializada para lograr que los niños alcancen mayor estatura. Sirviendo a la sociedad de manera responsable, profesional y ética, pues los padres nos confían lo mas preciado que pueden tener: la salud y desarrollo de sus hijos.</p>
-            <h2>Visión</h2>
-            <p>Ser la alternativa mejor integrada y con cobertura nacional, reconocida por la alta preparación y capacidad profesional de su equipo humano, el mejor servicio, la atención de mas alta excelencia.</p>
-            <h2>Valores</h2>
             <p></p>
+            <div class="about-us h2-azules p-estandar centrar-texto mb-1">
+                <h2><b>Localizaciones de Centro Sequoia</b></h2>
+                <p>Centro Sequoia tiene sus sedes en la Ciudad de México (colonia del Valle y Santa Fe), Guadalajara y Monterrey. Cientos de pacientes de toda la Republica Mexicana viajan a las sedes de Centro Sequoia distribuidas en estas ciudades para que distancia no sea un obstáculo para recibir atención médica de primera categoría.</p>
+                <h2><b>Ciudad de México</b></h2>
+                <div class="tamaño-img">
+                    <img src="/img/Mapas/FOTO-CDMX-Sequoia.webp" alt="Foto de la fachada de Centro sequoia Ciudad de México">
+                </div>
+                <h2><b>Monterrey</b></h2>
+                <div class="tamaño-img">
+                    <img src="/img/Mapas/FOTO-Monterrey-Sequoia.webp" alt="Foto de la fachada de Centro sequoia Monterey">
+                </div>
+                <h2><b>Guadalajara</b></h2>
+                <div class="tamaño-img">
+                    <img src="/img/Mapas/FOTO-Guadalajara-Sequoia.webp" alt="">
+                </div>
+                <h2><b>Misión</b></h2>
+                    <p>Ofrecer una alternativa medica profesional y especializada para lograr que los niños alcancen mayor estatura. Sirviendo a la sociedad de manera responsable, profesional y ética, pues los padres nos confían lo mas preciado que pueden tener: la salud y desarrollo de sus hijos.</p>
+                <h2><b>Visión</b></h2>
+                    <p>Ser la alternativa mejor integrada y con cobertura nacional, reconocida por la alta preparación y capacidad profesional de su equipo humano, el mejor servicio, la atención de mas alta excelencia.</p>
+                <h2><b>Valores</b></h2>
+                    <p>Sequoia trabaja fundamentalmente con la mas alta ética profesional: HONESTIDAD, COMPROMISO y RESPETO por la gente.</p>
+                <div class="tamaño-img">
+                    <img src="/img/banners/estatura-crecer-crecimiento-infantil-1.webp" alt="">
+                </div>
+            </div>
 
-
-
+        
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>

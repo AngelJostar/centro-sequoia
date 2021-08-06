@@ -32,14 +32,26 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1 class="img-90" style="font-size: calc(1.5em + 1vw) !important;"><b>Dr. Darío Jorge Mario Molina Díaz</b></h1>
+                    <h1 class="img-90" style="font-size: calc(1.5em + 1vw) !important;"><b><a href="">Dr. Darío Jorge Mario Molina Díaz</a></b></h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
                 </div>
             </div>
-                
-        </div>
+            <div class="page">
+                <nav>
+                    <ol class="breadcrumb__list">
+                        <li class="breadcrumb__group">
+                            <a href="/acerca-de-este-sitio">Acerca de este sitio</a>
+                            <span>></span>
+                        </li>
+                        <li class="breadcrumb__group">
+                            <a href="/acerca-de-este-sitio/conoce-a-nuestros-medicos-editores">Conoce a nuestros Medicos editores</a>
+
+                        </li>
+                    </ol>
+                </nav>
+            </div>
             <div class="medic-container">
                 <div class="medic-grid">
                     <div>
@@ -52,7 +64,7 @@
                     <div class="tamaño-img ">
                         <img src="/img/doctores/dr-mario-sequoia.webp" width="auto" height="auto" alt="Portada">
                     </div>
-        </div>
+                </div>
                 <h2>Departamentos</h2>
                 <ul class="medic-inner-list">
                     <li>Medico adscrito Centro Sequoia</li>

@@ -1721,7 +1721,7 @@
     }
     
     .mb-1 {
-        margin-bottom: 1.5rem
+        margin-bottom: 1.5rem !important;
     }
     
     .mb-5 {
@@ -2715,12 +2715,12 @@
         text-align: center;
     }
     
-    .about-us-h2 {
+    .about-this-site-h2 {
         color: #838383;
         font-size: calc(1.3em + 1vw);
     }
     
-    .about-us-h3 {
+    .about-this-site-h3 {
         color: #00235d;
         font-size: calc(0.4em + 1vw);
     }
@@ -2729,11 +2729,11 @@
         .centrar-div {
             line-height: 1;
         }
-        .about-us-h2 {
+        .about-this-site-h2 {
             color: #838383;
             font-size: calc(1.7em + 1vw);
         }
-        .about-us-h3 {
+        .about-this-site-h3 {
             color: #00235d;
             font-size: calc(2em + 1vw);
         }
@@ -2801,6 +2801,10 @@
         font-size: calc(0.9em + 1vw);
         line-height: 2.5;
         text-decoration: underline;
+    }
+    
+    .text-decoration-no {
+        text-decoration: none !important;
     }
     
     .meet-us-sub-container {
@@ -2989,4 +2993,30 @@
     [contenteditable]:empty:before {
         content: attr(placeholder);
         color: #727272;
+    }
+    /*Acerca de nosotros*/
+    
+    .about-us {
+        margin: 0 auto;
+        max-width: 100%;
+    }
+    
+    .h2-azules h2 {
+        color: #00205e;
+        font-size: calc(1.3em + 1vw);
+        line-height: 1.15;
+    }
+    
+    .p-estandar p {
+        margin: 0 auto;
+        max-width: 80%;
+        font-size: calc(13px + .4vw);
+        color: #777;
+        line-height: 1.5;
+    }
+    
+    @media (min-width:767px) {
+        .p-estandar {
+            max-width: 60%;
+        }
     }
