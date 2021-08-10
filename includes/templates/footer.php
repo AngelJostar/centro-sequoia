@@ -70,6 +70,9 @@
             <div class="centrar-texto texto-boton pb-5">
                 <a href="/aviso-de-privacidad"><button class="boton boton-footer">Aviso de Privacidad</button></a>
             </div>
+            <div class="centrar-texto texto-boton pb-5">
+                    <a href="/acerca-de-este-sitio"><button class="boton boton-footer">Acerca de este sitio</button></a>
+                </div>
         </footer>
 
         <footer class="contenedor-footer mostrar-media">
@@ -135,6 +138,9 @@
                 </div>
                 <div class="centrar-texto texto-boton pb-5">
                     <a href="/aviso-de-privacidad"><button class="boton boton-footer">Aviso de Privacidad</button></a>
+                </div>
+                <div class="centrar-texto texto-boton pb-5">
+                    <a href="/acerca-de-este-sitio"><button class="boton boton-footer">Acerca de este sitio</button></a>
                 </div>
         </footer>
         </div>

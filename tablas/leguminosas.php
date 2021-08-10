@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Centro SEQUOIA0„2es un0„2Centro Pedi¨¢trico Exclusivo para el Crecimiento de los ni0Š9os0„2 Nutricion - Equivalencia en Leguminosas">
+<meta name="description" content="Centro SEQUOIAï¿½0ï¿½2es unï¿½0ï¿½2Centro Pediï¿½ï¿½trico Exclusivo para el Crecimiento de los niï¿½0ï¿½9osï¿½0ï¿½2 Nutricion - Equivalencia en Leguminosas">
 <title>NutriciÃ³n - Tablas de equivalencias de leguminosas</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
@@ -99,7 +99,7 @@
                 <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaÃ±o-img mostrar-media ph-1">
-                <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="contacto crecimiento"></a>
             </div>
 
 

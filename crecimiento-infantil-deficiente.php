@@ -94,10 +94,10 @@
                     <a href="/generalidades-del-crecimiento-infantil/como-crecer-de-estatura"><button class="boton-e boton-esp">Como crecer de estatura</button></a>
                 </div>
                 <div class="tamaño-img ocultar-media">
-                    <a href="/contact"><img src="/img/banners/BANNER-2-DOC-VERTICAL.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
+                    <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-v2.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
+                    <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
                 </div>
 
             </div>

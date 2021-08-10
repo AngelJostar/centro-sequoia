@@ -3019,3 +3019,55 @@
             max-width: 60%;
         }
     }
+    /*Autor información*/
+    
+    .author-info {
+        background-color: #f0f8ff;
+        max-width: 90%;
+        margin: 0 auto;
+        border: solid #e5e5e5;
+        border-width: 1px 0;
+        padding: 20px 0;
+        margin-bottom: 20px;
+        line-height: 1.5;
+    }
+    
+    .author-info img {
+        width: 151px;
+        padding-bottom: 1em;
+    }
+    
+    .author-info p,
+    strong {
+        font-size: calc(13px + .4vw);
+        margin: 1em;
+    }
+    
+    .author-info a {
+        color: #fe7800;
+    }
+    
+    @media (min-width: 768px) {
+        .author-info img {
+            padding-left: 1em;
+            padding-right: 1em;
+            padding-bottom: 0;
+        }
+        .author-info {
+            max-width: 63%;
+            padding: 12px 0;
+            margin-bottom: 35px;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-orient: horizontal;
+            -webkit-box-direction: normal;
+            -ms-flex-flow: row nowrap;
+            flex-flow: row nowrap;
+        }
+        .author-info p,
+        strong {
+            font-size: calc(13px + .4vw);
+            margin: 0;
+        }
+    }

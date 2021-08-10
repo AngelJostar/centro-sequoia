@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta name="description" content="La Hormona del crecimiento también puede ser llamada somatotropina. Es una hormona que provoca el crecimiento y desarrollo de todos los tejidos del cuerpo, incluidos los huesos. Lee más acerca de la Hormona de crecimiento (somatropina) en nuestro sitio.">
-<title>Hormona del crecimiento - Generalidades del crecimiento infantil</title>
+<title>Hormona del crecimiento: todo lo que debes saber de esta sustancia </title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
@@ -300,6 +300,18 @@
                 <p>La hormona entra en el hígado causando que se libere otra hormona llamada “factor de crecimiento parecido a la insulina-1” (IGF-1). Esta hormona sale del hígado y entra también al torrente sanguíneo.</p>
                 <p>Juntos, la hormona de crecimiento y el IGF-1, viajan a través del torrente sanguíneo a todas las partes del cuerpo, incluyendo los huesos largos de las piernas que son los que tienen el mayor efecto en nuestra estatura.</p>
             </div>
+            <div class="author-info">
+                <div><img src="/img/doctores/dr-dorantes-sequoia.webp" alt=""></div>
+                <div>
+                    <strong>Dr. Luis Miguel Dorantes Álvarez</strong>
+                    <p><a href=""> Lorem ipsum  </a>dolor sit amet consectetur, adipisicing elit. Laudantium nesciunt, totam vitae itaque excepturi autem iusto quisquam impedit consequatur eum a, necessitatibus inventore amet asperiores sint quis. Facere, deserunt totam.</p>
+                </div>
+
+            </div>
+
+
+            
+
 
         </div>
 

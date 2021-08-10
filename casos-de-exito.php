@@ -158,7 +158,7 @@
                 <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="Banner, tu hijo puede ser más alto CONTÁCTANOS"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="Banner, tu hijo puede ser más alto CONTÁCTANOS"></a>
+                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto CONTÁCTANOS"></a>
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>

@@ -114,7 +114,7 @@
                 </ul>
                 <h2>Ubicación en cedes de Centro Sequoia</h2>
                 <a href="https://centrosequoia.com.mx/ciudad-de-mexico/"><p>Ciudad de México, México</p></a>
-                <p>DIRECCIÓN: San Francisco #516 Colonia Del Valle,</p>
+                <p>DIRECCIÓN: Rio Amazonas Ote. #316 Col. Del Valle,</p>
                 <p>San Pedro Garza García N.L.C.P.66220</p>
                 <p>EMAIL: monterrey@centrosequoia.com.mx</p>
                 <p>Tel. (81) 1159-2265</p>

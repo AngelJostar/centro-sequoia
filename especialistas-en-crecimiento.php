@@ -87,7 +87,7 @@
                     <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
+                    <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
                 </div>
                 <div class="cuadros-crecimiento">
                     <div class="titulos-principal">
