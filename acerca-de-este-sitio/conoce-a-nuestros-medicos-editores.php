@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Conoce hasta que edad dejan de crecer los hombres, lo que ocurre después de que ha terminado la pubertad. Se incluyen detalles sobre la altura media y los factores genéticos implicados.">
+<meta name="description" content="Nuestros Médicos Pediatras Endocrinólogos. Trabajan con nuestro personal de editorial para ofrecerte herramientas e información oportuna y precisa.">
 <title>Conoce a nuestros Médicos Editores</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
@@ -65,11 +65,11 @@
                     <a href="/biografias/dario-jorge-mario-molina-diaz"><li>Dr. Darío Jorge Mario Molina Díaz</li></a>
                     <a href="/biografias/diego-gaytan-saracho"><li>Dr. Diego Gaytán Saracho</li></a>
                     <a href="/biografias/monica-leon-valdez"><li>Dra. Mónica León Valdez</li></a>
-                    <li class="text-decoration-no">Dr. Francisco Alonso Jiménez</li>
+                    <a href="/biografias/francisco-javier-alonso-jimenez"><li>Dr. Francisco Alonso Jiménez</li></a>
                     <li class="text-decoration-no">Dra. María Fernanda Acosta Martínez</li>
                     <li class="text-decoration-no">Dra. Carmen Elena Quiroz Hernández</li>
                     <li class="text-decoration-no">Dra. Viena Stephanie Martínez Alvarado</li>
-                    <li class="text-decoration-no">Dra. Ana Laura López Beltrán</li>
+                    <a href="/biografias/ana-laura-lopez-beltran"><li>Dra. Ana Laura López Beltrán</li></a>
                     <li class="text-decoration-no">Dr. Jorge David Lopez Palomera</li>
                     <li class="text-decoration-no">Dra. Ana Paola de Cosio Farias</li>
                     <li class="text-decoration-no">Dr. Nidal Ezzy Ezzy</li>
@@ -82,7 +82,7 @@
                 <ul>
                     <a href="/biografias/luis-miguel-dorantes-alvarez"><li>Dr. Luis Miguel Dorantes Álvarez</li></a>
                     <a href="/biografias/monica-leon-valdez"><li>Dra. Mónica León Valdez</li></a>
-                    <li class="text-decoration-no">Dr. Darío Jorge Mario Molina</li>
+                    <a href="/biografias/dario-jorge-mario-molina-diaz"><li>Dr. Darío Jorge Mario Molina</li></a>
                     <a href="/biografias/betzabe-salgado-arroyo"><li>Dra. Betzabe Salgado Arroyo</li></a>
                 </ul>
                 <h4>Psicología</h4>

@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Contacto Centro Sequoia GDJ, Guadalajara Jalisco, Colonia Providencia. En Centro Sequoia lograremos que alcance una mayor estatura.">
-<title>Contacto Centro Sequoia - Guadalajara</title>
+<meta name="description" content="Centro Sequoia ofrece a los pacientes información acerca de quienes somos y el equipo que conforma la clínica. Obtén más información sobre nuestro sitio y nuestras políticas.">
+<title>Acerca de este sitio - Centro Sequoia </title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
@@ -52,7 +52,7 @@
                         <h3 class="about-this-site-h3"><a class="effect-underline" href="/acerca-de-este-sitio/acerca-de-centro-sequoia">Acerca de nosotros</a></h3>
                         <h3 class="about-this-site-h3"><a class="effect-underline" href="/acerca-de-este-sitio/conoce-a-nuestros-medicos-editores">Conoce nuestros editores médicos</a></h3>
                         <h3 class="about-this-site-h3"><a class="effect-underline" href="/acerca-de-este-sitio/premios-y-reconocimientos">Acreditaciones y premios</a></h3>
-                        <h3 class="about-this-site-h3"><a class="effect-underline" href="/contacto">Contacto</a></h3>
+                        <h3 class="about-this-site-h3"><a class="effect-underline" href="/contact">Contacto</a></h3>
                         <h3 class="about-this-site-h3"><a class="effect-underline" href="/aviso-de-privacidad">Aviso de privacidad</a></h3>
                     </div>
                 </div>

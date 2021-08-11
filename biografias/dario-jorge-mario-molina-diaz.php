@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Conoce hasta que edad dejan de crecer los hombres, lo que ocurre después de que ha terminado la pubertad. Se incluyen detalles sobre la altura media y los factores genéticos implicados.">
+<meta name="description" content="El Dr. Darío Jorge Mario Molina Díaz es un Endocrinólogo Pediatra en Centro Sequoia y el Hospital Infantil de México, él es uno de los mejores endocrinólogos pediatras de la Ciudad, por su alto nivel de especialización ya que ha estudiado la carrera de Médico Cirujano, la especialidad en Pediatría y posteriormente la subespecialidad en Endocrinología Pediátrica.">
 <title>Dr. Darío Jorge Mario Molina Díaz</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">

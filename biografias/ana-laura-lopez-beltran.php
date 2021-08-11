@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="La Doctora Mónica León Valdez actualmente esta especializada en manejo de talla baja y sus causas endocrinológicas.">
-<title>Dra. Mónica León Valdez</title>
+<meta name="description" content="Conoce hasta que edad dejan de crecer los hombres, lo que ocurre después de que ha terminado la pubertad. Se incluyen detalles sobre la altura media y los factores genéticos implicados.">
+<title>Dra. Ana Laura López Beltrán</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
@@ -32,7 +32,7 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1 class="img-90" style="font-size: calc(1.5em + 1vw) !important;"><b><a href="#">Dra. Mónica León Valdez</a></b></h1>
+                    <h1 class="img-90" style="font-size: calc(1.5em + 1vw) !important;"><b><a href="#">Dra. Ana Laura López Beltrán </a></b></h1>
 
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
@@ -58,94 +58,101 @@
                     <div>
                         <h2>Endocrinólogo Pediatra</h2>
                         <ul>
-                            <h3><li>Médico adscrito en Centro Sequoia </li></h3>
-                            <h3><li>Médico adscrito en el Hospital de Pediatría del Centro Médico Nacional Siglo XXI.</li></h3>
+                            <h3><li>Médico adscrito en Centro Sequoia</li></h3>
                         </ul>
                     </div> 
                     <div class="tamaño-img ">
-                        <img src="/img/doctores/dra-monica-sequoia.webp" width="auto" height="auto" alt="Perfil de la Doctora Mónica León Valdez">
+                        <img src="/img/doctores/dra.ana.laura-sequoia.webp" width="auto" height="auto" alt="Perfil Doctora America Liliana Miranda Lora">
                     </div>
                 </div>
                 <h2>Departamentos</h2>
                 <ul class="medic-inner-list">
-                    <li>Médico adscrito Centro Sequoia </li>
-                    <li>Endocrinología Pediátrica  </li>
+                    <li>Endocrinología Pediátrica</li>
                     <li>Pediatría </li>
                     <li>Médico Cirujano</li>
                 </ul>
                 <h2>Grupos especializados</h2>
                 <ul class="medic-inner-list">
                     <li>Talla Baja</li>
-                    <li>Pubertad Precoz</li>
                     <li>Baja Estatura</li>
                     <li>Crecimiento y desarrollo de niños y adolescentes</li>
                     <li>Pubertad precoz</li>
                     <li>Síndrome de Turner</li>
-                    <li>Crecimiento Infantil</li>
-                    <li>Metabolismo</li>
-                    <li>Nutrición</li>
-                    <li>Diabetes</li>
-                    <li>Obesidad</li>
+                    <li>Edad ósea</li>
                 </ul>
                 <h2>Ubicación</h2>
                 <ul class="medic-inner-list">
-                    <li>Ciudad de México, México</li>
+                    <li>Guadalajara, Jalisco, México</li>
                 </ul>
                 <h2>Idiomas</h2>
                 <ul class="medic-inner-list">
                     <li>Español, Ingles</li>
                 </ul>
                 <h2>Biografía resumida</h2>
-                <p>Actualmente estoy especializada en manejo de talla baja y sus causas endocrinológicas, sin dejar de lado el resto de enfermedades hormonales en niños.</p>
+                    <p>La <b> Dra. Ana Laura López Beltrán</b> es un especialista en <b> Endocrinología Pediátrica </b>egresada de la <b> Universidad Autónoma de Sinaloa </b>(UAS) como <b> Médico Cirujano,</b> más adelante concluyó la Especialidad en <b> Pediatría </b> dentro de la misma institución. Posteriormente realizó la Subespecialidad en <b> Endocrinología Pediátrica </b>avalada por la <b> Universidad Nacional Autónoma de México</b> (UNAM).</p>
+                    <p>Cuenta con más de <b> 15 años</b> de experiencia en diversas instituciones de prestigio como el <b> Centro Sequoia</b> donde actualmente se encuentra dando consulta. Es experta en <b> Talla Baja, Pubertad Precoz, Obesidad, Enfermedad Tiroidea, Tumores Hipofisiarios </b> <b> e Hiperplasia Suprarrenal</b>, entre otros.</p>
+                    <p>Gracias a esto la <b> Dra. López Beltrán </b>es Certificada por el <b> Consejo Mexicano de Endocrinología</b> y reconocida como una de las mejores especialistas en <b>Endocrinología Pediátrica</b>  del Estado de <b> Jalisco.</b></p>
                 <h2>Trastonos tratados</h2>
                 <ul class="medic-inner-list">
                     <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/baja-estatura-familiar/"><li>Baja Estatura familiar</li></a>
                     <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/baja-estatura-idiopatica/"><li>Baja Estatura idiopática</li></a>
                     <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad/"><li>Retraso del crecimiento y pubertad</li></a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento/"><li>Deficiencia de Hormona de Crecimiento</li></a>
                     <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional/"><li>Pequeños para edad gestacional</li></a>
+                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento/"><li>Deficiencia de Hormona de Crecimiento</li></a>
                     <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/sindrome-de-turner/"><li>Síndrome de Turner</li></a>
-                    <li>Acondroplasia</li>
-                    <a href="https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/pubertad-precoz/"><li>Pubertad Precoz</li></a>
-                    <li>Diabetes Mellitus</li>
-                    <li>Dislipedemias</li>
-                    <li>Hiperplasia Suprarrenal Congénita</li>
-                    <li>Obesidad y síndrome metabólico</li>
-                    <li>Problemas de paratiroides</li>
-                    <li>Problemas tiroideos</li>
-                    <li>Pubertad retrasada</li>
-                    <li>Talla alta</li>
-                    <li>Talla baja</li>
-                    <li>Trastornos de diferenciación sexual</li>
-                    <li>Trastornos hipofisiarios</li>
                 </ul>
                 <h2>Ubicación en cedes de Centro Sequoia</h2>
-                <a href="https://centrosequoia.com.mx/ciudad-de-mexico/"><p>Ciudad de México, México</p></a>
-                <p>DIRECCIÓN: San Francisco #516 Colonia Del Valle,</p>
-                <p>Del. Benito Juárez. C.P. 03100, Méx, CDMX.</p>
-                <p>EMAIL: contacto@centrosequoia.com.mx</p>
-                <p>Tel. (55) 5687-6118</p>
-                <p>WA: (55) 5967-7135</p>
+                <a href="https://centrosequoia.com.mx/guadalajara/"><p>Guadalajara Jalisco </p></a>
+                <p>DIRECCIÓN: José María Vigil #2750, Colonia Providencia,</p>
+                <p>C.P.44639, Guadalajara, Jalisco</p>
+                <p>EMAIL: guadalajara@centrosequoia.com.mx</p>
+                <p>Tel. (33) 3615-2835</p>
+                <p>WA: (33) 3337-1382</p>
                 <h2>Estudio en:</h2>
                 <ul class="medic-inner-list">
-                    <li>UNAM - Universidad Nacional Autónoma de México<a href="https://www.unam.mx/"></a></li>
-                    <li><a href="http://edumed.imss.gob.mx/pediatria/index.htm">Hospital de Pediatría del Centro Médico Nacional Siglo XXI.</a></li>
+                    <li><a href="https://www.uas.edu.mx/">Universidad Autónoma de Sinaloa </a></li>
+                    <li><a href="https://www.unam.mx/">UNAM - Universidad Nacional Autónoma de México </a></li>
                 </ul>
                 <h2>Educación y certificaciones</h2>
-                <ul class="medic-inner-list">
-                    <li>Médico Cirujano del Centro Médico Nacional Siglo XXI. IMSS, avalado por la UNAM.  Cedula Profesional: 2842732</li>
-                    <li>Especialidad Pediatría en Hospital de Pediatría del Centro Médico Nacional Siglo XXI. IMSS, avalado por la UNAM. Cedula Profesional: 4319030</li>
-                    <li>Subespecialidad Endocrinología Pediátrica Hospital de Pediatría del Centro Médico Nacional Siglo XXI. IMSS. Cedula Profesional: 5052249</li>
+                <ul>
+                   <li>28 de Septiembre de 2011
+                    Curso de especialización en Endocrinología Pediátrica 
+                    UNAM, Cedula Profesional: 7187324
+                    CDMX, Ciudad de México.
+                    </li>
+                    <li>3 de Julio del 2008
+                    Diploma en la especialidad de Pediatría Médica 
+                    Universidad Autónoma de Sinaloa 
+                    UNAM, Cedula Profesional: 5575851
+                    Culiacán, Sinaloa
+                    </li>
+                    <li>14 de Junio del 2007
+                    Titulo como Médico Cirujano y Partero
+                    Universidad Autónoma de Sinaloa
+                    UNAM, Cedula Profesional: 3959437
+                    Culiacán, Sinaloa
+                    </li>
                 </ul>
-                <h2>Sociedades a las que pertenece y distinciones recibidas</h2>
+                <h2>Membresía en asociaciones profesionales </h2>
                 <ul class="medic-inner-list">
-                    <li>Asociación Mexicana de Pediatría </li>
-                    <li>Academia Mexicana de Pediatría. </li>
-                    <li>Certificación del Consejo Mexicano de Endocrinología. </li>
-                    <li>Sociedad Latinoamericana de Endocrinología Pediátrica. </li>
+                    <li>Febrero de 2010 - presente
+                    Especialista en endocrinología pediátrica
+                    Certificado en el Consejo Mexicano de Endocrinología A.C.
+                    </li>
+                    <li>30 de Enero de 2021 - presente
+                    Especialista en pediatría
+                    Certificado en el Consejo Mexicano de Endocrinología A.C.
+                    </li>
                 </ul>
-                
-                
+                <div class="container-drop-down ">
+                    <details>
+                        <summary><h3>Sigue a la Dra. Ana Laura López Beltrán</h3></summary>
+                            <section>
+                             <p><a href="https://www.linkedin.com/in/ana-laura-l%C3%B3pez-beltr%C3%A1n-b0420339/">https://www.linkedin.com/in/ana-laura-l%C3%B3pez-beltr%C3%A1n-b0420339/</a></p>
+                            section>
+                        </details>
+                </div> 
+                    
 
             </div>
         </div>

@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Aquí te explicamos cómo crecer de estatura. Si te preguntas cómo crecer más: existen tratamientos médicos que aumentan el crecimiento en niños y adolescentes. ">
-<title>Cómo crecer de estatura: Te enseñamos cómo crecer más alto</title>
+<meta name="description" content="Sobre Centro Sequia: Centro sequoia es un Centro Pediátrico Exclusivo para el Crecimiento infantil formado por Médicos Pediatras Endocrinólogos, certificados por el Consejo Mexicano de Endocrinología A.C">
+<title>Acerca de Centro Sequoia</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
