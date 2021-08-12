@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="El Síndrome de Turner es un padecimiento que ocurre únicamente en mujeres, causa diferentes afecciones médicas que incluyen baja estatura, afecciones cardiacas y deficiencias en el desarrollo. Aquí te explicamos todo lo que debes saber sobre este padecimiento. ">
+<meta name="description" content="La hormona del crecimiento es una sustancia química que provoca el crecimiento y desarrollo de todos los tejidos del cuerpo, incluidos los huesos y músculos. Lee más en nuestro sitio avalado por médicos especialistas.">
 <title>Hormona del crecimiento: todo lo que debes saber de esta sustancia </title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
@@ -46,22 +46,22 @@
                 </div>
                 <div class="indice ">
                     <ol>
-                        <li>¿Qué es la hormona de crecimiento?</li>
-                        <li>¿Cómo crecemos?</li>
-                        <li>Hormona de crecimiento en niños</li>
-                        <li>Padecimientos que se tratan</li>
-                        <li>Deficiencia de hormona de crecimiento</li>
-                        <li>Médico especialista en hormona del crecimiento</li>
-                        <li>Conclusiones</li>
+                        <li><a href="#hormona-crecimiento"> ¿Qué es la hormona de crecimiento?</a></li>
+                        <li><a href="#hormona-crecemos">¿Cómo crecemos?</a></li>
+                        <li><a href="#hormona-crecimiento-niños">Hormona de crecimiento en niños</a></li>
+                        <li><a href="#hormona-padecimientos">-Padecimientos que se tratan</a></li>
+                        <li><a href="#hormona-deficiencia">Deficiencia de hormona de crecimiento</a></li>
+                        <li><a href="#hormona-especialista">Médico especialista en hormona del crecimiento</a></li>
+                        <li><a href="#hormona-conclusiones">Conclusiones</a></li>
                     </ol>
                 </div>
 
-                <h2 id="turner-sindrome">¿Qué es la hormona del crecimiento? </h2>
+                <h2 id="hormona-crecimiento">¿Qué es la hormona del crecimiento? </h2>
                 <p>Es una <b> sustancia química </b>que provoca el <b> crecimiento y desarrollo</b> de todos los tejidos del cuerpo (incluidos los huesos y los músculos), es secretada por células de la glándula pituitaria anterior bajo el control del hipotálamo.
                     Nuestros cuerpos producen entre uno y dos miligramos de ésta cada día.</p>
                 <p>La <b>hormona del crecimiento</b> es vital para el <a href="/generalidades-del-crecimiento-infantil">crecimiento físico normal de los niños</a>. Sus niveles aumentan progresivamente durante la <b>infancia</b> y alcanzan su punto máximo
                     durante el <a href="/generalidades-del-crecimiento-infantil/estiron-puberal"> estirón de crecimiento</a> que se produce en la <a href="/crecimiento-infantil-por-edad/adolecentes-12-16"> pubertad.</a></p>
-                <h2>¿Cómo crecemos? </h2>
+                <h2 id="hormona-crecemos">¿Cómo crecemos? </h2>
                 <p>El <a href="/generalidades-del-crecimiento-infantil">proceso de crecimiento</a> comienza con la producción de hormona de crecimiento en una parte dentro de la cabeza que se llama “glándula pituitaria”. Otra glándula que se llama “hipotálamo”,
                     le indica a la glándula pituitaria cuándo debe liberar hormona de crecimiento dentro de la sangre o “torrente sanguíneo”.</p>
                 <p>Para ello el hipotálamo primero produce una hormona llamada “hormona liberadora de hormona de crecimiento”. Esta hormona estimuladora viaja a través de venas pequeñitas directo a la glándula pituitaria y provoca que libere un poco de hormona
@@ -71,9 +71,9 @@
                 <p>La hormona entra en el hígado causando que se libere otra hormona llamada “factor de crecimiento parecido a la insulina-1” (IGF-1). Esta hormona sale del hígado y entra también al torrente sanguíneo.</p>
                 <p>Juntos, la hormona de crecimiento y el IGF-1, viajan a través del torrente sanguíneo a todas las partes del cuerpo, incluyendo los huesos largos de las piernas que son los que tienen el mayor efecto en nuestra estatura.</p>
                 <div class="tamaño-img">
-                    <img src="/img/generalidades-del-crecimiento-infantil/banner-hormona-del-crecimiento.webp" alt="Banner hormona del crecimiento">
+                    <img width="1080" height="1920" loading="lazy" src="/img/generalidades-del-crecimiento-infantil/banner-hormona-del-crecimiento.webp" alt="Banner hormona del crecimiento">
                 </div>
-                <h2>Hormona del crecimiento en los niños</h2>
+                <h2 id="hormona-crecimiento-niños">Hormona del crecimiento en los niños</h2>
                 <p>La hormona de crecimiento es la <b> encargada de que los niños crezcan.</b> <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento">Las tasas de crecimiento</a> en los niños varían considerablemente de un niño a otro.
                     Pero en promedio la ganancia de estatura normal se describe como:</p>
                 <ul>
@@ -87,6 +87,7 @@
                     de hormona del crecimiento o la tolerancia a insulina. Dependiendo de los resultados, podría recetarle o no tratamiento.</p>
                 <p>Los <b> tratamientos</b> que comienzan a edad temprana tienen más probabilidades de éxito que uno que empieza de forma tardía. Los niños en tratamiento pueden alcanzar una diferencia de altura de entre 5 y 15 cm de más. El niño puede llegar
                     a alcanzar una <b> mayor estatura </b>comparada con su estimado genético si el proceso empieza en sus primeros años de vida.</p>
+                <h2 id="hormona-padecimientos">Padecimientos que se tratan </h2>
                 <ol>
                     <li><a href="/causas-de-la-baja-estatura/baja-estatura-familiar">Talla Baja Familiar o genética </a></li>
                     <li><a href="/causas-de-la-baja-estatura/baja-estatura-idiopatica">Talla baja idiopática </a></li>
@@ -103,7 +104,7 @@
                 </ol>
                 <p>Todos estos padecimientos están ligados a una deficiencia en la producción de hormona de crecimiento.</p>
                 <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento">
-                    <h2><b>Deficiencia de hormona del crecimiento</b></h2>
+                    <h2 id="hormona-deficiencia"><b>Deficiencia de hormona del crecimiento</b></h2>
                 </a>
                 <p>La deficiencia de la hormona del crecimiento es un padecimiento que es causado por la baja producción de esta sustancia en el cuerpo. Los niños con este padecimiento tienen una estatura anormalmente baja con proporciones corporales normales.
                     Esta condición puede presentarse desde el nacimiento o presentarse más tarde en la vida. En algunos niños y niñas no se puede identificar la causa clara.</p>
@@ -181,22 +182,22 @@
                     camino.</p>
                 <p>Los expertos coinciden en que la mejor manera de mantener saludables los lugares de inyección y evitar complicaciones es practicar la rotación adecuada del lugar de inyección, siguiendo los siguientes pasos:</p>
                 <div class="tamaño-img">
-                    <img src="/img/generalidades-del-crecimiento-infantil/infografia-como-inyectar-la-hormona-de-crecimiento.webp" alt="como inyectar la hormona de crecimiento">
+                    <img  width="1080" height="1920" loading="lazy" src="/img/generalidades-del-crecimiento-infantil/infografia-como-inyectar-la-hormona-de-crecimiento.webp" alt="como inyectar la hormona de crecimiento">
                 </div>
                 <h5>Recuerde estos importantes consejos</h5>
                 <ul>
                     <li>Utilice siempre un sitio de inyección nuevo. No inyecte en el mismo sitio repetidamente.</li>
                     <li>Evite usar un solo sitio de inyección más de una vez cada cuatro semanas</li>
                 </ul>
-                <h2>Médico especialista en hormona del crecimiento</h2>
+                <h2 id="hormona-especialista"">Médico especialista en hormona del crecimiento</h2>
                 <p>El <a href="/especialistas-en-crecimiento"> médico especialista </a> que trata las enfermedades derivadas por la hormona del crecimiento es un <b> endocrinólogo pediatra.</b> En <a href="https://centrosequoia.com.mx/"> Centro Sequoia</a>                    única y exclusivamente atendemos los <a href="/causas-de-la-baja-estatura"> padecimientos que afectan la estatura de los niños </a> . Nuestros <b> médicos especialistas</b> tienen la <a href="/casos-de-exito"> experiencia de más de 30,000 casos atendidos</a>                    en este campo, lo que nos lleva a ser el centro MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</p>
-                <h2>Conclusiones</h2>
+                <h2 id="hormona-conclusiones">Conclusiones</h2>
                 <p>La hormona del crecimiento humana recombinante que es una proteína que se fabrica para ser casi idéntica a la forma principal de la hormona del crecimiento humana natural. Esta hormona puede estimular el crecimiento tisular, el crecimiento
                     lineal (altura) y el metabolismo de proteínas, carbohidratos, lípidos y minerales. Tiene indicaciones aprobadas tanto en población adulta como pediátrica. La hormona del crecimiento humana recombinante se usa en la población pediátrica
                     para tratar la baja estatura debido a la deficiencia de la hormona del crecimiento (incluida la deficiencia idiopática [de causa desconocida] de la hormona del crecimiento), síndrome de Turner, síndrome de Noonan, síndrome de Prader-Willi,
                     estatura baja deficiencia del gen que contiene homeobox (SHOX), insuficiencia renal crónica, baja estatura idiopática y niños pequeños para la edad gestacional.</p>
                 <div class="author-info" id="turner-autor">
-                    <div><img src="/img/doctores/dr-dorantes-sequoia.webp" alt="Perfil del Doctor Luis Miguel Dorantes Álvarez"></div>
+                    <div><img  width="1000" height="1000" loading="lazy" src="/img/doctores/dr-dorantes-sequoia.webp" alt="Perfil del Doctor Luis Miguel Dorantes Álvarez"></div>
                     <div>
                         <strong>Escrito por el Dr. Luis Miguel Dorantes Álvarez</strong>
                         <p><a href="/biografias/luis-miguel-dorantes-alvarez"> Dr. Luis Miguel Dorantes Álvarez  </a>es cofundador de Centro Sequoia y director médico de la misma institución a nivel nacional. Es médico pediatra endocrinólogo, especialista en crecimiento infantil, certificado por el Consejo Mexicano de Endocrinología. Ha practicado su especialidad por más de 35 años, escrito 5 libros y publicado más de 60 artículos científicos en revistas nacionales e internacionales. Es considerado un referente de la endocrinología pediátrica en México.</p>
@@ -231,7 +232,7 @@
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-<script src="/js/jquery-3.5.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="/js/scripts.js "></script>
 </body>
 

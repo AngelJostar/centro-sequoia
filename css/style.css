@@ -17,6 +17,7 @@
     
     img {
         width: 100%;
+        height: auto;
         display: block;
         margin: 0 auto
     }
@@ -2743,6 +2744,7 @@
     .about-this-site-h3 {
         color: #00235d;
         font-size: calc(0.4em + 1vw);
+        text-align: center !important;
     }
     
     @media (max-width:767px) {
