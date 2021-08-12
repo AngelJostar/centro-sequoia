@@ -2,7 +2,7 @@
     <div class="contenedor">
         <div class="mid-header">
             <div class="mid-image deepmid-header pt-1" id="mid-image">
-                <a href="https://centrosequoia.com.mx/"><img src="/img/Logo-Horizontal.webp" alt="imagen-logo"></a>
+                <a  href="https://centrosequoia.com.mx/"><img width="529" height="186" src="/img/Logo-Horizontal.webp" alt="imagen-logo"></a>
             </div>
             <div class="icono">
                 <div data-wow-delay="0.1s">
@@ -23,42 +23,42 @@
                     <div class="encabezado-menu">
                     </div>
                     <div class="menu-header">
-                        <a href="https://centrosequoia.com.mx/" ><img src="/img/Logo-Horizontal.webp" alt="imagen-logo"></a>
+                        <a href="https://centrosequoia.com.mx/" ><img width="529" height="186" src="/img/Logo-Horizontal.webp" alt="imagen-logo"></a>
                         <a href="#" class="toggle-nav icono-menu"><i class="far fa-window-close"></i></a>
                     </div>
                     <ul class="resaltar">
                         <li class="size-hojita hojita-menu margin-top-20 hoja-grid">
-                            <img src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
+                            <img  width="114" height="203" src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
                             <a href="https://centrosequoia.com.mx/"  class="menu-a"> Inicio</a>
                         </li>
                         <div class="linea-menu"></div>
                         <li class="size-hojita hojita-menu  hoja-grid">
-                            <img src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
+                            <img  width="114" height="203" src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
                             <a href="/crecimiento-infantil" class="menu-a"> Crecimiento Infantil</a>
                         </li>
                         <div class="linea-menu"></div>
                         <li class="size-hojita hojita-menu  hoja-grid">
-                            <img src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
+                            <img width="114" height="203" src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
                             <a href="/especialistas-en-crecimiento" class="menu-a"> Especialistas en crecimiento infantil</a>
                         </li>
                         <div class="linea-menu"></div>
                         <li class="size-hojita hojita-menu  hoja-grid">
-                            <img src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
+                            <img width="114" height="203" src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
                             <a href="/crecimiento-infantil-deficiente" class="menu-a"> Crecimiento infantil deficiente</a>
                         </li>
                         <div class="linea-menu"></div>
                         <li class="size-hojita hojita-menu  hoja-grid">
-                            <img src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
+                            <img width="114" height="203" src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
                             <a href="/preguntas-frecuentes" class="menu-a"> Preguntas Frecuentes</a>
                         </li>
                         <div class="linea-menu"></div>
                         <li class="size-hojita hojita-menu  hoja-grid">
-                            <img src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">   
+                            <img width="114" height="203" src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">   
                             <a href="/casos-de-exito" class="menu-a"> Casos de éxito</a>
                         </li>
                         <div class="linea-menu"></div>
                         <li class="size-hojita hojita-menu  hoja-grid">
-                            <img src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">   
+                            <img width="114" height="203"  src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">   
                             <a href="/contact" class="menu-a"> Contacto</a>
                         </li>
                         <div class="linea-menu"></div>

@@ -11,6 +11,7 @@
 <title>Hormona del crecimiento: todo lo que debes saber de esta sustancia </title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
+<link rel="preload" as="image" href="https://i.ytimg.com/vi/IhbFXF61kTM/hqdefault.jpg" />
 
 </head>
 
