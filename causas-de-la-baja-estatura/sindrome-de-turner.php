@@ -11,6 +11,9 @@
 <title>Síndrome de Turner: todo lo que debes saber</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
+<link rel="preload" as="image" href="//i.ytimg.com/vi/IhbFXF61kTM/hqdefault.jpg" />
+<link rel="preload" as="image" href="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/youtube-64.png" />
+<link rel="preload" as="image" href="/img/Logo-Horizontal.webp" />
 
 </head>
 
@@ -25,26 +28,31 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <main class="main-container">
+            
             <div class="cuadros-crecimiento">
-                    <div class="">
-                        <div class="flexbox padre">
-                            <div class="barra-titulo"></div>
-                        </div>
-                        <h1 class="img-90" style="font-size: calc(1em + 1vw) !important;"><b>Sindrome de Turner: todo lo que debes saber</b></h1>
-                        <div class="flexbox padre">
-                            <div class="barra-titulo"></div>
-                        </div>
-                    </div>
+                <div class="flexbox padre">
+                    <div class="barra-titulo"></div>
+                </div>
+                <h1 class="img-90" style="font-size: calc(2em + 1vw) !important;"><b>Sindrome de Turner: <br> todo lo que debes saber</b></h1>
+                <div class="flexbox padre">
+                    <div class="barra-titulo"></div>
+                </div>
             </div>
+            
+            <picture>
+            <source media="(max-width: 799px)" srcset="/img/causas-de-la-baja-estatura/banner-doctora-hormona-del-crecimiento-mobil.webp">
+            <source media="(min-width: 800px)" srcset="/img/causas-de-la-baja-estatura/banner-doctora-hormona-del-crecimiento-desktop.webp">
+            <img src="/img/causas-de-la-baja-estatura/banner-doctora-hormona-del-crecimiento-desktop.webp" alt="Chris standing up holding his daughter Elva">
+            </picture>
+            
             <article class="article-container">
 
 
-                <p class="centrar-texto"><em>“Revisado médicamente por el <a href="/acerca-de-este-sitio/conoce-a-nuestros-medicos-editores"> equipo médico de Centro Sequoia</a>, México – Publicado el 25 de enero del 2021 y actualizado el 10 de agosto de 2021." (Tiempo de lectura aproximado: 9 minutos)</em></p>
+                <p class="centrar-texto"><em>“Revisado médicamente por el <a href="/acerca-de-este-sitio/conoce-a-nuestros-medicos-editores"> equipo médico de Centro Sequoia</a>, México  Publicado el 25 de enero del 2021 y actualizado el 10 de agosto de 2021." (Tiempo de lectura aproximado: 9 minutos)</em></p>
   
-                <div class="contenedor-video mt-1">
-                        <div class="reproductor" data-id="IhbFXF61kTM"></div>
-                </div>
+
                     <div class="indice ">
+                        <h2>índice</h2>
                         <ol>
                             <li><a href="#turner-sindrome"> ¿Qué es el Síndrome de Turner?</li></a>
                             <li><a href="#turner-caracteristicas"> Características y síntomas</li></a>
@@ -62,6 +70,9 @@
                 <p>Es un <b>padecimiento</b> que ocurre <b> únicamente en mujeres.</b> Este síndrome causa diferentes <b> afecciones médicas</b> y del <a href="/crecimiento-infantil">desarrollo y crecimiento físico</a>, que incluyen <a href="/generalidades-del-crecimiento-infantil/baja-estatura">baja estatura</a>, falla en el desarrollo de los ovarios y defectos cardíacos. Ocurre cuando falta uno de los cromosomas X. </p>
                 <p>El <b> Síndrome de Turner </b> se diagnostica en la niñez o desde el embarazo. A veces, en niñas con síntomas leves el diagnóstico se tarda más, pudiéndose diagnosticar hasta <a href="/crecimiento-infantil-por-edad/adolecentes-12-16">la adolescencia.</a></p>
                 <p>Todas las niñas con este padecimiento requieren atención médica con algún <a href="/especialistas-en-crecimiento"> endocrinólogo pediatra especialista en crecimiento</a>. Las consultas médicas y la atención con un especialista sin duda ayudan a la mayoría de las niñas a tener una vida sana y normal. <a href="https://centrosequoia.com.mx/"> En Centro Sequoia</a> somos <b> especialistas</b> en el tratamiento de niñas con Síndrome de Turner.</p>
+                <div class="contenedor-video mt-1">
+                        <div class="reproductor" data-id="IhbFXF61kTM"></div>
+                </div>
                 <h2 id="turner-caracteristicas">Características y síntomas</h2>
                 <p>Las <b> características y síntomas </b> del padecimiento suelen variar entre niñas con este trastorno. Para algunas, tener este padecimiento puede no ser evidente, pero algunas otras niñas tienen una serie de <b> características físicas </b> y un <a href="/crecimiento-infantil-deficiente"> crecimiento infantil deficiente </a>  que se vuelven evidentes tarde o temprano. Los <b> signos y síntomas </b> pueden ser sutiles, desarrollarse lentamente con el tiempo o ser significativos.</p>
                 <!-- banner -->
@@ -87,12 +98,12 @@
                 <h3>Estrógeno</h3>
                 <p>La mayoría de las niñas necesitan comenzar la terapia con <b> estrógenos</b> y hormonas relacionadas para comenzar la <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"> pubertad </a>. A menudo, la terapia con estrógenos se inicia alrededor de los 11 o 12 años. El estrógeno ayuda a promover el desarrollo en los senos y mejora el tamaño del útero. El estrógeno ayuda con la mineralización ósea y, cuando se usa con la hormona del crecimiento, también puede ayudar con la altura. La terapia con reemplazo de estrógenos generalmente continúa durante toda la vida, hasta que se alcanza la edad promedio en la menopausia.</p>
                 <div class="tamaño-img ">
-                    <img src="/img/causas-de-la-baja-estatura/Banner-Sindrome-de-Williams.webp" alt="Banner síndrome de williams">
+                    <a  href="/causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento"><img width="1000" height="1000" loading="lazy" src="/img/causas-de-la-baja-estatura/Banner-Sindrome-de-Williams.webp" alt="contacto crecimiento"></a>
                 </div>
                 <h2 id="turner-causas">Causas</h2>
                 <p>Casi todos los seres humanos nacemos con dos cromosomas sexuales. Los niños heredan el cromosoma X de sus madres y el cromosoma Y de sus padres. Las niñas heredan un cromosoma X de cada padre. En las niñas que padecen esta enfermedad les falta (parcial o totalmente) una copia del cromosoma X.</p>
                 <div class="tamaño-img ">
-                    <img src="/img/causas-de-la-baja-estatura/causas-del-sindrome-de-turner.webp" alt="Causas del síndrome de turner">
+                    <img  width="1000" height="1000" loading="lazy" src="/img/causas-de-la-baja-estatura/causas-del-sindrome-de-turner.webp" alt="Causas del síndrome de turner">
                 </div>
                 <p>Las variaciones en los genes que producen Síndrome de Turner podrían ser:</p>
                 <h3>Monosomía</h3>
@@ -116,7 +127,7 @@
                 <h4>Amniocentesis</h4>
                 <p>En esta prueba, se toma una muestra del líquido amniótico del útero. El bebé arroja células al líquido amniótico. El líquido se puede enviar al laboratorio de genética para estudiar los cromosomas del bebé en estas células.</p>
                 <div class="tamaño-img ">
-                    <img src="/img/causas-de-la-baja-estatura/amniocentesis.webp" alt="">
+                    <img  width="388" height="282" loading="lazy" src="/img/causas-de-la-baja-estatura/amniocentesis.webp" alt="">
                 </div>
                 <h2 id="turner-tratamiento-en">Tratamiento en el embarazo y fertilidad para mujeres</h2>
                 <p>Solo un pequeño porcentaje en las mujeres con esta enfermedad pueden quedar embarazadas sin un tratamiento de fertilidad. Aquellos que sí pueden experimentar insuficiencia en los ovarios y la consiguiente infertilidad muy temprano en la edad adulta. Por lo tanto, es importante discutir los objetivos reproductivos con su <a href="/especialistas-en-crecimiento">médico.</a></p>
@@ -126,8 +137,8 @@
                 <p>Se estima que en México existen 28 mil casos, con una incidencia a nivel mundial de hasta 1 en cada 2,500 niñas recién nacidas, tomando en cuenta el último censo de población y vivienda. Lo que representa aproximadamente 400 niñas al año que nacen con este síndrome.</p>
                 <h2 id="turner-especialista">Cuándo ver a un médico especialista </h2>
                 <p>A veces es difícil distinguir los signos y síntomas del síndrome de Turner. Es muy importante recibir un correcto diagnóstico rápido y adecuado y una atención precisa. Consulte a su médico especialista en crecimiento si tiene inquietudes sobre el <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"> desarrollo físico o sexual de su hija.</a></p>
-                <div class="tamaño-img ">
-                    <img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="banner contactanos sequoia doctor dorantes">
+                <div class="tamaño-img">
+                    <a href="/contact"><img width="1920" height="1080" loading="lazy" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="banner contactanos sequoia doctor dorantes"></a>
                 </div>
                 <h3>Preparando su cita médica con un especialista</h3>
                 <p>La forma en que se entera que su hijo tiene el síndrome de Turner puede variar, según la etapa en la que se corrobore el diagnóstico de la siguiente manera: </p>
@@ -154,8 +165,9 @@
                     <li>¿Cómo evaluará los trastornos o complicaciones que se asocian comúnmente con el síndrome de Turner?</li>
                     <li>¿Cómo puedo ayudar a controlar la salud y el desarrollo de mi hijo?</li>
                 </ul>
-                <div class="author-info" id="turner-autor">
-                    <div><img src="/img/doctores/dr-dorantes-sequoia.webp" alt="Perfil del Doctor Luis Miguel Dorantes Álvarez"></div>
+                <h2 id="turner-autor">Acerca del Autor</h2> 
+                <div class="author-info">
+                    <div><img width="100" height="100" loading="lazy" src="/img/doctores/dr-dorantes-sequoia.webp" alt="Perfil del Doctor Luis Miguel Dorantes Álvarez"></div>
                     <div>
                         <strong>Escrito por el Dr. Luis Miguel Dorantes Álvarez</strong>
                         <p><a href="/biografias/luis-miguel-dorantes-alvarez"> Dr. Luis Miguel Dorantes Álvarez  </a>es cofundador de Centro Sequoia y director médico de la misma institución a nivel nacional. Es médico pediatra endocrinólogo, especialista en crecimiento infantil, certificado por el Consejo Mexicano de Endocrinología. Ha practicado su especialidad por más de 35 años, escrito 5 libros y publicado más de 60 artículos científicos en revistas nacionales e internacionales. Es considerado un referente de la endocrinología pediátrica en México.</p>
@@ -184,11 +196,11 @@
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="/js/scripts.js "></script>
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-<script src="/js/jquery-3.5.1.min.js"></script>
-<script src="/js/scripts.js "></script>
 </body>
 
 

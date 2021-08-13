@@ -13,6 +13,8 @@ $(document).ready(function() {
 
     function a() { const a = this.getAttribute("aria-expanded"); for (i = 0; i < e.length; i++) e[i].setAttribute("aria-expanded", "false"); "false" == a && this.setAttribute("aria-expanded", "true") }
 
+
+
     function t() {
         var e = document.createElement("iframe");
         e.setAttribute("src", "//www.youtube.com/embed/" + this.parentNode.dataset.id + "?autoplay=1&autohide=2&border=0&wmode=opaque&enablejsapi=1&controls=0&showinfo=0"), e.setAttribute("frameborder", "0"), e.setAttribute("id", "youtube-iframe"), this.parentNode.replaceChild(e, this)

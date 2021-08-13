@@ -3052,6 +3052,7 @@
         padding: 20px 0;
         margin-bottom: 20px;
         line-height: 1.5;
+        text-align: center;
     }
     
     .author-info img {
@@ -3096,6 +3097,7 @@
     /*FORMATO ARTICULOS*/
     
     .main-container {
+        margin-top: 2em !important;
         max-width: 100%;
         margin: 0 auto;
     }
@@ -3142,6 +3144,8 @@
         font-size: calc(14px + .4vw);
         max-width: 90%;
         margin: 0.5em auto;
+        color: #777;
+        text-align: center;
     }
     
     .article-container ol li {
@@ -3183,16 +3187,13 @@
     
     .indice {
         margin: 1em auto;
-        max-width: 95%;
+        max-width: 500px;
         background-color: #f8f9fa;
         border: solid #e5e5e5;
         border-width: 1px 1px;
     }
     
     @media (min-width: 768px) {
-        .indice {
-            max-width: 40%;
-        }
         .article-container {
             max-width: 60%;
         }

@@ -12,6 +12,10 @@
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 <link rel="preload" as="image" href="https://i.ytimg.com/vi/IhbFXF61kTM/hqdefault.jpg" />
+<link rel="preload" as="image" href="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/youtube-64.png" />
+<link rel="preload" as="image" href="/img/Logo-Horizontal.webp"/>
+
+
 
 </head>
 
@@ -27,11 +31,11 @@
 
         <main class="main-container">
             <div class="cuadros-crecimiento">
-                <div class="">
+                <div >
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1 class="img-90" style="font-size: calc(1em + 1vw) !important;"><b>Hormona del crecimiento </b></h1>
+                    <h1 class="img-90" style="font-size: calc(2em + 1vw) !important;"><b>Hormona del crecimiento </b></h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
@@ -42,10 +46,9 @@
 
                 <p class="centrar-texto"><em>“Revisado médicamente por el <a href="/acerca-de-este-sitio/conoce-a-nuestros-medicos-editores"> equipo médico de Centro Sequoia</a>, México – Publicado el 25 de enero del 2021 y actualizado el 10 de agosto de 2021." (Tiempo de lectura aproximado: 9 minutos)</em></p>
 
-                <div class="contenedor-video mt-1">
-                    <div class="reproductor" data-id="IhbFXF61kTM"></div>
-                </div>
+                
                 <div class="indice ">
+                    <h2>índice</h2>
                     <ol>
                         <li><a href="#hormona-crecimiento"> ¿Qué es la hormona de crecimiento?</a></li>
                         <li><a href="#hormona-crecemos">¿Cómo crecemos?</a></li>
@@ -54,6 +57,7 @@
                         <li><a href="#hormona-deficiencia">Deficiencia de hormona de crecimiento</a></li>
                         <li><a href="#hormona-especialista">Médico especialista en hormona del crecimiento</a></li>
                         <li><a href="#hormona-conclusiones">Conclusiones</a></li>
+                        <li><a href="#hormona-autor"> Acerca del autor</li></a>
                     </ol>
                 </div>
 
@@ -62,6 +66,9 @@
                     Nuestros cuerpos producen entre uno y dos miligramos de ésta cada día.</p>
                 <p>La <b>hormona del crecimiento</b> es vital para el <a href="/generalidades-del-crecimiento-infantil">crecimiento físico normal de los niños</a>. Sus niveles aumentan progresivamente durante la <b>infancia</b> y alcanzan su punto máximo
                     durante el <a href="/generalidades-del-crecimiento-infantil/estiron-puberal"> estirón de crecimiento</a> que se produce en la <a href="/crecimiento-infantil-por-edad/adolecentes-12-16"> pubertad.</a></p>
+                <div class="contenedor-video mt-1">
+                    <div class="reproductor" data-id="kBmh9tJAQd8"></div>
+                </div>
                 <h2 id="hormona-crecemos">¿Cómo crecemos? </h2>
                 <p>El <a href="/generalidades-del-crecimiento-infantil">proceso de crecimiento</a> comienza con la producción de hormona de crecimiento en una parte dentro de la cabeza que se llama “glándula pituitaria”. Otra glándula que se llama “hipotálamo”,
                     le indica a la glándula pituitaria cuándo debe liberar hormona de crecimiento dentro de la sangre o “torrente sanguíneo”.</p>
@@ -71,9 +78,7 @@
                     el crecimiento.</p>
                 <p>La hormona entra en el hígado causando que se libere otra hormona llamada “factor de crecimiento parecido a la insulina-1” (IGF-1). Esta hormona sale del hígado y entra también al torrente sanguíneo.</p>
                 <p>Juntos, la hormona de crecimiento y el IGF-1, viajan a través del torrente sanguíneo a todas las partes del cuerpo, incluyendo los huesos largos de las piernas que son los que tienen el mayor efecto en nuestra estatura.</p>
-                <div class="tamaño-img">
-                    <img width="1080" height="1920" loading="lazy" src="/img/generalidades-del-crecimiento-infantil/banner-hormona-del-crecimiento.webp" alt="Banner hormona del crecimiento">
-                </div>
+
                 <h2 id="hormona-crecimiento-niños">Hormona del crecimiento en los niños</h2>
                 <p>La hormona de crecimiento es la <b> encargada de que los niños crezcan.</b> <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento">Las tasas de crecimiento</a> en los niños varían considerablemente de un niño a otro.
                     Pero en promedio la ganancia de estatura normal se describe como:</p>
@@ -182,9 +187,7 @@
                 <p>Es importante mantener saludables los lugares de inyección. Practicar la rotación adecuada del lugar de la inyección y siempre inyectarse en lugares saludables son dos formas en las que puede ayudar a mantener el tratamiento en el buen
                     camino.</p>
                 <p>Los expertos coinciden en que la mejor manera de mantener saludables los lugares de inyección y evitar complicaciones es practicar la rotación adecuada del lugar de inyección, siguiendo los siguientes pasos:</p>
-                <div class="tamaño-img">
-                    <img  width="1080" height="1920" loading="lazy" src="/img/generalidades-del-crecimiento-infantil/infografia-como-inyectar-la-hormona-de-crecimiento.webp" alt="como inyectar la hormona de crecimiento">
-                </div>
+
                 <h5>Recuerde estos importantes consejos</h5>
                 <ul>
                     <li>Utilice siempre un sitio de inyección nuevo. No inyecte en el mismo sitio repetidamente.</li>
@@ -197,13 +200,15 @@
                     lineal (altura) y el metabolismo de proteínas, carbohidratos, lípidos y minerales. Tiene indicaciones aprobadas tanto en población adulta como pediátrica. La hormona del crecimiento humana recombinante se usa en la población pediátrica
                     para tratar la baja estatura debido a la deficiencia de la hormona del crecimiento (incluida la deficiencia idiopática [de causa desconocida] de la hormona del crecimiento), síndrome de Turner, síndrome de Noonan, síndrome de Prader-Willi,
                     estatura baja deficiencia del gen que contiene homeobox (SHOX), insuficiencia renal crónica, baja estatura idiopática y niños pequeños para la edad gestacional.</p>
-                <div class="author-info" id="turner-autor">
+                <h2 id="turner-autor">Acerca del Autor</h2> 
+                <div class="author-info" id="hormona-autor">
                     <div><img  width="1000" height="1000" loading="lazy" src="/img/doctores/dr-dorantes-sequoia.webp" alt="Perfil del Doctor Luis Miguel Dorantes Álvarez"></div>
                     <div>
                         <strong>Escrito por el Dr. Luis Miguel Dorantes Álvarez</strong>
                         <p><a href="/biografias/luis-miguel-dorantes-alvarez"> Dr. Luis Miguel Dorantes Álvarez  </a>es cofundador de Centro Sequoia y director médico de la misma institución a nivel nacional. Es médico pediatra endocrinólogo, especialista en crecimiento infantil, certificado por el Consejo Mexicano de Endocrinología. Ha practicado su especialidad por más de 35 años, escrito 5 libros y publicado más de 60 artículos científicos en revistas nacionales e internacionales. Es considerado un referente de la endocrinología pediátrica en México.</p>
                     </div>
                 </div>
+                
                 <h2>Referencias</h2>
                 <ul>
                     <li>Dorantes Álvarez LM, Barrientos Pérez M: Recomendaciones de la Sociedad Mexicana de Endocrinología Pediátrica AC, para el uso de hormona de crecimiento en niños y adolescentes. Bol Med Hosp Infant Mex 2005;62:362-374,</li>
@@ -230,11 +235,11 @@
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="/js/scripts.js "></script>
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="/js/scripts.js "></script>
 </body>
 
 
