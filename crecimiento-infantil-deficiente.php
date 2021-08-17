@@ -69,10 +69,10 @@
                     <p>Hay señales a las que debe prestar atención que podrían indicar que su hijo no está creciendo como debería: </p>
                 </div>
                 <div class="tamaño-img">
-                    <img src="/img/banners/señales-de-un-mal-crecimiento.webp" alt="señales de un mal crecimiento">
+                    <img src="/img/banners/seniales-de-un-mal-crecimiento.webp" alt="señales de un mal crecimiento">
                 </div>
                 <div class="tamaño-img">
-                    <a href="/contact"><img src="/img/banners/banner-contacto-centro-sequoia-niña-d.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
+                    <a href="/contact"><img src="/img/banners/banner-contacto-centro-sequoia-ninia-d.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
                 </div>
                 <div class="cuadros-crecimiento margin-top-20">
                     <div class="titulos-principal">

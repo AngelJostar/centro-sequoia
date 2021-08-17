@@ -36,7 +36,7 @@
                     </div>
                 </div>
             </div>
-            <div class="sombras-img pb-2 tamaño-img ocultar">
+            <div class="sombras-img pb-2 tamaño-img ">
                 <img src="/img/banners/doctores-de-centro-sequoia.webp" width="auto" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantill">
             </div>
             <div class="cuadros-crecimiento-2 margin-negativo-top-18-5 ">

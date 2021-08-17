@@ -242,7 +242,7 @@
             <a href="/contact"><img src="/img/banners/banner-contacto-centro-sequoia-niña-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
         </div>
         <div class="tamaño-img mostrar-media ph-05">
-            <a href="/contact"><img src="/img/banners/banner-contacto-centro-sequoia-niña-d.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
+            <a href="/contact"><img src="/img/banners/banner-contacto-centro-sequoia-ninia-d.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
         </div>  
         </div>
 

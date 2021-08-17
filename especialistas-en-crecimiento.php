@@ -80,7 +80,7 @@
                     </div>
                 </div>
                 <div class="tamaño-img">
-                    <img src="/img/banners/señales-de-un-mal-crecimiento.webp" alt="señales de un mal crecimiento">
+                    <img src="/img/banners/seniales-de-un-mal-crecimiento.webp" alt="señales de un mal crecimiento">
                 </div>
                 <div class="ocultar-media">
                     <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>

@@ -59,7 +59,7 @@
                     <p>Hay señales a las que debe prestar atención que podrían indicar que su hijo no está creciendo como debería: </p>
                 </div>
                 <div class="tamaño-img">
-                    <img src="/img/banners/señales-de-un-mal-crecimiento.webp" alt="señales de un mal crecimiento">
+                    <img src="/img/banners/seniales-de-un-mal-crecimiento.webp" alt="señales de un mal crecimiento">
                 </div>
                 <div class="contenedor-video-2">
                     <div class="reproductor-rectangular" data-id="zs9O0oeo3V4"></div>
