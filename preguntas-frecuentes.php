@@ -239,10 +239,10 @@
 
         </div>
         <div class="ocultar-media ph-05">
-            <a href="/contact"><img src="/img/banners/BANNER-2-NINA-VERTICAL.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
+            <a href="/contact"><img src="/img/banners/banner-contacto-centro-sequoia-niña-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
         </div>
         <div class="tamaño-img mostrar-media ph-05">
-            <a href="/contact"><img src="/img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
+            <a href="/contact"><img src="/img/banners/banner-contacto-centro-sequoia-niña-d.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
         </div>  
         </div>
 

@@ -36,10 +36,10 @@
                 </div>
             </div>
             <div class="tamaño-img ocultar-media">
-                <img src="/img/banners/Banner-crecimiento-infantil.webp" alt="altura crecimiento estatura">
+                <img src="/img/banners/banner-crecimiento-infantil.webp" alt="banner sobre los objetivos de centro sequoia">
             </div>
             <div class="tamaño-img mostrar-media contenedor-50porciento">
-                <img src="/img/banners/Banner-crecimiento-infantil-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/banners/banner-crecimiento-infantil-desktop.webp" alt="banner sobre los objetivos de centro sequoia">
             </div>
             <div class="contenedor-video-2 ph-2">
                 <div class="reproductor-rectangular" data-id="ygP78ev4eQI"></div>

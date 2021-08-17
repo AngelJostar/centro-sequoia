@@ -170,10 +170,10 @@
                     </p>
                 </div>
                 <div class="ocultar-media">
-                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
+                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
+                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
                 </div>
 
             </div>

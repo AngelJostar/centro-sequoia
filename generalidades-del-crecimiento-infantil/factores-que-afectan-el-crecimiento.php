@@ -131,7 +131,7 @@
                 <p>En cuanto al sexo generalmente las niñas miden menos que los niños, la raza es un factor determinante en el crecimiento de un niño debido al estilo de vida que asume en el lugar en el que nace, crece y se desarrolla.</p>
             </div>
             <div class="tamaño-img">
-                <a href="/generalidades-del-crecimiento-infantil/como-medir-a-tu-hijo-de-manera-correcta"><img src="/img/banners/BANNER-Como-medir-a-tu-hijo-de-manera-correcta.webp" alt="contacto crecimiento"></a>
+                <a href="/generalidades-del-crecimiento-infantil/como-medir-a-tu-hijo-de-manera-correcta"><img src="/img/banners/banner-como-medir-a-tu-hijo-de-manera-correcta.webp" alt="Banner que lleva a como medir a tu hijo de manera correcta"></a>
             </div>
 
             <div class="ocultar-media">

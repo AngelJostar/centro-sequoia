@@ -67,7 +67,7 @@
                 <h2><b>¿Cuándo maduran completamente los hombres?</b></h2>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/generalidades-del-crecimiento-infantil/como-crecer-de-estatura"><img src="/img/banners/Banner-como-crecer-naturalmente.webp" alt="Banner como crecer naturalmente"></a>
+                <a href="/generalidades-del-crecimiento-infantil/como-crecer-de-estatura"><img src="/img/banners/banner-como-crecer-naturalmente" alt="Banner como crecer naturalmente"></a>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>La <a href="/crecimiento-infantil-por-edad">pubertad es diferente para todos y puede comenzar a cualquier edad</a> entre los 8 y los 14 años. La edad promedio para que los niños muestren los primeros signos de la pubertad es alrededor de los 12 años, aproximadamente 1 año después de que las niñas comienzan la pubertad.</p>
@@ -252,11 +252,10 @@
                 <p><b>Si tiene otras inquietudes sobre el crecimiento o desarrollo de su hijo adolescente, hable con un médico de Centro Sequoia, especializado en crecimiento y desarrollo infantil.</b></p>
             </div>
             <div class="ocultar-media">
-                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="Banner, tu hijo puede ser más alto CONTÁCTANOS"></a>
+                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
             <div class="tamaño-img mostrar-media ph-1">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto CONTÁCTANOS"></a>
-            </div>
+                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>            </div>
 
 
         </div>

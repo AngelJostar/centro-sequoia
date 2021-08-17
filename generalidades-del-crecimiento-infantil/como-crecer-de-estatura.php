@@ -171,7 +171,7 @@
                 <p>Para obtener más información de la edad osea <a href="/generalidades-del-crecimiento-infantil/edad-osea">¡Da clic aquí!</a></p>
             </div>
             <div class="tamaño-img">
-                <a href="/generalidades-del-crecimiento-infantil/edad-osea"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Edad-osea-.webp" alt="Banner edad osea"></a>
+                <a href="/generalidades-del-crecimiento-infantil/edad-osea"><img src="/img/generalidades-del-crecimiento-infantil/banner-edad-osea" alt="Banner que lleva a edad osea"></a>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>8. Tratar a tiempo enfermedades o padecimiento crónicos</b></h2>

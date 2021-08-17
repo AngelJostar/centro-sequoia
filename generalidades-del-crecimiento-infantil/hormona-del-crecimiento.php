@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta name="description" content="La hormona del crecimiento es una sustancia química que provoca el crecimiento y desarrollo de todos los tejidos del cuerpo, incluidos los huesos y músculos. Lee más en nuestro sitio avalado por médicos especialistas.">
-<title>Hormona del crecimiento: todo lo que debes saber de esta sustancia </title>
+<title>Hormona del crecimiento: Lo que debes saber de esta sustancia </title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 <link rel="preload" as="image" href="https://i.ytimg.com/vi/IhbFXF61kTM/hqdefault.jpg" />
@@ -41,6 +41,26 @@
                     </div>
                 </div>
             </div>
+
+
+            <div class="tamaño-img ">
+                    <img width="1000" height="400"  src="/img/causas-de-la-baja-estatura/banner-doctora-hormona-del-crecimiento-desktop.webp" alt="Banner doctor hormona de crecimiento"></a>
+            </div>
+            <div class="page">
+                <nav>
+                    <ol class="breadcrumb__list">
+                        <li class="breadcrumb__group">
+                            <a href="https://centrosequoia.com.mx/">Inicio</a>
+                            <span>></span>
+                        </li>
+                        <li class="breadcrumb__group">
+                            <a href="/generalidades-del-crecimiento-infantil">Generalidades del crecimiento infantil</a>
+
+                        </li>
+                    </ol>
+                </nav>
+            </div>
+
             <article class="article-container">
 
 
@@ -60,7 +80,9 @@
                         <li><a href="#hormona-autor"> Acerca del autor</li></a>
                     </ol>
                 </div>
-
+                <div class="tamaño-img ">
+                    <img width="1000" height="1920"  src="/img/generalidades-del-crecimiento-infantil/banner-hormona-del-crecimiento.webp" alt="Banner hormona de crecimiento"></a>
+                </div>
                 <h2 id="hormona-crecimiento">¿Qué es la hormona del crecimiento? </h2>
                 <p>Es una <b> sustancia química </b>que provoca el <b> crecimiento y desarrollo</b> de todos los tejidos del cuerpo (incluidos los huesos y los músculos), es secretada por células de la glándula pituitaria anterior bajo el control del hipotálamo.
                     Nuestros cuerpos producen entre uno y dos miligramos de ésta cada día.</p>
@@ -115,7 +137,7 @@
                 <p>La deficiencia de la hormona del crecimiento es un padecimiento que es causado por la baja producción de esta sustancia en el cuerpo. Los niños con este padecimiento tienen una estatura anormalmente baja con proporciones corporales normales.
                     Esta condición puede presentarse desde el nacimiento o presentarse más tarde en la vida. En algunos niños y niñas no se puede identificar la causa clara.</p>
                 <h3>¿Cómo es el tratamiento? </h3>
-                <p>Las dosis se suelen administrar a través de inyecciones diarias. El tratamiento suele durar varios años, aunque las aplicaciones pueden ir variando conforme pase el tiempo si el médico lo considera necesario. En Centro Sequoia (https://centrosequoia.com.mx/)
+                <p>Las dosis se suelen administrar a través de inyecciones diarias. El tratamiento suele durar varios años, aunque las aplicaciones pueden ir variando conforme pase el tiempo si el médico lo considera necesario. En Centro Sequoia <a href="https://centrosequoia.com.mx/">https://centrosequoia.com.mx/</a>
                     , creemos que los padres pueden contribuir al éxito de este tratamiento y lo invitamos a participar. Lea la siguiente información para conocer el tratamiento y cómo puede ayudar.</p>
                 <p>Se prescribe en niños a quienes se les ha diagnosticado una deficiencia de esta sustancia y otras afecciones que causan baja estatura.</p>
                 <ul>
@@ -187,7 +209,9 @@
                 <p>Es importante mantener saludables los lugares de inyección. Practicar la rotación adecuada del lugar de la inyección y siempre inyectarse en lugares saludables son dos formas en las que puede ayudar a mantener el tratamiento en el buen
                     camino.</p>
                 <p>Los expertos coinciden en que la mejor manera de mantener saludables los lugares de inyección y evitar complicaciones es practicar la rotación adecuada del lugar de inyección, siguiendo los siguientes pasos:</p>
-
+                <div class="tamaño-img ">
+                    <img width="1000" height="1920"  src="/img/generalidades-del-crecimiento-infantil/infografia-como-inyectar-la-hormona-de-crecimiento.webp" alt="Banner infografia de como inyectar la hormona de crecimiento"></a>
+                </div>
                 <h5>Recuerde estos importantes consejos</h5>
                 <ul>
                     <li>Utilice siempre un sitio de inyección nuevo. No inyecte en el mismo sitio repetidamente.</li>

@@ -28,22 +28,38 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <main class="main-container">
+
+
+
             
             <div class="cuadros-crecimiento">
                 <div class="flexbox padre">
                     <div class="barra-titulo"></div>
                 </div>
-                <h1 class="img-90" style="font-size: calc(2em + 1vw) !important;"><b>Sindrome de Turner: <br> todo lo que debes saber</b></h1>
+                <h1 class="img-90" style="font-size: calc(2em + 1vw) !important;"><b>Síndrome de Turner: <br> todo lo que debes saber</b></h1>
                 <div class="flexbox padre">
                     <div class="barra-titulo"></div>
                 </div>
             </div>
+
             
-            <picture>
-            <source media="(max-width: 799px)" srcset="/img/causas-de-la-baja-estatura/banner-doctora-hormona-del-crecimiento-mobil.webp">
-            <source media="(min-width: 800px)" srcset="/img/causas-de-la-baja-estatura/banner-doctora-hormona-del-crecimiento-desktop.webp">
-            <img src="/img/causas-de-la-baja-estatura/banner-doctora-hormona-del-crecimiento-desktop.webp" alt="Chris standing up holding his daughter Elva">
-            </picture>
+            <div class="tamaño-img ">
+                    <img width="1000" height="400"  src="/img/causas-de-la-baja-estatura/Banner-doctor-sindrome-de-turner.webp" alt="Banner doctor Síndrome de Turner"></a>
+            </div>
+            <div class="page">
+                <nav>
+                    <ol class="breadcrumb__list">
+                        <li class="breadcrumb__group">
+                            <a href="https://centrosequoia.com.mx/">Inicio</a>
+                            <span>></span>
+                        </li>
+                        <li class="breadcrumb__group">
+                            <a href="/causas-de-la-baja-estatura">Causas de la baja estatura</a>
+
+                        </li>
+                    </ol>
+                </nav>
+            </div>
             
             <article class="article-container">
 
@@ -89,6 +105,9 @@
                     <li><strong>Tiroides.</strong>Muchas personas con este síndrome tienen problemas en la tiroides. El más común es el hipotiroidismo o una glándula tiroides hipoactiva.</li>
                 </ol>
                 <!-- banner -->
+                <div class="tamaño-img ">
+                    <img width="1000" height="1920"  src="/img/causas-de-la-baja-estatura/sindrome-de-turner-caracteristicas.webp" alt="Sindrome de turner caracteristicas"></a>
+                </div>
                 <h2 id="turner-tratamiento">Tratamiento</h2>
                 <div></div>
                 <p>El <b> tratamiento </b>para niñas con Síndrome de Turner debe realizarse por un <a href="/especialistas-en-crecimiento"> Endocrinólogo Pediatra especialista en crecimiento</a>. </p>
@@ -119,6 +138,9 @@
                 <p>Este síndrome se produce en forma circunstancial. A veces, es debido a un problema con el espermatozoide o el óvulo, y otras veces ocurre al principio del desarrollo fetal.</p>
                 <h2 id="turner-diagnostico">Diagnóstico</h2>
                 <p>En caso que el <b> médico</b> sospeche que su niña tiene o puede tener este padecimiento, su médico le pedirá una <b> prueba de laboratorio</b> para analizar los cromosomas de su niña. El estudio clínico es una toma de sangre. <a href="/especialistas-en-crecimiento">El médico </a> también puede solicitar una frotis bucal o una muestra de piel. El análisis cromosómico determina si falta o no un cromosoma X o una anomalía en uno de los cromosomas X.</p>
+                <div class="tamaño-img ">
+                    <img  width="1000" height="1000" loading="lazy" src="/img/causas-de-la-baja-estatura/nina-con-sindrome-de-turner.webp" alt="Niña con sindrome de turner">
+                </div>
                 <h3>Diagnóstico prenatal </h3>
                 <p>En ocasiones se realiza un <b> diagnostico en desarrollo fetal.</b> Algunas características del ultrasonido pueden generar sospechas de que su bebé tiene el síndrome de Turner u otra condición genética que afecta el desarrollo en el útero.</p>
                 <p>Su especialista en embarazo y parto puede preguntarle si está interesada en pruebas adicionales para hacer un diagnóstico antes del nacimiento de su bebé. Se puede realizar uno de dos procedimientos para realizar una prueba prenatal del síndrome que son los siguientes:</p>
@@ -138,7 +160,7 @@
                 <h2 id="turner-especialista">Cuándo ver a un médico especialista </h2>
                 <p>A veces es difícil distinguir los signos y síntomas del síndrome de Turner. Es muy importante recibir un correcto diagnóstico rápido y adecuado y una atención precisa. Consulte a su médico especialista en crecimiento si tiene inquietudes sobre el <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"> desarrollo físico o sexual de su hija.</a></p>
                 <div class="tamaño-img">
-                    <a href="/contact"><img width="1920" height="1080" loading="lazy" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="banner contactanos sequoia doctor dorantes"></a>
+                    <a href="/contact"><img width="1920" height="1080" loading="lazy" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
                 </div>
                 <h3>Preparando su cita médica con un especialista</h3>
                 <p>La forma en que se entera que su hijo tiene el síndrome de Turner puede variar, según la etapa en la que se corrobore el diagnóstico de la siguiente manera: </p>

@@ -97,10 +97,10 @@
                 <p>Ante cualquier cambio en el crecimiento de tu hijo no dudes en acudir con nuestros Médicos Pediatras Endocrinólogos. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente para alcanzar una mayor estatura.</p>
             </div>
             <div class="ocultar-media">
-                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
 
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">

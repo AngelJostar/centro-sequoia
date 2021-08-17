@@ -175,10 +175,10 @@
                 <p>Una gran proporción de estos niños tienen patrones de crecimiento posparto alterados, la talla esperada es variable, a más inmadurez será más retrasado, lento e incluso incompleto, con una talla final significativamente afectada. Es importante que el niño se encuentre en seguimiento médico constantemente para que el especialista pueda valorarlo y darle un tratamiento para que pueda alcanzar una mayor estatura. </p>
             </div>
             <div class="ocultar-media">
-                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
         </div>
 

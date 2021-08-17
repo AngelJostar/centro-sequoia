@@ -37,10 +37,7 @@
                 </div>
             </div>
             <div class="tamaño-img ocultar-media">
-                <img src="/img/banners/Banner-deficiencia-de-hormona.webp" alt="">
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/banners/Banner-deficiencia-de-hormona.webp" alt="">
+                <img src="/img/banners/banner-deficiencia-de-hormona.webp" alt="Banner sobre la deficiencia de la hormona de crecimiento ">
             </div>
             <div class="contenedor-video">
                 <div class="reproductor" data-id="9Q3bfWDOjAw"></div>
@@ -111,10 +108,10 @@
                <p>La hormona de crecimiento en la mayoría de los casos provoca un aumento de la estatura en las personas con deficiencia de esta hormona, esto siempre que los cartílagos de crecimiento no se hayan cerrado. Es importante mantener un seguimiento médico con los especialistas para que ellos puedan determinar las causas y tratamiento a seguir ante una estatura baja. </p>
             </div>
             <div class="ocultar-media">
-                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
         </div>
 

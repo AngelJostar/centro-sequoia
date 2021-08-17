@@ -72,10 +72,10 @@
                     alcanzar la estatura adulta. Para las niñas, la pubertad generalmente comienza alrededor de los 11 años, y para los niños, la pubertad comienza alrededor de los 13 años.</p>
             </div>
             <div class="ocultar-media">
-                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
+                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
             <div class="cuadros-crecimiento-crecimiento margin-negativo-2">
                 <div class="titulos-principal">

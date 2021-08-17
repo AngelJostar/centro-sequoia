@@ -37,10 +37,10 @@
                 </div>
             </div>
             <div class="tamaño-img ocultar-media">
-                <img src="/img/banners/Banner-baja-estatura-familiar.webp" alt="">
+                <img src="/img/banners/banner-baja-estatura-familiar.webp" alt="Banner hacia baja estatura familiar">
             </div>
             <div class="tamaño-img mostrar-media">
-                <img src="/img/banners/Banner-baja-estatura-familiar.webp" alt="">
+                <img src="/img/banners/banner-baja-estatura-familiar.webp" alt="Banner hacia baja estatura familiar">
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="Kd1jNM7GdhE"></div>
@@ -107,10 +107,10 @@
                 <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><img src="/img/causas-baja/Banner-Deficiencia-de-Hormano-del-Crecimiento.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="ocultar-media">
-                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
 
         </div>

@@ -37,10 +37,11 @@
                 </div>
             </div>
             <div class="tamaño-img ocultar-media">
-                <img src="/img/banners/Banner-crecimiento-deficiente.webp" alt="altura crecimiento estatura">
+                <img src="/img/banners/banner-crecimiento-deficiente.webp" alt="Banner sobre crecimiento deficiente">
             </div>
+            
             <div class="tamaño-img mostrar-media">
-                <img src="/img/banners/Banner-crecimiento-deficiente-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/banners/banner-crecimiento-deficiente-desktop.webp" alt="Banner sobre crecimiento deficiente">
             </div>
             <div class="textos-principal justificar-texto ">
                 <p>Si el niño no está creciendo adecuadamente, puede ser el primer signo de una posible condición médica.
@@ -71,7 +72,7 @@
                     <img src="/img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="Señales a las que se debe prestar atención, pues indican que su hijo no esta creciendo como debería.">
                 </div>
                 <div class="tamaño-img">
-                    <a href="/contact"><img src="/img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
+                    <a href="/contact"><img src="/img/banners/banner-contacto-centro-sequoia-niña-d.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
                 </div>
                 <div class="cuadros-crecimiento margin-top-20">
                     <div class="titulos-principal">
@@ -93,11 +94,14 @@
                 <div class="centrar-texto texto-boton-esp pb-2">
                     <a href="/generalidades-del-crecimiento-infantil/como-crecer-de-estatura"><button class="boton-e boton-esp">Como crecer de estatura</button></a>
                 </div>
+                <div class="centrar-texto texto-boton-esp pb-2">
+                    <a href="/crecimiento-infantil-deficiente/ejercicios-para-crecer-de-estatura"><button class="boton-e boton-esp">Ejercicios para crecer de estatura</button></a>
+                </div>
                 <div class="tamaño-img ocultar-media">
-                    <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-v2.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
+                    <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, CONTACTANOS"></a>
+                    <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
                 </div>
 
             </div>

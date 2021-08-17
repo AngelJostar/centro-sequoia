@@ -37,7 +37,7 @@
                 </div>
             </div>
             <div class="tamaño-img  ocultar-media">
-                <img src="/img/crecimiento-infantil-por-edad/Banner-crecimiento-6-11.webp" alt="altura crecimiento estatura">
+                <img src="/img/crecimiento-infantil-por-edad/banner-crecimiento-6-11.webp" alt="Banner desarrollo físico etapa 6 a 11 años">
             </div>
             <div class="tamaño-img  mostrar-media">
                 <img src="/img/crecimiento-infantil-por-edad/Banner-crecimiento-6-11-desktop.webp" alt="altura crecimiento estatura">
@@ -116,10 +116,10 @@
                 <img src="/img/nueva/imc-ninas-6-11.webp" alt="graficas">
             </div>
             <div class="ocultar-media">
-                    <a href="/contact"><img src="/img/banners/BANNER-2-NINA-VERTICAL.webp" alt="altura-crecimiento-estatura"></a>
+                    <a href="/contact"><img src="/img/banners/banner-contacto-centro-sequoia-niña-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="/contact"><img src="/img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
+                    <a href="/contact"><img src="/img/banners/banner-contacto-centro-sequoia-niña-d.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
                 </div>
 
         </div>

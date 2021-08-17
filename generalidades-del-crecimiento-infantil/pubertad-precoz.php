@@ -143,10 +143,10 @@
                 <p>Los niños que comienzan la pubertad de manera temprana se pueden sentir diferentes a sus pares. Es posible que el sentirse diferente pueda causar problemas sociales y emocionales, incluyendo una en etapa de experimentación sexual temprana. Como padre, quizás tú también tengas problemas para lidiar con el desarrollo temprano de tu hijo o hija.</p>
             </div>
             <div class="ocultar-media">
-                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
             <div class="tamaño-img mostrar-media ph-1">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-2 ">
                 <div class="titulos-principal">
@@ -221,7 +221,7 @@
                 </div>
             </div>
             <div class="tamaño-img pt-15 ">
-                <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"><img src="/img/banners/Banner-cambios-fisicos.webp" alt="Banner-Cambios-Fisicos"></a>
+                <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"><img src="/img/banners/banner-cambios-fisicos.webp" alt="Banner cambios fisicos"></a>
             </div> 
 
         </div>
