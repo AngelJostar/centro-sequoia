@@ -37,10 +37,7 @@
                 </div>
             </div>
             <div class="tamaño-img ocultar-media">
-                <img src="/img/banners/BANNERS-Finales-Web-nutrion.webp" alt="altura crecimiento estatura">
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/banners/BANNERS-Finales-Web-nutrion.webp" alt="altura crecimiento estatura">
+                <img src="/img/banners/banner-nutricion-malnutricion-y-crecimiento-doctor.webp" alt="Banner informativo sobre nutrición, malnutrición y crecimiento">
             </div>
             <div class="contenedor-video ph-2">
                 <div class="reproductor" data-id="vmjiVF1UkPE"></div>

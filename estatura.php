@@ -38,10 +38,7 @@
                 </div>
             </div>
             <div class="tamaño-img ph-4 ocultar-media">
-                <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="1123" height="auto" alt="Estatura ideal para hombres y mujeres" loading="lazy">
-            </div>
-            <div class="tamaño-img ph-4 mostrar-media">
-                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="1123" height="auto" alt="Estatura ideal para hombres y mujeres" loading="lazy">
+                <img src="/img/banners/doctores-de-centro-sequoia.webp" width="1123" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil" loading="lazy">
             </div>
 
             <div class="textos-azules">

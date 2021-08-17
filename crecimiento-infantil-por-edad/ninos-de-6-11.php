@@ -74,8 +74,8 @@
                 <p>Los caracteres sexuales secundarios de las niñas, por lo general, suelen aparecer antes que en los niños. En concreto, las niñas empiezan a desarrollar las glándulas mamarias con un abultamiento muy ligero, lo que se llama el botón mamario. Aparece el vello púbico, se empieza a acumular grasa en torno a glúteos y muslos. Las caderas se ensanchan. El cuerpo se prepara para la llegada de la menstruación, hecho que sucede entre los 9 y los 16 años.</p>
                 <p>Los caracteres sexuales secundarios en los niños implican una musculatura más desarrollada, ensanche de tórax y hombros, mayor cantidad de vello corporal, salida del vello facial, voz más grave y depósito de grasa en torno al abdomen.</p>
             </div>
-            <div class="tamaño-img centrar-imagen pb-30">
-                <a><img src="/img/nueva/Banner-Estiron-Puberal.webp" alt=""></a>
+            <div class="tamaño-img mb-2">
+                <img src="/img/banners/banner-estiron-puberal.webp" alt="Banner que manda a estirón puberal">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">

@@ -36,11 +36,8 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
-                <img src="/img/banners/banner-baja-estatura-familiar.webp" alt="Banner hacia baja estatura familiar">
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/banners/banner-baja-estatura-familiar.webp" alt="Banner hacia baja estatura familiar">
+            <div class="tamaño-img ">
+                <a href="/causas-de-la-baja-estatura/baja-estatura-familiar"><img src="/img/banners/banner-baja-estatura-familiar.webp" alt="Banner baja estatura familiar"></a>
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="Kd1jNM7GdhE"></div>
@@ -53,7 +50,7 @@
                     de los padres. </p>
             </div>
             <div class="tamaño-img pt-15 pb-30">
-                <a href="/causas-de-la-baja-estatura/baja-estatura-idiopatica"><img src="/img/causas-baja/Banner-Talla-baja-Idiopatica.webp" alt="contacto crecimiento"></a>
+                <a href="/causas-de-la-baja-estatura/baja-estatura-idiopatica"><img src="/img/causas-baja/banner-talla-baja-idiopatica.webp" alt="banner talla baja idiopatica"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
@@ -97,14 +94,14 @@
                 <p>Las principales diferencias entre la talla baja familiar y el retraso constitucional del crecimiento son: </p>
             </div>
             <div class="tamaño-img pt-1p">
-                <img src="/img/causas-baja/tabla-azul.webp" alt="contacto crecimiento">
+                <img src="/img/causas-baja/direncia-entre-talla-baja-y-el-retraso-constitucional.webp" alt="diferencias entre la talla baja familiar y el retraso constitucional">
             </div>
 
             <div class="justificar-texto-85 pt-15 alinear-texto-izquierda">
                 <p>Si la estatura baja familiar está relacionada con la deficiencia de la hormona del crecimiento, el niño necesitará ser tratado antes de llegar a la pubertad para alcanzar su potencial máximo de estatura.</p>
             </div>
             <div class="tamaño-img pt-15">
-                <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><img src="/img/causas-baja/Banner-Deficiencia-de-Hormano-del-Crecimiento.webp" alt="contacto crecimiento"></a>
+                <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><img src="/img/causas-baja/banner-deficiencia-de-hormano-del-crecimiento.webp" alt="banner deficiencia de hormona de crecimiento"></a>
             </div>
             <div class="ocultar-media">
                 <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>

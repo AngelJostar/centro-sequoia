@@ -37,16 +37,7 @@
                 </div>
             </div>
             <div class="tamaño-img ocultar-media">
-                <img src="/img/banners/Banner-retraso-constitucional-del-crecimiento.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>El retraso constitucional del crecimiento y de la pubertad (RCCP) es una condición caracterizada por baja estatura y maduración esquelética retrasada, en niños sanos.</h2>
-                </div>
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/banners/Banner-retraso-constitucional-del-crecimiento.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>El retraso constitucional del crecimiento y de la pubertad (RCCP) es una condición caracterizada por baja estatura y maduración esquelética retrasada, en niños sanos.</h2>
-                </div>
+                <img src="/img/banners/banner-retraso-constitucional-del-crecimiento-doctores.webp" alt="Banner informativo, retraso constitucional del crecimiento">
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="JF7uX44dN_E"></div>
@@ -77,7 +68,7 @@
             </div>
             <div class="tamaño-img pb-30">
                 <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="/img/causas-de-la-baja-estatura/Banner-Nutricion-y-Crecimiento-.webp" alt="contacto crecimiento"></a>
-                <!--<a href="/generalidades-del-crecimiento-infantil/pubertad-precoz"><img src="/img/causas-baja/Banner-Pubertad-adelantada-o-atrasada.webp" alt="contacto crecimiento"></a>-->
+                
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">

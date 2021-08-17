@@ -128,7 +128,7 @@
                 </div>
             </div>
             <div class="tamaño-img  ph-1">
-                <img src="/img/banners/IMAGENES-TESTIMONIO-nina-2.webp" alt="imagen de Fernanda">
+                <img src="/img/banners/testimonio-fernanda.webp" alt="imagen de Fernanda">
             </div>
             <div class="body-container ph-2">
                     <div class="accordion">
@@ -240,7 +240,7 @@
 
 <div id="ventana-modal" class="modal">
         <div class="modal-contenido">
-                <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto" alt="Portada">
+                <img src="/img/banners/doctores-de-centro-sequoia.webp" width="auto" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil">
             <div class="pt-20 pb-15 centrar-texto texto-azul-pop">
                 <p><strong>Ayuda a tu hijo</strong></p>
                 <p><strong>a ser MÁS ALTO </strong></p>

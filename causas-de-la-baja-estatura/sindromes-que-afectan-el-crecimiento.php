@@ -37,7 +37,7 @@
                 </div>
             </div>
             <div class="tamaño-img">
-                <img src="/img/banners/Banner-sindromes-que-afectan-el-crecimiento.webp" alt="">
+                <img src="/img/banners/banner-sindromes-que-afectan-el-crecimiento-doctor.webp" alt="Banner informativo sobre síndromes que afectan el crecimiento">
             </div>
             <div class="contenedor-video">
                 <div class="reproductor" data-id="CttMlkKcgZo"></div>
@@ -83,7 +83,7 @@
                 <P>Los cambios más fuertes generalmente se producen a los 12 o 18 meses de edad, en un período de semanas o meses. Los síntomas y su gravedad pueden variar bastante de un niño a otro.</P>
             </div>
             <div class="tamaño-img pt-15 pb-30">
-                <a href="/causas-de-la-baja-estatura/baja-estatura-familiar"><img src="/img/causas-de-la-baja-estatura/baja-estatura-familiar.webp" alt="contacto crecimiento"></a>
+                <a href="/causas-de-la-baja-estatura/baja-estatura-familiar"><img src="/img/causas-de-la-baja-estatura/baja-estatura-familiar.webp" alt="Banner baja estatura familiar"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">

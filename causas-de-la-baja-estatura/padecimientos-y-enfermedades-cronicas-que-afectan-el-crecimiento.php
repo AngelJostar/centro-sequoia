@@ -37,10 +37,7 @@
                 </div>
             </div>
             <div class="tamaño-img ocultar-media">
-                <img src="/img/banners/Banner-Padecimientos-y-enfermedades.webp" alt="">
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/banners/Banner-Padecimientos-y-enfermedades.webp" alt="">
+                <img src="/img/banners/banner-padecimientos-y-enfermedades-doctor.webp" alt="Banner informativo sobre padecimientos y enfermedades">
             </div>
             <div class="contenedor-video">
                 <div class="reproductor" data-id="zG5WEL9_G8U"></div>

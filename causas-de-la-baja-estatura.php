@@ -75,12 +75,15 @@
                         </ul>
                     </div>
                 </div>
-                <div class="tamaño-img ocultar-media pb-15">
-                    <a href="/importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="Banner importancia de que tu hijo o hija sea más alto"></a>
-                </div>
-                <div class="tamaño-img mostrar-media pb-15">
-                    <a href="/importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="Banner importancia de que tu hijo o hija sea más alto"></a>
-                </div>
+                <a href="/importancia-de-ser-mas-alto">
+                    <picture>
+                        <source media="(max-width:767px)" srcset="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp">
+                        <source media="(min-width: 767px)" srcset="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp">
+                        <img  loading="lazy" class="tamaño-img" src="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="importancia de que tu hijo o hija sea más alto">
+                    </picture>
+                </a>
+
+                
                 <div class="cuadros-crecimiento ocultar-media">
                     <div class="titulos-principal">
                         <h2><span class="font-bold">OBTENGA MÁS INFORMACIÓN SOBRE LAS CAUSAS ESPECIFÍCAS DEL CRECIMIENTO DEFICIENTE</span></h2>
@@ -169,12 +172,14 @@
                     <p>Te invitamos a que agendes una cita para que uno de nuestros médicos endocrinólogos pediatras especialistas en crecimiento pueda hacer un diagnóstico personalizado de tu hijo y diseñar el tratamiento adecuado en caso de requerirlo.
                     </p>
                 </div>
-                <div class="ocultar-media">
-                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
-                </div>
-                <div class="tamaño-img mostrar-media">
-                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
-                </div>
+                <a href="/contact">
+                    <picture>
+                        
+                        <source media="(max-width:767px)" srcset="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp">
+                        <source media="(min-width: 767px)" srcset="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp">
+                        <img  class="tamaño-img" src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="Banner, tu hijo puede ser más alto, contacto">
+                    </picture>
+                </a>
 
             </div>
         </section>

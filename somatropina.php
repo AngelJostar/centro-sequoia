@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include_once '../includes/tags/google_tag_manager_head.php';?>
+<?php include_once 'includes/tags/google_tag_manager_head.php';?>
 
 <link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
@@ -63,7 +63,7 @@
             </div>
             </div>
             <div class="tamaño-img ">
-                <a><img src="/img/banners/somatropina-2 (1).jpg" alt="hombre con guantes azules aplica la inyección de somatropina en el glúteo de un paciente"></a>
+                <a><img src="/img/banners/somatropina-2.jpg" alt="hombre con guantes azules aplica la inyección de somatropina en el glúteo de un paciente"></a>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>¿Qué pasa con la somatropina?</b></h2>

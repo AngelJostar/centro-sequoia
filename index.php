@@ -42,16 +42,9 @@
 
 
             <div class="sombras-img pb-2 tamaño-img ocultar">
-                <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto"
-                    alt="Doctores especialistas de Centro Sequoia">
+                <img src="/img/banners/doctores-de-centro-sequoia.webp" width="auto" height="auto"
+                    alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil">
             </div>
-            <div class="sombras-img tamaño-img mostrar">
-                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="auto" height="auto"
-                    alt="Doctores especialistas de Centro Sequoia">
-            </div>
-
-
-
             <div class="textos-principal margin-negativo-top-15  ">
                 <p><span class="font-bold">Centro SEQUOIA</span> es un <span class="font-bold">Centro Pediátrico
                         Exclusivo para el Crecimiento infantil</span> formado por Médicos Pediatras Endocrinólogos,
@@ -98,8 +91,8 @@
                 </div>
             </div>
             <div class="pb-2 ocultar-media ">
-                <a href="/crecimiento-infantil"><img src="/img/banners/Banner-mujer-y-nino.webp"
-                        alt="Banners-estatura-crecer"></a>
+                <a href="/crecimiento-infantil"><img src="/img/banners/banner-aprende-todo-del-crecimiento-infantil-c.webp"
+                        alt="Banner aprende todo sobre el crecimiento infantil."></a>
             </div>
             <div class="pb-2 mostrar-media tamaño-img ">
                 <a href="/crecimiento-infantil"><img src="/img/banners/banner-aprende-todo-del-crecimiento-infantil.webp"
@@ -139,16 +132,14 @@
                         crecimiento lo evalúe y pueda mejorar y superar sus proyecciones estimadas de altura.</span>
                 </p>
             </div>
-            <div class="tamaño-img ocultar-media">
-                <a href="/importancia-de-ser-mas-alto"><img
-                        src="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp"
-                        alt="Banner importancia de que tu hijo o hija sea más alto"></a>
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <a href="/importancia-de-ser-mas-alto"><img
-                        src="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp"
-                        alt="Banner importancia de que tu hijo o hija sea más alto"></a>
-            </div>
+            <a href="/contact">
+                <picture>
+                    
+                    <source media="(max-width:767px)" srcset="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp">
+                    <source media="(min-width: 767px)" srcset="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp">
+                    <img  class="tamaño-img" src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="Banner, tu hijo puede ser más alto, contacto">
+                </picture>
+            </a>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-2">
                 <div class="titulos-principal">
                     <div class="linea-index"></div>

@@ -55,7 +55,7 @@
                     <h2>CRECIMIENTO INFANTIL <br> <span class="letra-cursiva"> Generalidades</span></h2>
                 </div>
                 <div>
-                    <img src="/img/banners/ninio-astronauta.webp" alt="Generalidades del crecimiento infantil">
+                    <img src="/img/banners/ninio-astronauta.webp" alt="niño soñando ser astronauta">
                 </div>
                 <p>Le presentamos toda la información necesaria para entender a fondo el crecimiento de tu hijo o hija.</p>
                 <div class="centrar-texto texto-boton-esp pb-2">
@@ -68,7 +68,7 @@
                     <h2>CRECIMIENTO INFANTIL<br> <span class="letra-cursiva">Por edad de niños y adolescentes</span></h2>
                 </div>
                 <div>
-                    <img src="/img/banners/ninios-acostados.webp" alt="Crecimiento infantil por edad de niños y adolescentes.">
+                    <img src="/img/banners/ninios-acostados.webp" alt="niños felices acosados">
                 </div>
                 <p>El crecimiento de niños y niñas puede variar según su edad. Las tasas de crecimiento dependen de la edad de los niños y niñas.</p>
                 <div class="centrar-texto texto-boton-esp pb-2">
@@ -81,7 +81,7 @@
                     <h2>CAUSAS DE LA<br> <span class="letra-cursiva">Baja Estatura</span></h2>
                 </div>
                 <div>
-                    <img src="/img/banners/oximetro.webp" alt="Causas de la baja estatura.">
+                    <img src="/img/banners/oximetro.webp" alt="Oximetro">
                 </div>
                 <p>Los diferentes transtornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores.</p>
                 <div class="centrar-texto texto-boton-esp pb-2 ">
@@ -95,7 +95,7 @@
                     </h2>
                 </div>
                 <div>
-                    <img src="/img/banners/ninia-con-vestido.webp" alt="Saber si tu hijo o hija esta creciendo bien.">
+                    <img src="/img/banners/ninia-con-vestido.webp" alt="niña con vestido">
                 </div>
                 <p>Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.</p>
                 <div class="centrar-texto texto-boton-esp pb-2">
@@ -108,7 +108,7 @@
                     <h2>IMPORTANCIA DE SER <br> <span class="letra-cursiva">Más Alto</span></h2>
                 </div>
                 <div>
-                    <img src="/img/banners/ninio-en-la-nauraleza.webp" alt="Importancia de ser más alto.">
+                    <img src="/img/banners/ninio-en-la-nauraleza.webp" alt="niño super heroe">
                 </div>
                 <p>Además de tener más confianza y habilidades sociales debidas a su complexión física, las personas altas también pueden presumir de mayor sueldo, más likes en redes sociales y también de una productividad laboral más amplia.</p>
                 <div class="centrar-texto texto-boton-esp pb-2">

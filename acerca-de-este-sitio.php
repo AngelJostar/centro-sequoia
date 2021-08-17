@@ -39,10 +39,7 @@
                 </div>
             </div>
             <div class="sombras-img tamaño-img ocultar">
-                    <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto" alt="Doctores especialistas de Centro Sequoia">
-                </div>
-                <div class="sombras-img tamaño-img mostrar">
-                    <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="auto" height="auto" alt="Doctores especialistas de Centro Sequoia">
+                    <img src="/img/banners/doctores-de-centro-sequoia.webp" width="auto" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil">
                 </div>
             <div class="centrar-div pt-1p">
 

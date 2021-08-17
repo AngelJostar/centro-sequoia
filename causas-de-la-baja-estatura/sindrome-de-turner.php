@@ -149,7 +149,7 @@
                 <h4>Amniocentesis</h4>
                 <p>En esta prueba, se toma una muestra del líquido amniótico del útero. El bebé arroja células al líquido amniótico. El líquido se puede enviar al laboratorio de genética para estudiar los cromosomas del bebé en estas células.</p>
                 <div class="tamaño-img ">
-                    <img  width="388" height="282" loading="lazy" src="/img/causas-de-la-baja-estatura/amniocentesis.webp" alt="">
+                    <img  width="388" height="282" loading="lazy" src="/img/causas-de-la-baja-estatura/amniocentesis.webp" alt="amniocentesis - centro sequoia">
                 </div>
                 <h2 id="turner-tratamiento-en">Tratamiento en el embarazo y fertilidad para mujeres</h2>
                 <p>Solo un pequeño porcentaje en las mujeres con esta enfermedad pueden quedar embarazadas sin un tratamiento de fertilidad. Aquellos que sí pueden experimentar insuficiencia en los ovarios y la consiguiente infertilidad muy temprano en la edad adulta. Por lo tanto, es importante discutir los objetivos reproductivos con su <a href="/especialistas-en-crecimiento">médico.</a></p>

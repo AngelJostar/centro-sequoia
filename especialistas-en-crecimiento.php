@@ -36,12 +36,11 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
-                <img src="/img/banners/Banner-Especialistas-en-crecimeinto-Infantil-.webp" alt="altura crecimiento estatura">
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/banners/Banner-Especialistas-en-crecimeinto-Infantil-desktop.webp" alt="altura crecimiento estatura">
-            </div>
+            <picture>
+                <source media="(max-width:767px)" srcset="/img/banners/banner-especialistas-en-crecimeinto-infantil.webp">
+                <source media="(min-width: 767px)" srcset="/img/banners/banner-especialistas-en-crecimeinto-Infantil-desktop.webp">
+                <img class="tamaño-img" src="/img/banners/banner-especialistas-en-crecimeinto-infantil.webp" alt="Banner especialistsa en crecimiento infantil">
+            </picture>
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="b2npaRv2dEw"></div>
             </div>
@@ -80,8 +79,8 @@
                         <h2><span class="font-bold"> Agenda</span> una cita con nuestros especialistas cuando tu hijo o hija:</h2>
                     </div>
                 </div>
-                <div class="tamaño-img pt-20">
-                    <img src="/img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="contacto crecimiento infantil">
+                <div class="tamaño-img">
+                    <img src="/img/banners/señales-de-un-mal-crecimiento.webp" alt="señales de un mal crecimiento">
                 </div>
                 <div class="ocultar-media">
                     <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
@@ -122,12 +121,14 @@
                         consigan una mayor estatura.
                     </p>
                 </div>
-                <div class="tamaño-img ocultar-media">
-                    <a href="/importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="Banner, importancia de que tu hijo o hija sea más alto."></a>
-                </div>
-                <div class="tamaño-img mostrar-media">
-                    <a href="/importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="Banner, importancia de que tu hijo o hija sea más alto."></a>
-                </div>
+                <a href="/contact">
+                    <picture>
+                        
+                        <source media="(max-width:767px)" srcset="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp">
+                        <source media="(min-width: 767px)" srcset="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp">
+                        <img  class="tamaño-img" src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="Banner, tu hijo puede ser más alto, contacto">
+                    </picture>
+                </a>
 
                             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
             <div class="titulos-principal">

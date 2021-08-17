@@ -27,12 +27,14 @@
             <div class="cuadros-crecimiento ph-1-3 pbh-1-3 mt-1">
                 <div class="barra-titulo"></div>
             </div>
-            <div class="ocultar-media ph-4">
-                    <a href="/crecimiento-infantil"><img src="/img/banners/GRACIAS-MOVIL.webp" alt="Gracias por contactarnos, nos pondremos en contacto a la brevedad."></a>
-            </div>
-            <div class="tamaño-img mostrar-media ph-4">
-                    <a href="/crecimiento-infantil"><img src="/img/banners/GRACIAS-DESKTOP.webp" alt="Gracias por contactarnos, nos pondremos en contacto a la brevedad."></a>
-            </div>
+            <a href="/crecimiento-infantil">
+                <picture>
+                    <source media="(max-width:767px)" srcset="/img/banners/GRACIAS-MOVIL.webp">
+                    <source media="(min-width: 767px)" srcset="/img/banners//GRACIAS-DESKTOP.webp">
+                    <img  loading="lazy" class="tamaño-img" src="/img/banners/GRACIAS-MOVIL.webp" alt="Gracias por contactarnos">
+                </picture>
+            </a>
+
         </div>
         <?php include_once 'includes/templates/footer.php';?>
 

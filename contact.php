@@ -38,11 +38,9 @@
                 </div>
             </div>
             <div class="tamaño-img ocultar-media">
-                <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="1123" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil" loading="lazy">
+                <img src="/img/banners/doctores-de-centro-sequoia.webp" width="1123" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantill" loading="lazy">
             </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="1123" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil" loading="lazy">
-            </div>
+
 
             <div class="textos-azules">
             <p>En <span class="font-bold">Centro Sequoia</span> somos endocrinólogos pediatras
@@ -190,13 +188,14 @@
                 </form>
             </div>
         </section>
-        <div class="ocultar-media">
-                <a href="/crecimiento-infantil"><img src="/img/banners/Banner-mujer-y-nino.webp" width="1080" height="auto" alt="Banner aprende todo sobre el crecimiento infantil." loading="lazy"></a>
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <a href="/crecimiento-infantil"><img src="/img/banners/estatura-crecer-crecimiento-infantil-1.webp" width="1080" height="auto" alt="Banner aprende todo sobre el crecimiento infantil." loading="lazy"></a>
-            </div>
-        </div>
+        <a href="/crecimiento-infantil">
+            <picture>
+                
+                <source media="(max-width:767px)" srcset="/img/banners/banner-aprende-todo-del-crecimiento-infantil-c.webp">
+                <source media="(min-width: 767px)" srcset="/img/banners/estatura-crecer-crecimiento-infantil-1.webp">
+                <img  loading="lazy" class="tamaño-img" src="/img/banners/banner-aprende-todo-del-crecimiento-infantil-c.webp" alt="Banner aprende todo sobre el crecimiento infantil.">
+            </picture>
+        </a>
 
 
 

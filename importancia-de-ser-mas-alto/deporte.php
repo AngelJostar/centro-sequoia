@@ -38,7 +38,7 @@
                 </div>
             </div>
             <div class="tamaño-img ocultar-media">
-                <img src="/img/banners/banner-trabajo-1.webp" alt="altura crecimiento estatura">
+                <img src="/img/banners/banner-deporte-doctor.webp" alt="banner sobre deporte">
             </div>
             <div class="tamaño-img mostrar-media">
                 <img src="/img/banners/banner-trabajo-1-desktop.webp" alt="altura crecimiento estatura">

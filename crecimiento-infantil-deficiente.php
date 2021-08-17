@@ -69,7 +69,7 @@
                     <p>Hay señales a las que debe prestar atención que podrían indicar que su hijo no está creciendo como debería: </p>
                 </div>
                 <div class="tamaño-img">
-                    <img src="/img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="Señales a las que se debe prestar atención, pues indican que su hijo no esta creciendo como debería.">
+                    <img src="/img/banners/señales-de-un-mal-crecimiento.webp" alt="señales de un mal crecimiento">
                 </div>
                 <div class="tamaño-img">
                     <a href="/contact"><img src="/img/banners/banner-contacto-centro-sequoia-niña-d.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
@@ -83,7 +83,7 @@
                     <p>En algunos niños y niñas, el crecimiento deficiente puede no ser una causa de preocupación, pero, en otros, puede estar asociado con serios problemas de salud, el niño puede presentar afectaciones en: </p>
                 </div>
                 <div class="tamaño-img">
-                    <img src="/img/banners/ICONOS WEB Sequoia 2021-17.webp" alt="Problemas de salud que están asociados con el crecimiento infantil deficiente.">
+                    <img src="/img/banners/problemas-asociados-al-crecimiento.webp" alt="Problemas de salud que están asociados con el crecimiento infantil deficiente.">
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
                     <a href="/crecimiento-infantil-deficiente/a-que-edad-dejan-de-crecer-las-mujeres"><button style="font-size: calc(1.1em + .6vw); !important" class="boton-e boton-esp">A que edad dejan de crecer las mujeres</button></a>

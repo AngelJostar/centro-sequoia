@@ -64,7 +64,7 @@
                 <p>La mayoría de las mujeres alcanzan su estatura adulta a los 14 o 15 años. Esta edad podría ser más joven dependiendo de cuándo una niña tenga su primer período. Es posible que desee comunicarse con un <a href="/especialistas-en-crecimiento"> médico especialista en crecimiento de Centro Sequoia</a>                    si su hija tiene 15 años y aún no ha comenzado su período.</p>
             </div>
             <div class="tamaño-img ">
-                <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"><img src="/img/banners/banner-cambios-fisicos.webp" alt="Banner cambios Fisicos"></a>
+                <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"><img src="/img/banners/banner-cambios-fisicos.webp" alt="banner cambios Fisicos"></a>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>¿Cuál es la conexión entre la pubertad y el desarrollo de los senos?</b></h2>
@@ -75,7 +75,7 @@
                 <p>Es posible que los brotes no aparezcan al mismo tiempo, pero por lo general aparecen con seis meses de diferencia entre sí. Para conocer más acerca del desarrollo puberal de las mujeres da clic aquí: <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"> Cambios físicos en niñas y niños</a></p>
             </div>
             <div class="tamaño-img ">
-                <img src="/img/banners/crecimiento-en-las-mujeres.webp" alt="Las mujeres dejan de crecer y alcanzan la estatura adulta a los 14 o 15 años. O un par de años después de que comienza la menstruación">
+                <img src="/img/banners/crecimiento-en-las-mujeres.webp" alt="como es el crecimiento en las mujeres">
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>Otros factores que pueden tener un impacto en la estatura</b></h2>
@@ -159,7 +159,7 @@
                 <p>El sobrepeso puede afectar los niveles hormonales y señalar el comienzo de la pubertad antes de lo esperado.</p>
             </div>
             <div class="tamaño-img ">
-                <a href="/generalidades-del-crecimiento-infantil/pubertad-precoz"><img src="/img/banners/Banner-Pubertad-adelantada-o-atrasada.webp" alt="banner pubertad adelantada"></a>
+                <a href="/generalidades-del-crecimiento-infantil/pubertad-precoz"><img src="/img/generalidades-del-crecimiento-infantil/banner-pubertad-adelantada-o-atrasada.webp" alt="Banner que enlaza con pubertad adelanta o atrasada"></a>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>Nutrición</b></h2>

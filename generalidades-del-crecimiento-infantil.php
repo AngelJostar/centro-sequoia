@@ -145,7 +145,7 @@
                     <a href="/crecimiento-infantil-por-edad"><img src="/img/banners/medir-edad-hijo-hija-crecimiento-infantil-2.webp" alt="Banner, crecimiento infantil por edades."></a>
                 </div>
                 <div class="tamaño-img mostrar-media pt-20">
-                    <a href="/crecimiento-infantil-por-edad"><img src="/img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="Banner, crecimiento infantil por edades."></a>
+                    <a href="/crecimiento-infantil-por-edad"><img src="/img/banners/cuanto-deberia-medir-tu-hijo.webp" alt="averigua cuanto debería medir tu hijo"></a>
                 </div>
                 <div class="cuadros-crecimiento margin-top-20 ">
                     <div class="titulos-principal">

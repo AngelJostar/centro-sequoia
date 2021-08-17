@@ -98,7 +98,7 @@
                 <p>Basándonos en las indicaciones de la OMS, podemos calcular el crecimiento del niño mes a mes, basándonos en si es niño o niña. Para aprender más sobre las gráficas de crecimiento visita nuestra sección de “Percentiles de crecimiento”.</p>
             </div>
             <div class="tamaño-img">
-                <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"><img src="/img/banners/Banner-Graficas-de-Crecimiento.webp" alt="generalidades-del-crecimiento"></a>
+                <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"><img src="/img/banners/banner-graficas-de-crecimiento.webp" alt="Banner que manda a gráficas de crecimiento"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-1 ">
                 <div class="titulos-principal">
@@ -125,13 +125,14 @@
             <div class="tamaño-img centrar-imagen ">
                 <img src="/img/nueva/imc2.webp" alt="Brexia_especialistas">
             </div>
-            <div class="ocultar-media">
-                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil"></a>
-                </div>
-                <div class="tamaño-img mostrar-media">
-                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto-crecimiento-infantil"></a>
-                </div>
-
+            <a href="/contact">
+                <picture>
+                    
+                    <source media="(max-width:767px)" srcset="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp">
+                    <source media="(min-width: 767px)" srcset="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp">
+                    <img  class="tamaño-img" src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="Banner, tu hijo puede ser más alto, contacto">
+                </picture>
+            </a>
 
 
 

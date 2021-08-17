@@ -36,11 +36,8 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
-                <img src="/img/importancia-de-ser-mas-alto/banner-trabajo-1.webp" alt="altura crecimiento estatura">
-            </div>
             <div class="tamaño-img mostrar-media">
-                <img src="/img/importancia-de-ser-mas-alto/banner-trabajo-1-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/importancia-de-ser-mas-alto/banner-trabajo-doctor.webp" alt="banner sobre trabajo">
             </div>
             <div class="justificar-texto-90">
                 <p>Los directores ejecutivos (CEOs) de las empresas mexicanas son en promedio 8 centímetros más altos que un mexicano promedio.</p>

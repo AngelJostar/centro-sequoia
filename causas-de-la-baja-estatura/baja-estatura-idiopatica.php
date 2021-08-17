@@ -36,11 +36,8 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
-                <img src="/img/banners/Banner-estatura-ideopatica.webp" alt="">
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/banners/Banner-estatura-ideopatica.webp" alt="">
+            <div class="tamaño-img">
+                <img src="/img/banners/banner-estatura-ideopatica.webp" alt="Banner sobre estatura ideopatica">
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="TygtOOxDisA"></div>

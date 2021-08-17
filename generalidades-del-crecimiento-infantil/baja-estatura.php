@@ -175,7 +175,7 @@
 
         </div>
         <div class="tamaño-img">
-            <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"><img src="/img/banners/Banner-Graficas-de-Crecimiento.webp" alt="contacto crecimiento"></a>
+            <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"><img src="/img/banners/banner-graficas-de-crecimiento.webp" alt="Banner que manda a gráficas de crecimiento"></a>
         </div>        
 
         </div>

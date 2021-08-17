@@ -38,10 +38,7 @@
                 </div>
             </div>
             <div class="tamaño-img ocultar-media">
-                <img src="/img/banners/banner-etapas-del-desarrollo-de-tanner.webp" alt="banner etapas de desarrollo de tanner">
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/banners/banner-etapas-del-desarrollo-de-tanner.webp" alt="banner etapas de desarrollo de tanner">
+                <img src="/img/banners/banner-etapas-del-desarrollo-de-tanner-doctor.webp" alt="banner etapas de desarrollo de tanner">
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="tI0-hx_0QLg"></div>
@@ -262,7 +259,7 @@
                 </div>
             </div>
             <div class="tamaño-img">
-                <a href="/generalidades-del-crecimiento-infantil/estiron-puberal"><img src="/img/banners/Banner-Estiron-Puberal.webp" alt="contacto crecimiento"></a>
+                <a href="/generalidades-del-crecimiento-infantil/estiron-puberal"><img src="/img/banners/banner-estiron-puberal.webp" alt="Banner que manda a estirón puberal"></a>
             </div>
         </div>
 

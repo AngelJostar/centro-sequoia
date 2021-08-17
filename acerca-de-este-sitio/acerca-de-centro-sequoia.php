@@ -37,10 +37,7 @@
                 </div>
             </div>
             <div class="sombras-img pb-2 tamaño-img ocultar">
-                <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="auto" height="auto" alt="Doctores especialistas de Centro Sequoia">
-            </div>
-            <div class="sombras-img tamaño-img mostrar">
-                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="auto" height="auto" alt="Doctores especialistas de Centro Sequoia">
+                <img src="/img/banners/doctores-de-centro-sequoia.webp" width="auto" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil">
             </div>
             <p></p>
             <div class="about-us h2-azules p-estandar centrar-texto mb-1">
@@ -64,9 +61,14 @@
                     <p>Ser la alternativa mejor integrada y con cobertura nacional, reconocida por la alta preparación y capacidad profesional de su equipo humano, el mejor servicio, la atención de mas alta excelencia.</p>
                 <h2><b>Valores</b></h2>
                     <p>Sequoia trabaja fundamentalmente con la mas alta ética profesional: HONESTIDAD, COMPROMISO y RESPETO por la gente.</p>
-                <div class="tamaño-img">
-                    <img src="/img/banners/estatura-crecer-crecimiento-infantil-1.webp" alt="Imagen banner informativo aprende todo del crecimiento infantil">
-                </div>
+                <a href="/crecimiento-infantil">
+                    <picture>
+                        
+                        <source media="(max-width:767px)" srcset="/img/banners/banner-aprende-todo-del-crecimiento-infantil-c.webp">
+                        <source media="(min-width: 767px)" srcset="/img/banners/estatura-crecer-crecimiento-infantil-1.webp">
+                        <img  loading="lazy" class="tamaño-img" src="/img/banners/banner-aprende-todo-del-crecimiento-infantil-c.webp" alt="Banner aprende todo sobre el crecimiento infantil.">
+                    </picture>
+                </a>
             </div>
 
         

@@ -74,12 +74,13 @@
                     nariz y mentón más notorios. Mientras tanto, las mandíbulas superior e inferior comienzan a ensancharse para dejar espacio para sus dientes permanentes. Los hombros de su hijo comienzan a estrecharse, su postura mejora y esa "barriga
                     de niño pequeño" se aplana.</p>
             </div>
-            <div class="pb-25 tamaño-img ocultar-media">
-                <a href="/preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-2.webp" alt="banners-especialistas"></a>
-            </div>
-            <div class="pb-25 tamaño-img mostrar-media">
-                <a href="/preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-1.webp" alt="banners-especialistas"></a>
-            </div>
+            <a href="/preguntas-frecuentes">
+                <picture>
+                    <source media="(max-width:767px)" srcset="/img/banners/banner-preguntas-frecuentes-c.webp">
+                    <source media="(min-width: 767px)" srcset="/img/banners/banner-preguntas-frecuentes.webp">
+                    <img  class="tamaño-img" src="/img/banners/banner-preguntas-frecuentes-c.webp" alt="Banner preguntas frecuentes en Centro Sequoia">
+                </picture>
+            </a>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">PERCENTILES DE CRECIMIENTO<br>EN NIÑOS DE 2 A 5 AÑOS</span></h2>
@@ -117,13 +118,14 @@
             <div class="tamaño-img centrar-imagen pt-2">
                 <img src="/img/nueva/peso-ninos-2.webp" alt="">
             </div>
-            <div class="ocultar-media">
-                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil"></a>
-                </div>
-                <div class="tamaño-img mostrar-media">
-                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto-crecimiento-infantil"></a>
-                </div>
-
+            <a href="/contact">
+                <picture>
+                    
+                    <source media="(max-width:767px)" srcset="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp">
+                    <source media="(min-width: 767px)" srcset="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp">
+                    <img  class="tamaño-img" src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="Banner, tu hijo puede ser más alto, contacto">
+                </picture>
+            </a>
         </div>
 
 

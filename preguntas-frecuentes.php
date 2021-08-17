@@ -38,7 +38,7 @@
             </div>
         </div>
         <div class="tamaño-img ">
-            <img src="/img/banners/PREGUNTAS-FRECUENTES-BANNER.webp" alt="altura crecimiento estatura">
+            <img src="/img/banners/preguntas-frecuentes.webp" alt="preguntas frecuentes sobre el crecimiento">
         </div>
         <div class="titulos-azules">
             <h3>¿Mi hij@ esta creciendo bien? <br>
@@ -99,7 +99,7 @@
                         </div>
                     </div>
                     <div class="tamaño-img ph-05">
-                        <a href="/crecimiento-infantil-deficiente"><img src="/img/banners/CRECIMIENTO-Sequoia-Inicio-2021.webp" alt="Banner, crecimiento infantil deficiente."></a>
+                        <a href="/crecimiento-infantil-deficiente"><img src="/img/banners/banner-crecimiento-correcto.webp" alt="crecimiento correcto en niños"></a>
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">6.-¿Hasta qué edad se puede recibir tratamiento?<span class="icon" aria-hidden="true"></span></span></button>

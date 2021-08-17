@@ -37,10 +37,7 @@
                 </div>
             </div>
             <div class="tamaño-img ocultar-media">
-                <img src="/img/banners/BANNERS-Principal-2021-II.webp" width="1123" height="auto" alt="Portada" loading="lazy">
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" width="1123" height="auto" alt="Portada" loading="lazy">
+                <img src="/img/banners/doctores-de-centro-sequoia.webp" width="1123" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil" loading="lazy">
             </div>
             <div class="textos-azules">
                 <p>En el <span class="font-bold">Centro Sequoia</span> somos endocrinólogos pediatras especialistas en crecimiento infantil. Diagnosticaremos las causas por las que tu hijo no crece correctamente y lograremos que alcance una mayor estatura.</p>
@@ -62,7 +59,7 @@
                     <p>Hay señales a las que debe prestar atención que podrían indicar que su hijo no está creciendo como debería: </p>
                 </div>
                 <div class="tamaño-img">
-                    <img src="/img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="">
+                    <img src="/img/banners/señales-de-un-mal-crecimiento.webp" alt="señales de un mal crecimiento">
                 </div>
                 <div class="contenedor-video-2">
                     <div class="reproductor-rectangular" data-id="zs9O0oeo3V4"></div>
@@ -76,7 +73,7 @@
                     <p>En algunos niños y niñas, el crecimiento deficiente puede no ser una causa de preocupación, pero, en otros, puede estar asociado con serios problemas de salud, el niño puede presentar afectaciones en: </p>
                 </div>
                 <div class="tamaño-img">
-                    <img src="/img/banners/ICONOS WEB Sequoia 2021-17.webp" alt="">
+                    <img src="/img/banners/problemas-asociados-al-crecimiento.webp" alt="Problemas de salud que están asociados con el crecimiento infantil deficiente.">
                 </div>
                 <div class="letra-cursiva-contacto centrar-texto">
                     <p>"Es importante atender a tu hijo antes de que su crecimiento termine y sea demasiado tarde para corregir su talla.</p>
@@ -153,12 +150,13 @@
                     </form>
                 </div>
             </section>
-            <div class="tamaño-img ocultar-media">
-            <a href="/preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-2.webp" alt="Banner preguntas frecuentes sobre el crecimiento infantil en niños." width="1080" height="auto" loading="lazy"></a>
-                </div>
-            <div class="tamaño-img mostrar-media">
-                <a href="/preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-1.webp" alt="Banner preguntas frecuentes sobre el crecimiento infantil en niños." width="1080" height="auto" loading="lazy"></a>
-            </div>
+            <a href="/preguntas-frecuentes">
+                <picture>
+                    <source media="(max-width:767px)" srcset="/img/banners/banner-preguntas-frecuentes-c.webp">
+                    <source media="(min-width: 767px)" srcset="/img/banners/banner-preguntas-frecuentes.webp">
+                    <img  class="tamaño-img" src="/img/banners/banner-preguntas-frecuentes-c.webp" alt="Banner preguntas frecuentes en Centro Sequoia">
+                </picture>
+            </a>
             <div class="textos-azules">
                 <p><span class="font-bold">CENTROS EN CDMX / GUADALAJARA / MONTERREY </span></p>
             </div>

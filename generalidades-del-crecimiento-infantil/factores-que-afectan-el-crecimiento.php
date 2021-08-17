@@ -134,12 +134,14 @@
                 <a href="/generalidades-del-crecimiento-infantil/como-medir-a-tu-hijo-de-manera-correcta"><img src="/img/banners/banner-como-medir-a-tu-hijo-de-manera-correcta.webp" alt="Banner que lleva a como medir a tu hijo de manera correcta"></a>
             </div>
 
-            <div class="ocultar-media">
-                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto crecimiento"></a>
-            </div>
-            <div class="tamaño-img mostrar-media ph-1">
-                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto crecimiento"></a>
-            </div>
+            <a href="/contact">
+                <picture>
+                    
+                    <source media="(max-width:767px)" srcset="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp">
+                    <source media="(min-width: 767px)" srcset="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp">
+                    <img  class="tamaño-img" src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="Banner, tu hijo puede ser más alto, contacto">
+                </picture>
+            </a>
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>
