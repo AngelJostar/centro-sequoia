@@ -2176,7 +2176,7 @@
         background: #c0d41f;
         text-decoration: none;
         height: 35px;
-        width: 180px;
+    padding: 0 1rem;
         border-radius: 20px;
         color: #fff;
         font-weight: 700!important
@@ -2593,7 +2593,7 @@
             background: #c0d41f;
             text-decoration: none;
             height: 45px;
-            width: 330px;
+            padding: 0 1rem;
             border-radius: 20px;
             color: #fff;
             font-weight: 700!important
@@ -3215,7 +3215,7 @@
     }
     
     .article-container ol {
-        padding-inline-start: 40px;
+        padding-inline-start: 25px;
         max-width: 90%;
         margin: 0 auto;
         color: #777;

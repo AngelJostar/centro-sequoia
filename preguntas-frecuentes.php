@@ -40,8 +40,8 @@
         <div class="tamaño-img ">
             <img src="/img/banners/preguntas-frecuentes.webp" alt="preguntas frecuentes sobre el crecimiento">
         </div>
-        <div class="titulos-azules">
-            <h3>¿Mi hij@ esta creciendo bien? <br>
+        <div class="titulos-azules ">
+            <h3 class="centrar-texto">¿Mi hij@ esta creciendo bien? <br>
             ¿Qué puedo hacer para que mi hijo crezca?  <br>
             ¿A qué edad dejan de crecer los Adolecentes? <br>
             ¿Por qué unos niños crecen más rápido que otros? <br>
@@ -145,9 +145,6 @@
                         <div class="accordion-content">
                             <p>Estadísticamente las personas que miden más tienen mayor probabilidad de tener éxito social y laboral dado que sencillamente se les percibe como más inteligentes y poderosos.</p>
                         </div>
-                    </div>
-                    <div class="tamaño-img ph-05">
-                        <a href="/crecimiento-infantil-por-edad"><img src="/img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="Banner, crecimiento infantil por edades."></a>
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">11.-¿Cómo afecta la estatura en la autoestima de un niño?<span class="icon" aria-hidden="true"></span></span></button>

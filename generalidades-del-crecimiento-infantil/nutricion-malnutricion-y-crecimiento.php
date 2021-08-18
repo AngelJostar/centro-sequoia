@@ -138,7 +138,7 @@
                 <a href="/tablas/frutas.php" target="_blank"><button class="boton-e boton-esp">FRUTOS</button></a>
             </div>
             <div class="tamaño-img pb-2">
-                <a href="/generalidades-del-crecimiento-infantil/edad-osea"><img src="/img/generalidades-del-crecimiento-infantil/banner-edad-osea" alt="Banner que lleva a edad osea"></a>
+                <a href="/generalidades-del-crecimiento-infantil/edad-osea"><img src="/img/banners/banner-edad-osea.webp" alt="Banner que lleva a edad osea"></a>
             </div>
             <div class="tamaño-img">
                 <a href="/causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional"><img src="/img/causas-de-la-baja-estatura/Banner-Pequeno-Edad-Gestacional.webp" alt="graficas-de-crecimiento"></a>
