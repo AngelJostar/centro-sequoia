@@ -195,7 +195,7 @@
                     <li>Tiene un compromiso a largo plazo en la relación.</li>
                 </ul>
                 <h2 id="5">Adolescencia cambios psicológicos </h2>
-                <b>Los <b>cambios emocionales</b> a veces ocurren antes de los cambios físicos de la pubertad. Muchos jóvenes quieren tener un mayor control de sus vidas a medida que atraviesan la pubertad.</b>
+                <p>Los <b>cambios emocionales</b> a veces ocurren antes de los cambios físicos de la pubertad. Muchos jóvenes quieren tener un mayor control de sus vidas a medida que atraviesan la pubertad.</p>
                 <p>Puede encontrar que es:</p>
                 <ul>
                     <li> experimentando un mayor sentido de sí mismo.</li>
