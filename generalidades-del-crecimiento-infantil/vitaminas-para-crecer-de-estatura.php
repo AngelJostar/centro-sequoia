@@ -7,9 +7,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Los alimentos impactan en el crecimiento de niños y adulescentes. Conoce cuáles son las vitaminas y minerales que le ayudarán a ganar estatura. ">
+<meta name="description" content="Los alimentos impactan en el crecimiento de niños y adolescentes. Conoce cuáles son las vitaminas y minerales que le ayudarán a ganar estatura. ">
 <meta property="og:image" content="/img/generalidades-del-crecimiento-infantil/alimentos-para-el-crecimiento.web" />
-<title>Vitaminas para crecer de estatura en niños y adulescentes</title>
+<title>Vitaminas para crecer de estatura en niños y adolescentes</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 <link rel="preload" as="image" href="https://cdn2.iconfinder.com/data/icons/social-icons-culor/512/youtube-64.png" />

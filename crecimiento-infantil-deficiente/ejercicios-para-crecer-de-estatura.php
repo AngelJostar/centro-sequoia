@@ -11,13 +11,13 @@
 <meta property="og:title" content="Los 6 mejores ejercicios para crecer de estatura" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://centrosequoia.com.mx/crecimiento-infantil-deficiente/ejercicios-para-crecer-de-estatura/" />
-<meta property="og:image" content="https://centrosequoia.com.mx/crecimiento-infantil-deficiente/ejercicios-para-crecer-de-estatura/" />
+<meta property="og:image" content="https://centrosequoia.com.mx/img-repository/Banner-ejercicios.jpg" />
 <meta property="og:description" content="Existen ejercicios que fomentan el crecimiento en niños y adolescentes, conócelos aquí. Te enseñamos qué ejercicios ayudarán a tu hijo a crecer de estatura." />
 <title>Los 6 mejores ejercicios para crecer de estatura</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 <link rel="preload" as="image" href="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/youtube-64.png" />
-<link rel="preload" as="image" href="/img/Logo-Horizontal.webp" />
+<link rel="preload" as="image" href="/img/Logo-Horizontal.webp"/>
 
 </head>
 
@@ -33,9 +33,6 @@
 
         <main class="main-container">
 
-
-
-            
             <div class="cuadros-crecimiento">
                 <div class="flexbox padre">
                     <div class="barra-titulo"></div>

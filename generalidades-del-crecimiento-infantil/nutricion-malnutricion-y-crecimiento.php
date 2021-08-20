@@ -40,7 +40,7 @@
                 </div>
             </div>
             <div class="tamaño-img">
-                <img src="/img/banners/banner-nutricion-malnutricion-y-crecimiento-doctor.webp" alt="Banner informativo sobre nutrición, malnutrición y crecimiento">
+                <img width="1000"  src="/img/banners/banner-nutricion-malnutricion-y-crecimiento-doctor.webp" alt="Banner informativo sobre nutrición, malnutrición y crecimiento">
             </div>
             <div class="contenedor-video ph-2">
                 <div class="reproductor" data-id="vmjiVF1UkPE"></div>
