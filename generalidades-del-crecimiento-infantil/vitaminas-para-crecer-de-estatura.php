@@ -33,7 +33,7 @@
                 <div class="flexbox padre">
                     <div class="barra-titulo"></div>
                 </div>
-                <h1 class="img-90" style="font-size: calc(1.5em + 1vw) !important;"><b>Vitaminas para crecer de estatura en niños y adulescentes </b></h1>
+                <h1 class="img-90" style="font-size: calc(1.5em + 1vw) !important;"><b>Vitaminas para crecer de estatura en niños y adolescentes </b></h1>
                 <div class="flexbox padre">
                     <div class="barra-titulo"></div>
                 </div>

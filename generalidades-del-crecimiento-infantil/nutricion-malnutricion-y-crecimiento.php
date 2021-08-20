@@ -8,6 +8,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta name="description" content="La nutrición en cada una de las diferentes etapas de la edad pediátrica tiene como objetivo conseguir un crecimiento en adolescentes y un crecimiento en niños adecuado.">
+<meta property="og:title" content="Nutrición y crecimiento - Alimentos para crecer de estatura" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento/" />
+<meta property="og:image" content="https://centrosequoia.com.mx/img/banners/banner-nutricion-malnutricion-y-crecimiento-doctor.webp" />
+<meta property="og:description" content="La nutrición en cada una de las diferentes etapas de la edad pediátrica tiene como objetivo conseguir un crecimiento en adolescentes y un crecimiento en niños adecuado." />
 <title>Nutrición y crecimiento - Alimentos para crecer de estatura</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">

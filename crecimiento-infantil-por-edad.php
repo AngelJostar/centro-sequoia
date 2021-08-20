@@ -29,7 +29,7 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1 style=" font-size: calc(1.2em + 1vw);"> <b> crecimiento infantil por <br>edades en niños y niñas</b></h1>
+                    <h1 style=" font-size: calc(1.2em + 1vw);"> <b> Crecimiento infantil por <br>edades en niños y niñas</b></h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>

@@ -8,6 +8,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta name="description" content="Existen ejercicios que fomentan el crecimiento en niños y adolescentes, conócelos aquí. Te enseñamos qué ejercicios ayudarán a tu hijo a crecer de estatura.">
+<meta property="og:title" content="Los 6 mejores ejercicios para crecer de estatura" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://centrosequoia.com.mx/crecimiento-infantil-deficiente/ejercicios-para-crecer-de-estatura/" />
+<meta property="og:image" content="https://centrosequoia.com.mx/crecimiento-infantil-deficiente/ejercicios-para-crecer-de-estatura/" />
+<meta property="og:description" content="Existen ejercicios que fomentan el crecimiento en niños y adolescentes, conócelos aquí. Te enseñamos qué ejercicios ayudarán a tu hijo a crecer de estatura." />
 <title>Los 6 mejores ejercicios para crecer de estatura</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
