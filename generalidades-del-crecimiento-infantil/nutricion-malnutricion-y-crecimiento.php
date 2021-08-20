@@ -25,18 +25,16 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contenedor-principal" id="contenedor-principal">
-            <div class="cuadros-crecimiento">
-                <div class="titulos-grid-baja-estatura">
-                    <div class="flexbox padre">
-                        <div class="barra-titulo"></div>
-                    </div>
-                    <h1><span class="font-bold">NUTRICIÓN Y CRECIMIENTO</span></h1>
-                    <div class="flexbox padre">
-                        <div class="barra-titulo"></div>
-                    </div>
+        <div class="cuadros-crecimiento">
+                <div class="flexbox padre">
+                    <div class="barra-titulo"></div>
+                </div>
+                <h1 class="img-90" style="font-size: calc(1.5em + 1vw) !important;">Nutrición y crecimiento</h1>
+                <div class="flexbox padre">
+                    <div class="barra-titulo"></div>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
+            <div class="tamaño-img">
                 <img src="/img/banners/banner-nutricion-malnutricion-y-crecimiento-doctor.webp" alt="Banner informativo sobre nutrición, malnutrición y crecimiento">
             </div>
             <div class="contenedor-video ph-2">
@@ -48,9 +46,9 @@
                 <p>Desde la infancia y la adolescencia, los hábitos alimenticios y el ejercicio marcan la diferencia entre una vida sana y el riesgo de sufrir enfermedades en años posteriores. Durante el desarrollo se cruzan por etapas en las que cada una
                     de ellas se requerirán de nutrientes diferentes.</p>
             </div>
-            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 mt-2 ">
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-2 ">
                 <div class="titulos-principal">
-                    <h2><span class="font-bold">NUTRICIÓN EN LA EDAD PEDIÁTRICA</span></h2>
+                    <h2>Nutrición en la edad pediátrica</h2>
                 </div>
             </div>
             <div class="justificar-texto-90 pb-15 justificar-derecha-texto">
@@ -61,9 +59,12 @@
                 <p>Entre los seis y los doce años, los niños duplican su peso corporal aproximadamente. La disminución de la relación peso-altura puede indicar desnutrición aguda. La disminución en la relación altura-edad puede sugerir desnutrición crónica.
                     Estas insuficiencias en el crecimiento pueden deberse a la mala nutrición, privación psicosocial, trastornos de la alimentación, enfermedad crónica subyacente, infección, u otros factores.</p>
             </div>
-            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 mt-2 ">
+            <div class="centrar-texto texto-boton-esp pb-2">
+                <a href="/generalidades-del-crecimiento-infantil/vitaminas-para-crecer-de-estatura" target="_blank"><button class="boton-e boton-esp">Vitaminas para crecer de estatura</button></a>
+            </div>
+            <div class="cuadros-crecimiento-2 efecto3-2  mt-2 ">
                 <div class="titulos-principal">
-                    <h2><span class="font-bold">NUTRICIÓN EN LA ADOLESCENCIA</span></h2>
+                    <h2>Nutrición en la adolescencia</h2>
                 </div>
             </div>
             <div class="justificar-texto-90 pb-15 justificar-derecha-texto">
@@ -74,9 +75,9 @@
                     de crecimiento acelerado durante la adolescencia, que en el caso de las niñas comienza a los 10 – 11 años de edad, alcanzando su pico a los 12 años, y se completa aproximadamente a los 15 años. En los niños, comienza a los 12 – 13
                     años de edad, alcanza su pico a los 14 años y termina aproximadamente a los 19 años.</p>
             </div>
-            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 mt-2 ">
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-2 ">
                 <div class="titulos-principal">
-                    <h2><span class="font-bold">MALNUTRICIÓN</span></h2>
+                    <h2>Malnutrición</h2>
                 </div>
             </div>
             <div class="justificar-texto-90 justificar-derecha-texto">
@@ -107,7 +108,7 @@
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 mt-2 ">
                 <div class="titulos-principal">
-                    <h2><span class="font-bold">TABLAS DE EQUIVALENCIAS <br> DE ALIMENTOS</span></h2>
+                    <h2>Tablas de equivalencias <br> de alimentos</h2>
                 </div>
             </div>
             <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">

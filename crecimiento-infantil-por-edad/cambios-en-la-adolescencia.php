@@ -8,6 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta name="description" content="Aclara tus dudas sobre los cambios por los que puede pasar tu hijo en la adolescencia. Estos pueden ser físicos, psicológicos y sociales.">
+<meta property="og:image" content="/img/crecimiento-infantil-por-edad/pubertad-y-adolecencia.webp" />
 <title>Cambios en la adolescencia: Te los enseñamos aquí</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
@@ -52,7 +53,7 @@
                             <span>></span>
                         </li>
                         <li class="breadcrumb__group">
-                            <a href="/crecimiento-infantil-deficiente">Crecimiento infantil deficiente</a>
+                            <a href="/crecimiento-infantil-por-edad/cambios-en-la-adolescencia">Crecimiento infantil deficiente</a>
 
                         </li>
                     </ol>
@@ -108,7 +109,7 @@
                     <li><b>En el caso de las niñas:</b> los ovarios aumentan la producción de estrógeno y además de otras hormonas femeninas.</li>
                 </ul>
                 <div class="contenedor-video mt-1">
-                        <div class="reproductor" data-id="6mSMpErXlFQ"></div>
+                    <div class="reproductor" data-id="6mSMpErXlFQ"></div>
                 </div>
                 <h2 id="2">¿A qué edad comienza? </h2>
                 <p><a href="/crecimiento-infantil-por-edad/adolecentes-12-16/">La edad</a>   en la que el <b>niño</b> entra en la <b>pubertad</b> depende de diferentes aspectos, como los <a href="/generalidades-del-crecimiento-infantil/factores-que-afectan-el-crecimiento"> genes</a>, el género y la nutrición. Esta comienza cuando los cambios en el cerebro de su hijo hacen que las hormonas sexuales de las gónadas (que son los ovarios y los testículos) comiencen a liberarse.</p>

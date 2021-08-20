@@ -36,11 +36,9 @@
                     </div>
                 </div>
             </div>
-            <picture>
-                <source media="(max-width:767px)" srcset="/img/banners/banner-especialistas-en-crecimeinto-infantil.webp">
-                <source media="(min-width: 767px)" srcset="/img/banners/banner-especialistas-en-crecimeinto-Infantil-desktop.webp">
-                <img class="tamaño-img" src="/img/banners/banner-especialistas-en-crecimeinto-infantil.webp" alt="Banner especialistsa en crecimiento infantil">
-            </picture>
+            <div>
+                <img class="tamaño-img" src="/img/banners/banner-especialistas-en-crecimiento-Infantil.webp" alt="Banner especialistsa en crecimiento infantil">
+            </div>
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="b2npaRv2dEw"></div>
             </div>
