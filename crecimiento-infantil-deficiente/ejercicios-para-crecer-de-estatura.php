@@ -13,7 +13,7 @@
 <meta property="og:url" content="https://centrosequoia.com.mx/crecimiento-infantil-deficiente/ejercicios-para-crecer-de-estatura/" />
 <meta property="og:image" content="https://centrosequoia.com.mx/img-repository/Banner-ejercicios.jpg" />
 <meta property="og:description" content="Existen ejercicios que fomentan el crecimiento en niños y adolescentes, conócelos aquí. Te enseñamos qué ejercicios ayudarán a tu hijo a crecer de estatura." />
-<title>Los 6 mejores ejercicios para crecer de estatura</title>
+<title>Los 6 mejores ejercicios para crecer de estatura del 2021✅</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 <link rel="preload" as="image" href="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/youtube-64.png" />

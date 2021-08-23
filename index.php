@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Centro SEQUOIA es un Centro Pediátrico Exclusivo para el Crecimiento de los niños ">
-<title>Home - Centrosequoia.com.mx - Crecimiento de los niños</title>
+<meta name="description" content="Si te preocupa el crecimiento de tu hijo en Centro SEQUOIA podemos ayudarte ya que es un Centro Pediátrico Exclusivo para el Crecimiento de los niños ☝">
+<title>Cómo saber tu hijo está creciendo adecuadamente - Centro Pediátrico especialista en crecimiento ✅</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/style-slider.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
@@ -41,7 +41,7 @@
             </div>
 
 
-            <div class="sombras-img pb-2 tamaño-img ocultar">
+            <div class="sombras-img pb-2 tamaño-img">
                 <img src="/img/banners/doctores-de-centro-sequoia.webp" width="auto" height="auto"
                     alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil">
             </div>

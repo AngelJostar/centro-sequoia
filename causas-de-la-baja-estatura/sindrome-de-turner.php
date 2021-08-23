@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="El Síndrome de Turner es un padecimiento que ocurre únicamente en mujeres, causa diferentes afecciones médicas que incluyen baja estatura, afecciones cardiacas y deficiencias en el desarrollo. Aquí te explicamos todo lo que debes saber sobre este padecimiento. ">
-<title>Síndrome de Turner: todo lo que debes saber</title>
+<meta name="description" content="¿No sabes que es el síndrome de Turner? no te preocupes, da click en nuestra web y descubre todo acerca del Sindrome de Turner y su tratamiento.">
+<title>Que es síndrome de Turner - tratamiento y diagnostico ✅</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 <link rel="preload" as="image" href="//i.ytimg.com/vi/IhbFXF61kTM/hqdefault.jpg" />

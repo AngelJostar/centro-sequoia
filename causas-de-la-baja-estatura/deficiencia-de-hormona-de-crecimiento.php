@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 
 <?php include_once '../includes/tags/google_tag_manager_head.php';?>
@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta name="description" content="La deficiencia de hormona de crecimiento es una afección en la que el cuerpo no produce suficiente hormona del crecimiento.">
-<title>Deficiencia de hormona de crecimiento - Endocrinólogos pediatras</title>
+<title>Deficiencia de hormona de crecimiento - Endocrinólogos pediatras </title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

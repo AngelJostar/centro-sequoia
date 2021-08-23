@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="La hormona del crecimiento es una sustancia química que provoca el crecimiento y desarrollo de todos los tejidos del cuerpo, incluidos los huesos y músculos. Lee más en nuestro sitio avalado por médicos especialistas.">
-<title>Hormona del crecimiento: Lo que debes saber de esta sustancia </title>
+<meta name="description" content="Si buscas información detallada y concisa sobre lo que es la hormona de crecimiento, este articulo te enseñara todo sobre ¿qué es? ¿que trata? y las razones de su uso.">
+<title>🔝 ¿Que es la hormona del crecimiento? - Razones para usar hormona del crecimiento</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 <link rel="preload" as="image" href="https://i.ytimg.com/vi/IhbFXF61kTM/hqdefault.jpg" />
