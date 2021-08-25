@@ -122,10 +122,10 @@
                     final es solo valido en un 85% de los casos y que el margen de error es de 5 a 10 cm.</p>
             </div>
             <div class="tamaño-img ">
-                <img src="/img/generalidades-del-crecimiento-infantil/cuadro-rosa-informacion.webp" alt="talla blanco familiar en niños">
+                <img src="/img/generalidades-del-crecimiento-infantil/talla-blanco-familiar-en-ninos.webp" alt="talla blanco familiar en niños">
             </div>
             <div class="tamaño-img mt-2">
-                <img src="/img/generalidades-del-crecimiento-infantil/cuadro-azul-informacion.webp" alt="talla blanco familiar en niñas">
+                <img src="/img/generalidades-del-crecimiento-infantil/talla-blaco-familiar-en-ninas.webp" alt="talla blanco familiar en niñas">
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>En general, cuanto más altos sean los padres, más alto será el niño y viceversa.</p>
