@@ -37,11 +37,8 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
-                <img src="/img/generalidades-del-crecimiento-infantil/BANNERS-factores-crecimeinto-Web-Sequoia-2021.webp" alt="altura crecimiento estatura">
-            </div>
-            <div class="tamaño-img mostrar-media">
-            <img src="/img/generalidades-del-crecimiento-infantil/BANNERS-factores-crecimeinto-Web-Sequoia-2021.webp" alt="altura crecimiento estatura">
+            <div class="tamaño-img">
+            <img src="/img/generalidades-del-crecimiento-infantil/banner-factores-crecimiento-infantil.webp" alt="banner informativo sobre factores de crecimiento infantil">
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="nifkbui3K-4"></div>

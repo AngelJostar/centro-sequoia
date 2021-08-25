@@ -44,7 +44,7 @@
 
             
             <div class="tamaño-img ">
-                    <img width="1000" height="400"  src="/img/causas-de-la-baja-estatura/Banner-doctor-sindrome-de-turner.webp" alt="Banner doctor Síndrome de Turner"></a>
+                    <img width="1000" height="400"  src="/img/causas-de-la-baja-estatura/Banner-doctor-sindrome-de-turner.webp" alt="Banner informativo sobre el Síndrome de Turner"></a>
             </div>
             <div class="page">
                 <nav>
@@ -117,7 +117,7 @@
                 <h3>Estrógeno</h3>
                 <p>La mayoría de las niñas necesitan comenzar la terapia con <b> estrógenos</b> y hormonas relacionadas para comenzar la <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"> pubertad </a>. A menudo, la terapia con estrógenos se inicia alrededor de los 11 o 12 años. El estrógeno ayuda a promover el desarrollo en los senos y mejora el tamaño del útero. El estrógeno ayuda con la mineralización ósea y, cuando se usa con la hormona del crecimiento, también puede ayudar con la altura. La terapia con reemplazo de estrógenos generalmente continúa durante toda la vida, hasta que se alcanza la edad promedio en la menopausia.</p>
                 <div class="tamaño-img ">
-                    <a  href="/causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento"><img width="1000" height="1000" loading="lazy" src="/img/causas-de-la-baja-estatura/Banner-Sindrome-de-Williams.webp" alt="contacto crecimiento"></a>
+                    <a  href="/causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento"><img width="1000" height="1000" loading="lazy" src="/img/causas-de-la-baja-estatura/banner-sindrome-de-williams.webp" alt="banner que enlaza a sindrome de williams"></a>
                 </div>
                 <h2 id="turner-causas">Causas</h2>
                 <p>Casi todos los seres humanos nacemos con dos cromosomas sexuales. Los niños heredan el cromosoma X de sus madres y el cromosoma Y de sus padres. Las niñas heredan un cromosoma X de cada padre. En las niñas que padecen esta enfermedad les falta (parcial o totalmente) una copia del cromosoma X.</p>

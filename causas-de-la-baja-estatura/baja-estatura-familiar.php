@@ -50,7 +50,7 @@
                     de los padres. </p>
             </div>
             <div class="tamaño-img pt-15 pb-30">
-                <a href="/causas-de-la-baja-estatura/baja-estatura-idiopatica"><img src="/img/causas-baja/banner-talla-baja-idiopatica.webp" alt="banner talla baja idiopatica"></a>
+                <a href="/causas-de-la-baja-estatura/baja-estatura-idiopatica"><img src="/img/causas-baja/banner-talla-baja-idiopatica.webp" alt="banner que enlaza a talla baja idiopatica"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">

@@ -36,12 +36,12 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
-                <img src="/img/crecimiento-infantil-por-edad/Banner-crecimiento-0-2.webp" alt="altura crecimiento estatura">
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/crecimiento-infantil-por-edad/Banner-crecimiento-0-2-desktop.webp" alt="altura crecimiento estatura">
-            </div>
+            <picture>
+                
+                <source media="(max-width:767px)" srcset="/img/crecimiento-infantil-por-edad/Banner-crecimiento-0-2-desktop.webp">
+                <source media="(min-width: 767px)" srcset="/img/crecimiento-infantil-por-edad/Banner-crecimiento-0-2.webp">
+                <img  loading="lazy" class="tamaño-img" src="/img/crecimiento-infantil-por-edad/Banner-crecimiento-0-2-desktop.webp" alt="banner informativo sobre crecimiento de 0 a 2 años">
+            </picture>
             <div class="justificar-texto-85 centrar-texto">
                 <p>Toda madre y todo padre quieren, sobre todas las cosas, que su bebé esté sano y sea feliz, y uno de los indicativos más visuales y evidentes es el aumento de peso y talla del pequeño.</p>       
             </div>
@@ -71,7 +71,7 @@
                 </div>
             </div>
             <div class="tamaño-img centrar-imagen pb-30">
-                <a href="/causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional"><img src="/img/nueva/Banner-Pequeno-Edad-Gestacional.webp" alt="Pequeño Edad Gestacional"></a>
+                <a href="/causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional"><img src="/img/causas-de-la-baja-estatura/banner-pequeno-edad-gestacional.webp" alt="banner que enlaza con pequeño para edad gestacional"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">

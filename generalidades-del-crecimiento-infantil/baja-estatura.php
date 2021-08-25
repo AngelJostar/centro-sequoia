@@ -36,13 +36,9 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
-                <img src="/img/generalidades-del-crecimiento-infantil/banner-baja-estatura.webp" alt="Banner hacia baja estatura">
+            <div class="tamaño-img">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-baja-estatura-desktop.webp" alt="banner informativo sobre baja estatura">
             </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/generalidades-del-crecimiento-infantil/Banner-baja-estatura-desktop.webp" alt="altura crecimiento estatura">
-            </div>
-
             <div class="contenedor-video ph-2">
                 <div class="reproductor" data-id="vjGNOgJ1jxs"></div>
             </div>

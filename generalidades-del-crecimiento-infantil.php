@@ -47,11 +47,8 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
-                <img src="/img/generalidades-del-crecimiento-infantil/Banner-generalidades.webp" alt="altura crecimiento estatura">
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/generalidades-del-crecimiento-infantil/Banner-generalidades-desktop.webp" alt="altura crecimiento estatura">
+            <div class="tamaño-img">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-generalidades-desktop.webp" alt="banner informativo sobre generalidades del crecimiento infantil">
             </div>
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="yIhxulvi3r0"></div>

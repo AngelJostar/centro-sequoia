@@ -78,12 +78,13 @@
             <div class="tamaño-img">
                 <a href="/importancia-de-ser-mas-alto/deporte"><img src="/img/importancia-de-ser-mas-alto/Banner-Deporte-y-Crecimeinto-Infantil.webp" alt="contacto crecimiento"></a>
             </div>
-            <div class="ocultar-media">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
-            </div>
+            <a href="/contact">
+                    <picture>
+                        <source media="(max-width:767px)" srcset="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp">
+                        <source media="(min-width: 767px)" srcset="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp">
+                        <img  loading="lazy" class="tamaño-img" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="banner, contactanos">
+                    </picture>
+                </a>
 
 
         </div>

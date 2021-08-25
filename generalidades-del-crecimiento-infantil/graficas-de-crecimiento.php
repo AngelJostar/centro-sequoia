@@ -35,11 +35,8 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
-                <img src="/img/generalidades-del-crecimiento-infantil/Banner-graficas-de-crecimiento.webp" alt="altura crecimiento estatura">
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/generalidades-del-crecimiento-infantil/Banner-graficas-de-crecimiento.webp" alt="altura crecimiento estatura">
+            <div class="tamaño-img">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-graficas-de-crecimiento.webp" alt="banner informativo sobre gráficas de crecimiento">
             </div>
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="yLo6eB0NtOM"></div>
@@ -87,10 +84,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-2">
-                <img src="/img/generalidades-del-crecimiento-infantil/LONGITUD-0-A-2-ANOS-NINAS.webp" alt="graficas-de-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/LONGITUD-0-A-2-ANOS-NINAS.webp" alt="longitud promedio de niñas de 0 a 2 años">
             </div>
             <div class=" tamaño-img">
-                <img src="/img/generalidades-del-crecimiento-infantil/LONGITUD-0-A-2-ANOS-NINOS.webp" alt="graficas-de-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/LONGITUD-0-A-2-ANOS-NINOS.webp" alt="longitud promedio de niños de 0 a 2 años">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
                 <div class="titulos-principal">
@@ -98,10 +95,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-2">
-                <img src="/img/generalidades-del-crecimiento-infantil/PERIMETRO-CEFALICO-0A-5-NINAS.webp" alt="graficas-de-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/PERIMETRO-CEFALICO-0A-5-NINAS.webp" alt="Perímetro promedio de niñas de 0 a 5 años">
             </div>
             <div class=" tamaño-img">
-                <img src="/img/generalidades-del-crecimiento-infantil/PERIMETRO-CEFALICO-0A-5-NINOS.webp" alt="graficas-de-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/PERIMETRO-CEFALICO-0A-5-NINOS.webp" alt="Perímetro promedio de niños de 0 a 5 años">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
                 <div class="titulos-principal">
@@ -109,10 +106,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-2">
-                <img src="/img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINAS.webp" alt="graficas-de-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINAS.webp" alt="Estatura promedió por edad y peso en niñas">
             </div>
             <div class=" tamaño-img">
-                <img src="/img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINOS.webp" alt="graficas-de-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINOS.webp" alt="Estatura promedió por edad y peso en niños">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
                 <div class="titulos-principal">
@@ -137,7 +134,7 @@
                 <img src="/img/generalidades-del-crecimiento-infantil/IMC-NINOS-2-A-20.webp" alt="graficas-de-crecimiento">
             </div>
             <div class="tamaño-img pt-15 pb-30">
-                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="/img/causas-de-la-baja-estatura/Banner-Nutricion-y-Crecimiento-.webp" alt="contacto crecimiento"></a>
+                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="/img/causas-de-la-baja-estatura/banner-nutricion-y-crecimiento.webp" alt="banner que enlaza con nutrición y crecimiento"></a>
             </div>
         </div>
 

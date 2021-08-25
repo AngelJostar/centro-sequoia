@@ -36,21 +36,6 @@
                     </div>
                 </div>
             </div>
-
-            <div class="page"> 
-                <nav>
-                    <ol class="breadcrumb__list">
-                        <li class="breadcrumb__group">
-                            <a href="#0">Inicio</a>
-                            <span>></span>
-                        </li>
-                        <li class="breadcrumb__group">
-                            <a href="#0">Crecimiento Infantil Deficiente</a>
-                            
-                        </li>
-                    </ol>
-                </nav>
-            </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2">
                 <p class="crecer-mujeres-font-cursivas"><em> “Revisado médicamente por el equipo de Centro Sequoia, México” – Actualizado el 20 de Febrero del 2021"</em></p>
             </div>
@@ -66,8 +51,8 @@
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>¿Cuándo maduran completamente los hombres?</b></h2>
             </div>
-            <div class="tamaño-img mostrar-media">
-                <a href="/generalidades-del-crecimiento-infantil/como-crecer-de-estatura"><img src="/img/banners/banner-como-crecer-naturalmente" alt="Banner como crecer naturalmente"></a>
+            <div class="tamaño-img">
+                <a href="/generalidades-del-crecimiento-infantil/como-crecer-de-estatura"><img src="/img/banners/banner-como-crecer-naturalmente.webp" alt="Banner como crecer naturalmente"></a>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>La <a href="/crecimiento-infantil-por-edad">pubertad es diferente para todos y puede comenzar a cualquier edad</a> entre los 8 y los 14 años. La edad promedio para que los niños muestren los primeros signos de la pubertad es alrededor de los 12 años, aproximadamente 1 año después de que las niñas comienzan la pubertad.</p>

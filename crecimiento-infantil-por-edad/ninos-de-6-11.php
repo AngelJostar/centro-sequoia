@@ -36,10 +36,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img  ocultar-media">
-                <img src="/img/crecimiento-infantil-por-edad/banner-crecimiento-6-11.webp" alt="Banner desarrollo físico etapa 6 a 11 años">
-            </div>
-            <div class="tamaño-img  mostrar-media">
+            <div class="tamaño-img ">
                 <img src="/img/crecimiento-infantil-por-edad/Banner-crecimiento-6-11-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video ph-1">

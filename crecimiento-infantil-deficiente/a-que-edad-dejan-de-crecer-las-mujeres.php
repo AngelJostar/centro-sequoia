@@ -173,7 +173,7 @@
                     de otras complicaciones del desarrollo.</p>
             </div>
             <div class="tamaño-img ">
-                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="/img/causas-de-la-baja-estatura/Banner-Nutricion-y-Crecimiento-.webp" alt="Banner nutricion y crecimiento"></a>
+                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="/img/causas-de-la-baja-estatura/banner-nutricion-y-crecimiento.webp" alt="banner que enlaza con nutrición y crecimiento"></a>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>Cuando ver a un doctor</b></h2>

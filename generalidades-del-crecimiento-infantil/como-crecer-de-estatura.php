@@ -93,7 +93,7 @@
                 <p>Para obtener más información de la nutrición y el crecimiento <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento">¡Da clic aquí!</a></p>
             </div>
             <div class="tamaño-img">
-                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="/img/causas-de-la-baja-estatura/Banner-Nutricion-y-Crecimiento-.webp" alt="Banner nutrición crecimiento"></a>
+                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="/img/causas-de-la-baja-estatura/banner-nutricion-y-crecimiento.webp" alt="banner que enlaza con nutrición y crecimiento"></a>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>2. Usar suplementos y vitaminas</b></h2>
@@ -171,7 +171,7 @@
                 <p>Para obtener más información de la edad osea <a href="/generalidades-del-crecimiento-infantil/edad-osea">¡Da clic aquí!</a></p>
             </div>
             <div class="tamaño-img">
-                <a href="/generalidades-del-crecimiento-infantil/edad-osea"><img src="/img/generalidades-del-crecimiento-infantil/banner-edad-osea" alt="Banner que lleva a edad osea"></a>
+                <a href="/generalidades-del-crecimiento-infantil/edad-osea"><img src="/img/banners/banner-edad-osea.webp" alt="Banner que lleva a edad osea"></a>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>8. Tratar a tiempo enfermedades o padecimiento crónicos</b></h2>

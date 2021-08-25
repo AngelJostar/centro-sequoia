@@ -37,7 +37,7 @@
                 </div>
             </div>
             <div class="tamaño-img">
-                <img src="/img/causas-de-la-baja-estatura/Banner-Causas-Baja-Estatural-.webp" alt="Un crecimiento más lento de lo normal puede ser señal de un problema de salud.">
+                <img src="/img/causas-de-la-baja-estatura/banner-causas-baja-estatural-doctor.webp" alt="Banner informativo sobre causas de la baja estatura ">
             </div>
             <div class="textos-principal ph-3">
             <p>Así mismo algunos de los niños que tienen baja estatura que no está relacionada con alguna afección médica también pueden querer alcanzar una mayor

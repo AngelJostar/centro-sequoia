@@ -49,7 +49,7 @@
 
             <div class="cuadros-crecimiento-2 efecto3-2 mt-1 ">
                 <div class="tamaño-img ph-1">
-                    <img src="/img/crecimiento-infantil-por-edad/lateral-ninas.webp" alt="generalidades-del-crecimiento">
+                    <img src="/img/crecimiento-infantil-por-edad/lateral-ninas.webp" alt="caricaturas de niñas">
                 </div>
             </div>
 

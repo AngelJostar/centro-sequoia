@@ -36,11 +36,8 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
-                <img src="/img/generalidades-del-crecimiento-infantil/Banner-como-medir-a-tu-hijo.webp" alt="altura crecimiento estatura">
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/generalidades-del-crecimiento-infantil/Banner-como-medir-a-tu-hijo-desktop.webp" alt="altura crecimiento estatura">
+            <div class="tamaño-img">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-como-medir-a-tu-hijo-desktop.webp" alt="banner informativo sobre como medir a tu hijo">
             </div>
             <div class="contenedor-video ph-2">
                 <div class="reproductor" data-id="YypQCqdoN3k"></div>
@@ -58,7 +55,7 @@
                 </div>
             </div>
             <div class="tamaño-img">
-                <img src="/img/generalidades-del-crecimiento-infantil/como-medir-hijo-hija-correctamente.webp" alt="generalidades-del-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/como-medir-hijo-hija-correctamente.webp" alt="doctores mostrando como medir a un bebe y a un niño correctamente">
             </div>
             <div class="mt-1">
                 <div class="cuadros-crecimiento-2 efecto3-2 mt-1 ">

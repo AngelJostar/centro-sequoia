@@ -38,11 +38,8 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
-                <img src="/img/generalidades-del-crecimiento-infantil/Banner-pubertad-precoz.webp" alt="altura crecimiento estatura">
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/generalidades-del-crecimiento-infantil/Banner-pubertad-precoz-desktop.webp" alt="altura crecimiento estatura">
+            <div class="tamaño-img">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-pubertad-precoz-desktop.webp" alt="banner informativo sobre pubertad precoz">
             </div>
             <div class="contenedor-video ph-2">
                 <div class="reproductor" data-id="TF1Oso4MFrA"></div>

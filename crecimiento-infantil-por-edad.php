@@ -36,7 +36,7 @@
                 </div>
             </div>
             <div class="tamaño-img ">
-                <img width="1000" height="400" src="/img/crecimiento-infantil-por-edad/Banner-Crecimiento-Infantil-por-Edades-.webp" alt="altura crecimiento estatura">
+                <img width="1000" height="400" src="/img/crecimiento-infantil-por-edad/Banner-Crecimiento-Infantil-por-Edades-.webp" alt="banner informativo sobre crecimiento infantil por edades">
             </div>
 
             <article class="article-container"> 

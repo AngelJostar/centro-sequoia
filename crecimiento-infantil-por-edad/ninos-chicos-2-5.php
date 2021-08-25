@@ -36,11 +36,8 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
-                <img src="/img/crecimiento-infantil-por-edad/Banner-crecimiento-2-5.webp" alt="altura crecimiento estatura">
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/crecimiento-infantil-por-edad/Banner-crecimiento-2-5-desktop.webp" alt="altura crecimiento estatura">
+            <div class="tamaño-img ">
+                <img src="/img/crecimiento-infantil-por-edad/Banner-crecimiento-2-5-desktop.webp" alt="banner informativo sobre crecimiento infantil de 2 a 5 años">
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="OcUKGcLcuxA"></div>

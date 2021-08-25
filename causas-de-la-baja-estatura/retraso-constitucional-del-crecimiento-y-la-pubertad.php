@@ -67,7 +67,7 @@
                 <p>Por otro lado, los niños con diagnóstico presuntivo de RCCP presentan una elevada sensibilidad a la insulina, la cual probablemente se relacione con el tiempo de inicio de pubertad.</p>
             </div>
             <div class="tamaño-img pb-30">
-                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="/img/causas-de-la-baja-estatura/Banner-Nutricion-y-Crecimiento-.webp" alt="contacto crecimiento"></a>
+                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="/img/causas-de-la-baja-estatura/banner-nutricion-y-crecimiento.webp" alt="banner que enlaza con nutrición y crecimiento"></a>
                 
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">

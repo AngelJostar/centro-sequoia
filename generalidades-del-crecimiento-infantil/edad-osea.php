@@ -36,11 +36,8 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
-                <img src="/img/generalidades-del-crecimiento-infantil/Banner-edad-osea.webp" alt="altura crecimiento estatura">
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/generalidades-del-crecimiento-infantil/Banner-edad-osea-desktop.webp" alt="altura crecimiento estatura">
+            <div class="tamaño-img">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-edad-osea-desktop.webp" alt="banner informativo sobre edad osea">
             </div>
             <div class="contenedor-video ph-2">
                 <div class="reproductor" data-id="3__Hs56Be00"></div>

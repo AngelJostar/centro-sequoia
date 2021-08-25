@@ -37,11 +37,8 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
-                <img src="/img/generalidades-del-crecimiento-infantil/Banner-estiron-puberal.webp" alt="altura crecimiento estatura">
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/generalidades-del-crecimiento-infantil/Banner-estiron-puberal-desktop.webp" alt="altura crecimiento estatura">
+            <div class="tamaño-img">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-estiron-puberal-desktop.webp" alt="banner informativo sobre estirón puberal">
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="trX2CxXTVlA"></div>
@@ -93,7 +90,7 @@
                 <p>El estirón y la pubertad comienzan a la vez, independientemente de la edad cronológica del individuo en correlación muy estrecha con la edad ósea. De modo que en la pubertad precoz el incremento de velocidad de crecimiento comienza mucho antes, coincidiendo con la aceleración de la edad ósea y, por el contrario, en la pubertad atrasada, con la edad ósea también retrasada, el estirón ocurre mucho más tarde. </p>
             </div>
             <div class="tamaño-img">
-            <a href="/generalidades-del-crecimiento-infantil/factores-que-afectan-el-crecimiento"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Factores-que-Afectan-el-crecimienito.webp" alt="graficas-de-crecimiento"></a>
+            <a href="/generalidades-del-crecimiento-infantil/factores-que-afectan-el-crecimiento"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Factores-que-Afectan-el-crecimienito.webp" alt="Banner factores que afectan el crecimiento"></a>
             </div>
         </div>
 

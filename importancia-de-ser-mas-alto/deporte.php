@@ -37,11 +37,8 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
-                <img src="/img/banners/banner-deporte-doctor.webp" alt="banner sobre deporte">
-            </div>
             <div class="tamaño-img mostrar-media">
-                <img src="/img/banners/banner-trabajo-1-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/importancia-de-ser-mas-alto/banner-deporte-estatura.webp" alt="banner informativo sobre deporte y estatura">
             </div>
             <div class="justificar-texto-90-listas">
                     <ul>
@@ -62,15 +59,15 @@
                     </ul>
         </div>
         <div class="tamaño-img">
-                <a href="/importancia-de-ser-mas-alto/autoestima"><img src="/img/importancia-de-ser-mas-alto/Banner-Autoestima-y-Crecimiento-.webp" alt="contacto crecimiento"></a>
+                <a href="/importancia-de-ser-mas-alto/autoestima"><img src="/img/importancia-de-ser-mas-alto/Banner-Autoestima-y-Crecimiento-.webp" alt="banner que enlaza a autoestima y crecimiento"></a>
         </div>
-        <div class="ocultar-media">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
-            </div>
-            <div class="tamaño-img mostrar-media ph-1">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
-            </div>
-
+        <a href="/contact">
+                <picture>
+                    <source media="(max-width:767px)" srcset="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp.webp">
+                    <source media="(min-width: 767px)" srcset="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp">
+                    <img  loading="lazy" class="tamaño-img" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp.webp" alt="importancia de que tu hijo o hija sea más alto">
+                </picture>
+            </a>
         <?php include_once '../includes/templates/footer.php';?>
 
     </section>

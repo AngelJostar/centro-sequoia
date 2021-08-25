@@ -36,11 +36,8 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
-                <img src="/img/importancia-de-ser-mas-alto/banner-autoestima-1.webp" alt="altura crecimiento estatura">
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="/img/importancia-de-ser-mas-alto/banner-autoestima-1-desktop.webp" alt="altura crecimiento estatura">
+            <div class="tamaño-img">
+                <img src="/img/importancia-de-ser-mas-alto/banner-autoestima-1-desktop.webp" alt="banner informativo sobre autoestima">
             </div>           
             <div class="justificar-texto-90 centrar-texto pt-15">
                 <p>Los niños y niñas más bajitos suelen ser acosados en la escuela y pueden mostrar cambios en su actitud o tener problemas de autoestima. Pueden ser sobreprotegidos, tanto por familiares, como por maestros, volviéndolos dependientes, con dificultades para enfrentar por sí mismos los problemas que le presenta la vida diaria.</p>

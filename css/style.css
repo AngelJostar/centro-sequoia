@@ -2116,7 +2116,7 @@
         color: #00235d;
         font-size: calc(1.6em + .8vw);
         font-weight: 600;
-        text-align: center;
+        text-align: center !important;
         position: relative;
         top: calc(1.3em + .5vw);
         line-height: 1.15

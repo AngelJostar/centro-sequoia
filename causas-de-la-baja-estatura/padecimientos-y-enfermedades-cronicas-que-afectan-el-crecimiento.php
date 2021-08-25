@@ -50,7 +50,7 @@
                 <p>En niños conocidos por presentar una enfermedad crónica, los registros seriados de la talla/longitud y el peso, representados en gráficas de distancia estándar, son vitales para monitorizar el bienestar, la actividad patológica, los efectos clínicos adversos y la respuesta al tratamiento. En niños con enfermedades resistentes, se destaca cada vez más el carácter problemático, tanto física como psicológicamente, del deterioro del crecimiento, la estatura baja, el retraso en la pubertad y la reducción de la talla adulta. En este trabajo presentamos una actualización de la fisiopatología general del deterioro del crecimiento lineal en enfermedades crónicas y algunos procesos clave en los que aparece un considerable deterioro del crecimiento.</p>
             </div>
             <div class="tamaño-img">
-                <a href="/causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento"><img src="/img/causas-de-la-baja-estatura/Banner-Sindrome-de-Williams.webp" alt="contacto crecimiento"></a>
+                <a  href="/causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento"><img width="1000" height="1000" loading="lazy" src="/img/causas-de-la-baja-estatura/banner-sindrome-de-williams.webp" alt="banner que enlaza a sindrome de williams"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-1 ">
                 <div class="titulos-principal">
@@ -107,7 +107,7 @@
             </div>
 
             <div class="tamaño-img">
-                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="/img/causas-de-la-baja-estatura/Banner-Nutricion-y-Crecimiento-.webp" alt="contacto crecimiento"></a>
+                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="/img/causas-de-la-baja-estatura/banner-nutricion-y-crecimiento.webp" alt="banner que enlaza con nutrición y crecimiento"></a>
             </div>
             <div class="ocultar-media">
                 <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
