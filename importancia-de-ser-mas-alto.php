@@ -53,7 +53,7 @@
                 <img src="/img/importancia-de-ser-mas-alto/Banner-Importancuia-de-ser-mas-Alto-desktop.webp" alt="Importancia de ser más alto en ciertos aspectos de tu vida.">
             </div>
             <div class="contenedor-video-2">
-                <div class="reproductor-rectangular" data-id="ygP78ev4eQI"></div>
+                
             </div>
             <div class="cuadros-crecimiento margin-top-20">
                 <div class="titulos-principal-3 ocultar-media">

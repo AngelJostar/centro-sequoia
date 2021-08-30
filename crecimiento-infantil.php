@@ -42,7 +42,7 @@
                 <img src="/img/banners/banner-crecimiento-infantil-desktop.webp" alt="banner sobre los objetivos de centro sequoia">
             </div>
             <div class="contenedor-video-2 ph-2">
-                <div class="reproductor-rectangular" data-id="ygP78ev4eQI"></div>
+                
             </div>
             <div class="textos-principal ph-1 ocultar-media">
                 <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu hij@</p>

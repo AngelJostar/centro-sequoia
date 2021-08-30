@@ -43,7 +43,9 @@
                 <p>En el <span class="font-bold">Centro Sequoia</span> somos endocrinólogos pediatras especialistas en crecimiento infantil. Diagnosticaremos las causas por las que tu hijo no crece correctamente y lograremos que alcance una mayor estatura.</p>
             </div>
             <div class="contenedor-video-2">
-                <div class="reproductor-rectangular" data-id="vilo7WGHKYQ"></div>
+                <div class="contenedor-video">
+    <div class="reproductor" data-id="wXL4utyJGQc"></div>
+</div>
             </div>
             <div class="textos-azules">
                 <p><span class="font-bold">Es muy importante que sepas si la tasa de crecimiento del niño es la que debería ser, a cualquier edad. </span></p>

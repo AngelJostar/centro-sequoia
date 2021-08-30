@@ -75,7 +75,7 @@
                         height="auto" alt="Banner, especialistas adecuados para tratar el crecimiento de tu hijo."></a>
             </div>
             <div class="contenedor-video-2">
-                <div class="reproductor-rectangular" data-id="ygP78ev4eQI"></div>
+                
             </div>
             <div class="linea-c"></div>
             <div class="cuadros-crecimiento ocultar">
