@@ -10,8 +10,8 @@
 <meta name="description" content="Si te preocupa el crecimiento de tu hijo en Centro SEQUOIA podemos ayudarte ya que es un Centro Pediátrico Exclusivo para el Crecimiento de los niños ☝">
 <title>Cómo saber tu hijo está creciendo adecuadamente - Centro Pediátrico especialista en crecimiento ✅</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="/css/style-slider.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
+
 
 </head>
 
@@ -33,37 +33,43 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1><span class="font-bold">SOMOS ESPECIALISTAS</span><br>EN CRECIMIENTO INFANTIL</h1>
+                    <h1><span class="font-bold">Clínica Especialista</span><br>en Crecimiento Infantil</h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
                 </div>
             </div>
 
-
-            <div class="sombras-img pb-2 tamaño-img">
-                <img src="/img/banners/doctores-de-centro-sequoia.webp" width="auto" height="auto"
-                    alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil">
-            </div>
-            <div class="textos-principal margin-negativo-top-15  ">
-                <p><span class="font-bold">Centro SEQUOIA</span> es un <span class="font-bold">Centro Pediátrico
-                        Exclusivo para el Crecimiento infantil</span> formado por Médicos Pediatras Endocrinólogos,
-                    certificados por el Consejo Mexicano de Endocrinología
-                    A.C. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente y lo ayudarán a
-                    alcanzar una mayor estatura.</p>
-            </div>
-
-            <div class="contenedor-video ">
-                <div class="reproductor" data-id="wXL4utyJGQc"></div>
-            </div>
-
-            <div class="textos-principal margin-negativo-top-15 ph-1">
+            <div class="banner-doctores-img" title="doctores especialistas en crecimiento infantil de Centro Sequoia"></div>
+            
+            <div class="textos-principal ph-1">
                 <p>En Centro Sequoia <span class="font-bold">única y exclusivamente</span> atendemos los padecimientos
                     que afectan la estatura de los niños. <br> <span class="font-bold">Nuestros médicos
                         especialistas</span> tienen la experiencia de mas de
                     30,000 casos atendidos en este campo, lo que nos lleva a ser el centro <span class="font-bold">MÁS
                         ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</span></p>
             </div>
+
+            <div class="menu-categorias">
+                <a href=""><div class="menu-categorias-img-1" title="sección de crecimiento infantil generalidades">
+                   <h2><i class="fas fa-caret-right"></i>Crecimiento infantil generalidades<i class="fas fa-caret-left"></i></h2>
+                </div></a>
+                <a href=""><div class="menu-categorias-img-2" title="">
+                    <h2><i class="fas fa-caret-right"></i>Crecimiento infantil por edad<i class="fas fa-caret-left"></i></h2>
+                </div></a>
+                <a href=""><div class="menu-categorias-img-3" title="">
+                    <h2><i class="fas fa-caret-right"></i>Causas de la baja estatura<i class="fas fa-caret-left"></i></h2>
+                </div></a>
+                <a href=""><div class="menu-categorias-img-4" title="">
+                    <h2><i class="fas fa-caret-right"></i>Crecimiento infantil deficiente<i class="fas fa-caret-left"></i></h2>
+                </div></a>
+            </div>
+
+            <div class="contenedor-video ">
+                <div class="reproductor" data-id="wXL4utyJGQc"></div>
+            </div>            
+
+
             <div class=" tamaño-img ocultar-media">
                 <a href="/especialistas-en-crecimiento"><img
                         src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" width="auto"
@@ -90,6 +96,9 @@
                     </h2>
                 </div>
             </div>
+
+
+
             <div class="pb-2 ocultar-media ">
                 <a href="/crecimiento-infantil"><img src="/img/banners/banner-aprende-todo-del-crecimiento-infantil-c.webp"
                         alt="Banner aprende todo sobre el crecimiento infantil."></a>
