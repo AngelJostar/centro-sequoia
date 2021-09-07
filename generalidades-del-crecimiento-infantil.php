@@ -25,18 +25,7 @@
         <?php include_once 'includes/templates/header.php';?>
 
         <div class="contenedor-principal" id="contenedor-principal">
-            <div class="cuadros-crecimiento ocultar">
-                <div class="titulos-grid-gci">
-                    <div class="flexbox padre">
-                        <div class="barra-titulo"></div>
-                    </div>
-                    <h1 style="font-size: calc(1.35em + 1vw);"> <span class="font-bold">CRECIMIENTO GENERALIDADES</h1>
-                    <div class="flexbox padre">
-                        <div class="barra-titulo"></div>
-                    </div>
-                </div>
-            </div>
-            <div class="cuadros-crecimiento mostrar">
+            <div class="cuadros-crecimiento ">
                 <div class="titulos-grid-gci">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
@@ -47,9 +36,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img">
-                <img src="/img/generalidades-del-crecimiento-infantil/Banner-generalidades-desktop.webp" alt="banner informativo sobre generalidades del crecimiento infantil">
-            </div>
+
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="yIhxulvi3r0"></div>
             </div>

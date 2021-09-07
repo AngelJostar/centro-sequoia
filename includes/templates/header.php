@@ -1,7 +1,7 @@
 
-    <nav class="navbar">
+<header class="navbar">
         <div class="container">
-            <section class="wrapper">
+            <nav class="wrapper">
                 <img class="logo-size" src="/img/logo-sequoia.svg" alt="">
                 <div class="menu-button-container">
                     <button type="button" class="burger" id="burger">
@@ -27,14 +27,13 @@
                 <div class="menu" id="menu">
                     <ul class="menu-inner">
                         <li class="menu-item"><a href="#" class="menu-link active">Inicio</a></li>
-                        <li class="menu-item"><a href="#" class="menu-link">Crecimiento infantil generalidades</a></li>
-                        <li class="menu-item"><a href="#" class="menu-link">Crecimiento infantil por edad</a></li>
-                        <li class="menu-item"><a href="#" class="menu-link">Causas de la baja estatura</a></li>
+                        <li class="menu-item"><a href="#" class="menu-link">Aprende del crecimiento infantil</a></li>
                         <li class="menu-item"><a href="#" class="menu-link">Crecimiento infantil deficiente</a></li>
-                        <li class="menu-item"><a href="#" class="menu-link">Acerca de nosotros</a></li>
+                        <li class="menu-item"><a href="#" class="menu-link">Etapas del crecimiento</a></li>
+                        <li class="menu-item"><a href="#" class="menu-link">Factores que afecta el crecimiento</a></li>
                         <li class="menu-item"><a href="#" class="menu-link">Contacto</a></li>
                     </ul>
                 </div>
-            </section>
+            </nav>
         </div>
-    </nav>
+</header>

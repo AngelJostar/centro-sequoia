@@ -94,7 +94,7 @@ button {
     color: var(--color-black);
     background: var(--color-white);
     box-shadow: var(--shadow-large);
-    margin-top: 40px;
+    padding-top: 3.8em;
 }
 
 .navbar .wrapper {
@@ -793,7 +793,7 @@ button {
 .scrollup {
     position: fixed;
     width: 100%;
-    height: 45px;
+    padding: 1em 0;
     bottom: 0;
     background: #00235d;
     -webkit-border-radius: 2px 2px 0 0;
@@ -926,12 +926,11 @@ a {
 }
 
 .tercer-p p {
-    text-align: center;
-    font-size: 13px;
+    font-size: 21px !important;
     font-weight: 500;
-    line-height: 26px;
-    color: #fff;
-    line-height: 12px
+    line-height: 26px !important;
+    color: white !important;
+    margin: 0 !important;
 }
 
 .t-izquierda p {
@@ -1090,28 +1089,6 @@ textarea {
     max-width: 100%;
     margin: 0 auto;
     line-height: 0
-}
-
-.titulos-principal h2 {
-    max-width: 95%;
-    text-align: center;
-    font-weight: 500;
-    color: #fff;
-    padding: 20px 0 20px 0;
-    margin: 0 auto;
-    font-size: calc(16px + .8vw);
-    line-height: 1.5
-}
-
-.titulos-principal-casos-exito h2 {
-    max-width: 90%;
-    text-align: center;
-    font-weight: 500;
-    color: #fff;
-    padding: 20px 0 20px 0;
-    margin: 0 auto;
-    font-size: calc(12px + .8vw);
-    line-height: 1.5
 }
 
 .titulos-azules {
@@ -1280,12 +1257,149 @@ textarea {
     position: relative;
 }
 
+@media (min-width:720px) {
+    .banner-doctores-img {
+        max-width: 50%;
+        margin: 0 auto;
+        min-height: 25vw;
+    }
+}
+
+
+/*Formato TEXTOS en general*/
+
+.text-container {
+    width: 100%;
+    margin: 0 auto;
+    line-height: 1.4;
+}
+
+.text-container h2 {
+    text-align: center;
+    font-size: calc(22px + .4vw);
+    max-width: 90%;
+    margin: 0.5em auto;
+    color: #00205e;
+}
+
+.text-container h3 {
+    text-align: center;
+    font-size: calc(18px + .4vw);
+    max-width: 90%;
+    margin: 0.5em auto;
+    color: #323232;
+}
+
+.text-container h4 {
+    text-align: center;
+    font-size: calc(16px + .4vw);
+    max-width: 90%;
+    margin: 0.5em auto;
+    color: #626262;
+}
+
+.text-container h5 {
+    text-align: center;
+    font-size: calc(15px + .4vw);
+    max-width: 90%;
+    margin: 0.5em auto;
+    color: #808080;
+}
+
+.text-container p {
+    font-size: calc(14px + .4vw);
+    max-width: 90%;
+    margin: 0.5em auto;
+    color: #777;
+    text-align: center;
+}
+
+.text-container ol li {
+    font-size: calc(14px + .4vw);
+}
+
+.text-container ol li strong {
+    margin: 0;
+}
+
+.text-container ol {
+    padding-inline-start: 25px;
+    max-width: 90%;
+    margin: 0 auto;
+    color: #777;
+}
+
+.text-container ul li {
+    font-size: calc(14px + .4vw);
+}
+
+.text-container strong {
+    font-size: calc(14px + .4vw);
+}
+
+.text-container ul {
+    color: #777;
+    padding-inline-start: 25px;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.text-container p em {
+    font-size: calc(9px + .4vw);
+}
+
+.text-container em {
+    font-size: calc(9px + .4vw);
+    text-align: center !important;
+}
+
+@media (min-width: 768px) {
+    .text-container h2,
+    h3,
+    h4,
+    h5 {
+        max-width: 60%;
+    }
+    .text-container h3 {
+        padding-left: 1em;
+    }
+    .text-container h4 {
+        padding-left: 2em;
+    }
+    .text-container h5 {
+        padding-left: 2.5em;
+    }
+    .text-container p {
+        max-width: 50%;
+    }
+}
+
+
+/*END FORMATO TEXTOS en general*/
+
+
+/*Cuadros azules con bordes verdes*/
+
+.box-titles {
+    max-width: 100%;
+    background-color: #00205e;
+    border-top: 3px solid #c0d41f;
+    border-bottom: 3px solid #c0d41f;
+}
+
+h1,
+h2.box-titles-h2 {
+    color: white !important;
+    text-align: center !important;
+    font-weight: normal;
+    font-size: calc(18px + .8vw);
+}
+
 
 /*Menu categorias*/
 
-.banner-doctores img {
-    margin: 0;
-    min-height: 23vw;
+.menu-categorias {
+    max-width: 100%;
 }
 
 .menu-categorias div {
@@ -1295,94 +1409,65 @@ textarea {
 
 .menu-categorias h2 {
     color: var(--color-white);
-    font-size: 4vw;
+    font-size: 4.1vw;
     position: relative;
     top: 8.5vw;
-    text-align: center;
+    max-width: 100%;
+    text-align: center !important;
     text-shadow: 2px 2px 4px #000000;
 }
 
-.menu-categorias-img-1 {
-    margin: 0;
-    min-height: 23vw;
-    max-width: 100%;
+.index-img-1 {
     background-image: url(/img/index/Crecimiento-infantil-generalidades.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    position: relative;
 }
 
-.menu-categorias-img-1::before {
-    content: '';
-    width: 100%;
-    min-height: 23vw;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background: linear-gradient(#00205e, #00205e);
-    opacity: 0.55;
-    border-radius: 1.5em;
-}
-
-.menu-categorias-img-2 {
-    margin: 0;
-    min-height: 23vw;
-    max-width: 100%;
-    background-image: url(/img/index/Crecimiento-infantil-por-edad.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    position: relative;
-}
-
-.menu-categorias-img-2::before {
-    content: '';
-    width: 100%;
-    min-height: 23vw;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background: linear-gradient(#00205e, #00205e);
-    opacity: 0.55;
-    border-radius: 1.5em;
-}
-
-.menu-categorias-img-3 {
-    margin: 0;
-    min-height: 23vw;
-    max-width: 100%;
-    background-image: url(/img/index/Causa-de-la-baja-estatura.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    position: relative;
-}
-
-.menu-categorias-img-3::before {
-    content: '';
-    width: 100%;
-    min-height: 23vw;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background: linear-gradient(#00205e, #00205e);
-    opacity: 0.55;
-    border-radius: 1.5em;
-}
-
-.menu-categorias-img-4 {
-    margin: 0;
-    min-height: 23vw;
-    max-width: 100%;
+.index-img-2 {
     background-image: url(/img/index/Crecimiento-infantil-deficiente.webp);
+}
+
+.index-img-3 {
+    background-image: url(/img/index/Crecimiento-infantil-por-edad.webp);
+}
+
+.index-img-4 {
+    background-image: url(/img/index/factores-que-afectan-el-crecimiento.webp);
+}
+
+.index-img-5 {
+    background-image: url(/img/index/factores-que-benecian-el-crecimiento.webp);
+}
+
+.aprende-img-1 {
+    background-image: url(/img/index/Hormona-del-crecimiento.webp);
+}
+
+.aprende-img-2 {
+    background-image: url(/img/index/curva-crecimeinto.webp);
+}
+
+.aprende-img-3 {
+    background-image: url(/img/index/escala-de-tanner.webp);
+}
+
+.aprende-img-4 {
+    background-image: url(/img/index/estiron.webp);
+}
+
+.aprende-img-5 {
+    background-image: url(/img/index/edad-osea.webp);
+}
+
+.menu-categorias-img {
+    margin: 0;
+    min-height: 23vw;
+    max-width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
 }
 
-.menu-categorias-img-4::before {
+.menu-categorias-img::before {
     content: '';
     width: 100%;
     min-height: 23vw;
@@ -1394,19 +1479,7 @@ textarea {
     border-radius: 1.5em;
 }
 
-.menu-categorias-img-1:hover::before {
-    opacity: 0;
-}
-
-.menu-categorias-img-2:hover::before {
-    opacity: 0;
-}
-
-.menu-categorias-img-3:hover::before {
-    opacity: 0;
-}
-
-.menu-categorias-img-4:hover::before {
+.menu-categorias-img:hover::before {
     opacity: 0;
 }
 
@@ -1424,6 +1497,35 @@ textarea {
     top: 0.75vw;
     color: #c0d41f;
     padding-left: 1vw;
+}
+
+@media (min-width:720px) {
+    .menu-categorias {
+        max-width: 65%;
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: 50% 50%
+    }
+    .menu-categorias-img,
+    .menu-categorias-img::before {
+        min-height: 11.5vw;
+    }
+    .menu-categorias h2 {
+        font-size: 1.3vw;
+        top: 3.58vw
+    }
+    .fa-caret-right {
+        font-size: 3vw;
+        top: 0.60vw;
+    }
+    .fa-caret-left {
+        font-size: 3vw;
+        top: 0.60vw;
+    }
+}
+
+strong {
+    margin: 0 !important;
 }
 
 
@@ -1458,7 +1560,7 @@ textarea {
     display: block;
     width: 100%;
     max-width: 350px;
-    margin: 0 auto
+    margin: 1em auto
 }
 
 .reproductor {
@@ -1866,7 +1968,8 @@ div.youtube-play:hover {
 }
 
 .cuadros-crecimiento-2 {
-    background-color: #00205e
+    background-color: #00205e;
+    margin: 1em 0;
 }
 
 .fondo-gris {
@@ -2485,7 +2588,8 @@ th {
     margin: auto;
     width: 90%;
     max-width: 700px;
-    padding-top: 2rem
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 .box {
@@ -2892,7 +2996,7 @@ th {
     }
     .titulos-grid-index {
         display: grid;
-        grid-template-columns: 30% 40% 30%
+        grid-template-columns: 35% 30% 35%
     }
     .titulos-grid-contacto {
         display: grid;
@@ -3016,10 +3120,6 @@ th {
     }
     .cuadros-crecimiento-crecimiento {
         max-width: 50%
-    }
-    .titulos-grid-index {
-        display: grid;
-        grid-template-columns: 37% 26% 37%
     }
     .titulos-grid-contacto {
         display: grid;
@@ -3559,7 +3659,6 @@ strong {
 /*FORMATO ARTICULOS*/
 
 .main-container {
-    margin-top: 2em !important;
     max-width: 100%;
     margin: 0 auto;
 }
