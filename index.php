@@ -41,17 +41,17 @@
                 <p><b> Centro SEQUOIA</b> es un <b>Centro Pediátrico Exclusivo para el Crecimiento infantil</b> formado por Médicos Pediatras Endocrinólogos, certificados por el Consejo Mexicano de Endocrinología A.C. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente y lo ayudarán a alcanzar una mayor estatura.</p>
             </div>
             <div class="menu-categorias">
-                <a href=""><div class="index-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
+                <a href="/aprende-del-crecimiento-infantil"><div class="index-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
                     <h2><i class="fas fa-caret-right"></i>Aprende del crecimiento infantil<i class="fas fa-caret-left"></i></h2>
                 </div></a>
-                <a href=""><div class="index-img-2 menu-categorias-img" title="">
+                <a href="/crecimiento-infantil-deficiente"><div class="index-img-2 menu-categorias-img" title="">
                     <h2><i class="fas fa-caret-right"></i>Crecimiento infantil deficiente<i class="fas fa-caret-left"></i></h2>
                 </div></a>
-                <a href=""><div class="menu-categorias-img index-img-3" title="">
+                <a href="/factores-que-influyen-en-el-crecimiento"><div class="menu-categorias-img index-img-3" title="">
                     <h2><i class="fas fa-caret-right"></i>Factores que influyen en el crecimiento<i class="fas fa-caret-left"></i></h2>
                 </div></a>
-                <a href=""><div class="menu-categorias-img index-img-4" title="">
-                    <h2><i class="fas fa-caret-right"></i>Etapas del crecimiento<i class="fas fa-caret-left"></i></h2>
+                <a href="/etapas-del-crecimiento-humano"><div class="menu-categorias-img index-img-4" title="">
+                    <h2><i class="fas fa-caret-right"></i>Etapas del crecimiento humano<i class="fas fa-caret-left"></i></h2>
                 </div></a>
             </div>
             <div class="contenedor-video ">
