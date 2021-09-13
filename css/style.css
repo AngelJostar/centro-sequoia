@@ -39,9 +39,6 @@ img {
     padding: 0;
     margin: 0;
     box-sizing: inherit;
-    list-style: none;
-    list-style-type: none;
-    text-decoration: none;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
@@ -171,6 +168,7 @@ button {
     flex-wrap: wrap;
     justify-content: center;
     margin-bottom: 2vw;
+    list-style: none;
 }
 
 .navbar .menu-inner li {
@@ -1341,7 +1339,7 @@ textarea {
     color: #777;
     padding-inline-start: 25px;
     max-width: 90%;
-    margin: 0 auto;
+    margin: 1em auto;
 }
 
 .text-container p em {
@@ -1358,7 +1356,8 @@ textarea {
     h3,
     h4,
     h5 {
-        max-width: 60%;
+        max-width: 50% !important;
+        text-align: left;
     }
     .text-container h3 {
         padding-left: 1em;
@@ -1370,6 +1369,12 @@ textarea {
         padding-left: 2.5em;
     }
     .text-container p {
+        max-width: 50%;
+    }
+    .text-container ol {
+        max-width: 50%;
+    }
+    .text-container ul {
         max-width: 50%;
     }
 }
@@ -1392,7 +1397,7 @@ h2.box-titles-h2 {
     color: white !important;
     text-align: center !important;
     font-weight: normal;
-    font-size: calc(18px + .8vw);
+    font-size: calc(18px + .8vw) !important;
 }
 
 
@@ -1457,6 +1462,90 @@ h2.box-titles-h2 {
     background-image: url(/img/index/edad-osea.webp);
 }
 
+.factores-influyen-1 {
+    background-image: url(/img/index/Factores-que-benefician-el-crecimiento.webp);
+}
+
+.factores-influyen-2 {
+    background-image: url(/img/index/factores-que-afecta-crecer.webp);
+}
+
+.factores-img-1 {
+    background-image: url(/img/index/talla-baja-ideopatica.webp);
+}
+
+.factores-img-2 {
+    background-image: url(/img/index/talla-baja-familiar.webp);
+}
+
+.factores-img-3 {
+    background-image: url(/img/index/padecimientos.webp);
+}
+
+.factores-img-4 {
+    background-image: url(/img/index/sindromes.webp);
+}
+
+.factores-img-5 {
+    background-image: url(/img/index/enfermedades.webp);
+}
+
+.padecimientos-img-1 {
+    background-image: url(/img/index/Adolescencia-tardia.webp);
+}
+
+.padecimientos-img-2 {
+    background-image: url(/img/index/retraso-en-el-crecimiento.webp);
+}
+
+.padecimientos-img-3 {
+    background-image: url(/img/index/pubertad-precoz.webp);
+}
+
+.padecimientos-img-4 {
+    background-image: url(/img/index/niños-pequeños-al-nacer.webp);
+}
+
+.padecimientos-img-5 {
+    background-image: url(/img/index/Hormona-del-crecimiento.webp);
+}
+
+.padecimientos-img-6 {
+    background-image: url(/img/index/acondroplasia.webp);
+}
+
+.etapas-img-1 {
+    background-image: url(/img/index/Cambios-en-la-adolescencia.webp);
+}
+
+.etapas-img-2 {
+    background-image: url(/img/index/Desarrollo-del-nino.webp);
+}
+
+.sindromes-img-1 {
+    background-image: url(/img/index/sindrome-de-turner.webp);
+}
+
+.crecimiento-deficiente-img-1 {
+    background-image: url(/img/index/como-crecer-de-estatura.webp);
+}
+
+.crecimiento-deficiente-img-2 {
+    background-image: url(/img/index/);
+}
+
+.crecimiento-deficiente-img-3 {
+    background-image: url(/img/index/a-que-edad-dejan-de-crecer-las-mujeres.webp);
+}
+
+.crecimiento-deficiente-img-4 {
+    background-image: url(/img/index/a-que-edad-dejan-de-crecer-los-hombres.webp);
+}
+
+.crecimiento-deficiente-img-5 {
+    background-image: url(/img/index/ejercicios-para-crecer-de-estatura.webp);
+}
+
 .menu-categorias-img {
     margin: 0;
     min-height: 23vw;
@@ -1501,18 +1590,19 @@ h2.box-titles-h2 {
 
 @media (min-width:720px) {
     .menu-categorias {
-        max-width: 65%;
+        max-width: 70%;
         margin: 0 auto;
         display: grid;
         grid-template-columns: 50% 50%
     }
     .menu-categorias-img,
     .menu-categorias-img::before {
-        min-height: 11.5vw;
+        min-height: 7vw;
     }
     .menu-categorias h2 {
         font-size: 1.3vw;
-        top: 3.58vw
+        top: 1.58vw;
+        max-width: 100% !important;
     }
     .fa-caret-right {
         font-size: 3vw;

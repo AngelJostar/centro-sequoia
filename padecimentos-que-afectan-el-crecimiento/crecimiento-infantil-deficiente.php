@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include_once 'includes/tags/google_tag_manager_head.php';?>
+<?php include_once '../includes/tags/google_tag_manager_head.php';?>
 
 <link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
@@ -13,32 +13,32 @@
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 </head>
 
-<?php include_once 'includes/tags/google_tag_manager_body.php';?>
-<?php include_once 'includes/templates/top-header.php';?>
-<?php include_once 'includes/templates/header.php';?>
+<?php include_once '../includes/tags/google_tag_manager_body.php';?>
+<?php include_once '../includes/templates/top-header.php';?>
+<?php include_once '../includes/templates/header.php';?>
 <main class="main-container">
     <div class="text-container">
         <div class="box-titles">
             <h2 class="box-titles-h2">Crecimiento infantil deficiente</h2>
         </div>
-        <div class="tamaño-img ocultar-media">
-            <img src="/img/banners/banner-crecimiento-deficiente.webp" alt="Banner sobre crecimiento deficiente">
-        </div>
-        
-        <div class="tamaño-img mostrar-media">
-            <img src="/img/banners/banner-crecimiento-deficiente-desktop.webp" alt="Banner sobre crecimiento deficiente">
-        </div>
-        <div class="textos-principal justificar-texto ">
-            <p>Si el niño no está creciendo adecuadamente, puede ser el primer signo de una posible condición médica.
-            </p>
-        </div>
-        <div class="textos-principal justificar-texto">
-            <p>Esta página puede orientarte sobre los signos claves que indicarían un crecimiento deficiente y lo que pueden significar para la salud del niño.
-            </p>
-        </div>
-        <div class="textos-principal justificar-texto">
-            <p>Cualquiera que sea la edad de su hijo, es importante saber si está creciendo como debería. Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.
-            </p>
+            <p>Si el niño no está creciendo adecuadamente, puede ser el primer signo de una posible condición médica. Esta página puede orientarte sobre los signos claves que indicarían un crecimiento deficiente y lo que pueden significar para la salud del niño.</p>
+            <p>Cualquiera que sea la edad de su hijo, es importante saber si está creciendo como debería. Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.</p>
+        <div class="menu-categorias">
+            <a href=""><div class="crecimiento-deficiente-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
+                <h2><i class="fas fa-caret-right"></i>Como crecer de estatura<i class="fas fa-caret-left"></i></h2>
+            </div></a>
+            <a href=""><div class="crecimiento-deficiente-img-2 menu-categorias-img" title="">
+                <h2><i class="fas fa-caret-right"></i>¿Porque los niños tienen diferentes estaturas?<i class="fas fa-caret-left"></i></h2>
+            </div></a>
+            <a href=""><div class="crecimiento-deficiente-img-3 menu-categorias-img" title="">
+                <h2><i class="fas fa-caret-right"></i>A que edad dejan de crecer las mujeres<i class="fas fa-caret-left"></i></h2>
+            </div></a>
+            <a href=""><div class="crecimiento-deficiente-img-4 menu-categorias-img" title="">
+                <h2><i class="fas fa-caret-right"></i>hasta que edad dejan de crecer los hombres<i class="fas fa-caret-left"></i></h2>
+            </div></a>
+            <a href=""><div class="crecimiento-deficiente-img-5 menu-categorias-img" title="">
+                <h2><i class="fas fa-caret-right"></i>Ejercicios para crecer de estatura <i class="fas fa-caret-left"></i></h2>
+            </div></a>
         </div>
         <div class="contenedor-video-2">
             <div class="reproductor-rectangular" data-id="zs9O0oeo3V4"></div>
@@ -65,18 +65,6 @@
             <div class="tamaño-img">
                 <img src="/img/banners/problemas-asociados-al-crecimiento.webp" alt="Problemas de salud que están asociados con el crecimiento infantil deficiente.">
             </div>
-            <div class="centrar-texto texto-boton-esp pb-2">
-                <a href="/crecimiento-infantil-deficiente/a-que-edad-dejan-de-crecer-las-mujeres"><button style="font-size: calc(1.1em + .6vw); !important" class="boton-e boton-esp">A que edad dejan de crecer las mujeres</button></a>
-            </div>
-            <div class="centrar-texto texto-boton-esp pb-2">
-                <a href="/crecimiento-infantil-deficiente/hasta-que-edad-crecen-los-hombres"><button style="font-size: calc(1.1em + .6vw); !important" class="boton-e boton-esp">Hasta que edad crecen los hombres</button></a>
-            </div>
-            <div class="centrar-texto texto-boton-esp pb-2">
-                <a href="/generalidades-del-crecimiento-infantil/como-crecer-de-estatura"><button class="boton-e boton-esp">Como crecer de estatura</button></a>
-            </div>
-            <div class="centrar-texto texto-boton-esp pb-2">
-                <a href="/crecimiento-infantil-deficiente/ejercicios-para-crecer-de-estatura"><button class="boton-e boton-esp">Ejercicios para crecer de estatura</button></a>
-            </div>
             <div class="tamaño-img ocultar-media">
                 <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
@@ -87,7 +75,7 @@
         </div>
     </div>
 </main>
-<?php include_once 'includes/templates/footer.php';?>
+<?php include_once '../includes/templates/footer.php';?>
 
 <!--####HEADER####-->
 
