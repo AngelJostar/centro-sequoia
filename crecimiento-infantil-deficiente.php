@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include_once '../includes/tags/google_tag_manager_head.php';?>
+<?php include_once 'includes/tags/google_tag_manager_head.php';?>
 
 <link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
@@ -13,9 +13,9 @@
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 </head>
 
-<?php include_once '../includes/tags/google_tag_manager_body.php';?>
-<?php include_once '../includes/templates/top-header.php';?>
-<?php include_once '../includes/templates/header.php';?>
+<?php include_once 'includes/tags/google_tag_manager_body.php';?>
+<?php include_once 'includes/templates/top-header.php';?>
+<?php include_once 'includes/templates/header.php';?>
 <main class="main-container">
     <div class="text-container">
         <div class="box-titles">
@@ -75,7 +75,7 @@
         </div>
     </div>
 </main>
-<?php include_once '../includes/templates/footer.php';?>
+<?php include_once 'includes/templates/footer.php';?>
 
 <!--####HEADER####-->
 
