@@ -26,12 +26,12 @@
                 </div>
                 <div class="menu" id="menu">
                     <ul class="menu-inner">
-                        <li class="menu-item"><a href="#" class="menu-link active">Inicio</a></li>
-                        <li class="menu-item"><a href="#" class="menu-link">Aprende del crecimiento infantil</a></li>
-                        <li class="menu-item"><a href="#" class="menu-link">Crecimiento infantil deficiente</a></li>
-                        <li class="menu-item"><a href="#" class="menu-link">Etapas del crecimiento</a></li>
-                        <li class="menu-item"><a href="#" class="menu-link">Factores que afecta el crecimiento</a></li>
-                        <li class="menu-item"><a href="#" class="menu-link">Contacto</a></li>
+                        <li class="menu-item"><a href="/index" class="menu-link active">Inicio</a></li>
+                        <li class="menu-item"><a href="/aprende-del-crecimiento-infantil" class="menu-link">Aprende del crecimiento infantil</a></li>
+                        <li class="menu-item"><a href="/crecimiento-infantil-deficiente" class="menu-link">Crecimiento infantil deficiente</a></li>
+                        <li class="menu-item"><a href="/etapas-del-crecimiento-humano" class="menu-link">Etapas del crecimiento</a></li>
+                        <li class="menu-item"><a href="/factores-que-influyen-en-el-crecimiento" class="menu-link">Factores que influyen el crecimiento</a></li>
+                        <li class="menu-item"><a href="/contact" class="menu-link">Contacto</a></li>
                     </ul>
                 </div>
             </nav>
