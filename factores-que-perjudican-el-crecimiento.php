@@ -29,19 +29,19 @@
                 <strong>principales factores</strong> que afectan el crecimiento y desarrollo de los niños.</p>
             <div class="menu-categorias">
                 <a href="/factores-que-perjudican-el-crecimiento/baja-estatura-idiopatica"><div class="factores-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
-                    <h2><i class="fas fa-caret-right"></i>Talla baja idiopática<i class="fas fa-caret-left"></i></h2>
+                    <p></p><i class="fas fa-caret-right"></i>Talla baja idiopática<i class="fas fa-caret-left"></i></p>
                 </div></a>
                 <a href="/factores-que-perjudican-el-crecimiento/"><div class="factores-img-2 menu-categorias-img" title="">
-                    <h2><i class="fas fa-caret-right"></i>Talla baja familiar<i class="fas fa-caret-left"></i></h2>
+                    <p><i class="fas fa-caret-right"></i>Talla baja familiar<i class="fas fa-caret-left"></i></p>
                 </div></a>
                 <a href="/factores-que-perjudican-el-crecimiento/padecimientos-que-afectan-el-crecimiento"><div class="factores-img-3 menu-categorias-img" title="">
-                    <h2><i class="fas fa-caret-right"></i>Padecimientos<i class="fas fa-caret-left"></i></h2>
+                    <p><i class="fas fa-caret-right"></i>Padecimientos<i class="fas fa-caret-left"></i></p>
                 </div></a>
                 <a href="/factores-que-perjudican-el-crecimiento/sindromes-que-afectan-el-crecimiento"><div class="factores-img-4 menu-categorias-img" title="">
-                    <h2><i class="fas fa-caret-right"></i>sindromes<i class="fas fa-caret-left"></i></h2>
+                    <p><i class="fas fa-caret-right"></i>sindromes<i class="fas fa-caret-left"></i></p>
                 </div></a>
                 <a href="/factores-que-perjudican-el-crecimiento/enfermedades-cronicas"><div class="factores-img-5 menu-categorias-img" title="">
-                    <h2><i class="fas fa-caret-right"></i>Enfermedades cronicas<i class="fas fa-caret-left"></i></h2>
+                    <p><i class="fas fa-caret-right"></i>Enfermedades cronicas<i class="fas fa-caret-left"></i></p>
                 </div></a>
             </div>
             <p>Entre las afecciones médicas que <strong>se asocian</strong> con el crecimiento, se incluyen:</p>

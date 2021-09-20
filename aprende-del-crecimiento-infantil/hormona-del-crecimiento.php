@@ -25,19 +25,18 @@
             <div class="box-titles">
                 <h1 class="box-titles-h2">Todo lo que debes saber sobre la hormona de crecimiento</h1>
             </div>
-
             <div class="indice ">
                 <h2>índice</h2>
                 <ol>
-                    <li><a href="#turner-sindrome"> ¿Qué es el Síndrome de Turner?</li></a>
-                    <li><a href="#turner-caracteristicas"> Características y síntomas</li></a>
-                    <li><a href="#turner-tratamiento"> Tratamiento</li></a>
-                    <li><a href="#turner-causas"> Causas</li></a>
-                    <li><a href="#turner-diagnostico"> Diagnostico</li></a>
-                    <li><a href="#turner-tratamiento-en"> Tratamiento en el embarazo y fertilidad en mujeres</li></a>
-                    <li><a href="#turner-mexico"> Síndrome de Turner en México </li></a>
-                    <li><a href="#turner-especialista"> Cuándo ver a un médico especialista </li></a>
-                    <li><a href="#turner-autor"> Acerca del autor</li></a>
+                    <li><a href="#turner-sindrome"> ¿Qué es la hormona de crecimiento?</li></a>
+                    <li><a href="#turner-caracteristicas"> ¿Cuales son las funciones?</li></a>
+                    <li><a href="#turner-tratamiento"> Consejos que ayudan al aumento de producción</li></a>
+                    <li><a href="#turner-causas">hormona de crecimiento en adultos</li></a>
+                    <li><a href="#turner-diagnostico"> hormona de crecimiento en niños</li></a>
+                    <li><a href="#turner-tratamiento-en"> ¿Qué padecimientos se tratan con la hormona de crecimiento?</li></a>
+                    <li><a href="#turner-mexico"> ¿Qué es la deficiencia de hormona de crecimiento (GHD)? </li></a>
+                    <li><a href="#turner-especialista"> ¿Quién es el especialista en hormona de crecimiento? </li></a>
+                    <li><a href="#turner-autor"> Conclusiones</li></a>
                 </ol>
             </div>
             <p>Cuando hablamos de crecimiento nos referimos a un aumento de tamaño corporal. Este proceso se realiza de forma biológica y natural, donde aumentan nuestras células, tejidos, órganos y sistemas; para verse reflejado en el incremento de nuestra altura y masa. </p>
@@ -74,13 +73,13 @@
             </div>
             <p>Mantener buenos niveles de hormona de crecimiento en nuestro organismo, nos ayudara a mantenerlo sano y a que trabaje de forma correcta, por ello hay estrategias que nos ayudarán a lograrlo: </p>
             <ul>
-                <li><strong>El sueño (dormir bien)</strong> 
+                <li><strong>El sueño (dormir bien):</strong> <br>
                 El impulso más importante es el sueño; el momento en el que estamos profundamente dormidos es cuando secretamos la hormona, aproximadamente del 70 al 80% de nuestra producción de hormona se hace mientras descansamos, por eso dormir con regularidad un horario especifico, sobre todo en los niños es extremadamente importante, ya que, si se desvelan dejan de producir la sustancia durante ese lapso, aunque posteriormente se duerman e intenten recuperar el tiempo perdido. Se trata de tener un sueño de calidad. </li>
-                <li><strong>Hacer ejercicio</strong>
+                <li><strong>Hacer ejercicio:</strong> <br>
                 Esta completamente comprobado que hacer ejercicio, sobre todo de tipo aeróbico corresponde con un tipo de secreción de hormona. Es bueno hacer ejercicios de alta intensidad, como correr, nadar o andar en bici, aunque también cuentan ejercicios como; caminar, deportes en equipo, bailar, hacer cardio, practicar hula hoop, senderismo, saltar la cuerda y hacer abdominales. </li>
-                <li><strong>Bajar el consumo de azúcar</strong> 
+                <li><strong>Bajar el consumo de azúcar:</strong>  <br>
                 El exceso consumo de azúcar por sí solo no es bueno para la salud, sobre todo si se consume antes de dormir o dentro de 2 horas después de hacer ejercicio. Su consumo hará que se libere la hormona inhibidora de la hormona de crecimiento (somatostatina), y como ya sabemos, esta hormona limitará la producción de la GH.</li>
-                <li><strong>Una dieta equilibrada</strong> 
+                <li><strong>Una dieta equilibrada:</strong> <br>
                 La insulina y la hormona de crecimiento van de la mano, por lo tanto, si ocurren demasiados picos de insulina, se disminuirá nuestra producción de hormona. Entonces, es importante llevar una dieta con alimentos saludables; frutas, verduras, cereales saludables, proteína y grasas buenas. </li>
             </ul>
             <p>En caso de notar o creer que aún estos consejos hay déficit de hormona de crecimiento, lo mejor es acudir con un especialista, él ayudará a detectar algún problema y corregirlo con un tratamiento específico y seguro. En Centro Sequoia puedes encontrar tu mejor opción.</p>
@@ -89,8 +88,7 @@
             </div>
             <p>Cabe destacar que la hormona de crecimiento no sólo se produce durante la etapa de nuestro desarrollo, ya que su función no se limita a que crezcamos. Esta se produce durante toda nuestra vida, por lo tanto, sí existe una deficiencia de hormona de crecimiento, puede haber algún problema de salud, y del mismo modo si se llega a haber un exceso de producción. </p>
             <p>Como lo mencionamos en la pregunta anterior, esta hormona es importante para el metabolismo de las reservas de proteínas, lípidos e hidratos de carbono, por lo tanto, es fundamental para el funcionamiento regular de nuestro organismo y nos ayuda a mantener un equilibrio con el tejido adiposo.  En este caso la hormona induce la lipolisis y dirige a los aminoácidos idos hacia la síntesis de proteína muscular, causando así la pérdida del tejido adiposo visceral y disminuyendo la concentración de colesterol, entre otras cosas. Además, gracias al IGF-1 que se libera por la hormona de crecimiento, mantenemos la reparación y remodelación del tejido óseo durante la adultes.</p>
-            <h3>¿Qué pasa si un adulto sufre de deficiencia de hormona de crecimiento?</h3>
-               
+            <h3>¿Qué pasa si un adulto sufre de deficiencia de hormona de crecimiento?</h3> 
             <ul>
                 <li><strong>Causas y diagnóstico:</strong>
                 Algunos adultos no son capaces de producir hormona de crecimiento suficiente, esto es porque algunas veces hay lesiones estructurales, daño en las vías neuroendocrinas del hipotálamo o algún traumatismo vascular local provocado por un accidente, alguna cirugía o radioterapia. También si una persona adulta tuvo cáncer durante su infancia puede correr el riesgo de que exista una deficiencia de dicha hormona, principalmente si fueron tratados con radioterapia en el cuello o cabeza. 
@@ -118,23 +116,99 @@
            <h2>6. ¿Qué padecimientos se tratan con la hormona de crecimiento?</h2>
            <p>Los siguientes padecimientos están ligados a la baja producción o deficiencia de hormona de crecimiento.</p>
            <ul>
-                <li>Talla baja familiar o genética</li>
-                <li>Talla baja idiopática</li>
-                <li>Retraso constitucional del crecimiento</li>
-                <li>Síndrome de Turner</li>
-                <li>Síndrome de Noonan</li>
-                <li>Pequeño para la edad gestacional</li>
+                <li><a href="">Talla baja familiar o genética</a></li>
+                <li><a href="">Talla baja idiopática</a></li>
+                <li><a href="">Retraso constitucional del crecimiento</a></li>
+                <li><a href="">Síndrome de Turner</a></li>
+                <li><a href="">Síndrome de Noonan</a></li>
+                <li><a href="">Pequeño para la edad gestacional</a></li>
                 <li>Displasia esquelética</li>
                 <li>Síndrome de Prader-Willi</li>
                 <li>Otros síndromes y causas de la baja estatura.</li>
-           </ul>
+            </ul>
+            <h2>7. ¿Qué es la deficiencia de hormona de crecimiento (GHD)?</h2>
+            <p>La baja producción o deficiencia de hormona de crecimiento es un padecimiento causado por la escasa producción de hormona en nuestro organismo. Los niños que sufren este padecimiento tienen una estatura anormalmente baja, pero con proporciones de cuerpo normales. Este problema puede presentarse desde que somos bebés (deficiencia de la hormona del crecimiento congénita) o más tarde (deficiencia de la hormona del crecimiento adquirida) durante nuestro desarrollo, cuando el cuerpo deja de fabricar la hormona suficiente y de esta forma crecer con una irregularidad. Algunas veces no se puede identificar una causa clara, pero es importante acudir con un especialista. </p>
+            <h3>¿Cuáles son las causas de la deficiencia?</h3>
+            <p>Es complicado saber que causa este problema, aunque algunas de las veces se relacionan con problemas en la hipófisis o alguna parte del cerebro, como, tumores cerebrales, lesiones en la cabeza o radioterapia dirigida al cerebro. Esta deficiencia puede ocurrir sola o junto con el hipopituitarismo generalizado, donde en ambos se adquiere sola o de forma congénita, incluyendo causas genéticas hereditarias. </p>
+            <h3>¿Cuáles son los síntomas?</h3>
+            <p>Los niños con deficiencia de la hormona de crecimiento normalmente son mucho más bajitos que sus compañeros y en algún momento pueden alejarse cada vez mas al rango normal de estatura, además, en algunos casos tienden a sufrir algo de exceso de grasa, especialmente en el abdomen.</p>
+            <p>Aquí una lista de más señales:</p>
+            <ul>
+                <li>Poco aumento de estatura en bebés, niños o adolescentes</li>
+                <li>Rostro con aspecto más joven que el de otros niños de su misma edad</li>
+                <li>Sobrepeso, manos y pies pequeños, y desarrollo muscular insuficiente</li>
+                <li>Bajo nivel de glucosa en la sangre</li>
+                <li>Pene muy pequeño (en recién nacidos varones con GHD grave)</li>
+                <li>Retraso de la pubertad</li>
+            </ul>
+            <h3>¿Cómo se diagnostica?</h3>
+            <p>Aun cuando no se presenta ningún síntoma, si se nota un retraso de crecimiento, debe asistir con un endocrinólogo pediatra, que es el especialista en temas de crecimiento infantil y hormona de crecimiento. Este estudiará el crecimiento del niño y lo explorará de forma detallada, además solicitará algunas pruebas y estudios para detectar la posible deficiencia, tales como:</p>
+            <ul>
+                <li>Una radiografía de la mano y muñeca para determinar la edad ósea, es decir el crecimiento de los huesos y evaluar la potencia en la que crecen.</li>
+                <li>Análisis de sangre y demás pruebas de laboratorio para descartar otros trastornos que pueden estar afectando el crecimiento. </li>
+                <li>Un análisis de sangre que determine el nivel de IGF-1(Factor de Crecimiento Insulínico Tipo 1 </li>
+                <li>Prueba de estimulación de GH, donde se le dan medicamentos que estimulan la glándula pituitaria y así se libere hormona de crecimiento, para que sí el nivel de hormona en la sangre no aumenta hasta cierto nivel, significa que la glándula pituitaria no esta produciendo la suficiente hormona de crecimiento que el cuerpo necesita. </li>
+                <li>Resonancia magnética de la cabeza para buscar un problema en la pituitaria o cerebro, y detectar la presencia de algún tumor. </li>
+            </ul>
+            <h3>¿Cuál y cómo es el tratamiento?</h3>
+            <p>Los niños con deficiencia de la hormona de crecimiento, reciben como tratamiento inyecciones diarias de una versión sintética de la hormona de crecimiento, es decir, una versión fabricada por laboratorios de alto nivel, donde es necesario la receta de un doctor para poder realizar la compra.</p>
+            <p>Las dosis de hormona sintética se suelen administrar diariamente, y este tratamiento suele durar varios años, aunque las aplicaciones varían conforme pase el tiempo, siempre y cuando el médico lo considere necesario. En Centro Sequoia https://centrosequoia.com.mx/ , creemos que los padres pueden contribuir al éxito de este tratamiento y lo invitamos a participar. </p>
+            <p>Se prescribe en niños que han sido diagnosticados con deficiencia de hormona de crecimiento u otras afecciones que causen su baja estatura. </p>
+            <p>Luego de que se haga la confirmación de algún problema con el crecimiento del niño, como deficiencia de GH, síndrome de Turner y otras afecciones, se indica la terapia, que tiene pocos efectos secundarios, pues es segura y eficaz.</p>
+            <p>El medicamento se administra mediante una inyección subcutánea, lo que significa que ingresa al tejido graso justo debajo de la superficie de la piel. Se puede administrar mediante un dispositivo de inyección especial que parece una pluma. Debido a que es una inyección tan superficial, la aguja es muy pequeña y no duele mucho.</p>
+            <h4>¿Qué esperar del tratamiento?</h4>
+            <p>¡Lo principal a esperar es crecimiento!, la hormona del crecimiento aumenta significativamente la estatura adulta de los niños con estatura baja idiopática.</p>
+            <p>Aunque se necesitan de 3 a 6 meses para darse cuenta de cualquier diferencia de altura, lo importante es que su hijo crecerá, probablemente de 2 a 5 centímetros dentro de los primeros 6 meses de comenzar el tratamiento, aunque puede notar algunos cambios en el niño como:</p>
+            <ol>
+                <li>Es posible que a su hijo le queden pequeños los zapatos rápidamente, ya que, el crecimiento del pie puede ocurrir dentro de las 6 a 8 semanas, por lo que deberá comprar zapatos nuevos con más frecuencia.</li>
+                <li>Probablemente el niño quiera comer más, dado que es común un aumento en el apetito, especialmente si tenía poco antes del tratamiento.</li>
+                <li>Tal vez su hijo se vea más delgado por un tiempo una vez que comience el crecimiento de estatura. Un aumento de la masa corporal magra y una disminución de la masa grasa son comunes con el tratamiento.</li>
+            </ol>
+            <p>Posiblemente su hijo tarde varios años en alcanzar su estatura adulta, por lo que debe tener en cuenta que suele ser un compromiso a largo plazo. Se necesitarán visitas de rutina con el endocrinólogo pediátrico, al igual que análisis de sangre periódicos y radiografías para monitorear el progreso de su hijo en el tratamiento. Aunque la duración del tratamiento varía, es probable que su hijo deba continuar con hasta que haya alcanzado su estatura completa de adulto, la madurez ósea completa y crecido al menos 2cm en el último año.</p>
+            <ul>
+                <li>Caso de éxito</li>
+            </ul>
+            <p>Said (hijo) y Martha (mamá) "Tenía 13 años, estaba en la escuela y no tenía la misma estatura que mis amigos..." ... Said</p>
+            <div class="contenedor-video-2">
+                <div class="reproductor-rectangular" data-id="5Hk9LFjO0G8"></div>
+            </div>
+            <p>Para ver más casos de éxito da click aquí.</p>
+            <h4>¿Cuál es la seguridad del tratamiento?</h4>
+            <p>Los investigadores están de acuerdo en que el tratamiento con la hormona del crecimiento humana es seguro y efectivo. En 1985, la Administración de Medicamentos y Alimentos de los Estados Unidos (FDA) aprobó una hormona de crecimiento biosintética.</p>
+            <p>El uso de hormona recetado bajo supervisión médica es seguro. La hormona se administra mediante inyección.</p>
+            <h4>¿Cómo se administra la hormona? </h4>
+            <p>Las inyecciones de hormona de crecimiento son rápidas y casi indoloras, por lo que los niños de 10 años en adelante pueden, y a menudo prefieren, inyectarse ellos mismos, pero es importante que uno de los padres supervise la inyección para asegurarse de que el niño administre la dosis correcta todos los días. Los padres deben administrar las inyecciones a los niños más pequeños.</p>
+            <p>Debido a que la sustancia natural se libera principalmente durante el sueño en los niños, el tratamiento es más efectivo cuando se toma a la hora de acostarse.</p>
+            <p>Aprender a administrar las inyecciones puede parecer intimidante al principio, pero una vez que usted y su hijo se acostumbran, se convierte en un hábito diario más. Sin embargo, hay algunos consejos que debe conocer cuando comience la terapia:</p>
+            <ul>
+                <li><strong>Almacenamiento</strong> <br>
+                Debe refrigerarse a una temperatura de 2°C a 5°C; pues dejar que se caliente o enfríe demasiado disminuirá su eficacia. Si lo deja afuera durante la noche, puede volver a colocarlo en el refrigerador y continuar usándolo.
+                Cuando viaje, guárdelo en la nevera que se incluye en el kit de inicio durante un máximo de 10 horas, luego colóquelo en hielo después de 10 horas. Tenga cuidado de no colocar las plumas de hormona directamente en el hielo; guárdelas y sepárelas colocándolas en una bolsa Ziploc.</li>
+                <li><strong>Hora del día</strong> <br>
+                Administre por la noche, preferiblemente dentro de una hora antes de dormir. Trate de administrarlo de manera constante dentro de un período de tiempo de una hora, por ejemplo, entre las 9 y las 10 p.m. cada noche, aunque puede cambiar la hora ocasionalmente, unas horas antes o después, pero no antes de las 5 p.m., excepto en circunstancias inusuales (como salir de viaje, quedarse a dormir, etc.).
+                No recupere las inyecciones olvidadas, y para obtener mejores resultados, intente no perderlas más de una vez al mes.</li>
+                <li><strong>Terminando una pluma</strong> <br>
+                Debido a que la hormona es muy cara, debe consumir todo el medicamento de cada pluma. 
+                Los bolígrafos solo le permitirán marcar lo que queda de la sustancia. Use lo último y comience un nuevo cartucho haciendo una segunda inyección con la cantidad que falta. Puede que tenga que utilizar dos cartuchos aproximadamente una vez a la semana. Si quedan menos de 0,2 mg en el cartucho antiguo, o si le faltan menos de 0,2 mg de la última inyección, no administre una inyección adicional.</li>
+                <li><strong>Sitios de inyección</strong> <br>
+                Utilice 4 de los 8 posibles lugares de inyección y rótelos cada vez. Los sitios son la parte posterior de los brazos, la parte superior o exterior de los muslos, los lados del abdomen y el cuadrante externo de las nalgas. Puede documentar el sitio utilizado un calendario todas las noches y además anote cuando abre una nueva pluma para realizar el seguimiento de las fechas de vencimiento y cuantas inyecciones se han usado de cada pluma.</li>
+                <li><strong>Rotación de sitios de inyección</strong> <br>
+                Aprenda a rotar correctamente los lugares de inyección, para mantenerlos saludables y llevar el tratamiento por buen camino, además debe evitar usar un solo sitio más de una vez cada cuatro semanas, puede seguir los siguientes pasos: </li>
+            </ul>
             <div class="tamaño-img">
-                <a href="/generalidades-del-crecimiento-infantil/como-medir-a-tu-hijo-de-manera-correcta"><img src="/img/banners/banner-como-medir-a-tu-hijo-de-manera-correcta.webp" alt="Banner que lleva a como medir a tu hijo de manera correcta"></a>
+                <a href="/generalidades-del-crecimiento-infantil/como-medir-a-tu-hijo-de-manera-correcta"><img src="/img/generalidades-del-crecimiento-infantil/infografia-como-inyectar-la-hormona-de-crecimiento.webp" alt="Banner infografía de como inyectar la hormona de crecimiento"></a>
+            </div>
+            <h2>¿Quién es el especialista en hormona de crecimiento?</h2>
+            <p>El médico especialista que trata las enfermedades derivadas por la hormona del crecimiento es un endocrinólogo pediatra. En Centro Sequoia, única y exclusivamente atendemos los padecimientos que afectan la estatura de los niños . Nuestros médicos especialistas tienen la experiencia de más de 30,000 casos atendidos en este campo, lo que nos lleva a ser el centro MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</p>
+            <h2>Conclusiones</h2>
+            <p>La hormona del crecimiento humana recombinante es una proteína que se fabrica para ser casi idéntica la hormona del crecimiento humana natural y de esta forma estimular el crecimiento tisular, el crecimiento lineal (altura) y el metabolismo de proteínas, carbohidratos, lípidos y minerales. Tiene indicaciones aprobadas tanto en población adulta como pediátrica. Además, se usa en la población pediátrica para tratar la baja estatura debido a la deficiencia de la hormona del crecimiento (incluida la deficiencia idiopática [de causa desconocida] de la hormona del crecimiento), síndrome de Turner, síndrome de Noonan, síndrome de Prader-Willi, estatura baja deficiencia del gen que contiene homeobox (SHOX), insuficiencia renal crónica, baja estatura idiopática y niños pequeños para la edad gestacional.</p>
+
+            <div class="tamaño-img">
+                <img src="/img/banners/banner-como-medir-a-tu-hijo-de-manera-correcta.webp" alt="Banner que lleva a como medir a tu hijo de manera correcta">
             </div>
 
             <a href="/contact">
                 <picture>
-                    
                     <source media="(max-width:767px)" srcset="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp">
                     <source media="(min-width: 767px)" srcset="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp">
                     <img  class="tamaño-img" src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="Banner, tu hijo puede ser más alto, contacto">

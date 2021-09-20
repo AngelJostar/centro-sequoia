@@ -30,22 +30,22 @@
             <p>A continuación puedes explorar los temas más importantes relacionados con el <strong>crecimiento</strong> de tu niño o niña:</p>
             <div class="menu-categorias">
                 <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento"><div class="aprende-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
-                    <h2><i class="fas fa-caret-right"></i>Hormona del crecimiento<i class="fas fa-caret-left"></i></h2>
+                    <p><i class="fas fa-caret-right"></i>Hormona del crecimiento<i class="fas fa-caret-left"></i></p>
                 </div></a>
                 <a href="/aprende-del-crecimiento-infantil/graficas-de-crecimiento"><div class="aprende-img-2 menu-categorias-img" title="">
-                    <h2><i class="fas fa-caret-right"></i>Curva de crecimiento en niños<i class="fas fa-caret-left"></i></h2>
+                    <p><i class="fas fa-caret-right"></i>Curva de crecimiento en niños<i class="fas fa-caret-left"></i></p>
                 </div></a>
                 <a href="/aprende-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"><div class="menu-categorias-img aprende-img-3" title="">
-                    <h2><i class="fas fa-caret-right"></i>Escala de Tanner<i class="fas fa-caret-left"></i></h2>
+                    <p><i class="fas fa-caret-right"></i>Escala de Tanner<i class="fas fa-caret-left"></i></p>
                 </div></a>
                 <a href="/aprende-del-crecimiento-infantil/estiron-puberal"><div class="menu-categorias-img aprende-img-4" title="">
-                    <h2><i class="fas fa-caret-right"></i>Estiron Puberal<i class="fas fa-caret-left"></i></h2>
+                    <p><i class="fas fa-caret-right"></i>Estiron Puberal<i class="fas fa-caret-left"></i></p>
                 </div></a>
                 <a href="/aprende-del-crecimiento-infantil/edad-osea"><div class="menu-categorias-img aprende-img-5" title="">
-                    <h2><i class="fas fa-caret-right"></i>Edad Osea<i class="fas fa-caret-left"></i></h2>
+                    <p><i class="fas fa-caret-right"></i>Edad Osea<i class="fas fa-caret-left"></i></p>
                 </div></a>
                 <a href="/aprende-del-crecimiento-infantil/talla-blanco-familiar"><div class="menu-categorias-img factores-img-2" title="">
-                    <h2><i class="fas fa-caret-right"></i>Talla blanco familiar<i class="fas fa-caret-left"></i></h2>
+                    <p><i class="fas fa-caret-right"></i>Talla blanco familiar<i class="fas fa-caret-left"></i></p>
                 </div></a>
             </div>
             <div class="box-titles">
