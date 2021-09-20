@@ -1370,6 +1370,7 @@ textarea {
     }
     .text-container p {
         max-width: 50%;
+        text-align: left !important;
     }
     .text-container ol {
         max-width: 50%;

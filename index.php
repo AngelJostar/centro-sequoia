@@ -33,7 +33,7 @@
                 <a href="/crecimiento-infantil-deficiente"><div class="index-img-2 menu-categorias-img" title="">
                     <p><i class="fas fa-caret-right"></i>Crecimiento infantil deficiente<i class="fas fa-caret-left"></i></p>
                 </div></a>
-                <a href="/etapas-del-crecimiento-humano"><div class="menu-categorias-img index-img-4" title="">
+                <a href="/etapas-del-desarrollo-humano"><div class="menu-categorias-img index-img-4" title="">
                     <p><i class="fas fa-caret-right"></i>Etapas del crecimiento humano<i class="fas fa-caret-left"></i></p>
                 </div></a>
                 <a href="/factores-que-influyen-en-el-crecimiento"><div class="menu-categorias-img index-img-3" title="">
