@@ -11,8 +11,6 @@
 <title>Cómo saber tu hijo está creciendo adecuadamente - Centro Pediátrico especialista en crecimiento ✅</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
-
-
 </head>
 
 <?php include_once 'includes/tags/google_tag_manager_body.php';?>
@@ -20,38 +18,29 @@
 <?php include_once 'includes/templates/header.php';?>
 
     <main class="main-container">
-
         <div class="text-container">
-            <div class="cuadros-crecimiento">
-                <div class="titulos-grid-index">
-                    <div class="flexbox padre">
-                        <div class="barra-titulo"></div>
-                    </div>
-                    <h1 style="font-size: calc(1.7em + 1vw);"><b>Centro Especialista</b><br>en Crecimiento Infantil</h1>
-                    <div class="flexbox padre">
-                        <div class="barra-titulo"></div>
-                    </div>
-                </div>
+            <div class="box-titles">
+                <h1 class="box-titles-h2">Endocrinólogos pediatras especialistas </b><br>en Crecimiento Infantil</h1>
             </div>
-
             <div class="banner-doctores-img" title="Doctores especialista en crecimiento infantil de Centro Sequoia"></div>
-
-
             <div class="text-container">
                 <p><b> Centro SEQUOIA</b> es un <b>Centro Pediátrico Exclusivo para el Crecimiento infantil</b> formado por Médicos Pediatras Endocrinólogos, certificados por el Consejo Mexicano de Endocrinología A.C. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente y lo ayudarán a alcanzar una mayor estatura.</p>
             </div>
             <div class="menu-categorias">
                 <a href="/aprende-del-crecimiento-infantil"><div class="index-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
-                    <h2><i class="fas fa-caret-right"></i>Aprende del crecimiento infantil<i class="fas fa-caret-left"></i></h2>
+                    <p><i class="fas fa-caret-right"></i>Aprende del crecimiento infantil<i class="fas fa-caret-left"></i></p>
                 </div></a>
                 <a href="/crecimiento-infantil-deficiente"><div class="index-img-2 menu-categorias-img" title="">
-                    <h2><i class="fas fa-caret-right"></i>Crecimiento infantil deficiente<i class="fas fa-caret-left"></i></h2>
-                </div></a>
-                <a href="/factores-que-influyen-en-el-crecimiento"><div class="menu-categorias-img index-img-3" title="">
-                    <h2><i class="fas fa-caret-right"></i>Factores que influyen en el crecimiento<i class="fas fa-caret-left"></i></h2>
+                    <p><i class="fas fa-caret-right"></i>Crecimiento infantil deficiente<i class="fas fa-caret-left"></i></p>
                 </div></a>
                 <a href="/etapas-del-crecimiento-humano"><div class="menu-categorias-img index-img-4" title="">
-                    <h2><i class="fas fa-caret-right"></i>Etapas del crecimiento humano<i class="fas fa-caret-left"></i></h2>
+                    <p><i class="fas fa-caret-right"></i>Etapas del crecimiento humano<i class="fas fa-caret-left"></i></p>
+                </div></a>
+                <a href="/factores-que-influyen-en-el-crecimiento"><div class="menu-categorias-img index-img-3" title="">
+                    <p><i class="fas fa-caret-right"></i>Factores que influyen en el crecimiento<i class="fas fa-caret-left"></i></p>
+                </div></a>
+                <a href="/factores-que-perjudican-el-crecimiento"><div class="menu-categorias-img factores-influyen-2" title="">
+                    <p><i class="fas fa-caret-right"></i>Factores que perjudican el crecimiento<i class="fas fa-caret-left"></i></p>
                 </div></a>
             </div>
             <div class="contenedor-video ">

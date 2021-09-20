@@ -44,10 +44,9 @@
                 <a href="/aprende-del-crecimiento-infantil/edad-osea"><div class="menu-categorias-img aprende-img-5" title="">
                     <h2><i class="fas fa-caret-right"></i>Edad Osea<i class="fas fa-caret-left"></i></h2>
                 </div></a>
-                <a href="/aprende-del-crecimiento-infantil/edad-osea"><div class="menu-categorias-img aprende-img-5" title="">
+                <a href="/aprende-del-crecimiento-infantil/talla-blanco-familiar"><div class="menu-categorias-img factores-img-2" title="">
                     <h2><i class="fas fa-caret-right"></i>Talla blanco familiar<i class="fas fa-caret-left"></i></h2>
                 </div></a>
-
             </div>
             <div class="box-titles">
                 <h2 class="box-titles-h2">Un crecimiento infantil normal</h2>

@@ -23,24 +23,24 @@
 
         <div class="text-container">
             <div class="box-titles">
-                <h1 class="box-titles-h2">Factores que afectan el crecimiento</h1>
+                <h1 class="box-titles-h2">Factores que perjudican el crecimiento</h1>
             </div>
             <p>Hablar de <strong>factores que afectan al crecimiento</strong> puede ser una tarea bastante complicada y compleja, ya que muchos factores como <strong>el ambiente</strong>, <strong>la crianza</strong> e incluso algún <strong>trastorno del crecimiento</strong> influyen en el desarrollo de los niños. Por lo que aquí te presentamos algunos de los 
                 <strong>principales factores</strong> que afectan el crecimiento y desarrollo de los niños.</p>
             <div class="menu-categorias">
-                <a href="/factores-que-influyen-en-el-crecimiento/baja-estatura-idiopatica"><div class="factores-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
-                    <h2><i class="fas fa-caret-right"></i>Talla baja ideopatica<i class="fas fa-caret-left"></i></h2>
+                <a href="/factores-que-perjudican-el-crecimiento/baja-estatura-idiopatica"><div class="factores-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
+                    <h2><i class="fas fa-caret-right"></i>Talla baja idiopática<i class="fas fa-caret-left"></i></h2>
                 </div></a>
-                <a href="/factores-que-influyen-en-el-crecimiento/talla-blanco-familiar"><div class="factores-img-2 menu-categorias-img" title="">
+                <a href="/factores-que-perjudican-el-crecimiento/"><div class="factores-img-2 menu-categorias-img" title="">
                     <h2><i class="fas fa-caret-right"></i>Talla baja familiar<i class="fas fa-caret-left"></i></h2>
                 </div></a>
-                <a href="/factores-que-influyen-en-el-crecimiento/padecimientos-que-afectan-el-crecimiento"><div class="factores-img-3 menu-categorias-img" title="">
+                <a href="/factores-que-perjudican-el-crecimiento/padecimientos-que-afectan-el-crecimiento"><div class="factores-img-3 menu-categorias-img" title="">
                     <h2><i class="fas fa-caret-right"></i>Padecimientos<i class="fas fa-caret-left"></i></h2>
                 </div></a>
-                <a href="/factores-que-influyen-en-el-crecimiento/sindromes-que-afectan-el-crecimiento"><div class="factores-img-4 menu-categorias-img" title="">
+                <a href="/factores-que-perjudican-el-crecimiento/sindromes-que-afectan-el-crecimiento"><div class="factores-img-4 menu-categorias-img" title="">
                     <h2><i class="fas fa-caret-right"></i>sindromes<i class="fas fa-caret-left"></i></h2>
                 </div></a>
-                <a href="/factores-que-influyen-en-el-crecimiento/enfermedades-cronicas"><div class="factores-img-5 menu-categorias-img" title="">
+                <a href="/factores-que-perjudican-el-crecimiento/enfermedades-cronicas"><div class="factores-img-5 menu-categorias-img" title="">
                     <h2><i class="fas fa-caret-right"></i>Enfermedades cronicas<i class="fas fa-caret-left"></i></h2>
                 </div></a>
             </div>

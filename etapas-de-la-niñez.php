@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta name="description" content="Si te preocupa el crecimiento de tu hijo en Centro SEQUOIA podemos ayudarte ya que es un Centro Pediátrico Exclusivo para el Crecimiento de los niños ☝">
-<title>Crecimiento y desarrollo del niño</title>
+<title>Etapas de la niñez</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 </head>
@@ -21,21 +21,21 @@
 
         <div class="text-container">
             <div class="box-titles">
-                <h1 class="box-titles-h2">Crecimiento y desarrollo en niños</h1>
+                <h1 class="box-titles-h2">Etapas de la niñez</h1>
             </div>
-            <p>Conforme crecen los niños, se desarrollan de distintas maneras. El desarrollo infantil consta de cambios físicos, intelectuales, sociales y emocionales.</p>
+            <p>Conforme <strong>crecen los niños</strong>, se <strong>desarrollan</strong> de distintas maneras. El <strong>desarrollo infantil</strong> consta de cambios físicos, intelectuales, sociales y emocionales.</p>
             <div class="menu-categorias">
-                <a href=""><div class="menu-categorias-img aprende-img-5" title="">
-                    <h2><i class="fas fa-caret-right"></i>Cambios físicos en niños<i class="fas fa-caret-left"></i></h2>
+                <a href="#"><div class="menu-categorias-img etapas-niñez-1" title="">
+                    <p><i class="fas fa-caret-right"></i>Cambios físicos en niños<i class="fas fa-caret-left"></i></p>
                 </div></a>
-                <a href=""><div class="aprende-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
-                    <h2><i class="fas fa-caret-right"></i>Crecimiento y desarrollo en bebés<i class="fas fa-caret-left"></i></h2>
+                <a href="#"><div class="menu-categorias-img etapas-niñez-2" title="sección de crecimiento infantil generalidades">
+                    <p><i class="fas fa-caret-right"></i>Crecimiento y desarrollo en bebés<i class="fas fa-caret-left"></i></p>
                 </div></a>
-                <a href=""><div class="aprende-img-2 menu-categorias-img" title="">
-                    <h2><i class="fas fa-caret-right"></i>Crecimiento y desarrollo en niños pequeños<i class="fas fa-caret-left"></i></h2>
+                <a href="#"><div class="menu-categorias-img etapas-niñez-3" title="">
+                    <p><i class="fas fa-caret-right"></i>Crecimiento y desarrollo en niños pequeños<i class="fas fa-caret-left"></i></p>
                 </div></a>
-                <a href=""><div class="menu-categorias-img aprende-img-4" title="">
-                    <h2><i class="fas fa-caret-right"></i>Crecimiento y desarrollo en la adolescencia<i class="fas fa-caret-left"></i></h2>
+                <a href="#"><div class="menu-categorias-img etapas-niñez-4" title="">
+                    <p><i class="fas fa-caret-right"></i>Crecimiento y desarrollo en la adolescencia<i class="fas fa-caret-left"></i></p>
                 </div></a>
             </div>
             <div class="box-titles">
@@ -43,21 +43,21 @@
             </div>
             <p>Los Periodos del desarrollo estan divididos en 5 etapas:</p>
             <ul>
-                <li>Desarrollo prenatal(ocurre desde concepción hasta el nacimiento)</li>
-                <li>Infancia y niñez(ocurre desde el nacimiento hasta los 2 años)</li>
-                <li>Primera infancia(ocurre desde los 3 hasta los 5 años)</li>
-                <li>Segunda infancia media(ocurre desde los 6 hasta los 11 años)</li>
-                <li>La adolescencia(ocurre desde los 12 años a la edad adulta)</li>
+                <li><strong>Desarrollo prenatal</strong> (ocurre desde concepción hasta el nacimiento)</li>
+                <li><strong>Infancia y niñez</strong> (ocurre desde el nacimiento hasta los 2 años)</li>
+                <li><strong>Primera infancia</strong> (ocurre desde los 3 hasta los 5 años)</li>
+                <li><strong>Segunda infancia media</strong> (ocurre desde los 6 hasta los 11 años)</li>
+                <li><strong>La adolescencia</strong> (ocurre desde los 12 años a la edad adulta)</li>
             </ul>
             <h2>Desarrollo Prenatal</h2>
-            <p>Es el periodo en el que un embrión o feto se gesta durante el embarazo, desde la fecundación hasta el nacimiento, se divide en tres periodos: período germinal, el período embrionario y el período embrionario y el período fetal. </p>
+            <p>Es el periodo en el que un embrión o feto se gesta durante el embarazo, desde la fecundación hasta el nacimiento, se divide en tres periodos: <strong>período germinal</strong>, el <strong>período embrionario</strong> y el <strong>período fetal</strong>. </p>
             <h2>Infancia y niñez</h2>
-            <p>Los dos años de vida son de crecimiento y cambio dramático. Un recién nacido, con un agudo sentido del oído pero muy deficiente visión, se transforma en un niño que camina y habla en un período de tiempo relativamente corto. Los cuidadores también se transforman de alguien que administra los horarios de alimentación y sueño a un guía en constante movimiento e inspector de seguridad para un niño enérgico y móvil.</p>
+            <p>Los dos años de vida son de <strong>crecimiento</strong> y cambio dramático. Un recién nacido, con un agudo sentido del oído pero muy deficiente visión, se transforma en un niño que camina y habla en un período de tiempo relativamente corto. Los cuidadores también se transforman de alguien que administra los horarios de alimentación y sueño a un guía en constante movimiento e inspector de seguridad para un niño enérgico y móvil.</p>
             <div class="tamaño-img">
                 <img src="/img/crecimiento-infantil-por-edad/Banner-Crecimiento-Infantil-por-Edades-.webp" alt="">
             </div>
             <h2>Primera infancia</h2>
-            <p>La primera infancia también conocida como los años preescolares y consiste en los años que siguen a la niñez y anteceden a la escolarización formal. Cuando tiene entre tres y cinco años, el niño está ocupado aprendiendo el lenguaje, está adquiriendo un sentido de sí mismo y una mayor independencia, y está comenzando a aprender el funcionamiento del mundo físico. Sin embargo, este conocimiento no llega rápidamente y los niños en edad preescolar pueden tener inicialmente conceptos interesantes sobre el tamaño, el tiempo, el espacio y la distancia, como el temor de que se vayan por el desagüe si se sientan al frente de la bañera o al lado de la bañera demostrando cuánto tardará algo extendiendo sus dos dedos índices a varias pulgadas de distancia. La feroz determinación de un niño de hacer algo puede dar paso al sentimiento de culpa de un niño de cuatro años por una acción que genera la desaprobación de los demás.</p>
+            <p>La <strong>primera infancia</strong> también conocida como los años preescolares y consiste en los años que siguen a la niñez y anteceden a la escolarización formal. Cuando tiene entre tres y cinco años, el niño está ocupado aprendiendo el lenguaje, está adquiriendo un sentido de sí mismo y una mayor independencia, y está comenzando a aprender el funcionamiento del mundo físico. Sin embargo, este conocimiento no llega rápidamente y los niños en edad preescolar pueden tener inicialmente conceptos interesantes sobre el tamaño, el tiempo, el espacio y la distancia, como el temor de que se vayan por el desagüe si se sientan al frente de la bañera o al lado de la bañera demostrando cuánto tardará algo extendiendo sus dos dedos índices a varias pulgadas de distancia. La feroz determinación de un niño de hacer algo puede dar paso al sentimiento de culpa de un niño de cuatro años por una acción que genera la desaprobación de los demás.</p>
             <div class="contenedor-video">
                 <div class="reproductor" data-id="mDDpzwoPKek"></div>
             </div>

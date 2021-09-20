@@ -1412,7 +1412,7 @@ h2.box-titles-h2 {
     border-radius: 1.5em;
 }
 
-.menu-categorias h2 {
+.menu-categorias p {
     color: var(--color-white);
     font-size: 4.1vw;
     position: relative;
@@ -1546,6 +1546,46 @@ h2.box-titles-h2 {
     background-image: url(/img/index/ejercicios-para-crecer-de-estatura.webp);
 }
 
+.cambios-adolescentes-1 {
+    background-image: url(/img/index/Cambios-fisicos.webp);
+}
+
+.cambios-adolescentes-2 {
+    background-image: url(/img/index/cambios-psicologicos.webp);
+}
+
+.cambios-adolescentes-3 {
+    background-image: url(/img/index/cambios-cognitivos.webp);
+}
+
+.cambios-adolescentes-4 {
+    background-image: url(/img/index/cambios-sociales.webp);
+}
+
+.cambios-adolescentes-5 {
+    background-image: url(/img/index/cambios-emocionales-y-afectivos.webp);
+}
+
+.cambios-adolescentes-6 {
+    background-image: url(/img/index/cambios-hormonales.webp);
+}
+
+.etapas-niñez-1 {
+    background-image: url(/img/index/cambios-fisicos-en-niños.webp);
+}
+
+.etapas-niñez-2 {
+    background-image: url(/img/index/crecimiento-en-bebe.webp);
+}
+
+.etapas-niñez-3 {
+    background-image: url(/img/index/crecimeinto-y-desarrollo-en-niños-pequeños.webp);
+}
+
+.etapas-niñez-4 {
+    background-image: url(/img/index/crecimiento-y-desarrollo-en-la-adolescencia.webp);
+}
+
 .menu-categorias-img {
     margin: 0;
     min-height: 23vw;
@@ -1599,7 +1639,7 @@ h2.box-titles-h2 {
     .menu-categorias-img::before {
         min-height: 7vw;
     }
-    .menu-categorias h2 {
+    .menu-categorias p {
         font-size: 1.3vw;
         top: 1.58vw;
         max-width: 100% !important;
