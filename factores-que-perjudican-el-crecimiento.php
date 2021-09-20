@@ -28,8 +28,8 @@
             <p>Hablar de <strong>factores que afectan al crecimiento</strong> puede ser una tarea bastante complicada y compleja, ya que muchos factores como <strong>el ambiente</strong>, <strong>la crianza</strong> e incluso algún <strong>trastorno del crecimiento</strong> influyen en el desarrollo de los niños. Por lo que aquí te presentamos algunos de los 
                 <strong>principales factores</strong> que afectan el crecimiento y desarrollo de los niños.</p>
             <div class="menu-categorias">
-                <a href="/factores-que-perjudican-el-crecimiento/baja-estatura-idiopatica"><div class="factores-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
-                    <p></p><i class="fas fa-caret-right"></i>Talla baja idiopática<i class="fas fa-caret-left"></i></p>
+                <a href="/factores-que-perjudican-el-crecimiento/baja-estatura-idiopatica"><div class="factores-img-1 menu-categorias-img" title="">
+                    <p><i class="fas fa-caret-right"></i>Talla baja idiopática<i class="fas fa-caret-left"></i></p>
                 </div></a>
                 <a href="/factores-que-perjudican-el-crecimiento/"><div class="factores-img-2 menu-categorias-img" title="">
                     <p><i class="fas fa-caret-right"></i>Talla baja familiar<i class="fas fa-caret-left"></i></p>

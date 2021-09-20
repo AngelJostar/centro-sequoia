@@ -46,7 +46,7 @@
                 <p>Redes Sociales:</p>
             </div>
 
-            <div class="redes-footer">
+            <div class="redes-footer" style="margin-bottom: 1em;">
                 <div class="wow fadeInDown" data-wow-delay="0.1s">
                     <div class="widget">
                         <ul class="company-social">

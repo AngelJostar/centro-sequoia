@@ -924,11 +924,12 @@ a {
 }
 
 .tercer-p p {
-    font-size: 21px !important;
+    text-align: center;
+    font-size: 1.5vw !important;
     font-weight: 500;
     line-height: 26px !important;
     color: white !important;
-    margin: 0 !important;
+    margin: 5px !important;
 }
 
 .t-izquierda p {
@@ -1107,7 +1108,7 @@ textarea {
     font-size: calc(12px + .8vw);
     color: #00235d;
     font-weight: 500;
-    margin: 0 auto;
+    margin: 0.6em auto;
     line-height: 1.2;
     text-align: center;
     max-width: 90%
@@ -1399,6 +1400,17 @@ h2.box-titles-h2 {
     text-align: center !important;
     font-weight: normal;
     font-size: calc(18px + .8vw) !important;
+}
+
+.titulos-principal h2 {
+    max-width: 95%;
+    text-align: center;
+    font-weight: 500;
+    color: #fff;
+    padding: 20px 0;
+    margin: 0 auto;
+    font-size: calc(16px + .8vw);
+    line-height: 1.5;
 }
 
 
@@ -3166,7 +3178,6 @@ th {
     .textos-azules {
         color: #00235d;
         font-weight: 500;
-        margin: 0 auto;
         text-align: center;
         max-width: 50%
     }
