@@ -4,7 +4,7 @@
             <nav class="wrapper">
                 <a href=""><img class="logo-size" src="/img/logo-sequoia.svg" alt=""></a>
                 <div class="menu-button-container">
-                    <button type="button" class="burger" id="burger">
+                    <button type="button" class="burger" id="burger" title="Botón del menu">
                         <span class="burger-line"></span>
                         <span class="burger-line"></span>
                         <span class="burger-line"></span>
@@ -15,11 +15,21 @@
                     <div data-wow-delay="0.1s">
                         <div>
                             <ul style="padding-top: 80px; margin-left: 26vw; margin-bottom: 3vw;" class="company-social">
-                                <li class="social-facebook"><a href="https://www.facebook.com/centrosequoia/" target="_blank" rel="noopener"><i class="fab fa-facebook-f fa-2x"></i></a></li>
-                                <li class="social-youtube"><a href="https://www.youtube.com/watch?v=ygP78ev4eQI" target="_blank" rel="noopener"><i class="fab fa-youtube fa-2x"></i></a></li>
-                                <li class="social-whatsapp"><a href="https://api.whatsapp.com/send?phone=525559677135&text=%F0%9F%8D%83%20Hola!%20%0AQuiero%20informaci%C3%B3n%20de%20Centro%20Sequoia." target="_blank" rel="noopener"><i class="fab fa-whatsapp fa-2x"></i></a></li>
-                                <li class="social-instagram"><a href="https://www.instagram.com/centro_sequoia/?hl=es" target="_blank" rel="noopener"><i class="fab fa-instagram fa-2x"></i></a></li>
-                                <li class="social-twitter"><a href="https://twitter.com/centrosequoia?lang=es" target="_blank" rel="noopener"><i class="fab fa-twitter fa-2x"></i></a></li>
+                                <div class="social-facebook">
+                                    <li><a href="https://www.facebook.com/centrosequoia/" target="_blank" rel="noopener"><img src="/img/iconos-redes/facebook-f-brands-01.svg" alt=""></a></li>
+                                </div>
+                                <div class="social-youtube">
+                                    <li><a href="https://www.youtube.com/watch?v=ygP78ev4eQI" target="_blank" rel="noopener"><img src="/img/iconos-redes/youtube-brands-01.svg" alt=""></a></li>
+                                </div>
+                                <div class="social-whatsapp">
+                                    <li><a href="https://api.whatsapp.com/send?phone=525559677135&text=%F0%9F%8D%83%20Hola!%20%0AQuiero%20informaci%C3%B3n%20de%20Centro%20Sequoia." target="_blank" rel="noopener"><img src="/img/iconos-redes//whatsapp-brands-01.svg" alt=""></a></li>
+                                </div>
+                                <div class="social-instagram">
+                                    <li ><a href="https://www.instagram.com/centro_sequoia/?hl=es" target="_blank" rel="noopener"><img src="/img/iconos-redes/instagram-brands.svg" alt=""></a></li>
+                                </div>
+                                <div class="social-twitter">
+                                    <li ><a href="https://twitter.com/centrosequoia?lang=es" target="_blank" rel="noopener"><img src="/img/iconos-redes/twitter-brands.svg" alt=""></a></li>
+                                </div>
                             </ul>
                         </div>
                     </div>

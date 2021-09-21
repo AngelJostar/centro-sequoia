@@ -47,7 +47,7 @@
                 <a href="/cambios-en-la-adolescencia"><div class="etapas-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
                     <p><i class="fas fa-caret-right"></i>Cambios en la adolescencia<i class="fas fa-caret-left"></i></p>
                 </div></a>
-                <a href="/crecimiento-y-desarro-en-niños"><div class="etapas-img-2 menu-categorias-img" title="">
+                <a href="/etapas-de-la-niñez.php"><div class="etapas-img-2 menu-categorias-img" title="">
                     <p><i class="fas fa-caret-right"></i>Desarrollo del niño<i class="fas fa-caret-left"></i></p>
                 </div></a>
             </div>
@@ -122,7 +122,7 @@
     fjs.parentNode.insertBefore(js, fjs);
   }(document, 'script', 'facebook-jssdk'));
 </script>
-<script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
     integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous">
 </script>

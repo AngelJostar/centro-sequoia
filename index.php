@@ -71,7 +71,7 @@
                 <picture>
                 <source media="(max-width:767px)" srcset="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp">
                 <source media="(min-width: 767px)" srcset="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp">
-                <img class="tamaño-img" src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="Banner, tu hijo puede ser más alto, contacto">
+                <img loading="lazy" class="tamaño-img" src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="Banner, tu hijo puede ser más alto, contacto">
                 </picture>
             </a>
             <div class="box-titles">
@@ -129,8 +129,7 @@
                         alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
             <div class="tamaño-img mostrar-media ph-1">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp"
-                        alt="Banner, tu hijo puede ser más alto, contacto"></a>
+                <a href="/contact"><img loading="lazy" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
         </div>
 
@@ -148,7 +147,7 @@
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->
-<script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
     integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous">
 </script>

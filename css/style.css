@@ -414,61 +414,68 @@ button {
     padding-right: 0;
     text-align: center;
     list-style: none;
+    display: flex;
 }
 
 .company-social li {
     margin: 0;
     padding: 0;
-    display: inline-block
+    height: 45px;
+    width: 45px;
+    background: #c0d41f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0.2rem;
 }
 
 .company-social a {
     margin: 0 2px 0 0;
-    font-size: 12px!important
+    font-size: 12px!important;
+}
+
+.company-social .social-facebook a img {
+    height: 20px;
+}
+
+.company-social .social-youtube a img {
+    height: 20px;
+}
+
+.company-social .social-whatsapp a img {
+    height: 20px;
+}
+
+.company-social .social-instagram a img {
+    height: 20px;
+}
+
+.company-social .social-twitter a img {
+    height: 20px;
 }
 
 .company-social a:hover {
     color: #fff
 }
 
-.company-social .social-facebook a i {
-    background-color: #a3a3a3
+.company-social .social-facebook li:hover {
+    background: #4893ce;
 }
 
-.company-social .social-twitter a i {
-    background-color: #a3a3a3
-}
-
-.company-social .social-instagram a i {
-    background-color: #a3a3a3
-}
-
-.company-social .social-whatsapp a i {
-    background-color: #a3a3a3
-}
-
-.company-social .social-youtube a i {
-    background-color: #a3a3a3
-}
-
-.company-social .social-facebook a:hover i {
-    background: #4893ce
-}
-
-.company-social .social-twitter a:hover i {
+.company-social .social-twitter li:hover {
     background: #82e6ff
 }
 
-.company-social .social-instagram a:hover i {
+.company-social .social-instagram li:hover {
     background: #d6249f;
     background: radial-gradient(circle at 30% 107%, #fdf497 0, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%)
 }
 
-.company-social .social-whatsapp a:hover i {
+.company-social .social-whatsapp li:hover {
     background: #128c7e
 }
 
-.company-social .social-youtube a:hover i {
+.company-social .social-youtube li:hover {
     background: red
 }
 
@@ -842,6 +849,7 @@ a {
 }
 
 .centrar-objeto {
+    display: flex;
     margin: 0 auto
 }
 
@@ -925,9 +933,9 @@ a {
 
 .tercer-p p {
     text-align: center;
-    font-size: 1.5vw !important;
+    font-size: calc(1.2rem + 1vw)!important;
     font-weight: 500;
-    line-height: 26px !important;
+    line-height: 1.5 !important;
     color: white !important;
     margin: 5px !important;
 }
@@ -1595,6 +1603,26 @@ h2.box-titles-h2 {
     background-image: url(/img/index/crecimiento-y-desarrollo-en-la-adolescencia.webp);
 }
 
+.factores-crecimiento-1 {
+    background-image: url(/img//index/Nutricion-infantil.webp);
+}
+
+.factores-crecimiento-2 {
+    background-image: url(/img//index/cariño-y-amor.webp);
+}
+
+.factores-crecimiento-3 {
+    background-image: url(/img//index/raza-y-sexo.webp);
+}
+
+.factores-crecimiento-4 {
+    background-image: url(/img//index/genetica.webp);
+}
+
+.factores-crecimiento-5 {
+    background-image: url(/img//index/sueño.webp);
+}
+
 .menu-categorias-img {
     margin: 0;
     min-height: 23vw;
@@ -2025,11 +2053,6 @@ div.youtube-play:hover {
 .icono {
     flex-basis: calc(44.4% - 10px);
     text-align: center
-}
-
-.company-social li {
-    padding: 0;
-    display: inline-block
 }
 
 .company-social a {

@@ -19,7 +19,7 @@
                         <p style="padding-bottom: 0px;">Tel. (55) 5687-6118</p>
                     </a>
                     <a href="https://api.whatsapp.com/send?phone=525559677135&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia.%0A" target="_blank">
-                        <p >WA: (55) 5967-7135</p>
+                        <p>WA: (55) 5967-7135</p>
                     </a>
                 </div>
                 <div class="letras-blue-footer">
@@ -46,20 +46,35 @@
                 <p>Redes Sociales:</p>
             </div>
 
-            <div class="redes-footer" style="margin-bottom: 1em;">
-                <div class="wow fadeInDown" data-wow-delay="0.1s">
-                    <div class="widget">
-                        <ul class="company-social">
-                        <li class="social-facebook"><a href="https://www.facebook.com/centrosequoia/" target="_blank" rel="noopener"><i class="fab fa-facebook-f fa-2x"></i></a></li>
-                            <li class="social-youtube"><a href="https://www.youtube.com/watch?v=ygP78ev4eQI" target="_blank" rel="noopener"><i class="fab fa-youtube fa-2x"></i></a></li>
-                            <li class="social-whatsapp"><a href="https://api.whatsapp.com/send?phone=525559677135&text=%F0%9F%8D%83%20Hola!%20%0AQuiero%20informaci%C3%B3n%20de%20Centro%20Sequoia." target="_blank" rel="noopener"><i class="fab fa-whatsapp fa-2x"></i></a></li>
-                            <li class="social-instagram"><a href="https://www.instagram.com/centro_sequoia/?hl=es" target="_blank" rel="noopener"><i class="fab fa-instagram fa-2x"></i></a></li>
-                            <li class="social-twitter"><a href="https://twitter.com/centrosequoia?lang=es" target="_blank" rel="noopener"><i class="fab fa-twitter fa-2x"></i></a></li>
-                            
-                        </ul>
+            <div class="centrar-objeto" style="margin-bottom: 1rem;">
+                <ul class="company-social centrar-objeto">
+                    <div class="social-facebook">
+                        <li>
+                            <a href="https://www.facebook.com/centrosequoia/" target="_blank" rel="noopener"><img src="/img/iconos-redes/facebook-f-brands-01.svg" alt=""></a>
+                        </li>
                     </div>
-                </div>
-            </div>
+                    <div class="social-youtube">
+                        <li>
+                            <a href="https://www.youtube.com/watch?v=ygP78ev4eQI" target="_blank" rel="noopener"><img src="/img/iconos-redes/youtube-brands-01.svg" alt=""></a>
+                        </li>
+                    </div>
+                    <div class="social-whatsapp">
+                        <li>
+                            <a href="https://api.whatsapp.com/send?phone=525559677135&text=%F0%9F%8D%83%20Hola!%20%0AQuiero%20informaci%C3%B3n%20de%20Centro%20Sequoia." target="_blank" rel="noopener"><img src="/img/iconos-redes//whatsapp-brands-01.svg" alt=""></a>
+                        </li>
+                    </div>
+                    <div class="social-instagram">
+                        <li>
+                            <a href="https://www.instagram.com/centro_sequoia/?hl=es" target="_blank" rel="noopener"><img src="/img/iconos-redes/instagram-brands.svg" alt=""></a>
+                        </li>
+                    </div>
+                    <div class="social-twitter">
+                        <li>
+                            <a href="https://twitter.com/centrosequoia?lang=es" target="_blank" rel="noopener"><img src="/img/iconos-redes/twitter-brands.svg" alt=""></a>
+                        </li>
+                    </div>
+                </ul>
+            </div> 
 
             <div class="letras-blue-footer">
                 <p>Autorización COFEPRIS</p>
@@ -71,8 +86,8 @@
                 <a href="/aviso-de-privacidad"><button class="boton boton-footer">Aviso de Privacidad</button></a>
             </div>
             <div class="centrar-texto texto-boton pb-5">
-                    <a href="/acerca-de-este-sitio"><button class="boton boton-footer">Acerca de este sitio</button></a>
-                </div>
+                <a href="/acerca-de-este-sitio"><button class="boton boton-footer">Acerca de este sitio</button></a>
+            </div>
         </footer>
 
         <footer class="contenedor-footer mostrar-media">
@@ -100,7 +115,7 @@
                 </div>
                 <div class="texto-footer">
                     <p>MTY</p>
-                    <a href="tel:811159-2265" >
+                    <a href="tel:811159-2265">
                         <p>Tel. (81) 1159-2265</p>
                     </a>
                 </div>
@@ -114,34 +129,48 @@
             <div class="letras-blue-footer">
                 <p>Redes Sociales:</p>
             </div>
-
-            <div class="redes-footer">
-                <div class="wow fadeInDown" data-wow-delay="0.1s">
-                    <div class="widget">
-                        <ul style="" class="company-social">
-                            <li class="social-facebook"><a href="https://www.facebook.com/centrosequoia/" target="_blank" rel="noopener"><i class="fab fa-facebook-f fa-2x"></i></a></li>
-                            <li class="social-youtube"><a href="https://www.youtube.com/watch?v=ygP78ev4eQI" target="_blank" rel="noopener"><i class="fab fa-youtube fa-2x"></i></a></li>
-                            <li class="social-whatsapp"><a href="https://api.whatsapp.com/send?phone=525559677135&text=%F0%9F%8D%83%20Hola!%20%0AQuiero%20informaci%C3%B3n%20de%20Centro%20Sequoia." target="_blank" rel="noopener"><i class="fab fa-whatsapp fa-2x"></i></a></li>
-                            <li class="social-instagram"><a href="https://www.instagram.com/centro_sequoia/?hl=es" target="_blank" rel="noopener"><i class="fab fa-instagram fa-2x"></i></a></li>
-                            <li class="social-twitter"><a href="https://twitter.com/centrosequoia?lang=es" target="_blank" rel="noopener"><i class="fab fa-twitter fa-2x"></i></a></li>
-                        </ul>
-                        </div>
+            <div class="centrar-objeto">
+                <ul class="company-social centrar-objeto">
+                    <div class="social-facebook">
+                        <li>
+                            <a href="https://www.facebook.com/centrosequoia/" target="_blank" rel="noopener"><img src="/img/iconos-redes/facebook-f-brands-01.svg" alt=""></a>
+                        </li>
                     </div>
-                </div>
+                    <div class="social-youtube">
+                        <li>
+                            <a href="https://www.youtube.com/watch?v=ygP78ev4eQI" target="_blank" rel="noopener"><img src="/img/iconos-redes/youtube-brands-01.svg" alt=""></a>
+                        </li>
+                    </div>
+                    <div class="social-whatsapp">
+                        <li>
+                            <a href="https://api.whatsapp.com/send?phone=525559677135&text=%F0%9F%8D%83%20Hola!%20%0AQuiero%20informaci%C3%B3n%20de%20Centro%20Sequoia." target="_blank" rel="noopener"><img src="/img/iconos-redes//whatsapp-brands-01.svg" alt=""></a>
+                        </li>
+                    </div>
+                    <div class="social-instagram">
+                        <li>
+                            <a href="https://www.instagram.com/centro_sequoia/?hl=es" target="_blank" rel="noopener"><img src="/img/iconos-redes/instagram-brands.svg" alt=""></a>
+                        </li>
+                    </div>
+                    <div class="social-twitter">
+                        <li>
+                            <a href="https://twitter.com/centrosequoia?lang=es" target="_blank" rel="noopener"><img src="/img/iconos-redes/twitter-brands.svg" alt=""></a>
+                        </li>
+                    </div>
+                </ul>
+            </div>    
 
-
-                <div class="letras-blue-footer">
-                    <p>Autorización COFEPRIS</p>
-                </div>
-                <div class="texto-footer">
-                    <P>163300201A0419</P>
-                </div>
-                <div class="centrar-texto texto-boton pb-5">
-                    <a href="/aviso-de-privacidad"><button class="boton boton-footer">Aviso de Privacidad</button></a>
-                </div>
-                <div class="centrar-texto texto-boton pb-5">
-                    <a href="/acerca-de-este-sitio"><button class="boton boton-footer">Acerca de este sitio</button></a>
-                </div>
+            <div class="letras-blue-footer">
+                <p>Autorización COFEPRIS</p>
+            </div>
+            <div class="texto-footer">
+                <P>163300201A0419</P>
+            </div>
+            <div class="centrar-texto texto-boton pb-5">
+                <a href="/aviso-de-privacidad"><button class="boton boton-footer">Aviso de Privacidad</button></a>
+            </div>
+            <div class="centrar-texto texto-boton pb-5">
+                <a href="/acerca-de-este-sitio"><button class="boton boton-footer">Acerca de este sitio</button></a>
+            </div>
         </footer>
-        </div>
     </div>
+</div>

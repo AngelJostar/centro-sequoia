@@ -27,23 +27,22 @@
             <div class="box-titles">
                 <h1 class="box-titles-h2">Factores que influyen en el crecimiento</h1>
             </div>
-            <p>Son muchos los factores que afectan al crecimiento de un niño.</p>
-            <p>El crecimiento y desarrollo pueden verse afectados por:</p>
+            <p>Son muchos los factores que afectan al crecimiento de un niño. El crecimiento y desarrollo pueden verse afectados por:</p>
             <p>El crecimiento se refiere al crecimiento total de las dimensiones externas del cuerpo, incluyendo el esqueleto, con excepción de la cabeza y el cuello. Son muchos los factores que afectan el crecimiento de un niño. El crecimiento y el desarrollo pueden verse afectados por:</p>
             <div class="menu-categorias">
-                <a href="#"><div class="menu-categorias-img index-img-3" title="">
+                <a href="#"><div class="menu-categorias-img factores-crecimiento-1 " title="">
                     <p><i class="fas fa-caret-right"></i>nutricion infantil<i class="fas fa-caret-left"></i></p>
                 </div></a>       
-                <a href="#"><div class="index-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
+                <a href="#"><div class="factores-crecimiento-2 menu-categorias-img" title="sección de crecimiento infantil generalidades">
                     <p><i class="fas fa-caret-right"></i>Cariño y amor<i class="fas fa-caret-left"></i></p>
                 </div></a>
-                <a href="#"><div class="index-img-2 menu-categorias-img" title="">
+                <a href="#"><div class="factores-crecimiento-3 menu-categorias-img" title="">
                     <p><i class="fas fa-caret-right"></i>Raza y sexo<i class="fas fa-caret-left"></i></p>
                 </div></a>
-                <a href="#"><div class="menu-categorias-img index-img-4" title="">
+                <a href="#"><div class="menu-categorias-img factores-crecimiento-4" title="">
                     <p><i class="fas fa-caret-right"></i>Genética<i class="fas fa-caret-left"></i></p>
                 </div></a>
-                <a href="#"><div class="menu-categorias-img index-img-3" title="">
+                <a href="#"><div class="menu-categorias-img factores-crecimiento-5" title="">
                     <p><i class="fas fa-caret-right"></i>Sueño<i class="fas fa-caret-left"></i></p>
                 </div></a>
             </div>
@@ -113,7 +112,7 @@
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->
-<script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 <script src="/js/jquery-3.5.1.min.js"></script>
