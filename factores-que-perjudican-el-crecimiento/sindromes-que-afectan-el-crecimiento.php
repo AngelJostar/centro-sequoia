@@ -27,8 +27,8 @@
             </div>
             <p>Los problemas del crecimiento pueden ser causados por varios factores (genetica, alimentación, el ambiente, etc.) en este articulo se abordaran los trastornos geneticos relacionados con el crecimiento deficiente, para lo cual te presentamos un listado con algunos de los principales sindromes que afectan el crecimiento</p>
             <div class="menu-categorias">
-                <a href=""><div class="sindromes-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
-                    <h2><i class="fas fa-caret-right"></i>Sindrome de Turner<i class="fas fa-caret-left"></i></h2>
+                <a href="/sindromes/sindrome-de-turner"><div class="sindromes-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
+                    <p><i class="fas fa-caret-right"></i>Sindrome de Turner<i class="fas fa-caret-left"></i></p>
                 </div></a>
             </div>
             <div class="box-titles">

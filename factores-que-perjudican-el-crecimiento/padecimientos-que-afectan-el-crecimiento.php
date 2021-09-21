@@ -28,23 +28,23 @@
                 <p>El deterioro del crecimiento en niños con enfermedades crónicas se ve vinculado al trastorno del eje de la hormona del crecimiento (HC)–factor de crecimiento de tipo insulínico (FCI) y predominantemente resulta de la desnutrición, inflamación crónica y el tratamiento corticosteroideo prolongado. La desnutrición ocasiona adaptaciones importantes en el sistema endocrino encaminadas a conservar la energía, desviar sustratos apartándolos del crecimiento y la reproducción y proporcionar fuentes de energía alternativas para la homeostasis crítica del organismo. Si bien los procesos inflamatorios crónicos exacerban la desnutrición, las citocinas proinflamatorias, como la interleucina-6, el factor de necrosis tumoral y la interleucina-1 también afectan adversamente al crecimiento, independientemente de la nutrición, a través de la perturbación de la integridad del eje HC– FCI y por efectos locales directos sobre la condrogénesis de la placa de crecimiento.</p>
                 <p>Estos mecanismos que controlan el crecimiento son perturbados, más adelante, por los corticosteroides utilizados en algunos procesos crónicos, debido a sus propiedades antiinflamatorias e inmunodepresoras. Es probable que los procesos que suprimen el crecimiento retrasen la senescencia de la placa de crecimiento, lo cual, a su vez, permite recuperar el crecimiento en el momento de la normalización de las enfermedades crónicas y la retirada del tratamiento corticosteroideo.</p>
                 <div class="menu-categorias">
-                <a href=""><div class="padecimientos-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
-                    <h2><i class="fas fa-caret-right"></i>Adolescencia tardia<i class="fas fa-caret-left"></i></h2>
+                <!-- <a href="/padecimentos-que-afectan-el-crecimiento/"><div class="padecimientos-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
+                    <p><i class="fas fa-caret-right"></i>Adolescencia tardia<i class="fas fa-caret-left"></i></p>
+                </div></a> -->
+                <a href="/padecimentos-que-afectan-el-crecimiento/retraso-constitucional-del-crecimiento-y-la-pubertad"><div class="padecimientos-img-2 menu-categorias-img" title="">
+                    <p><i class="fas fa-caret-right"></i>Retraso en el crecimiento<i class="fas fa-caret-left"></i></p>
                 </div></a>
-                <a href=""><div class="padecimientos-img-2 menu-categorias-img" title="">
-                    <h2><i class="fas fa-caret-right"></i>Retraso en el crecimiento<i class="fas fa-caret-left"></i></h2>
+                <a href="/padecimentos-que-afectan-el-crecimiento/pubertad-precoz"><div class="padecimientos-img-3 menu-categorias-img" title="">
+                    <p><i class="fas fa-caret-right"></i>Pubertad precoz<i class="fas fa-caret-left"></i></p>
                 </div></a>
-                <a href=""><div class="padecimientos-img-3 menu-categorias-img" title="">
-                    <h2><i class="fas fa-caret-right"></i>Pubertad precoz<i class="fas fa-caret-left"></i></h2>
+                <a href="/padecimentos-que-afectan-el-crecimiento/pequeno-para-la-edad-gestacional"><div class="padecimientos-img-4 menu-categorias-img" title="">
+                    <p><i class="fas fa-caret-right"></i>Niños pequeños al nacer<i class="fas fa-caret-left"></i></p>
                 </div></a>
-                <a href=""><div class="padecimientos-img-4 menu-categorias-img" title="">
-                    <h2><i class="fas fa-caret-right"></i>Niños pequeños al nacer<i class="fas fa-caret-left"></i></h2>
+                <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento"><div class="padecimientos-img-5 menu-categorias-img" title="">
+                    <p><i class="fas fa-caret-right"></i>Hormona del crecimiento<i class="fas fa-caret-left"></i></p>
                 </div></a>
-                <a href=""><div class="padecimientos-img-5 menu-categorias-img" title="">
-                    <h2><i class="fas fa-caret-right"></i>Hormona del crecimiento<i class="fas fa-caret-left"></i></h2>
-                </div></a>
-                <a href=""><div class="padecimientos-img-6 menu-categorias-img" title="">
-                    <h2><i class="fas fa-caret-right"></i>Acondroplasia<i class="fas fa-caret-left"></i></h2>
+                <a href="/padecimentos-que-afectan-el-crecimiento/acondriplasia"><div class="padecimientos-img-6 menu-categorias-img" title="">
+                    <p><i class="fas fa-caret-right"></i>Acondroplasia<i class="fas fa-caret-left"></i></p>
                 </div></a>
             </div>
                 <p>El deterioro del crecimiento lineal puede además exagerarse por el retraso en la pubertad, que se asocia frecuentemente a enfermedades crónicas. Las desviaciones del patrón de crecimiento normal pueden ser las primeras pistas.</p>

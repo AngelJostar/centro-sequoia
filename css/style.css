@@ -1608,7 +1608,7 @@ h2.box-titles-h2 {
 }
 
 .factores-crecimiento-2 {
-    background-image: url(/img//index/cariño-y-amor.webp);
+    background-image: url(/img//index/carino-y-amor.webp);
 }
 
 .factores-crecimiento-3 {
@@ -1620,7 +1620,7 @@ h2.box-titles-h2 {
 }
 
 .factores-crecimiento-5 {
-    background-image: url(/img//index/sueño.webp);
+    background-image: url(/img//index/sueno.webp);
 }
 
 .menu-categorias-img {
@@ -3458,6 +3458,7 @@ a {
     color: #00235d;
     font-size: calc(0.4em + 1vw);
     text-align: center !important;
+    margin: 0 auto;
 }
 
 @media (max-width:767px) {

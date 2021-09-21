@@ -47,7 +47,7 @@
                 <a href="/cambios-en-la-adolescencia"><div class="etapas-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
                     <p><i class="fas fa-caret-right"></i>Cambios en la adolescencia<i class="fas fa-caret-left"></i></p>
                 </div></a>
-                <a href="/etapas-de-la-niñez.php"><div class="etapas-img-2 menu-categorias-img" title="">
+                <a href="/etapas-de-la-ninez"><div class="etapas-img-2 menu-categorias-img" title="">
                     <p><i class="fas fa-caret-right"></i>Desarrollo del niño<i class="fas fa-caret-left"></i></p>
                 </div></a>
             </div>
