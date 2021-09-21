@@ -18,7 +18,12 @@ img {
 
 .tamaño-img {
     margin: 0 auto;
-    max-width: 98%
+    max-width: 100%
+}
+
+.size-img-resposive {
+    margin: 0 auto;
+    max-width: 100%;
 }
 
  :root {
@@ -1524,7 +1529,7 @@ h2.box-titles-h2 {
 }
 
 .padecimientos-img-4 {
-    background-image: url(/img/index/niños-pequeños-al-nacer.webp);
+    background-image: url(/img/index/ninos-pequenos-al-nacer.webp);
 }
 
 .padecimientos-img-5 {
@@ -3142,6 +3147,10 @@ th {
         margin: 0 auto;
         max-width: 75%
     }
+    .size-img-resposive {
+        margin: 0 auto;
+        max-width: 60%;
+    }
     .contenedor-video {
         max-width: 400px
     }
@@ -3275,6 +3284,10 @@ th {
     .tamaño-img {
         margin: 0 auto;
         max-width: 50%
+    }
+    .size-img-resposive {
+        margin: 0 auto;
+        max-width: 35%;
     }
     .ocultar {
         display: none

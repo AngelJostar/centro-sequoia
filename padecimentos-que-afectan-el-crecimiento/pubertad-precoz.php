@@ -12,7 +12,7 @@
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/style-casos-de-exito.css" media="all">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
 
 </head>
 
@@ -235,7 +235,7 @@
     <p>CONTACTO</p>
 </a>
 
-<div id="ventana-modal" class="modal">
+<!-- <div id="ventana-modal" class="modal">
         <div class="modal-contenido">
                 <img src="/img/banners/doctores-de-centro-sequoia.webp" width="auto" height="auto" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil">
             <div class="pt-20 pb-15 centrar-texto texto-azul-pop">
@@ -261,7 +261,7 @@
                 <a style="font-size: 1.2rem; font-weight: 700; color: black; letter-spacing:10px; text-decoration: none;"   class=" waves-effect" data-dismiss="modal">CERRAR</a>
             </div>
         </div>
-    </div>
+    </div> -->
     <!--Aqui termina la parte para el pop-up-->
 <!--####FOOTER####-->
 

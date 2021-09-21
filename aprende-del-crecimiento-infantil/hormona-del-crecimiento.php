@@ -103,7 +103,9 @@
                 Ya que la hormona puede disminuir el tejido graso algunos atribuyen beneficios respecto al envejecimiento, pero no hay evidencia de grandes cambios en la composición corporal y fuerza. 
                 Esta hormona también ejerce efectos adversos cuando adultos sanos la emplean, por lo que no se recomienda como tratamiento para el deporte, rendimiento físico o el envejecimiento.</li>
             </ul>
-           <h2>5. ¿Cuál es la importancia de la hormona de crecimiento en niños?</h2>
+            <div class="box-titles">
+                <h2 class="box-titles-h2">5. ¿Cuál es la importancia de la hormona de crecimiento en niños?</h2>
+            </div>
            <p>Esta hormona tiene funciones vitales para nuestro organismo, sobre todo cuando somos niños, pues se encarga de nuestro crecimiento. Las tasas de crecimiento en los niños varían considerablemente de un niño a otro (puedes ver las gráficas de crecimiento). Pero en promedio la ganancia de estatura normal se describe como:</p>
            <ul>
                 <li><a href="">1-2 años: alrededor de 12.5 centímetro al año</a></li>
@@ -113,7 +115,9 @@
            <p>Dados todos sus beneficios es de suma importancia mantener buenos niveles de hormona de crecimiento en nuestro cuerpo, para nuestro desarrollo y bienestar. Sí un niño esta por debajo del promedio de estatura para la edad que tiene, puede ser señal de alerta para sospechar de deficiencia de hormona de crecimiento.  </p>
            <p>Habitualmente se puede detectar que un niño o niña no está creciendo como debería hasta los tres años, cuando es más chaparrito en comparación con otros niños o niñas de su misma edad. Para conocer si es que tu hijo puede necesitar tratamiento, su médico podría pedir una serie de exámenes para conocer diferentes variables como la edad ósea de tu hijo, sus niveles de insulina, producción de hormona del crecimiento o la tolerancia a insulina. Dependiendo de los resultados, podría recetarle o no tratamiento.</p>
            <p>Los tratamientos que comienzan a edad temprana tienen más probabilidades de éxito que uno que empieza de forma tardía. Los niños en tratamiento pueden alcanzar una diferencia de altura de entre 5 y 15 cm de más. El niño puede llegar a alcanzar una mayor estatura comparada con su estimado genético si el proceso empieza en sus primeros años de vida.</p>
-           <h2>6. ¿Qué padecimientos se tratan con la hormona de crecimiento?</h2>
+           <div class="box-titles">
+                <h2 class="box-titles-h2">6. ¿Qué padecimientos se tratan con la hormona de crecimiento?</h2>
+            </div>
            <p>Los siguientes padecimientos están ligados a la baja producción o deficiencia de hormona de crecimiento.</p>
            <ul>
                 <li><a href="">Talla baja familiar o genética</a></li>
@@ -126,7 +130,9 @@
                 <li>Síndrome de Prader-Willi</li>
                 <li>Otros síndromes y causas de la baja estatura.</li>
             </ul>
-            <h2>7. ¿Qué es la deficiencia de hormona de crecimiento (GHD)?</h2>
+            <div class="box-titles">
+                <h2 class="box-titles-h2">7. ¿Qué es la deficiencia de hormona de crecimiento (GHD)?</h2>
+            </div>
             <p>La baja producción o deficiencia de hormona de crecimiento es un padecimiento causado por la escasa producción de hormona en nuestro organismo. Los niños que sufren este padecimiento tienen una estatura anormalmente baja, pero con proporciones de cuerpo normales. Este problema puede presentarse desde que somos bebés (deficiencia de la hormona del crecimiento congénita) o más tarde (deficiencia de la hormona del crecimiento adquirida) durante nuestro desarrollo, cuando el cuerpo deja de fabricar la hormona suficiente y de esta forma crecer con una irregularidad. Algunas veces no se puede identificar una causa clara, pero es importante acudir con un especialista. </p>
             <h3>¿Cuáles son las causas de la deficiencia?</h3>
             <p>Es complicado saber que causa este problema, aunque algunas de las veces se relacionan con problemas en la hipófisis o alguna parte del cerebro, como, tumores cerebrales, lesiones en la cabeza o radioterapia dirigida al cerebro. Esta deficiencia puede ocurrir sola o junto con el hipopituitarismo generalizado, donde en ambos se adquiere sola o de forma congénita, incluyendo causas genéticas hereditarias. </p>
@@ -195,15 +201,19 @@
                 <li><strong>Rotación de sitios de inyección</strong> <br>
                 Aprenda a rotar correctamente los lugares de inyección, para mantenerlos saludables y llevar el tratamiento por buen camino, además debe evitar usar un solo sitio más de una vez cada cuatro semanas, puede seguir los siguientes pasos: </li>
             </ul>
-            <div class="tamaño-img">
-                <a href="/generalidades-del-crecimiento-infantil/como-medir-a-tu-hijo-de-manera-correcta"><img src="/img/generalidades-del-crecimiento-infantil/infografia-como-inyectar-la-hormona-de-crecimiento.webp" alt="Banner infografía de como inyectar la hormona de crecimiento"></a>
+            <div class="size-img-resposive pb-15">
+                <a  href="/generalidades-del-crecimiento-infantil/como-medir-a-tu-hijo-de-manera-correcta"><img src="/img/generalidades-del-crecimiento-infantil/infografia-como-inyectar-la-hormona-de-crecimiento.webp" alt="Banner infografía de como inyectar la hormona de crecimiento"></a>
             </div>
-            <h2>¿Quién es el especialista en hormona de crecimiento?</h2>
+            <div class="box-titles">
+                <h2 class="box-titles-h2">8.- ¿Quién es el especialista en hormona de crecimiento?</h2>
+            </div>
             <p>El médico especialista que trata las enfermedades derivadas por la hormona del crecimiento es un endocrinólogo pediatra. En Centro Sequoia, única y exclusivamente atendemos los padecimientos que afectan la estatura de los niños . Nuestros médicos especialistas tienen la experiencia de más de 30,000 casos atendidos en este campo, lo que nos lleva a ser el centro MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</p>
-            <h2>Conclusiones</h2>
+            <div class="box-titles">
+                <h2 class="box-titles-h2">Conclusiones</h2>
+            </div>            
             <p>La hormona del crecimiento humana recombinante es una proteína que se fabrica para ser casi idéntica la hormona del crecimiento humana natural y de esta forma estimular el crecimiento tisular, el crecimiento lineal (altura) y el metabolismo de proteínas, carbohidratos, lípidos y minerales. Tiene indicaciones aprobadas tanto en población adulta como pediátrica. Además, se usa en la población pediátrica para tratar la baja estatura debido a la deficiencia de la hormona del crecimiento (incluida la deficiencia idiopática [de causa desconocida] de la hormona del crecimiento), síndrome de Turner, síndrome de Noonan, síndrome de Prader-Willi, estatura baja deficiencia del gen que contiene homeobox (SHOX), insuficiencia renal crónica, baja estatura idiopática y niños pequeños para la edad gestacional.</p>
 
-            <div class="tamaño-img">
+            <div class="size-img-resposive pb-15">
                 <img src="/img/banners/banner-como-medir-a-tu-hijo-de-manera-correcta.webp" alt="Banner que lleva a como medir a tu hijo de manera correcta">
             </div>
 

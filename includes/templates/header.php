@@ -2,7 +2,7 @@
 <header class="navbar">
         <div class="container">
             <nav class="wrapper">
-                <a href=""><img class="logo-size" src="/img/logo-sequoia.svg" alt=""></a>
+                <a href="https://centrosequoia.com.mx/"><img class="logo-size" src="/img/logo-sequoia.svg" alt=""></a>
                 <div class="menu-button-container">
                     <button type="button" class="burger" id="burger" title="Botón del menu">
                         <span class="burger-line"></span>
@@ -41,7 +41,7 @@
                         <li class="menu-item"><a href="/crecimiento-infantil-deficiente" class="menu-link">Crecimiento infantil deficiente</a></li>
                         <li class="menu-item"><a href="/factores-que-influyen-en-el-crecimiento" class="menu-link">Factores que influyen el crecimiento</a></li>
                         <li class="menu-item"><a href="/etapas-del-desarrollo-humano" class="menu-link">Cambios en la adolescencia</a></li>
-                        <li class="menu-item"><a href="/" class="menu-link">Acerca de este sitio</a></li>
+                        <li class="menu-item"><a href="/acerca-de-este-sitio" class="menu-link">Acerca de este sitio</a></li>
                         <li class="menu-item"><a href="/contact" class="menu-link">Contacto</a></li>
                     </ul>
                 </div>
