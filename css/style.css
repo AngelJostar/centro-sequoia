@@ -1370,7 +1370,6 @@ textarea {
     h3,
     h4,
     h5 {
-        max-width: 50% !important;
         text-align: left;
     }
     .text-container h3 {

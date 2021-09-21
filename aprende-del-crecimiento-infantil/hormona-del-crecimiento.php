@@ -202,7 +202,7 @@
                 Aprenda a rotar correctamente los lugares de inyección, para mantenerlos saludables y llevar el tratamiento por buen camino, además debe evitar usar un solo sitio más de una vez cada cuatro semanas, puede seguir los siguientes pasos: </li>
             </ul>
             <div class="size-img-resposive pb-15">
-                <a  href="/generalidades-del-crecimiento-infantil/como-medir-a-tu-hijo-de-manera-correcta"><img src="/img/generalidades-del-crecimiento-infantil/infografia-como-inyectar-la-hormona-de-crecimiento.webp" alt="Banner infografía de como inyectar la hormona de crecimiento"></a>
+                <img src="/img/generalidades-del-crecimiento-infantil/infografia-como-inyectar-la-hormona-de-crecimiento.webp" alt="Banner infografía de como inyectar la hormona de crecimiento">
             </div>
             <div class="box-titles">
                 <h2 class="box-titles-h2">8.- ¿Quién es el especialista en hormona de crecimiento?</h2>
@@ -212,10 +212,6 @@
                 <h2 class="box-titles-h2">Conclusiones</h2>
             </div>            
             <p>La hormona del crecimiento humana recombinante es una proteína que se fabrica para ser casi idéntica la hormona del crecimiento humana natural y de esta forma estimular el crecimiento tisular, el crecimiento lineal (altura) y el metabolismo de proteínas, carbohidratos, lípidos y minerales. Tiene indicaciones aprobadas tanto en población adulta como pediátrica. Además, se usa en la población pediátrica para tratar la baja estatura debido a la deficiencia de la hormona del crecimiento (incluida la deficiencia idiopática [de causa desconocida] de la hormona del crecimiento), síndrome de Turner, síndrome de Noonan, síndrome de Prader-Willi, estatura baja deficiencia del gen que contiene homeobox (SHOX), insuficiencia renal crónica, baja estatura idiopática y niños pequeños para la edad gestacional.</p>
-
-            <div class="size-img-resposive pb-15">
-                <img src="/img/banners/banner-como-medir-a-tu-hijo-de-manera-correcta.webp" alt="Banner que lleva a como medir a tu hijo de manera correcta">
-            </div>
 
             <a href="/contact">
                 <picture>

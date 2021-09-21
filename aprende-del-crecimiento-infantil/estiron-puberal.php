@@ -90,7 +90,7 @@
                 <p>El estirón y la pubertad comienzan a la vez, independientemente de la edad cronológica del individuo en correlación muy estrecha con la edad ósea. De modo que en la pubertad precoz el incremento de velocidad de crecimiento comienza mucho antes, coincidiendo con la aceleración de la edad ósea y, por el contrario, en la pubertad atrasada, con la edad ósea también retrasada, el estirón ocurre mucho más tarde. </p>
             </div>
             <div class="tamaño-img">
-            <a href="/generalidades-del-crecimiento-infantil/factores-que-afectan-el-crecimiento"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Factores-que-Afectan-el-crecimienito.webp" alt="Banner factores que afectan el crecimiento"></a>
+            <a href="/factores-que-influyen-en-el-crecimiento"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Factores-que-Afectan-el-crecimienito.webp" alt="Banner factores que afectan el crecimiento"></a>
             </div>
         </div>
 

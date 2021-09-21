@@ -171,7 +171,7 @@
                 <p>Para obtener más información de la edad osea <a href="/generalidades-del-crecimiento-infantil/edad-osea">¡Da clic aquí!</a></p>
             </div>
             <div class="tamaño-img">
-                <a href="/generalidades-del-crecimiento-infantil/edad-osea"><img src="/img/banners/banner-edad-osea.webp" alt="Banner que lleva a edad osea"></a>
+                <a href="/aprende-del-crecimiento-infantil/edad-osea"><img src="/img/banners/banner-edad-osea.webp" alt="Banner que lleva a edad osea"></a>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>8. Tratar a tiempo enfermedades o padecimiento crónicos</b></h2>
@@ -261,7 +261,7 @@
                 <p>¡Si quieres hablar con un médico especialista en crecimiento infantil que te asesore en <b>cómo crecer de estatura</b> no dudes en comunicarte con nosotros! Somos especialistas en crecimiento infantil.</p>
             </div>
             <div class="tamaño-img">
-                <a href="/generalidades-del-crecimiento-infantil/factores-que-afectan-el-crecimiento"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Factores-que-Afectan-el-crecimienito.webp" alt="Banner factores que afectan el crecimiento"></a>
+                <a href="/factores-que-influyen-en-el-crecimiento"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Factores-que-Afectan-el-crecimienito.webp" alt="Banner factores que afectan el crecimiento"></a>
             </div>
         </div>
 

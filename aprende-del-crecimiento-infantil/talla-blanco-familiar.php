@@ -67,7 +67,7 @@
                 <p>También los factores metabólicos como el déficit de hormona del crecimiento (GH), el hipotiroidismo o la diabetes mal controlada, pueden alterar el crecimiento esperable genéticamente. Entre los factores ambientales o exógenos, inciden en el crecimiento aspectos como son la nutrición, la actividad física y los aspectos psicológicos, como es la deprivación emocional.</p>
             </div>
             <div class="tamaño-img pt-15 pb-15">
-                <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"><img src="/img/banners/banner-etapas-del-desarrollo-de-tanner.webp" alt="Banner que enlaza a etapas de desarrollo de tanner"></a>             
+                <a href="/aprende-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"><img src="/img/banners/banner-etapas-del-desarrollo-de-tanner.webp" alt="Banner que enlaza a etapas de desarrollo de tanner"></a>             
             </div>
 
         </div>

@@ -65,12 +65,14 @@
             <p>Las edades de seis a once comprenden la niñez media y mucho de lo que los niños experimentan a esta edad está relacionado con su participación en los primeros grados de la escuela. Ahora el mundo se convierte en un mundo de aprendizaje y prueba de nuevas habilidades académicas y de evaluación de las habilidades y logros de uno al hacer comparaciones entre uno mismo y los demás. Las escuelas comparan a los estudiantes y hacen públicas estas comparaciones a través de deportes de equipo, puntajes de exámenes y otras formas de reconocimiento. Las tasas de crecimiento se ralentizan y los niños pueden perfeccionar sus habilidades motoras en este momento de la vida. Y los niños comienzan a aprender sobre las relaciones sociales más allá de la familia a través de la interacción con amigos y compañeros de estudios.</p>
             <h2>La adolescencia</h2>
             <p>La adolescencia es un período de cambio físico dramático marcado por una aceleración del crecimiento físico general y la maduración sexual, conocida como pubertad. También se da un cambio cognitivo cuando el adolescente comienza a pensar en nuevas posibilidades y a comienza a considerar conceptos abstractos como el amor, el miedo y la libertad. Irónicamente, los adolescentes tienen una sensación de invencibilidad que los pone en mayor riesgo de morir por accidentes o contraer infecciones de transmisión sexual que pueden tener consecuencias de por vida.</p>
-  
-            <picture>
-                <source media="(max-width:767px)" srcset="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp">
-                <source media="(min-width: 767px)" srcset="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp">
-                <img class="tamaño-img" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto">
-            </picture>
+            
+            <a href="/contact">
+                <picture>
+                    <source media="(max-width:767px)" srcset="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp">
+                    <source media="(min-width: 767px)" srcset="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp">
+                    <img class="tamaño-img" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto">
+                </picture>
+            </a>
 
 
         </div>

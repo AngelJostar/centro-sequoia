@@ -31,7 +31,7 @@
         <p>La <strong>adolescencia temprana</strong> a diferencia de las otras, puede ser muy bien diferenciada debido a que es la etapa donde se tiene lugar un gran número de cambios <strong>físicos y contextuales</strong>.</p>
         <p>La adolescencia se extiende desde el final de la infancia hasta la madurez, podemos dividir los cambios en diferentes categorías:</p>
         <div class="menu-categorias">
-            <a href="#"><div class="menu-categorias-img cambios-adolescentes-1" title="sección de crecimiento infantil generalidades">
+            <!-- <a href="#"><div class="menu-categorias-img cambios-adolescentes-1" title="sección de crecimiento infantil generalidades">
                 <p><i class="fas fa-caret-right"></i>Cambios Fisicos<i class="fas fa-caret-left"></i></p>
             </div></a>
             <a href="#"><div class="menu-categorias-img cambios-adolescentes-2" title="">
@@ -48,7 +48,7 @@
             </div></a>
             <a href="#"><div class="menu-categorias-img cambios-adolescentes-6" title="">
                 <p><i class="fas fa-caret-right"></i>Cambios hormonales<i class="fas fa-caret-left"></i></p>
-            </div></a>
+            </div></a> -->
         </div>
     </div>
     <div class="text-container">

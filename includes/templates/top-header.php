@@ -3,7 +3,7 @@
 
     <div class="top-header-inter-temp">
             <div>
-                <a href="/contact"><p class="top-header-inter-temp-p1">Llamanos, estamos disponibles</p></a>
+                <a href="/contact"><p class="top-header-inter-temp-p1">Llámanos, estamos disponibles</p></a>
                 <a href="/contact"><p class="top-header-inter-temp-p2">Centro en CDMX, Guadalajara y Monterrey</p></a>
             </div>
             <div>

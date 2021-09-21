@@ -259,7 +259,7 @@
                 </div>
             </div>
             <div class="tamaño-img">
-                <a href="/generalidades-del-crecimiento-infantil/estiron-puberal"><img src="/img/banners/banner-estiron-puberal.webp" alt="Banner que manda a estirón puberal"></a>
+                <a href="/aprende-del-crecimiento-infantil/estiron-puberal"><img src="/img/banners/banner-estiron-puberal.webp" alt="Banner que manda a estirón puberal"></a>
             </div>
         </div>
 

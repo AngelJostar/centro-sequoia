@@ -64,7 +64,7 @@
                 <p>La mayoría de las mujeres alcanzan su estatura adulta a los 14 o 15 años. Esta edad podría ser más joven dependiendo de cuándo una niña tenga su primer período. Es posible que desee comunicarse con un <a href="/especialistas-en-crecimiento"> médico especialista en crecimiento de Centro Sequoia</a>                    si su hija tiene 15 años y aún no ha comenzado su período.</p>
             </div>
             <div class="tamaño-img ">
-                <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"><img src="/img/banners/banner-cambios-fisicos.webp" alt="banner cambios Fisicos"></a>
+                <a href="/aprende-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"><img src="/img/banners/banner-cambios-fisicos.webp" alt="banner cambios Fisicos"></a>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>¿Cuál es la conexión entre la pubertad y el desarrollo de los senos?</b></h2>
@@ -159,7 +159,7 @@
                 <p>El sobrepeso puede afectar los niveles hormonales y señalar el comienzo de la pubertad antes de lo esperado.</p>
             </div>
             <div class="tamaño-img ">
-                <a href="/generalidades-del-crecimiento-infantil/pubertad-precoz"><img src="/img/generalidades-del-crecimiento-infantil/banner-pubertad-adelantada-o-atrasada.webp" alt="Banner que enlaza con pubertad adelanta o atrasada"></a>
+                <a href="/padecimentos-que-afectan-el-crecimiento/pubertad-precoz"><img src="/img/generalidades-del-crecimiento-infantil/banner-pubertad-adelantada-o-atrasada.webp" alt="Banner que enlaza con pubertad adelanta o atrasada"></a>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>Nutrición</b></h2>
