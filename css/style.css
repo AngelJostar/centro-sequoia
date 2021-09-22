@@ -1323,7 +1323,7 @@ textarea {
     max-width: 90%;
     margin: 0.5em auto;
     color: #777;
-    text-align: center;
+    text-align: left;
 }
 
 .text-container ol li {
@@ -1371,19 +1371,21 @@ textarea {
     h4,
     h5 {
         text-align: left;
+        max-width: 50%;
     }
     .text-container h3 {
         padding-left: 1em;
+        max-width: 50%;
     }
     .text-container h4 {
         padding-left: 2em;
+        max-width: 50%;
     }
     .text-container h5 {
         padding-left: 2.5em;
     }
     .text-container p {
         max-width: 50%;
-        text-align: left !important;
     }
     .text-container ol {
         max-width: 50%;
