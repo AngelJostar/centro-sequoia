@@ -28,15 +28,14 @@
             <div class="indice ">
                 <h2>índice</h2>
                 <ol>
-                    <li><a href="#turner-sindrome"> ¿Qué es la hormona de crecimiento?</li></a>
-                    <li><a href="#turner-caracteristicas"> ¿Cuales son las funciones?</li></a>
-                    <li><a href="#turner-tratamiento"> Consejos que ayudan al aumento de producción</li></a>
-                    <li><a href="#turner-causas">hormona de crecimiento en adultos</li></a>
-                    <li><a href="#turner-diagnostico"> hormona de crecimiento en niños</li></a>
-                    <li><a href="#turner-tratamiento-en"> ¿Qué padecimientos se tratan con la hormona de crecimiento?</li></a>
-                    <li><a href="#turner-mexico"> ¿Qué es la deficiencia de hormona de crecimiento (GHD)? </li></a>
-                    <li><a href="#turner-especialista"> ¿Quién es el especialista en hormona de crecimiento? </li></a>
-                    <li><a href="#turner-autor"> Conclusiones</li></a>
+                    <li><a href="#1"> ¿Qué es la hormona de crecimiento?</li></a>
+                    <li><a href="#2"> ¿Cuales son las funciones?</li></a>
+                    <li><a href="#3"> Consejos que ayudan al aumento de producción</li></a>
+                    <li><a href="#4">hormona de crecimiento en adultos</li></a>
+                    <li><a href="#5"> hormona de crecimiento en niños</li></a>
+                    <li><a href="#6"> ¿Qué padecimientos se tratan con la hormona de crecimiento?</li></a>
+                    <li><a href="#7"> ¿Qué es la deficiencia de hormona de crecimiento (GHD)? </li></a>
+                    <li><a href="#8"> ¿Quién es el especialista en hormona de crecimiento? </li></a>
                 </ol>
             </div>
             <p>Cuando hablamos de crecimiento nos referimos a un aumento de <strong>tamaño corporal</strong>. Este proceso se realiza de forma biológica y natural, donde aumentan nuestras <strong>células</strong>, <strong>tejidos</strong>, <strong>órganos y sistemas</strong>; para verse reflejado en el incremento de nuestra <strong>altura y masa</strong>. </p>
@@ -44,13 +43,13 @@
             <p>Nuestros órganos tienen la capacidad de <strong>producir sustancias</strong> que viajan por medio del torrente sanguíneo y mandan mensajes químicos por todo el cuerpo para intervenir en algunos procesos como: el <strong> metabolismo</strong>, la <strong>reproducción</strong> y el <strong>crecimiento</strong>. Estas sustancias tienen el nombre de <strong>hormonas</strong>. </p>
             <p>Como dijimos anteriormente, crecer es un fenómeno natural, por lo que este proceso comienza con la producción de la <strong>hormona del crecimiento</strong> en alguna parte del <strong>cerebro</strong>, es decir, cuando crecemos nuestra estatura no sólo se ve definida por la <strong>herencia genética</strong> de nuestros padres. La producción y liberación de esta hormona se ve influenciada por <strong>factores fisiológicos</strong> (necesidades nutricionales de cada individuo) y por factores controlados por el <strong>sistema nervioso</strong>.</p>
             <p>Al hablar de esta sustancia suelen suscitarse distintas preguntas, por lo que aquí te ayudamos a responder tus dudas: </p>
-            <div class="box-titles">
+            <div class="box-titles" id="1">
                 <h2 class="box-titles-h2">1. ¿Qué es exactamente la hormona del crecimiento (GH) y cómo es que nos ayuda a crecer?</h2>
             </div>
             <p>La <strong>hormona del crecimiento</strong> tiene el término de <strong>somatropina(GH)</strong>, es una especie específica, lo que significa que nosotros funcionamos exactamente con la hormona del crecimiento humana y esto se da porque esta molécula está formada por una cadena muy grande de <strong>191 aminoácidos</strong> que tienen una formación única, especifica y estricta. Actualmente cuando se llega a aplicar hormona de crecimiento para algunos <strong>trastornos de crecimiento</strong>, es exactamente igual a la que producimos. </p>
             <p>Esta hormona se produce en la <strong>adenohipófisis</strong>, que es el lóbulo anterior de la <strong>hipófisis</strong> o <strong>glándula pituitaria</strong>, que frecuentemente se llama “<strong>glándula maestra</strong>”, la cual se ubica justo abajo del cerebro, y pertenece al <strong>sistema endócrino</strong>. </p>
             <p>La producción de <strong>hormona de crecimiento</strong> se realiza por estímulos que vienen de nuestro cerebro en forma de otra hormona que es la que libera la <strong>hormona de crecimiento</strong> (GHRH), cuando esta se libera, la GH viaja por el torrente sanguíneo hacia los <strong>órganos diana</strong>(hígado, tejido adiposo, huesos, etc.) donde hay receptores específicos y al unirse a ellos, estos tejidos libertan el IGF-1(Factor de Crecimiento Insulínico Tipo 1) para así estimular el crecimiento de <strong>tejidos</strong> y <strong>huesos</strong>, y promover la producción de <strong>masa muscular</strong>. Aunque no todo el tiempo podemos estar produciendo hormona de crecimiento, si esto pasara seriamos gigantes, por lo que aquí entra el papel de otra hormona que se produce en la misma área del cerebro y se llama <strong>somatostatina</strong> (SS), que es la que frena o inhibe a la GH, por lo que debe haber un equilibro entre las hormonas que fomentan el crecimiento y las que lo detienen. </p>
-            <div class="box-titles">
+            <div class="box-titles" id="2">
                 <h2 class="box-titles-h2">2. ¿Cuáles son las funciones de la hormona de crecimiento?</h2>
             </div>
             <p>A <strong>nivel celular</strong> genera acciones derivadas de cualquier cosa que tenga que ver con aumentar el tamaño de nuestro organismo, en el sentido de <strong>desarrollo</strong> de sus <strong>órganos</strong> y <strong>tejidos</strong>, es decir, su función principal respecto a las células es aumentar su tamaño(<strong>hipertrofia</strong>) y estimular la mitosis(<strong>hiperplasia</strong>), en otras palabras, favorece al aumento del tamaño de las células y el aumento del número de células respectivamente.</p>
@@ -68,7 +67,7 @@
                 <li><strong>Otros tejidos:</strong> <br> Hablamos del sistema nervioso, de los riñones, del corazón, etc. En este caso la hormona del crecimiento también ayuda a el aumento del tamaño de sus células, además se facilita la síntesis de ADN y mejora la síntesis proteica. </li>
             </ul>
             <p>Enfermedades, como la deficiencia de la hormona de crecimiento o la acondroplasia, se pueden tratar mediante la <strong>administración controlada de la hormona de crecimiento</strong>.</p>            
-            <div class="box-titles">
+            <div class="box-titles" id="3">
                 <h2 class="box-titles-h2">3. Consejos que ayudan al aumento de producción la hormona del crecimiento:</h2>
             </div>
             <p>Mantener buenos niveles de hormona de crecimiento en nuestro organismo, nos ayudara a mantenerlo sano y a que trabaje de forma correcta, por ello hay estrategias que nos ayudarán a lograrlo: </p>
@@ -83,7 +82,7 @@
                 La insulina y la hormona de crecimiento van de la mano, por lo tanto, si ocurren demasiados picos de insulina, se disminuirá nuestra producción de hormona. Entonces, es importante llevar una dieta con alimentos saludables; frutas, verduras, cereales saludables, proteína y grasas buenas. </li>
             </ul>
             <p>En caso de notar o creer que aún estos consejos hay déficit de hormona de crecimiento, lo mejor es acudir con un especialista, él ayudará a detectar algún problema y corregirlo con un tratamiento específico y seguro. En Centro Sequoia puedes encontrar tu mejor opción.</p>
-            <div class="box-titles">
+            <div class="box-titles" id="4">
                 <h2 class="box-titles-h2">4. ¿Qué papel juega la hormona de crecimiento en los adultos?</h2>
             </div>
             <p>Cabe destacar que la hormona de crecimiento no sólo se produce durante la etapa de nuestro desarrollo, ya que su función no se limita a que crezcamos. Esta se produce durante toda nuestra vida, por lo tanto, sí existe una deficiencia de hormona de crecimiento, puede haber algún problema de salud, y del mismo modo si se llega a haber un exceso de producción. </p>
@@ -103,7 +102,7 @@
                 Ya que la hormona puede disminuir el tejido graso algunos atribuyen beneficios respecto al envejecimiento, pero no hay evidencia de grandes cambios en la composición corporal y fuerza. 
                 Esta hormona también ejerce efectos adversos cuando adultos sanos la emplean, por lo que no se recomienda como tratamiento para el deporte, rendimiento físico o el envejecimiento.</li>
             </ul>
-            <div class="box-titles">
+            <div class="box-titles" id="5">
                 <h2 class="box-titles-h2">5. ¿Cuál es la importancia de la hormona de crecimiento en niños?</h2>
             </div>
            <p>Esta hormona tiene funciones vitales para nuestro organismo, sobre todo cuando somos niños, pues se encarga de nuestro crecimiento. Las tasas de crecimiento en los niños varían considerablemente de un niño a otro (puedes ver las gráficas de crecimiento). Pero en promedio la ganancia de estatura normal se describe como:</p>
@@ -115,7 +114,7 @@
            <p>Dados todos sus beneficios es de suma importancia mantener buenos niveles de hormona de crecimiento en nuestro cuerpo, para nuestro desarrollo y bienestar. Sí un niño esta por debajo del promedio de estatura para la edad que tiene, puede ser señal de alerta para sospechar de deficiencia de hormona de crecimiento.  </p>
            <p>Habitualmente se puede detectar que un niño o niña no está creciendo como debería hasta los tres años, cuando es más chaparrito en comparación con otros niños o niñas de su misma edad. Para conocer si es que tu hijo puede necesitar tratamiento, su médico podría pedir una serie de exámenes para conocer diferentes variables como la edad ósea de tu hijo, sus niveles de insulina, producción de hormona del crecimiento o la tolerancia a insulina. Dependiendo de los resultados, podría recetarle o no tratamiento.</p>
            <p>Los tratamientos que comienzan a edad temprana tienen más probabilidades de éxito que uno que empieza de forma tardía. Los niños en tratamiento pueden alcanzar una diferencia de altura de entre 5 y 15 cm de más. El niño puede llegar a alcanzar una mayor estatura comparada con su estimado genético si el proceso empieza en sus primeros años de vida.</p>
-           <div class="box-titles">
+           <div class="box-titles" id="6">
                 <h2 class="box-titles-h2">6. ¿Qué padecimientos se tratan con la hormona de crecimiento?</h2>
             </div>
            <p>Los siguientes padecimientos están ligados a la baja producción o deficiencia de hormona de crecimiento.</p>
@@ -130,7 +129,7 @@
                 <li>Síndrome de Prader-Willi</li>
                 <li>Otros síndromes y causas de la baja estatura.</li>
             </ul>
-            <div class="box-titles">
+            <div class="box-titles" id="7">
                 <h2 class="box-titles-h2">7. ¿Qué es la deficiencia de hormona de crecimiento (GHD)?</h2>
             </div>
             <p>La baja producción o deficiencia de hormona de crecimiento es un padecimiento causado por la escasa producción de hormona en nuestro organismo. Los niños que sufren este padecimiento tienen una estatura anormalmente baja, pero con proporciones de cuerpo normales. Este problema puede presentarse desde que somos bebés (deficiencia de la hormona del crecimiento congénita) o más tarde (deficiencia de la hormona del crecimiento adquirida) durante nuestro desarrollo, cuando el cuerpo deja de fabricar la hormona suficiente y de esta forma crecer con una irregularidad. Algunas veces no se puede identificar una causa clara, pero es importante acudir con un especialista. </p>
@@ -204,11 +203,11 @@
             <div class="size-img-resposive pb-15">
                 <img src="/img/generalidades-del-crecimiento-infantil/infografia-como-inyectar-la-hormona-de-crecimiento.webp" alt="Banner infografía de como inyectar la hormona de crecimiento">
             </div>
-            <div class="box-titles">
+            <div class="box-titles" id="8">
                 <h2 class="box-titles-h2">8.- ¿Quién es el especialista en hormona de crecimiento?</h2>
             </div>
             <p>El médico especialista que trata las enfermedades derivadas por la hormona del crecimiento es un endocrinólogo pediatra. En Centro Sequoia, única y exclusivamente atendemos los padecimientos que afectan la estatura de los niños . Nuestros médicos especialistas tienen la experiencia de más de 30,000 casos atendidos en este campo, lo que nos lleva a ser el centro MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</p>
-            <div class="box-titles">
+            <div class="box-titles"> 
                 <h2 class="box-titles-h2">Conclusiones</h2>
             </div>            
             <p>La hormona del crecimiento humana recombinante es una proteína que se fabrica para ser casi idéntica la hormona del crecimiento humana natural y de esta forma estimular el crecimiento tisular, el crecimiento lineal (altura) y el metabolismo de proteínas, carbohidratos, lípidos y minerales. Tiene indicaciones aprobadas tanto en población adulta como pediátrica. Además, se usa en la población pediátrica para tratar la baja estatura debido a la deficiencia de la hormona del crecimiento (incluida la deficiencia idiopática [de causa desconocida] de la hormona del crecimiento), síndrome de Turner, síndrome de Noonan, síndrome de Prader-Willi, estatura baja deficiencia del gen que contiene homeobox (SHOX), insuficiencia renal crónica, baja estatura idiopática y niños pequeños para la edad gestacional.</p>
