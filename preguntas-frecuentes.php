@@ -9,8 +9,8 @@
 <meta name="format-detection" content="telephone=no">
 <meta name="description" content="¿Porqué mi hijo no crece? ¿Cómo saber si mi hijo esta creciendo bien? ¿En que consiste el tratamiento de talla baja? ¿Qué es hormona de crecimiento? ">
 <title>Preguntas frecuentes - ¿Porqué mi hijo no crece?</title>
-<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/style-slider.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 

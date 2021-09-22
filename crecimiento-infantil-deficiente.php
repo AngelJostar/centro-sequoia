@@ -27,9 +27,9 @@
             <a href="/generalidades-del-crecimiento-infantil/como-crecer-de-estatura"><div class="crecimiento-deficiente-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
                 <p><i class="fas fa-caret-right"></i>¿Como crecer de estatura?<i class="fas fa-caret-left"></i></p>
             </div></a>
-            <a href="#"><div class="padecimientos-img-2 menu-categorias-img" title="">
+            <!-- <a href="#"><div class="padecimientos-img-2 menu-categorias-img" title="">
                 <p><i class="fas fa-caret-right"></i>¿Porque los niños tienen diferentes estaturas?<i class="fas fa-caret-left"></i></p>
-            </div></a>
+            </div></a> -->
             <a href="/crecimiento-infantil-deficiente/a-que-edad-dejan-de-crecer-las-mujeres"><div class="crecimiento-deficiente-img-3 menu-categorias-img" title="">
                 <p><i class="fas fa-caret-right"></i>A que edad dejan de crecer las mujeres<i class="fas fa-caret-left"></i></p>
             </div></a>

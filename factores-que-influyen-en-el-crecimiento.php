@@ -29,11 +29,11 @@
             </div>
             <p>Son muchos los factores que afectan al crecimiento de un niño. El crecimiento y desarrollo pueden verse afectados por:</p>
             <p>El crecimiento se refiere al crecimiento total de las dimensiones externas del cuerpo, incluyendo el esqueleto, con excepción de la cabeza y el cuello. Son muchos los factores que afectan el crecimiento de un niño. El crecimiento y el desarrollo pueden verse afectados por:</p>
-            <!-- <div class="menu-categorias">
-                <a href="#"><div class="menu-categorias-img factores-crecimiento-1 " title="">
+            <div class="menu-categorias">
+                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><div class="menu-categorias-img factores-crecimiento-1 " title="">
                     <p><i class="fas fa-caret-right"></i>nutricion infantil<i class="fas fa-caret-left"></i></p>
                 </div></a>       
-                <a href="#"><div class="factores-crecimiento-2 menu-categorias-img" title="sección de crecimiento infantil generalidades">
+                <!-- <a href="#"><div class="factores-crecimiento-2 menu-categorias-img" title="sección de crecimiento infantil generalidades">
                     <p><i class="fas fa-caret-right"></i>Cariño y amor<i class="fas fa-caret-left"></i></p>
                 </div></a>
                 <a href="#"><div class="factores-crecimiento-3 menu-categorias-img" title="">
@@ -44,8 +44,8 @@
                 </div></a>
                 <a href="#"><div class="menu-categorias-img factores-crecimiento-5" title="">
                     <p><i class="fas fa-caret-right"></i>Sueño<i class="fas fa-caret-left"></i></p>
-                </div></a>
-            </div> -->
+                </div></a> -->
+            </div>
 
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="nifkbui3K-4"></div>

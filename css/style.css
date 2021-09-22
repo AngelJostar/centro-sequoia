@@ -1114,7 +1114,8 @@ textarea {
 }
 
 .titulos-azules h3 {
-    line-height: 1.5
+    line-height: 1.5;
+    margin: 0 auto;
 }
 
 .textos-azules {
@@ -3957,4 +3958,15 @@ strong {
     .indice h2 {
         text-align: center;
     }
+}
+
+.titulos-principal-casos-exito h2 {
+    max-width: 90%;
+    text-align: center;
+    font-weight: 500;
+    color: #fff;
+    padding: 20px 0;
+    margin: 0 auto;
+    font-size: calc(12px + .8vw);
+    line-height: 1.5;
 }

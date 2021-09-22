@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta name="description" content="Si te preocupa el crecimiento de tu hijo en Centro SEQUOIA podemos ayudarte ya que es un Centro Pediátrico Exclusivo para el Crecimiento de los niños ☝">
-<title>factores que benefician el crecimiento</title>
+<title>Factores que benefician el crecimiento infantil</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
@@ -23,7 +23,7 @@
 
         <div class="text-container">
             <div class="box-titles">
-                <h1 class="box-titles-h2">Dactores que benefician el desarrollo infantil</h1>
+                <h1 class="box-titles-h2">Factores que benefician el desarrollo infantil</h1>
             </div>
             <p>La <strong>niñez</strong> es una etapa de grandes cambios, tanto <strong>físicos</strong> como <strong>psicológicos</strong>, los cuales ocurren lentamente si lo vemos desde la perspectiva de un niño, o son efimeros si lo comparamos con la vida promedio de un ser humano. El <strong>desarrollo infantil</strong>
                 es muy diferente unos de otros, algunos suelen niños tardar mas que otros en desarrollarse completamente, mientras que otros debido a circunstancias que veremos mas adelante son afortunados de tener un periodo de <strong>desarrollo saludable</strong>. A continuación 
