@@ -194,7 +194,7 @@
                 </div>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p>Una radiografía de la mano y la muñeca puede ayudar a juzgar cuánto más crecerá un niño. Aprende mas acerca de la edad osea de los adolescentes, <a href="/generalidades-del-crecimiento-infantil/edad-osea"> ¡Da clic aquí!</a></p>
+                <p>Una radiografía de la mano y la muñeca puede ayudar a juzgar cuánto más crecerá un niño. Aprende mas acerca de la edad osea de los adolescentes, <a href="/aprende-del-crecimiento-infantil/edad-osea"> ¡Da clic aquí!</a></p>
             </div>
             <!-- Banner --> 
             <div class=" pt-15 justificar-texto-90  ">
@@ -222,7 +222,7 @@
                 <p>Dormir lo suficiente, comer alimentos nutritivos y hacer ejercicio con regularidad son buenos hábitos que pueden ayudarlos a crecer de manera saludable.</p>
                 <p>Si le preocupa el patrón de crecimiento de su hija, <a href="/contact"> comuníquese con un médico de Centro Sequoia</a> lo antes posible.</p>
                 <p>Es probable que su médico le pregunte sobre el historial de crecimiento de su familia. Examinarán a su hija y observarán cuidadosamente su <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento">curva de crecimiento.</a></p>
-                <p>A veces, su médico puede usar pruebas como <a href="/generalidades-del-crecimiento-infantil/edad-osea">radiografías</a>  o análisis de sangre para ayudarlos a determinar las causas de los retrasos en el crecimiento.</p>
+                <p>A veces, su médico puede usar pruebas como <a href="/aprende-del-crecimiento-infantil/edad-osea">radiografías</a>  o análisis de sangre para ayudarlos a determinar las causas de los retrasos en el crecimiento.</p>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>En la consulta del doctor</b></h2>

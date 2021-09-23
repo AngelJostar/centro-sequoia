@@ -124,7 +124,7 @@
                     <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento/">
                         <li>Deficiencia de Hormona de Crecimiento</li>
                     </a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional/">
+                    <a href="https://centrosequoia.com.mx/padecimentos-que-afectan-el-crecimiento/pequeno-para-la-edad-gestacional/">
                         <li>Pequeños para edad gestacional</li>
                     </a>
                     <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/sindrome-de-turner/">

@@ -18,7 +18,7 @@
                     <a href="tel:555687-6118">
                         <p style="padding-bottom: 0px;">Tel. (55) 5687-6118</p>
                     </a>
-                    <a href="https://api.whatsapp.com/send?phone=525559677135&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia.%0A" target="_blank">
+                    <a  rel="noopener" href="https://api.whatsapp.com/send?phone=525559677135&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia.%0A" target="_blank">
                         <p>WA: (55) 5967-7135</p>
                     </a>
                 </div>
@@ -29,7 +29,7 @@
                     <a href="tel:333615-2835">
                         <p style="padding-bottom: 0px;">Tel. (33) 3615-2835</p>
                     </a>
-                    <a href="https://api.whatsapp.com/send?phone=523333371382&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia.%0A">
+                    <a rel="noopener" href="https://api.whatsapp.com/send?phone=523333371382&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia.%0A">
                         <p>WA: (33) 3337-1382</p>
                     </a>
                 </div>
@@ -55,7 +55,7 @@
                     </div>
                     <div class="social-youtube">
                         <li>
-                            <a href="https://www.youtube.com/watch?v=ygP78ev4eQI" target="_blank" rel="noopener"><img src="/img/iconos-redes/youtube-brands-01.svg" alt=""></a>
+                            <a href="https://www.youtube.com/channel/UCabio61jWjsUyvVPNqIYY1Q" target="_blank" rel="noopener"><img src="/img/iconos-redes/youtube-brands-01.svg" alt=""></a>
                         </li>
                     </div>
                     <div class="social-whatsapp">
@@ -100,7 +100,7 @@
                     <a href="tel:555687-6118">
                         <p>Tel. (55) 5687-6118</p>
                     </a>
-                    <a href="https://api.whatsapp.com/send?phone=525559677135&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia.%0A" target="_blank">
+                    <a rel="noopener" href="https://api.whatsapp.com/send?phone=525559677135&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia.%0A" target="_blank">
                         <p>WA: (55) 5967-7135</p>
                     </a>
                 </div>
@@ -109,7 +109,7 @@
                     <a href="tel:333615-2835">
                         <p>Tel. (33) 3615-2835</p>
                     </a>
-                    <a href="https://api.whatsapp.com/send?phone=523333371382&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia.%0A" target="_blank">
+                    <a rel="noopener" href="https://api.whatsapp.com/send?phone=523333371382&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia.%0A" target="_blank">
                         <p>WA: (33) 3337-1382</p>
                     </a>
                 </div>

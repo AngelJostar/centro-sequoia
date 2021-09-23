@@ -1323,7 +1323,7 @@ textarea {
     font-size: calc(14px + .4vw);
     max-width: 90%;
     margin: 0.5em auto;
-    color: #777;
+    color: #555;
     text-align: left;
 }
 
@@ -1339,7 +1339,7 @@ textarea {
     padding-inline-start: 25px;
     max-width: 90%;
     margin: 0 auto;
-    color: #777;
+    color: #555;
 }
 
 .text-container ul li {
@@ -1351,7 +1351,7 @@ textarea {
 }
 
 .text-container ul {
-    color: #777;
+    color: #555;
     padding-inline-start: 25px;
     max-width: 90%;
     margin: 1em auto;
@@ -1417,6 +1417,10 @@ h2.box-titles-h2 {
     font-size: calc(18px + .8vw) !important;
 }
 
+h1.box-titles-h2 {
+    font-weight: bold;
+}
+
 .titulos-principal h2 {
     max-width: 95%;
     text-align: center;
@@ -1444,10 +1448,11 @@ h2.box-titles-h2 {
     color: var(--color-white);
     font-size: 4.1vw;
     position: relative;
-    top: 8.5vw;
+    top: 7.5vw;
     max-width: 100%;
     text-align: center !important;
     text-shadow: 2px 2px 4px #000000;
+    font-weight: bold;
 }
 
 .index-img-1 {
@@ -1835,6 +1840,10 @@ div.youtube-play:hover {
     padding-top: 2em;
 }
 
+.contenedor-footer p {
+    text-align: center;
+}
+
 .contenedor-footer p:first-child {
     max-width: 80%;
     margin: 0 auto
@@ -1846,7 +1855,7 @@ div.youtube-play:hover {
 
 .texto-footer p {
     font-size: calc(.8em + .8vw);
-    color: #a8b0b3;
+    color: #656565;
     font-weight: 600;
     text-align: center;
     padding-bottom: 1.2em;
@@ -1888,6 +1897,7 @@ div.youtube-play:hover {
     font-weight: 500;
     font-size: 12px;
     color: #fff;
+    font-weight: bolder;
     padding-bottom: 20px
 }
 
@@ -2153,8 +2163,8 @@ div.youtube-play:hover {
     content: "";
     position: absolute;
     z-index: -1;
-    -webkit-box-shadow: 0 0 20px #777;
-    -moz-box-shadow: 0 0 20px #777;
+    -webkit-box-shadow: 0 0 20px #555;
+    -moz-box-shadow: 0 0 20px #555;
     box-shadow: 0 5px 7px 2px #a7a7a7;
     top: 0;
     bottom: 0;
@@ -2191,7 +2201,7 @@ div.youtube-play:hover {
 .justificar-texto-85 {
     max-width: 85%;
     font-size: calc(13px + .4vw);
-    color: #777;
+    color: #555;
     text-align: justify;
     margin: 0 auto;
     line-height: 1.5
@@ -2217,7 +2227,7 @@ div.youtube-play:hover {
 .justificar-texto-90 {
     max-width: 90%;
     font-size: calc(1.5em + .1vw);
-    color: #777;
+    color: #555;
     text-align: center;
     margin: 0 auto;
     line-height: 1.15
@@ -2485,7 +2495,7 @@ div.youtube-play:hover {
     padding-left: 15px;
     margin-top: calc(1em + 1vw);
     position: relative;
-    color: #777;
+    color: #555;
     list-style-type: none;
     font-size: calc(13px + .4vw);
     line-height: 1.15
@@ -2495,7 +2505,7 @@ div.youtube-play:hover {
     padding-left: 15px;
     margin-top: calc(0.1em + 1vw);
     position: relative;
-    color: #777;
+    color: #555;
     list-style-type: decimal;
     font-size: calc(13px + .4vw);
     line-height: 1.15;
@@ -2785,9 +2795,9 @@ th {
 
 .efecto3 {
     position: relative;
-    -webkit-box-shadow: 0 0 4px #777, 0 0 20px #ccc inset;
-    -moz-box-shadow: 0 0 4px #777, 0 0 20px #ccc inset;
-    box-shadow: 0 0 4px #777, 0 0 20px #ccc inset
+    -webkit-box-shadow: 0 0 4px #555, 0 0 20px #ccc inset;
+    -moz-box-shadow: 0 0 4px #555, 0 0 20px #ccc inset;
+    box-shadow: 0 0 4px #555, 0 0 20px #ccc inset
 }
 
 .efecto3:after,
@@ -2795,9 +2805,9 @@ th {
     content: "";
     position: absolute;
     z-index: -1;
-    -webkit-box-shadow: 0 0 20px #777;
-    -moz-box-shadow: 0 0 20px #777;
-    box-shadow: 0 0 20px #777;
+    -webkit-box-shadow: 0 0 20px #555;
+    -moz-box-shadow: 0 0 20px #555;
+    box-shadow: 0 0 20px #555;
     top: 0;
     bottom: 0;
     left: 10px;
@@ -3767,7 +3777,7 @@ details section p:last-child {
     margin: 0 auto;
     max-width: 80%;
     font-size: calc(13px + .4vw);
-    color: #777;
+    color: #555;
     line-height: 1.5;
 }
 
@@ -3782,7 +3792,7 @@ details section p:last-child {
 
 .author-info {
     background-color: #f0f8ff;
-    max-width: 95%;
+    max-width: 100%;
     margin: 0 auto;
     border: solid #e5e5e5;
     border-width: 1px 0;
@@ -3801,6 +3811,7 @@ details section p:last-child {
 strong {
     font-size: calc(13px + .4vw);
     margin: 1em;
+    max-width: 100%;
 }
 
 .author-info a {
@@ -3814,7 +3825,7 @@ strong {
         padding-bottom: 0;
     }
     .author-info {
-        max-width: 100%;
+        max-width: 50%;
         padding: 12px 0;
         margin-bottom: 35px;
         display: -webkit-box;
@@ -3882,7 +3893,7 @@ strong {
     font-size: calc(14px + .4vw);
     max-width: 90%;
     margin: 0.5em auto;
-    color: #777;
+    color: #555;
     text-align: center;
 }
 
@@ -3898,7 +3909,7 @@ strong {
     padding-inline-start: 25px;
     max-width: 90%;
     margin: 0 auto;
-    color: #777;
+    color: #555;
 }
 
 .article-container ul li {
@@ -3910,7 +3921,7 @@ strong {
 }
 
 .article-container ul {
-    color: #777;
+    color: #555;
     padding-inline-start: 25px;
     max-width: 90%;
     margin: 0 auto;
@@ -3969,4 +3980,13 @@ strong {
     margin: 0 auto;
     font-size: calc(12px + .8vw);
     line-height: 1.5;
+}
+
+.biografias-template {
+    line-height: 2;
+}
+
+.biografias-template p,
+em {
+    font-size: calc(14px + .4vw) !important;
 }

@@ -97,7 +97,7 @@
                     <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/baja-estatura-familiar/"><li>Baja Estatura familiar</li></a>
                     <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/baja-estatura-idiopatica/"><li>Baja Estatura idiopática</li></a>
                     <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad/"><li>Retraso del crecimiento y pubertad</li></a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional/"><li>Pequeños para edad gestacional</li></a>
+                    <a href="https://centrosequoia.com.mx/padecimentos-que-afectan-el-crecimiento/pequeno-para-la-edad-gestacional/"><li>Pequeños para edad gestacional</li></a>
                     <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento/"><li>Deficiencia de Hormona de Crecimiento</li></a>
                     <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/sindrome-de-turner/"><li>Síndrome de Turner</li></a>
                 </ul>

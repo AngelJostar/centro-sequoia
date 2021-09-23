@@ -64,72 +64,78 @@
 
                 <div class="indice mb-2">
                     <h2>índice de contenidos</h2>
-                    <ul>
-                        <li><a href="">Importancia de las vitaminas en el crecimiento </a></li>
-                        <ul>
-                            <li><a href="">Vitaminas que sirven para crecer</a></li>
-                            <ul>
-                                <li><a href="">Vitamina A</a></li>
-                                <li><a href="">Vitamina D</a></li>
-                                <li><a href="">Vitamina B</a></li>
-                                <li><a href="">Vitamina C</a></li>
-                                <li><a href="">Vitamina F</a></li>
-                                <li><a href="">Vitamina K</a></li>
-                                <li><a href="">Vitamina B1</a></li>
-                            </ul>
-                            <li><a href="">Minerales que sirven para crecer</a></li>
-                            <ul>
-                                <li><a href="">Calcio</a></li>
-                                <li><a href="">Magnesio</a></li>
-                                <li><a href="">Zinc</a></li>
-                                <li><a href="">Boro</a></li>
-                            </ul>
-                        </ul>
-                        <li><a href="">Alimentos que deben evitarse</a></li>
-                        <li><a href="">Conclusiones del autor</a></li>
-                        <li><a href="">Acerca del autor</a></li>
+                    <ol>
+                        <li><a href="#1">Importancia de las vitaminas en el crecimiento </a></li>
+                        <ol>
+                            <li><a href="#1.1">Vitaminas que sirven para crecer</a></li>
+                            <ol>
+                                <li><a href="#1.1.1">Vitamina A</a></li>
+                                <li><a href="#1.1.2">Vitamina D</a></li>
+                                <li><a href="#1.1.3">Vitamina B</a></li>
+                                <li><a href="#1.1.4">Vitamina C</a></li>
+                                <li><a href="#1.1.5">Vitamina F</a></li>
+                                <li><a href="#1.1.6">Vitamina K</a></li>
+                                <li><a href="#1.1.7">Vitamina B1</a></li>
+                            </ol>
+                            <li><a href="#1.2">Minerales que sirven para crecer</a></li>
+                            <ol>
+                                <li><a href="#1.2.1">Calcio</a></li>
+                                <li><a href="#1.2.2">Magnesio</a></li>
+                                <li><a href="#1.2.3">Zinc</a></li>
+                                <li><a href="#1.2.4">Boro</a></li>
+                            </ol>
+                            <li><a href="#1.3">Proteinas de carbohidratos</a></li>
+                            <ol>
+                                <li><a href="#1.3.1">Proteínas</a></li>
+                                <li><a href="#1.3.2">Carbohidratos</a></li>
+                            </ol>
+                        </ol>
+                        <li><a href="#2">Alimentos ricos en vitaminas y minerales</a></li>
+                        <li><a href="#3">Alimentos que deben evitarse</a></li>
+                        <li><a href="#4">Conclusiones del autor</a></li>
+                        <li><a href="#5">Acerca del autor</a></li>
                     </ul>
                 </div>
-                <h2>Importancia de las vitaminas en el crecimiento</h2>
+                <h2 id="1">Importancia de las vitaminas en el crecimiento</h2>
                 <p>El <b>crecimiento de un niño</b> depende en gran medida de su ingesta nutricional diaria. La dieta de todo niño debe aportar todas las <b>vitaminas</b> esenciales para cubrir todas sus necesidades de <a href="https://centrosequoia.com.mx/crecimiento-infantil/"> crecimiento</a></p>
                 <p>La <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"> nutrición</a> juega un papel tan poderoso como el de la <a href="/generalidades-del-crecimiento-infantil/talla-blanco-familiar"> genética</a> para determinar la estatura futura de tus hijos. Una nutrición adecuada permitirá que sus hijos superen las alturas de sus padres.</p>
                 <p>Siempre se sugiere proporcionar las <b>vitaminas</b> solo a través de la <b>dieta</b>, ya que no se reemplazan los <b>nutrientes naturales</b>. Si su hijo es quisquilloso con la comida, considere algunos reemplazos multivitamínicos solo después de buscar el consejo de <a href="/especialistas-en-crecimiento"> un experto.</a></p>
-                <h3>Vitaminas que sirven para crecer</h3>
+                <h3 id="1.1">Vitaminas que sirven para crecer</h3>
                 <p>Su cuerpo requiere la cantidad correcta de varias <b>vitaminas</b> para un <b>crecimiento</b> y desarrollo <b>adecuado</b>. Una deficiencia de cualquiera de estas vitaminas esenciales provocará efectos nocivos en su cuerpo, incluidas <a href="/causas-de-la-baja-estatura/padecimientos-y-enfermedades-cronicas-que-afectan-el-crecimiento"> enfermedades</a>  y otros problemas de salud que pueden provocar una <a href="/generalidades-del-crecimiento-infantil/baja-estatura"> disminución en el crecimiento </a></p>
                 <p>Para asegurarse de que tu hijo esté lleno de vitaminas nutritivas para alcanzar su <b>máximo potencial de estatura</b>, se recomienda que mantenga una dieta <b>diaria equilibrada</b> y nutritiva. </p>
                 <p>Los niños y los adolescentes tienen necesidades nutricionales diferentes a las de los adultos. Las vitaminas más importantes que tus hijos necesitan son:</p>
                 <div class="tamaño-img ">
                     <img width="1000" height="400"  src="/img/generalidades-del-crecimiento-infantil/vitaminas-para-crecer.webp" alt="Banner vitaminas para crecer"></a>
                 </div>
-                <h4>Vitamina A:</h4>
+                <h4 id="1.1.1">Vitamina A:</h4>
                 <p>La <b>vitamina A</b> también se conoce como retinol y es una de las vitaminas más importantes para el crecimiento en altura en los niños. Debe seleccionar los alimentos para sus hijos que contengan esta vitamina en buenas cantidades. La vitamina A produce calcio para nutrir los huesos y mejorar el desarrollo del cuerpo. Las encuentras en alimentos como brócoli, duraznos, leche fortificada y frutas.</p>
-                <h4>Vitamina D:</h4>
+                <h4 id="1.1.2">Vitamina D:</h4>
                 <p>Los padres deben priorizar la preparación de alimentos que tengan vitamina D y otros minerales para <a href="/importancia-de-ser-mas-alto"> ayudar a los niños a crecer</a>. La vitamina D es un ingrediente que acelera la estatura física de un niño. También previene el raquitismo y la erosión ósea. La disponibilidad de fósforo y calcio en la <b>vitamina D</b> ayuda a los niños a tener un crecimiento corporal rápido en poco tiempo.</p>
-                <h4>Complejo de vitamina B:</h4>
+                <h4 id="1.1.3">Complejo de vitamina B:</h4>
                 <p>El complejo de vitamina B desempeña múltiples funciones en el desarrollo del cuerpo de un niño. Hay once vitaminas, que forman el complejo de vitamina B que ayuda en el desarrollo del cuerpo. De ellos, la vitamina B 12 o cobalamina es un agente que promueve la altura del cuerpo sin dañar los <b>huesos</b> y tejidos. Los especialistas en cuidado infantil recetan buenos suplementos del complejo de vitamina B para <b>ayudar a los niños a crecer más</b> .</p>
-                <h4>Vitamina C:</h4>
+                <h4 id="1.1.4">Vitamina C:</h4>
                 <p>La vitamina C o el ácido ascórbico se requieren naturalmente para mejorar el rápido crecimiento y la <a href="/crecimiento-infantil-por-edad/bebes-0-2"> madurez del bebé</a>. Los niños deben consumir esta vitamina en particular para el desarrollo corporal para <a href="/generalidades-del-crecimiento-infantil/como-crecer-de-estatura"> aumentar la altura rápidamente</a>. Los cítricos, el plátano y el aguacate son algunos alimentos esenciales que aportan mucha vitamina C para <b>nutrir los huesos</b>, formar nuevos colágenos y revivir la fuerza del cuerpo.</p>
-                <h4>Vitamina F:</h4>
+                <h4 id="1.1.5">Vitamina F:</h4>
                 <p>La vitamina F contiene grasas poliinsaturadas y otros componentes para desarrollar células, reestructurar los huesos y prevenir la debilidad corporal. Sin embargo, la vitamina F también es eficaz para acelerar el proceso de crecimiento en los niños. Puede dar mariscos a sus hijos. El salmón, la caballa y las frutas como la canola también son útiles para los jóvenes en su crecimiento.</p>
-                <h4>Vitamina K:</h4>
+                <h4 id="1.1.6">Vitamina K:</h4>
                 <p>Para un <b>crecimiento óseo adecuado</b>, necesita calcio. Varios estudios han demostrado que la vitamina K mantiene y promueve el crecimiento uniforme del cuerpo. Los niños deben comer alimentos nutritivos que contengan vitamina K para detener la erosión ósea y, por lo tanto, mejorar la aceleración de la altura.</p>
-                <h4>Vitamina B1:</h4>
+                <h4 id="1.1.7">Vitamina B1:</h4>
                 <p>La vitamina B1 regulariza el proceso de digestión y mantiene el corazón y el sistema nervioso saludables, lo que ayuda al crecimiento del cuerpo. El arroz, los cacahuetes, el cerdo y las habas de soja son una rica fuente de vitamina B1.</p>
-                <h3>Minerales que sirven para crecer</h3>
+                <h3 id="1.2">Minerales que sirven para crecer</h3>
                 <p>Además de las vitaminas el cuerpo necesita de <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento">minerales para apoyar el crecimiento del niño</a> en términos de altura. Se sabe que los alimentos ricos en  hierro ,  magnesio , fósforo, yodo, manganeso y flúor mejoran el crecimiento en niños y adolescentes. El calcio también es crucial, ya que no solo favorece el crecimiento, sino que también fortalece los huesos. Los minerales más importantes que tus hijos necesitan son:</p>
-                <h4>Calcio</h4>
+                <h4 id="1.2.1">Calcio</h4>
                 <p>El calcio es un mineral para el crecimiento óseo que el cuerpo necesita en buenas cantidades para el crecimiento y desarrollo adecuados de los niños. Sin embargo, en ocasiones los niños se enfrentan a una deficiencia de calcio debido a la baja ingesta de calcio, proporcionándoles alimentos como la leche y el plátano. Incluir productos lácteos como yogur y queso también ayuda a promover la salud ósea y el crecimiento del cuerpo.</p>
-                <h4>Magnesio:</h4>                
+                <h4 id="1.2.2">Magnesio:</h4>                
                 <p>El magnesio fortalece la musculatura reforzando los huesos. Funciona magníficamente a través de la colaboración con fósforo y contribuye al aumento constante del crecimiento corporal.</p>
-                <h4>Zinc:</h4>
+                <h4 id="1.2.3">Zinc:</h4>
                 <p>Los niños que no están contentos debido a su baja estatura deben optar por el mineral de zinc.  El zinc está disponible en ostras, huevos y carnes rojas. </p>
-                <h4>Boro:</h4>
+                <h4 id="1.2.4">Boro:</h4>
                 <p>El boro es un buen contribuyente que equilibra la cantidad de vitamina D en el cuerpo. Dado que la vitamina D favorece la absorción de calcio a través de los alimentos, debe incluir alimentos que contengan boro, como almendras, frijoles, brócoli, zanahoria, manzana y albaricoque en su dieta diaria.</p>
-                <h3>Proteínas y Carbohidratos </h3>
+                <h3 id="1.3">Proteínas y Carbohidratos </h3>
                 <p>Entre los <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"> alimentos que ayudan a crecer</a> están dos grupos más y estos son: </p>
-                <h4>Proteínas</h4>
+                <h4 id="1.3.1">Proteínas</h4>
                 <p>Este es uno de los factores dietéticos más importantes cuando se trata de <b>aumentar la altura en los niños</b>. La proteína  es esencial para construir, desarrollar y mantener los músculos y tejidos del cuerpo. La deficiencia de proteínas puede provocar un crecimiento anormal o atrofiado, así como una masa muscular baja. Por lo tanto, debe asegurarse de que la dieta de su hijo esté equilibrada y contenga suficientes proteínas.</p>
-                <h4>Carbohidratos</h4>
+                <h4 id="1.3.2">Carbohidratos</h4>
                 <p>Los carbohidratos generalmente se consideran dañinos, pero en realidad son esenciales en una dieta para que los niños aumenten su altura . Los carbohidratos dan energía al cuerpo, especialmente en el caso de los niños. Dicho esto, obviamente debe asegurarse de que la dieta de su hijo se componga de carbohidratos saludables. Los carbohidratos que consume deben provenir de alimentos integrales como trigo y cereales. </p>
                 <p>Los alimentos que contienen harina refinada, como:</p>
                 <ul>
@@ -139,7 +145,7 @@
                 </ul>
                 <p>Son ricos en carbohidratos que pueden ser dañinos.</p>
                 <p>Además de carbohidratos, proteínas, vitaminas y minerales, su hijo también necesita la cantidad recomendada de ácidos grasos omega-3 y omega-6 en su dieta para garantizar una buena salud y una altura óptima. Anime a su hijo a que escoja alimentos que contengan estos nutrientes cuando elija comidas.</p>
-                <h2>Alimentos ricos en vitaminas y minerales </h2>
+                <h2 id="2">Alimentos ricos en vitaminas y minerales </h2>
                 <div class="tamaño-img ">
                     <img width="1000" height="400"  src="/img/generalidades-del-crecimiento-infantil/vitaminas-para-crecer-naturalmente.webp" alt="Banner vitaminas para crecer"></a>
                 </div>
@@ -185,7 +191,7 @@
                 <ul>
                     <li>Pescado</li>
                 </ul>
-                <p>Otra opción no vegetariana, el pescado es rico en proteínas y vitamina D, que son <a href="/generalidades-del-crecimiento-infantil/edad-osea"> necesarias para el desarrollo de huesos  y músculos.</a> </p>
+                <p>Otra opción no vegetariana, el pescado es rico en proteínas y vitamina D, que son <a href="/aprende-del-crecimiento-infantil/edad-osea"> necesarias para el desarrollo de huesos  y músculos.</a> </p>
                 <ul>
                     <li>zanahoria</li>
                 </ul>
@@ -205,9 +211,9 @@
                 <div class="contenedor-video mt-1">
                         <div class="reproductor" data-id="k5kz95BuKcM"></div>
                 </div>
-                <h2>Los alimentos que deben evitarse</h2>
+                <h2 id="3">Los alimentos que deben evitarse</h2>
                 <p>Alimentos que se deben evitar : los refrescos y todas las bebidas gaseosas no solo están llenas de azúcar o edulcorantes peores de algún tipo, a menudo escondidos   , sino que también son inhibidores del calcio. Así es, en realidad a menudo bloquean la capacidad del cuerpo para absorber calcio de manera eficiente. Y como sabemos, <b>el calcio es fundamental para crecer más alto</b>. Los alimentos ricos en carbohidratos, especialmente los que están altamente procesados, como los cereales, el arroz, el pan y las pastas, pueden afectar negativamente a las hormonas de crecimiento humano del cuerpo. Si va a comer estos alimentos cargados de carbohidratos, intente ceñirse a los cereales integrales y los alimentos naturales, no a las versiones instantáneas o procesadas. En general, manténgase alejado de los alimentos altamente procesados.  </p>
-                <h2>Conclusiones del autor</h2>
+                <h2 id="4">Conclusiones del autor</h2>
                 <p>La <b>nutrición</b> juega un papel muy importante en la promoción del <b>crecimiento y desarrollo adecuados</b>. Llenar su <b>dieta</b> con una variedad de <b>ingredientes nutritivos</b> no solo puede mejorar la salud en general, sino que también puede ayudar a su hijo a <b>crecer</b>.</p>
                 <p>Por lo tanto, es importante consumir alimentos saludables y ricos en nutrientes para asegurarse de obtener las vitaminas y minerales que su cuerpo necesita.</p>
 
@@ -223,7 +229,7 @@
                     </div>
                     <div><input type="image" src="/img/Mapas/icono-impresora.png" name="Submit" value="imprimir!" onclick="javascript:window.print()"></div>
                 </div>
-                <h2 id="7">Acerca del Autor</h2> 
+                <h2 id="5">Acerca del Autor</h2> 
                 <div class="author-info">
                     <div><img width="100" height="100" loading="lazy" src="/img/doctores/dra-betzabe-sequoia.webp" alt="Perfil del Doctor Luis Miguel Dorantes Álvarez"></div>
                     <div>

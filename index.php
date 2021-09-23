@@ -23,9 +23,7 @@
                 <h1 class="box-titles-h2">Endocrinólogos pediatras especialistas </b><br>en Crecimiento Infantil</h1>
             </div>
             <div class="banner-doctores-img" title="Doctores especialista en crecimiento infantil de Centro Sequoia"></div>
-            <div class="text-container">
-                <p><b> Centro SEQUOIA</b> es un <b>Centro Pediátrico Exclusivo para el Crecimiento infantil</b> formado por Médicos Pediatras Endocrinólogos, certificados por el Consejo Mexicano de Endocrinología A.C. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente y lo ayudarán a alcanzar una mayor estatura.</p>
-            </div>
+            <p class="centrar-texto"><b> Centro SEQUOIA</b> es un <b>Centro Pediátrico Exclusivo para el Crecimiento infantil</b> formado por Médicos Pediatras Endocrinólogos, certificados por el Consejo Mexicano de Endocrinología A.C. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente y lo ayudarán a alcanzar una mayor estatura.</p>
             <div class="menu-categorias">
                 <a href="/aprende-del-crecimiento-infantil"><div class="index-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
                     <p><i class="fas fa-caret-right"></i>Aprende del crecimiento infantil<i class="fas fa-caret-left"></i></p>
@@ -46,8 +44,8 @@
             <div class="contenedor-video ">
                 <div class="reproductor" data-id="wXL4utyJGQc"></div>
             </div>
-            <p>En Centro <b>Sequoia única y exclusivamente</b> atendemos los padecimientos que afectan la estatura de los niños.</p>
-            <p><b>Nuestros médicos especialistas</b> tienen la experiencia de mas de 30,000 casos atendidos en este campo, lo que nos lleva a ser el centro <b>MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</b></p>            
+            <p class="centrar-texto">En Centro <b>Sequoia única y exclusivamente</b> atendemos los padecimientos que afectan la estatura de los niños.</p>
+            <p class="centrar-texto"><b>Nuestros médicos especialistas</b> tienen la experiencia de mas de 30,000 casos atendidos en este campo, lo que nos lleva a ser el centro <b>MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</b></p>            
             <a href="/especialistas-en-crecimiento">
                 <picture>
                     <source media="(max-width:767px)" srcset="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp">
@@ -58,14 +56,14 @@
             <div class="box-titles">
                 <h2 class="box-titles-h2">¿Sabes si tu hijo o hija esta <br> <b>creciendo adecuadamente</b>?</h2>
             </div>
-            <p><b>Seguramente te has preguntado</b>, ¿Si el crecimiento de tu niño es normal? <b>¿Por qué un hermano menor casi lo alcanza o es más alto?</b> ¿Tu hijo está creciendo más lento de lo habitual? o <b>¿Por qué está en los primeros lugares de las formaciones escolares?</b>, mientras que sus compañeros cada vez tienen mayor altura.</p>
+            <p class="centrar-texto"><b>Seguramente te has preguntado</b>, ¿Si el crecimiento de tu niño es normal? <b>¿Por qué un hermano menor casi lo alcanza o es más alto?</b> ¿Tu hijo está creciendo más lento de lo habitual? o <b>¿Por qué está en los primeros lugares de las formaciones escolares?</b>, mientras que sus compañeros cada vez tienen mayor altura.</p>
             <div class="contenedor-video">
                 <div class="reproductor" data-id="U250LTLFuok"></div>
             </div>
             <div class="box-titles">
                 <h2 class="box-titles-h2">¿Puedo hacer que mi hija o hijo sea mas alto?</h2>
             </div>
-            <p><b>Todo padre desea que su hijo crezca sano y fuerte</b>. Si quieres que tu hijo gane estatura tal vez sea porque sientes que no está creciendo de forma normal o de la forma en la que quisieras que crezca.
+            <p class="centrar-texto"><b>Todo padre desea que su hijo crezca sano y fuerte</b>. Si quieres que tu hijo gane estatura tal vez sea porque sientes que no está creciendo de forma normal o de la forma en la que quisieras que crezca.
             Tráelo a una valoración a <b>Centro Sequoia</b> para que un <b>especialista en crecimiento</b> lo evalúe y pueda mejorar y superar sus <b>proyecciones estimadas</b> de altura.</p>
             <a href="/contact">
                 <picture>
@@ -77,7 +75,7 @@
             <div class="box-titles">
                 <h2 class="box-titles-h2">Somos el grupo más especializado en <b> Crecimiento Infantil</b> de México</h2>
             </div>
-            <p><b>Centro Sequoia</b> es el CENTRO MÁS ESPECIALIZADO de México en baja estatura. Nuestro equipo médico de alta especialidad junto con el personal altamente calificado para el servicio, buscamos brindarte una grata experiencia y los mejores resultados para tu hijo.</p>            
+            <p class="centrar-texto"><b>Centro Sequoia</b> es el CENTRO MÁS ESPECIALIZADO de México en baja estatura. Nuestro equipo médico de alta especialidad junto con el personal altamente calificado para el servicio, buscamos brindarte una grata experiencia y los mejores resultados para tu hijo.</p>            
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="fMd7yeaKhug"></div>
             </div>

@@ -25,6 +25,7 @@
     </div>
     
     <div class="text-container">
+    <p class="centrar-texto"><em>“Revisado médicamente por el <a href="/acerca-de-este-sitio/conoce-a-nuestros-medicos-editores"> equipo médico de Centro Sequoia</a>, México  Publicado el 25 de enero del 2021 y actualizado el 10 de agosto de 2021." (Tiempo de lectura aproximado: 9 minutos)</em></p>
         <h2>Que es la adolescencia</h2>
         <p>La <strong>adolescencia</strong> es un periodo de la vida la cual se caracteriza por esta llena de cambios, los cuales afectan aspectos fundamentales de una persona. A lo largo de los años se modifica la <strong>estructura corporal</strong>, <strong>nuestros pensamientos</strong>, <strong>nuestra identidad</strong> y las <strong>relaciones</strong> que formamos tanto con la familia como socialmente. La adolescencia constituye una etapa de cambios, como nota diferencial respecto a los que ocurren a lo largo de la vida, representan la transición a la <strong>madurez</strong>, estos cambios van desde <strong>físicos</strong>, <strong>psicológicos</strong>, <strong>sociales</strong>, <strong>hormonales</strong> hasta <strong>cognitivos</strong>.</p>
         <p>Esta etapa de transición entre la infancia y la adultez ocurre aproximadamente entre los <strong>11-12 años</strong> y los <strong>18-20 años</strong>. Debido al amplio intervalo de tiempo que corresponde a la adolescencia, esta puede ser dividida en varias etapas, la <strong>adolescencia temprana</strong> que ocurre entre los 11-14 años; la <strong>adolescencia media</strong>, entre los 15-18 años y la <strong>adolescencia tardía</strong> o juventud, a partir de los 18 años.</p>
@@ -65,11 +66,14 @@
         <h2>Cambios hormonales en la adolescencia</h2>
         <p>Las hormonas en los adolescentes traen consigo una <strong>gran cantidad de cambios</strong>, tanto en el físico como en el estado de ánimo. Estos cambios son causados por las llamadas hormonas sexuales: <strong>andrógenos</strong>, <strong>estrógenos</strong> y <strong>progesterona</strong>, sin las cuales no podrían llevarse acabo cambios en el <strong>desarrollo físico y sexual</strong>, así como afectar en gran medida el estado de ánimo y las emociones en adolescentes.</p>
     </div>
-    <picture>
-        <source media="(max-width:767px)" srcset="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp">
-        <source media="(min-width: 767px)" srcset="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp">
-        <img class="tamaño-img" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto">
-    </picture>
+    
+    <a href="/contact">
+        <picture>
+            <source media="(max-width:767px)" srcset="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp">
+            <source media="(min-width: 767px)" srcset="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp">
+            <img class="tamaño-img" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto">
+        </picture>
+    </a>
 
 </main>
 

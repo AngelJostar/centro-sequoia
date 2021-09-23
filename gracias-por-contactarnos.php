@@ -9,7 +9,6 @@
 <meta name="format-detection" content="telephone=no">
 <title>Gracias por contactarnos</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="/css/style-slider.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
@@ -27,7 +26,7 @@
             <div class="cuadros-crecimiento ph-1-3 pbh-1-3 mt-1">
                 <div class="barra-titulo"></div>
             </div>
-            <a href="/crecimiento-infantil">
+            <a href="/aprende-del-crecimiento-infantil">
                 <picture>
                     <source media="(max-width:767px)" srcset="/img/banners/GRACIAS-MOVIL.webp">
                     <source media="(min-width: 767px)" srcset="/img/banners//GRACIAS-DESKTOP.webp">

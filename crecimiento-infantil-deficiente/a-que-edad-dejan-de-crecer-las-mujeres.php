@@ -192,7 +192,7 @@
                     manera saludable.</p>
                 <p>Si le preocupa el patrón de crecimiento de su hija, <a href="/contact"> comuníquese con un médico de Centro Sequoia </a> lo antes posible.</p>
                 <p>Es probable que su médico le pregunte sobre el historial de crecimiento de su familia. Examinarán a su hija y observarán cuidadosamente su <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"> curva de crecimiento.</a></p>
-                <p>A veces, su médico puede usar pruebas como <a href="/generalidades-del-crecimiento-infantil/edad-osea"> radiografías </a> o análisis de sangre para ayudarlos a determinar las causas de los retrasos en el crecimiento.</p>
+                <p>A veces, su médico puede usar pruebas como <a href="/aprende-del-crecimiento-infantil/edad-osea"> radiografías </a> o análisis de sangre para ayudarlos a determinar las causas de los retrasos en el crecimiento.</p>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>En la consulta del doctor</b></h2>

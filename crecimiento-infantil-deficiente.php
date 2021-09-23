@@ -25,16 +25,16 @@
             <p>Cualquiera que sea la edad de su hijo, es importante saber si está creciendo como debería. Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.</p>
         <div class="menu-categorias">
             <a href="/generalidades-del-crecimiento-infantil/como-crecer-de-estatura"><div class="crecimiento-deficiente-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
-                <p><i class="fas fa-caret-right"></i>¿Como crecer de estatura?<i class="fas fa-caret-left"></i></p>
+                <p><i class="fas fa-caret-right"></i>¿Cómo crecer de estatura?<i class="fas fa-caret-left"></i></p>
             </div></a>
             <!-- <a href="#"><div class="padecimientos-img-2 menu-categorias-img" title="">
                 <p><i class="fas fa-caret-right"></i>¿Porque los niños tienen diferentes estaturas?<i class="fas fa-caret-left"></i></p>
             </div></a> -->
             <a href="/crecimiento-infantil-deficiente/a-que-edad-dejan-de-crecer-las-mujeres"><div class="crecimiento-deficiente-img-3 menu-categorias-img" title="">
-                <p><i class="fas fa-caret-right"></i>A que edad dejan de crecer las mujeres<i class="fas fa-caret-left"></i></p>
+                <p><i class="fas fa-caret-right"></i>A qué edad dejan de crecer las mujeres<i class="fas fa-caret-left"></i></p>
             </div></a>
             <a href="/crecimiento-infantil-deficiente/hasta-que-edad-crecen-los-hombres"><div class="crecimiento-deficiente-img-4 menu-categorias-img" title="">
-                <p><i class="fas fa-caret-right"></i>hasta que edad dejan de crecer los hombres<i class="fas fa-caret-left"></i></p>
+                <p><i class="fas fa-caret-right"></i>hasta qué edad dejan de crecer los hombres<i class="fas fa-caret-left"></i></p>
             </div></a>
             <a href="/crecimiento-infantil-deficiente/ejercicios-para-crecer-de-estatura"><div class="crecimiento-deficiente-img-5 menu-categorias-img" title="">
                 <p><i class="fas fa-caret-right"></i>Ejercicios para crecer de estatura <i class="fas fa-caret-left"></i></p>
