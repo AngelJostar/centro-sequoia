@@ -43,7 +43,7 @@
                 <div class="reproductor" data-id="HL-ZfKbKOy8"></div>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p>La mayoría de los hombres alcanzan su altura máxima <a href="/crecimiento-infantil-por-edad/adolecentes-12-16">alrededor de los 16 años.</a> Incluso si un adolescente llega tarde a la pubertad, es poco probable que crezca significativamente después de los 18 a los 20 años. </p>
+                <p>La mayoría de los hombres alcanzan su altura máxima <a href="/etapas-de-la-ninez/">alrededor de los 16 años.</a> Incluso si un adolescente llega tarde a la pubertad, es poco probable que crezca significativamente después de los 18 a los 20 años. </p>
                 <p>El cuerpo de un hombre pasa por muchos cambios durante la pubertad. <a href="/aprende-del-crecimiento-infantil/etapas-del-desarollo-de-tanner/"> Estos cambios</a> pueden ser vergonzosos o confusos, pero el proceso les sucede a todos y saber qué esperar puede ayudar.</p>
                 <p>El crecimiento durante la pubertad de los hombres ocurre durante un período prolongado, por lo que puede ser difícil saber cuándo ha terminado. </p>
                 <p>Cada niño crece a ritmos diferentes y la pubertad comienza y termina en momentos diferentes para todos. La pubertad puede durar entre 2 y 5 años, por lo que no siempre es fácil predecir cuándo terminará.</p>
@@ -55,7 +55,7 @@
                 <a href="/generalidades-del-crecimiento-infantil/como-crecer-de-estatura"><img src="/img/banners/banner-como-crecer-naturalmente.webp" alt="Banner como crecer naturalmente"></a>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p>La <a href="/crecimiento-infantil-por-edad">pubertad es diferente para todos y puede comenzar a cualquier edad</a> entre los 8 y los 14 años. La edad promedio para que los niños muestren los primeros signos de la pubertad es alrededor de los 12 años, aproximadamente 1 año después de que las niñas comienzan la pubertad.</p>
+                <p>La <a href="/etapas-de-la-ninez/">pubertad es diferente para todos y puede comenzar a cualquier edad</a> entre los 8 y los 14 años. La edad promedio para que los niños muestren los primeros signos de la pubertad es alrededor de los 12 años, aproximadamente 1 año después de que las niñas comienzan la pubertad.</p>
                 <p>La tasa de crecimiento más rápida suele ser de 1 a 2 años después del inicio de la pubertad.</p>
                 <p>Convertirse físicamente en un adulto lleva de 2 a 5 años. La mayoría de los niños dejarán de crecer a los 16 años y, por lo general, se habrán desarrollado completamente a los 18. Sin embargo, los hombres todavía se desarrollan de otras maneras hasta bien entrados los veinte.</p>
                 <p>Una fuente confiable de investigación ha descubierto que el cerebro no se desarrolla por completo hasta los 25 años y los hombres generalmente alcanzan la masa muscular máxima en algún momento entre los 20 y los 30 años.</p>

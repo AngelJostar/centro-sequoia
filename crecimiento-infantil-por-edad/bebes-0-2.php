@@ -189,7 +189,7 @@
         line-height: normal;
 }
     </style>
-<p><span style="font-weight: 400;">Un retraso en la </span><a href="https://centrosequoia.com.mx/crecimiento-infantil-por-edad/bebes-0-2/"><b>estatura de niños</b></a><span style="font-weight: 400;"> y el crecimiento ocurre cuando un niño no está creciendo al ritmo normal para su edad, por eso los padres deben estar </span><b>pendientes del peso y talla desde que son bebés</b><span style="font-weight: 400;">. El retraso puede deberse a un problema de salud preexistente, como la deficiencia de la</span><b> hormona del crecimiento o el hipotiroidismo</b><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Un retraso en la </span><a href="https://centrosequoia.com.mx/etapas-de-la-ninez//"><b>estatura de niños</b></a><span style="font-weight: 400;"> y el crecimiento ocurre cuando un niño no está creciendo al ritmo normal para su edad, por eso los padres deben estar </span><b>pendientes del peso y talla desde que son bebés</b><span style="font-weight: 400;">. El retraso puede deberse a un problema de salud preexistente, como la deficiencia de la</span><b> hormona del crecimiento o el hipotiroidismo</b><span style="font-weight: 400;">.</span></p>
 <p style="text-align: center;"><span id="dots">... </span></p>
 <div id="masTexto">
 <p><span style="font-weight: 400;">En algunos casos, el </span><b>tratamiento temprano puede ayudar a un niño a alcanzar una estatura normal</b><span style="font-weight: 400;">. El crecimiento y el desarrollo van de la mano. De hecho, el crecimiento normal es un indicador importante de la salud y el bienestar general de tu hijo a medida que crece.</span></p>

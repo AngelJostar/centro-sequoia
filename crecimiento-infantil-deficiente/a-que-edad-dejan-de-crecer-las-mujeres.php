@@ -48,7 +48,7 @@
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p><b>Las mujeres dejan de crecer</b> y alcanzan la estatura adulta <b>a los 14 o 15 años.</b> O un par de años después de que comienza la menstruación.</p>
-                <p><a href="/crecimiento-infantil-por-edad">Las niñas crecen a un ritmo</a> rápido durante la infancia y la niñez. Cuando llegan a la <a href="/crecimiento-infantil-por-edad/adolecentes-12-16"> pubertad </a>, el crecimiento vuelve a aumentar
+                <p><a href="/etapas-de-la-ninez/">Las niñas crecen a un ritmo</a> rápido durante la infancia y la niñez. Cuando llegan a la <a href="/etapas-de-la-ninez/"> pubertad </a>, el crecimiento vuelve a aumentar
                     drásticamente.
                 </p>
             </div>

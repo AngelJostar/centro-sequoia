@@ -122,7 +122,7 @@
                     <img width="1000" height="400"  src="/img/crecimiento-infantil-deficiente/benificios-de-saltar-la-cuerda.webp" alt="Beneficios de saltar la cuerda"></a>
                 </div>
                 <h2 id="ejercicios-evitar">Ejercicios que se deben evitar </h2>
-                <p>El <b> levantamiento de pesas</b> pesado puede interferir con la hormona del crecimiento humano natural en la <a href="/crecimiento-infantil-por-edad"> preadolescencia y la adolescencia</a>. <b> No se recomienda</b> que los niños levanten pesas o realicen ningún tipo de entrenamiento con pesas estresante. </p>
+                <p>El <b> levantamiento de pesas</b> pesado puede interferir con la hormona del crecimiento humano natural en la <a href="/etapas-de-la-ninez/"> preadolescencia y la adolescencia</a>. <b> No se recomienda</b> que los niños levanten pesas o realicen ningún tipo de entrenamiento con pesas estresante. </p>
                 <p>Levantar pesas en un gimnasio en realidad puede dificultar la altura de su hijo, así que no lo permita. Apégate a los ejercicios y deportes con el peso corporal para desarrollar fuerza. La interrupción de la secreción de la <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento/"> hormona del crecimiento </a> puede tener un impacto dramático en la altura.</p>
                 <h2 id="activo">Mantenerse activo</h2>
                 <p>El <b> ejercicio regular</b> tiene muchos <b> beneficios</b>. Fortalece sus músculos y huesos, lo ayuda a mantener un peso saludable y promueve la producción de hormona de crecimiento.</p>
