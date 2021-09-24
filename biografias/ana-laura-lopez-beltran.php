@@ -94,12 +94,12 @@
                     <p>Gracias a esto la <b> Dra. López Beltrán </b>es Certificada por el <b> Consejo Mexicano de Endocrinología</b> y reconocida como una de las mejores especialistas en <b>Endocrinología Pediátrica</b>  del Estado de <b> Jalisco.</b></p>
                 <h2>Trastonos tratados</h2>
                 <ul class="medic-inner-list">
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/baja-estatura-familiar/"><li>Baja Estatura familiar</li></a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/baja-estatura-idiopatica/"><li>Baja Estatura idiopática</li></a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad/"><li>Retraso del crecimiento y pubertad</li></a>
+                    <a href="https://centrosequoia.com.mx/factores-que-perjudican-el-crecimiento/baja-estatura-familiar/"><li>Baja Estatura familiar</li></a>
+                    <a href="https://centrosequoia.com.mx/factores-que-perjudican-el-crecimiento/baja-estatura-idiopatica/"><li>Baja Estatura idiopática</li></a>
+                    <a href="https://centrosequoia.com.mx/padecimentos-que-afectan-el-crecimiento/retraso-constitucional-del-crecimiento-y-la-pubertad/"><li>Retraso del crecimiento y pubertad</li></a>
                     <a href="https://centrosequoia.com.mx/padecimentos-que-afectan-el-crecimiento/pequeno-para-la-edad-gestacional/"><li>Pequeños para edad gestacional</li></a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento/"><li>Deficiencia de Hormona de Crecimiento</li></a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/sindrome-de-turner/"><li>Síndrome de Turner</li></a>
+                    <a href="https://centrosequoia.com.mx/aprende-del-crecimiento-infantil/hormona-del-crecimiento/"><li>Deficiencia de Hormona de Crecimiento</li></a>
+                    <a href="https://centrosequoia.com.mx/sindromes/sindrome-de-turner/"><li>Síndrome de Turner</li></a>
                 </ul>
                 <h2>Ubicación en cedes de Centro Sequoia</h2>
                 <a href="https://centrosequoia.com.mx/guadalajara/"><p>Guadalajara Jalisco </p></a>

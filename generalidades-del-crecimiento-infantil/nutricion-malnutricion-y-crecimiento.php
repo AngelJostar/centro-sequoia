@@ -117,31 +117,31 @@
                 </div>
             </div>
             <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
-                <a href="/tablas/verduras.php" target="_blank"><button class="boton-e boton-esp">VERDURAS</button></a>
+                <a href="/tablas/verduras/" target="_blank"><button class="boton-e boton-esp">VERDURAS</button></a>
             </div>
             <div class="centrar-texto texto-boton-esp pb-2">
-                <a href="/tablas/productos-de-origen-animal.php" target="_blank"><button class="boton-e boton-esp">PRODUCTOS DE ORIGEN ANIMAL</button></a>
+                <a href="/tablas/productos-de-origen-animal/" target="_blank"><button class="boton-e boton-esp">PRODUCTOS DE ORIGEN ANIMAL</button></a>
             </div>
             <div class="centrar-texto texto-boton-esp pb-2">
-                <a href="/tablas/leche.php" target="_blank"><button class="boton-e boton-esp">LECHE</button></a>
+                <a href="/tablas/leche/" target="_blank"><button class="boton-e boton-esp">LECHE</button></a>
             </div>
             <div class="centrar-texto texto-boton-esp pb-2">
-                <a href="/tablas/leguminosas.php" target="_blank"><button class="boton-e boton-esp">LEGUMINOSAS</button></a>
+                <a href="/tablas/leguminosas/" target="_blank"><button class="boton-e boton-esp">LEGUMINOSAS</button></a>
             </div>
             <div class="centrar-texto texto-boton-esp pb-2">
-                <a href="/tablas/grasas.php" target="_blank"><button class="boton-e boton-esp">GRASAS</button></a>
+                <a href="/tablas/grasas/" target="_blank"><button class="boton-e boton-esp">GRASAS</button></a>
             </div>
             <div class="centrar-texto texto-boton-esp pb-2">
-                <a href="/tablas/azucares.php" target="_blank"><button class="boton-e boton-esp">AZÚCARES</button></a>
+                <a href="/tablas/azucares/" target="_blank"><button class="boton-e boton-esp">AZÚCARES</button></a>
             </div>
             <div class="centrar-texto texto-boton-esp pb-2">
-                <a href="/tablas/cereales-con-grasa.php" target="_blank"><button class="boton-e boton-esp">CEREALES CON GRASA</button></a>
+                <a href="/tablas/cereales-con-grasa/" target="_blank"><button class="boton-e boton-esp">CEREALES CON GRASA</button></a>
             </div>
             <div class="centrar-texto texto-boton-esp pb-2">
-                <a href="/tablas/cereales-y-tuberculos.php" target="_blank"><button class="boton-e boton-esp">CEREALES TUBÉRCULOS</button></a>
+                <a href="/tablas/cereales-y-tuberculos/" target="_blank"><button class="boton-e boton-esp">CEREALES TUBÉRCULOS</button></a>
             </div>
             <div class="centrar-texto texto-boton-esp pb-2">
-                <a href="/tablas/frutas.php" target="_blank"><button class="boton-e boton-esp">FRUTOS</button></a>
+                <a href="/tablas/frutas/" target="_blank"><button class="boton-e boton-esp">FRUTOS</button></a>
             </div>
             <div class="tamaño-img pb-2">
                 <a href="/aprende-del-crecimiento-infantil/edad-osea"><img src="/img/banners/banner-edad-osea.webp" alt="Banner que lleva a edad osea"></a>

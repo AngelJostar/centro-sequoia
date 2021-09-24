@@ -112,22 +112,22 @@
                 <p>Al Dr. Luis Miguel Dorantes Álvarez lo caracteriza por sobre todo su amor por los niños, la buena relación que establece con ellos y su interés por ayudarlos sin dañarlos.</p>
                 <h2>Trastonos tratados</h2>
                 <ul class="medic-inner-list">
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/baja-estatura-familiar/">
+                    <a href="https://centrosequoia.com.mx/factores-que-perjudican-el-crecimiento/baja-estatura-familiar/">
                         <li>Baja Estatura familiar</li>
                     </a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/baja-estatura-idiopatica/">
+                    <a href="https://centrosequoia.com.mx/factores-que-perjudican-el-crecimiento/baja-estatura-idiopatica/">
                         <li>Baja Estatura idiopática</li>
                     </a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad/">
+                    <a href="https://centrosequoia.com.mx/padecimentos-que-afectan-el-crecimiento/retraso-constitucional-del-crecimiento-y-la-pubertad/">
                         <li>Retraso del crecimiento y pubertad</li>
                     </a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento/">
+                    <a href="https://centrosequoia.com.mx/aprende-del-crecimiento-infantil/hormona-del-crecimiento/">
                         <li>Deficiencia de Hormona de Crecimiento</li>
                     </a>
                     <a href="https://centrosequoia.com.mx/padecimentos-que-afectan-el-crecimiento/pequeno-para-la-edad-gestacional/">
                         <li>Pequeños para edad gestacional</li>
                     </a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/sindrome-de-turner/">
+                    <a href="https://centrosequoia.com.mx/sindromes/sindrome-de-turner/">
                         <li>Síndrome de Turner</li>
                     </a>
                     <li>Acondroplasia</li>

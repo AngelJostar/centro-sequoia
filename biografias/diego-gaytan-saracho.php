@@ -98,14 +98,14 @@
                 <p>Endocrinólogo Pediatría, corredor y amante del impresionismo. La subespecialidad de Endocrinología Pediátrica la realice en la ciudad de México, en el hospital Infantil de México Federico Gómez. Al finalizar inicie el posgrado de alta especialidad en Medicina, avalado por la universidad Autónoma de México en diabetes mellitus del niño y del adolescente, posteriormente complete otro posgrado de alta especialidad en Medicina, igualmente avalado por la universidad Autónoma de México en obesidad infantil y juvenil, así también diplomado en Fundamentos del crecimiento. Con gran trayectoria en manejo de pacientes tanto en el ámbito institucional como privado.</p>
                 <h2>Trastonos tratados</h2>
                 <ul class="medic-inner-list">
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/baja-estatura-familiar/"><li>Baja Estatura familiar</li></a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/baja-estatura-idiopatica/"><li>Baja Estatura idiopática</li></a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad/"><li>Retraso del crecimiento y pubertad</li></a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento/"><li>Deficiencia de Hormona de Crecimiento</li></a>
+                    <a href="https://centrosequoia.com.mx/factores-que-perjudican-el-crecimiento/baja-estatura-familiar/"><li>Baja Estatura familiar</li></a>
+                    <a href="https://centrosequoia.com.mx/factores-que-perjudican-el-crecimiento/baja-estatura-idiopatica/"><li>Baja Estatura idiopática</li></a>
+                    <a href="https://centrosequoia.com.mx/padecimentos-que-afectan-el-crecimiento/retraso-constitucional-del-crecimiento-y-la-pubertad/"><li>Retraso del crecimiento y pubertad</li></a>
+                    <a href="https://centrosequoia.com.mx/aprende-del-crecimiento-infantil/hormona-del-crecimiento/"><li>Deficiencia de Hormona de Crecimiento</li></a>
                     <a href="https://centrosequoia.com.mx/padecimentos-que-afectan-el-crecimiento/pequeno-para-la-edad-gestacional/"><li>Pequeños para edad gestacional</li></a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/sindrome-de-turner/"><li>Síndrome de Turner</li></a>
+                    <a href="https://centrosequoia.com.mx/sindromes/sindrome-de-turner/"><li>Síndrome de Turner</li></a>
                     <li>Acondroplasia</li>
-                    <a href="https://centrosequoia.com.mx/generalidades-del-crecimiento-infantil/pubertad-precoz/"><li>Pubertad Precoz</li></a>
+                    <a href="/padecimentos-que-afectan-el-crecimiento/pubertad-precoz/"><li>Pubertad Precoz</li></a>
                     <li>Obesidad y síndrome metabólico</li>
                     <li>Problemas tiroideos</li>
                     <li>Pubertad retrasada</li>

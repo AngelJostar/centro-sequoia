@@ -133,7 +133,7 @@
 }
   </style>
 
-<p><span style="font-weight: 400;">El </span><a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad/"><b>retraso en el crecimiento</b></a><span style="font-weight: 400;"> en la vida temprana, generalmente en los primeros días </span><b>desde la concepción hasta la edad de dos años</b><span style="font-weight: 400;">, el crecimiento deficiente tiene consecuencias funcionales adversas en el pequeño.</span></p>
+<p><span style="font-weight: 400;">El </span><a href="https://centrosequoia.com.mx/padecimentos-que-afectan-el-crecimiento/retraso-constitucional-del-crecimiento-y-la-pubertad/"><b>retraso en el crecimiento</b></a><span style="font-weight: 400;"> en la vida temprana, generalmente en los primeros días </span><b>desde la concepción hasta la edad de dos años</b><span style="font-weight: 400;">, el crecimiento deficiente tiene consecuencias funcionales adversas en el pequeño.</span></p>
 <p style="text-align: center;"><span id="dots">... </span></p>
 <div id="masTexto">
 <p><span style="font-weight: 400;">Algunos de estos resultados incluyen </span><b>mala cognición y rendimiento educativo</b><span style="font-weight: 400;">, pérdida de productividad y cuando se acompaña de un aumento de peso excesivo en la infancia, un mayor riesgo de </span><b>enfermedades crónicas</b><span style="font-weight: 400;"> relacionadas con la nutrición en la vida adulta.</span></p>
@@ -212,7 +212,7 @@ function leerMasCategoria() {
         "@type": "ListItem",
         "position": 2,
         "name": "retraso constitucional del crecimiento y la pubertad",
-        "item": "https://centrosequoia.com.mx/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad/https://centrosequoia.com.mx/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad/"
+        "item": "https://centrosequoia.com.mx/padecimentos-que-afectan-el-crecimiento/retraso-constitucional-del-crecimiento-y-la-pubertad/https://centrosequoia.com.mx/padecimentos-que-afectan-el-crecimiento/retraso-constitucional-del-crecimiento-y-la-pubertad/"
       }]
     }
     </script>

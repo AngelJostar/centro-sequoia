@@ -46,7 +46,7 @@
                 <h2><b>Qué si puedes controlar y qué no puedes controlar</b></h2>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p>Varios factores contribuyen a la <b>estatura final de crecimiento</b> de tu hijo o hija. Se cree que los <a href="/generalidades-del-crecimiento-infantil/factores-que-afectan-el-crecimiento">factores genéticos</a>representan del 60 al 80 por ciento de su <b> estatura final.</b> Ciertos factores ambientales, como la nutrición y el ejercicio, suelen representar el porcentaje restante.</p>
+                <p>Varios factores contribuyen a la <b>estatura final de crecimiento</b> de tu hijo o hija. Se cree que los <a href="/factores-que-influyen-en-el-crecimiento/">factores genéticos</a>representan del 60 al 80 por ciento de su <b> estatura final.</b> Ciertos factores ambientales, como la nutrición y el ejercicio, suelen representar el porcentaje restante.</p>
                 <p>Entre <a href="/crecimiento-infantil-por-edad"> 1 año de edad y la pubertad </a>, la mayoría de las personas aumentan aproximadamente 5 centímetros de estatura cada año. Una vez que llega la pubertad, es posible que tus hijos crezcan a un ritmo de 10 centímetros por año. Sin embargo, todos crecen a un ritmo diferente.</p>
                 <p>Para las niñas, este brote de crecimiento generalmente comienza temprano en la adolescencia. Es posible que los niños no experimenten este aumento repentino de estatura hasta el final de la adolescencia. </p>
             </div>
@@ -157,7 +157,7 @@
                 <h2><b>6. Entender que la estatura depende de la genética</b></h2>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p>Comprende que la estatura a menudo se determina a través de la <a href="/generalidades-del-crecimiento-infantil/factores-que-afectan-el-crecimiento">genética</a>. Los científicos calculan que entre el 60% y el 80% de su estatura está determinada por los genes. Eso no quiere decir que no puedas crecer alto si tus padres son más bajos; simplemente significa que tener padres más bajos significa que es más probable que sea más bajo. </p>
+                <p>Comprende que la estatura a menudo se determina a través de la <a href="/factores-que-influyen-en-el-crecimiento/">genética</a>. Los científicos calculan que entre el 60% y el 80% de su estatura está determinada por los genes. Eso no quiere decir que no puedas crecer alto si tus padres son más bajos; simplemente significa que tener padres más bajos significa que es más probable que sea más bajo. </p>
                 <p>Hay muchos factores que determinan la estatura adulta. Mucha gente cree que la estatura humana está determinada solo por la genética, pero eso no es del todo cierto. La genética es el factor principal que determina qué tan alto será una persona una vez que haya terminado de crecer, pero hay otros.</p>
                 <p>Los factores ambientales y de estilo de vida también entran en juego durante la niñez y la adolescencia. La <b>nutrición,</b> por ejemplo, juega un papel importante en la determinación de la estatura. De hecho, los científicos han teorizado que una mejor nutrición puede ser la razón principal por la que <b>la estatura humana promedio</b> ha aumentado significativamente durante el último siglo. Por eso es tan importante asegurarse de que los niños estén bien alimentados, desde el momento en que amamantan hasta que crecen por completo.</p>
             </div>
@@ -179,7 +179,7 @@
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>Trate las enfermedades tan pronto como su hijo se sienta enfermo porque retrasan su crecimiento. Cuando está muy enfermo, su cuerpo concentra su energía en mejorarlo. Esto significa que su crecimiento puede verse atrofiado. No se preocupe porque el tratamiento de su enfermedad lo ayudará a comenzar a crecer nuevamente. Visite a su médico para obtener un diagnóstico y tratamiento adecuados. </p>
                 <p>Si el crecimiento de tu hijo se ralentiza porque estuvo enfermo por un tiempo, aún puede ponerse al día y alcanzar su estatura máxima si mejora su nutrición y se cuida.</p>
-                <p>Además, hay algunos padecimientos crónicos que afectan el crecimiento de los niños y adolescentes. Para conocer más de este tema <a href="/causas-de-la-baja-estatura/padecimientos-y-enfermedades-cronicas-que-afectan-el-crecimiento">¡Da clic aquí!</a></p>
+                <p>Además, hay algunos padecimientos crónicos que afectan el crecimiento de los niños y adolescentes. Para conocer más de este tema <a href="/factores-que-perjudican-el-crecimiento/padecimientos-que-afectan-el-crecimiento/">¡Da clic aquí!</a></p>
             </div>
             <!--Banner -->
             <div class=" pt-15 justificar-texto-90  ">
@@ -187,7 +187,7 @@
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>Visite a un <a href="/https://centrosequoia.com.mx/">médico de Centro Sequoia</a>, <a href="/especialistas-en-crecimiento">especializado en crecimiento de los niños</a> si le preocupa que su hijo sea más bajo que el promedio. Ser bajo puede ser parte de lo que eres, ¡y eso es algo bueno! Al mismo tiempo, es posible que se preocupe si todos los miembros de su familia son más altos. Hable con su médico para averiguar si es posible que tenga una afección médica que esté causando su estatura más baja y que podría requerir tratamiento.</p>
-                <p>Por ejemplo, afecciones como hipotiroidismo, niveles más <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento">bajos de hormonas de crecimiento</a>, <a href="/generalidades-del-crecimiento-infantil/hormona-del-crecimiento">síndrome de Turner</a> y afecciones médicas graves pueden obstaculizar su crecimiento.</p>
+                <p>Por ejemplo, afecciones como hipotiroidismo, niveles más <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento/">bajos de hormonas de crecimiento</a>, <a href="/generalidades-del-crecimiento-infantil/hormona-del-crecimiento">síndrome de Turner</a> y afecciones médicas graves pueden obstaculizar su crecimiento.</p>
                 <p>Consejo: si tiene una afección médica que retrasa su crecimiento, su médico puede complementarlo con un tratamiento de hormona del crecimiento. Esto te ayudará a superar el retraso en el crecimiento, pero no te hará crecer más alto de lo que te permite tu genética.</p>
                 <p>¡Si quieres hablar con un médico especialista en crecimiento infantil que te asesore en <b>cómo crecer de estatura</b> no dudes en comunicarte con nosotros! Somos especialistas en crecimiento infantil.</p>
             </div>

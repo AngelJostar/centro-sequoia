@@ -91,10 +91,10 @@
                 <p>La endocrinología pediátrica atiende en el menor todo lo relacionado a alteraciones en el crecimiento y desarrollo físico y sexual (puberal), así como los relacionados con la glándula tiroides, alteraciones de la diferenciación sexual, alteraciones en el tamiz neonatal, diabetes, obesidad, entre otros muchos problemas por alteraciones hormonales.</p>
                 <h2>Trastonos tratados</h2>
                 <ul class="medic-inner-list">
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/baja-estatura-familiar/"><li>Baja Estatura familiar</li></a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/baja-estatura-idiopatica/"><li>Baja Estatura idiopática</li></a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad/"><li>Retraso del crecimiento y pubertad</li></a>
-                    <a href="https://centrosequoia.com.mx/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento/"><li>Deficiencia de Hormona de Crecimiento</li></a>
+                    <a href="https://centrosequoia.com.mx/factores-que-perjudican-el-crecimiento/baja-estatura-familiar/"><li>Baja Estatura familiar</li></a>
+                    <a href="https://centrosequoia.com.mx/factores-que-perjudican-el-crecimiento/baja-estatura-idiopatica/"><li>Baja Estatura idiopática</li></a>
+                    <a href="https://centrosequoia.com.mx/padecimentos-que-afectan-el-crecimiento/retraso-constitucional-del-crecimiento-y-la-pubertad/"><li>Retraso del crecimiento y pubertad</li></a>
+                    <a href="https://centrosequoia.com.mx/aprende-del-crecimiento-infantil/hormona-del-crecimiento/"><li>Deficiencia de Hormona de Crecimiento</li></a>
                 </ul>
                 <h2>Ubicación en cedes de Centro Sequoia</h2>
                 <a href="https://centrosequoia.com.mx/ciudad-de-mexico/"><p>Ciudad de México, México</p></a>

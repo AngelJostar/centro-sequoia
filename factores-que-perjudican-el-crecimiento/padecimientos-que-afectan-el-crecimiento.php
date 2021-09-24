@@ -94,7 +94,7 @@
                 </ul>
 
                 <div class="tamaño-img">
-                    <a  href="/causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento"><img width="1000" height="1000" loading="lazy" src="/img/causas-de-la-baja-estatura/banner-sindrome-de-williams.webp" alt="banner que enlaza a sindrome de williams"></a>
+                    <a  href="/factores-que-perjudican-el-crecimiento/sindromes-que-afectan-el-crecimiento/"><img width="1000" height="1000" loading="lazy" src="/img/causas-de-la-baja-estatura/banner-sindrome-de-williams.webp" alt="banner que enlaza a sindrome de williams"></a>
                 </div>
                 <div class="ocultar-media">
                     <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>

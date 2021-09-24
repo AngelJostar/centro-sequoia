@@ -115,7 +115,7 @@
                 <h2><b>¿Qué papel juega la genética en la altura?</b></h2>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p>Tu altura tiene mucho que ver con lo <a href="/causas-de-la-baja-estatura/baja-estatura-familiar"> altos o bajos que sean tus padres.</a> Los patrones de crecimiento tienden a ser hereditarios.</p>
+                <p>Tu altura tiene mucho que ver con lo <a href="/factores-que-perjudican-el-crecimiento/baja-estatura-familiar/"> altos o bajos que sean tus padres.</a> Los patrones de crecimiento tienden a ser hereditarios.</p>
                 <p>Al observar el crecimiento de los niños, los pediatras a menudo preguntan a los padres sobre su propia estatura, antecedentes familiares de estatura y patrones de crecimiento.</p>
                 <p>Hay un par de formas diferentes de predecir qué tan alta puede crecer una niña. Uno de estos métodos se llama <a href="/generalidades-del-crecimiento-infantil/talla-blanco-familiar"> “Talla Diana” o “Talla Blanco Familiar”</a></p>
                 <p>Para usar este método, se suma la altura del padre y de la madre, se divide por dos y se le suma 6,5 si se trata de un niño y se le resta 6,5 si se trata de una niña. Hay que tener en cuenta (según los autores de tal cálculo) que el resultado
@@ -149,10 +149,10 @@
                 <p>Una buena <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"> nutrición </a> es importante para el crecimiento y el desarrollo. Una dieta bien equilibrada, que les brinde a los adolescentes en crecimiento
                     todos los nutrientes que necesitan y que se mantengan físicamente activos, respaldará el crecimiento continuo y el desarrollo adecuado.
                 </p>
-                <p>Pero la pubertad y el crecimiento posterior pueden retrasarse por diversas razones. <a href="/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad"> El retraso constitucional,</a> o "ser un tardío", describe
+                <p>Pero la pubertad y el crecimiento posterior pueden retrasarse por diversas razones. <a href="/padecimentos-que-afectan-el-crecimiento/retraso-constitucional-del-crecimiento-y-la-pubertad/"> El retraso constitucional,</a> o "ser un tardío", describe
                     un patrón de desarrollo posterior que se da en familias y no es motivo de preocupación. Estos adolescentes se desarrollarán completamente, justo más tarde que sus compañeros.</p>
                 <p>Las niñas necesitan cierta cantidad de grasa corporal antes de que sus cuerpos comiencen a pasar por la <b> pubertad.</b> Esto significa que las mujeres adolescentes que hacen mucho ejercicio pueden comenzar el proceso más tarde.</p>
-                <p>Los niños con <a href="/causas-de-la-baja-estatura/padecimientos-y-enfermedades-cronicas-que-afectan-el-crecimiento"> afecciones a largo plazo,</a> como diabetes, fibrosis quística, enfermedad renal o asma, también pueden experimentar
+                <p>Los niños con <a href="/factores-que-perjudican-el-crecimiento/padecimientos-que-afectan-el-crecimiento/"> afecciones a largo plazo,</a> como diabetes, fibrosis quística, enfermedad renal o asma, también pueden experimentar
                     retraso en la pubertad. Esto puede ser menos probable si la afección está bien controlada, con complicaciones limitadas.</p>
                 <p>Los problemas con la glándula pituitaria o tiroides, que producen las hormonas que el cuerpo necesita para crecer y desarrollarse, también pueden retrasar la pubertad. Asimismo, los problemas cromosómicos asociados con algunas afecciones
                     genéticas pueden interferir con el proceso.</p>

@@ -78,7 +78,7 @@
                 <h2><b>¿Qué factores influyen en el crecimiento?</b></h2>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p>Tu altura está determinada en gran medida por tu genética. Los factores externos, como la cantidad de horas que duermes y tu nutrición, también influyen en la determinación de tu estatura. A continuación <a href="/generalidades-del-crecimiento-infantil/factores-que-afectan-el-crecimiento">conoce los factores que afectan la altura de los niños y adolescentes</a></p>
+                <p>Tu altura está determinada en gran medida por tu genética. Los factores externos, como la cantidad de horas que duermes y tu nutrición, también influyen en la determinación de tu estatura. A continuación <a href="/factores-que-influyen-en-el-crecimiento/">conoce los factores que afectan la altura de los niños y adolescentes</a></p>
             </div>
             <!-- Video -->
             <div class=" pt-15 justificar-texto-90  ">
@@ -119,7 +119,7 @@
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Enfermedad de tiroides </li>
-                        <li><a href="/causas-de-la-baja-estatura/sindrome-de-turner">Síndrome de Turner</a></li>
+                        <li><a href="/sindromes/sindrome-de-turner/">Síndrome de Turner</a></li>
                         <li>Acondroplasia </li>
                         <li>Síndrome de Down </li>
                         <li>Síndrome de Russell-Silver </li>
@@ -128,14 +128,14 @@
                 </div>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p>Aprende a fondo los factores que afectan la altura de los niños y adolescentes <a href="/generalidades-del-crecimiento-infantil/factores-que-afectan-el-crecimiento">¡Da clic aquí!.</a></p>
+                <p>Aprende a fondo los factores que afectan la altura de los niños y adolescentes <a href="/factores-que-influyen-en-el-crecimiento/">¡Da clic aquí!.</a></p>
             </div>
             <!-- Banner -->
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>Estimar la estatura adulta</b></h2>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p>Tu altura tiene mucho que ver con lo <a href="/causas-de-la-baja-estatura/baja-estatura-familiar">altos o bajos que sean tus padres.</a> Los patrones de crecimiento tienden a ser hereditarios.</p>
+                <p>Tu altura tiene mucho que ver con lo <a href="/factores-que-perjudican-el-crecimiento/baja-estatura-familiar/">altos o bajos que sean tus padres.</a> Los patrones de crecimiento tienden a ser hereditarios.</p>
                 <p>Al observar el crecimiento de los niños, los pediatras a menudo preguntan a los padres sobre su propia estatura, antecedentes familiares de estatura y patrones de crecimiento.</p>
                 <p>Hay un par de formas diferentes de predecir qué tan alta puede crecer una niño. Uno de estos métodos se llama <a href="/generalidades-del-crecimiento-infantil/talla-blanco-familiar">“Talla Diana” o “Talla Blanco Familiar”.</a></p>
                 <p>Para usar este método, se suma la altura del padre y de la madre, se divide por dos y se le suma 6,5 si se trata de un niño y se le resta 6,5 si se trata de una niña. Hay que tener en cuenta (según los autores de tal cálculo) que el resultado final es solo valido en un 85% de los casos y que el margen de error es de 5 a 10 cm.</p>
@@ -179,8 +179,8 @@
                 <h3><b>¿Qué podría afectar las tasas de crecimiento?</b></h3>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p><a href="/generalidades-del-crecimiento-infantil/factores-que-afectan-el-crecimiento">Factores como la dieta y el medio ambiente pueden afectar el crecimiento.</a> En todo el mundo, los niños con dietas que causan deficiencias nutricionales o desnutrición pueden no llegar a ser tan altos o fuertes como aquellos que han tenido comidas abundantes y balanceadas.</p>
-                <p><a href="/causas-de-la-baja-estatura/padecimientos-y-enfermedades-cronicas-que-afectan-el-crecimiento">Las enfermedades,</a> las afecciones genéticas y el uso de algunos medicamentos, como los corticosteroides, pueden retardar o limitar el crecimiento.</p>
+                <p><a href="/factores-que-influyen-en-el-crecimiento/">Factores como la dieta y el medio ambiente pueden afectar el crecimiento.</a> En todo el mundo, los niños con dietas que causan deficiencias nutricionales o desnutrición pueden no llegar a ser tan altos o fuertes como aquellos que han tenido comidas abundantes y balanceadas.</p>
+                <p><a href="/factores-que-perjudican-el-crecimiento/padecimientos-que-afectan-el-crecimiento/">Las enfermedades,</a> las afecciones genéticas y el uso de algunos medicamentos, como los corticosteroides, pueden retardar o limitar el crecimiento.</p>
                 <p>Un desequilibrio de hormonas en el cuerpo puede ralentizar o acelerar el crecimiento. Es posible que un padre o cuidador desee consultar con su médico si un niño:</p>
             </div>
             <div class="contenedor-85porciento ">
@@ -230,7 +230,7 @@
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>El crecimiento normal, respaldado por una buena nutrición, sueño suficiente y ejercicio regular, es uno de los mejores indicadores generales de la buena salud de su hijo adolescente.</p>
                 <p>A pesar de los datos recopilados para las <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"> tablas de crecimiento,</a> las alturas y pesos "normales" son difíciles de definir. El patrón de <b>crecimiento de su hija adolescente</b> está determinado en gran medida por la genética. Los padres más bajos, por ejemplo, tienden a tener hijos más bajos, mientras que los padres más altos tienden a tener hijos más altos.</p>
-                <p>Aunque puede preocuparse si su hija no es tan alto como otras compañeras de clase, la pregunta más importante es si su hija continúa creciendo a un ritmo normal. Si su médico detecta un problema, como una <b>tasa de crecimiento</b> que había sido normal pero que se ha estabilizado recientemente, es posible que realice un seguimiento de las medidas de su hijo con cuidado durante varios meses para ver si el patrón de crecimiento sugiere un <a href="/causas-de-la-baja-estatura/padecimientos-y-enfermedades-cronicas-que-afectan-el-crecimiento">posible problema de salud</a> o es solo una variación de normal.</p>
+                <p>Aunque puede preocuparse si su hija no es tan alto como otras compañeras de clase, la pregunta más importante es si su hija continúa creciendo a un ritmo normal. Si su médico detecta un problema, como una <b>tasa de crecimiento</b> que había sido normal pero que se ha estabilizado recientemente, es posible que realice un seguimiento de las medidas de su hijo con cuidado durante varios meses para ver si el patrón de crecimiento sugiere un <a href="/factores-que-perjudican-el-crecimiento/padecimientos-que-afectan-el-crecimiento/">posible problema de salud</a> o es solo una variación de normal.</p>
                 <p>No es inusual que <b>las adolescentes</b> tengan sus propias preocupaciones sobre cómo están creciendo y cómo se ven. Las niñas pueden ser muy críticas con su propio peso, lo que a veces puede generar preocupaciones sobre la <a href="/importancia-de-ser-mas-alto/autoestima">imagen corporal</a> y prácticas dietéticas poco saludables. Los niños tienden a estar más preocupados por su altura y desarrollo muscular, lo que también puede llevar a prácticas poco saludables, como el uso de esteroides y suplementos proteicos.</p>
                 <p>Si le preocupa la imagen corporal de su hijo adolescente o sus hábitos alimenticios y de ejercicio, hable con el médico.</p>
                 <p>Muchos adolescentes se preocupan mucho por ser diferentes de sus compañeros y por cualquier cosa que los haga no encajar o parecer "normales". <a href="/importancia-de-ser-mas-alto"> Aprende la importancia de ser más alto dando clic AQUÍ.</a> Anime a su hijo adolescente a plantear cualquiera de estas inquietudes con el médico, si se siente cómodo haciéndolo. El médico puede asegurarle que otros niños tienen las mismas preocupaciones sobre su tamaño.</p>
