@@ -107,7 +107,7 @@
                 <img src="/img/generalidades-del-crecimiento-infantil/nina-mediendose.webp" alt="generalidades-del-crecimiento">
             </div>
             <div class="tamaño-img">
-                <a href="/generalidades-del-crecimiento-infantil/baja-estatura"><img src="/img/banners/banner-baja-estatura.webp" alt="Banner hacia baja estatura"></a>
+                <a href="/aprende-del-crecimiento-infantil"><img src="/img/banners/banner-baja-estatura.webp" alt="Banner hacia baja estatura"></a>
             </div>
 
 

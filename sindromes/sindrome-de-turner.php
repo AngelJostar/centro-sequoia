@@ -83,7 +83,7 @@
                 </div>
 
                 <h2 id="turner-sindrome">¿Qué es el Síndrome de Turner?</h2>
-                <p>Es un <b>padecimiento</b> que ocurre <b> únicamente en mujeres.</b> Este síndrome causa diferentes <b> afecciones médicas</b> y del <a href="/crecimiento-infantil">desarrollo y crecimiento físico</a>, que incluyen <a href="/generalidades-del-crecimiento-infantil/baja-estatura">baja estatura</a>, falla en el desarrollo de los ovarios y defectos cardíacos. Ocurre cuando falta uno de los cromosomas X. </p>
+                <p>Es un <b>padecimiento</b> que ocurre <b> únicamente en mujeres.</b> Este síndrome causa diferentes <b> afecciones médicas</b> y del <a href="/aprende-del-crecimiento-infantil">desarrollo y crecimiento físico</a>, que incluyen <a href="/generalidades-del-crecimiento-infantil/baja-estatura">baja estatura</a>, falla en el desarrollo de los ovarios y defectos cardíacos. Ocurre cuando falta uno de los cromosomas X. </p>
                 <p>El <b> Síndrome de Turner </b> se diagnostica en la niñez o desde el embarazo. A veces, en niñas con síntomas leves el diagnóstico se tarda más, pudiéndose diagnosticar hasta <a href="/etapas-de-la-ninez/">la adolescencia.</a></p>
                 <p>Todas las niñas con este padecimiento requieren atención médica con algún <a href="/especialistas-en-crecimiento"> endocrinólogo pediatra especialista en crecimiento</a>. Las consultas médicas y la atención con un especialista sin duda ayudan a la mayoría de las niñas a tener una vida sana y normal. <a href="https://centrosequoia.com.mx/"> En Centro Sequoia</a> somos <b> especialistas</b> en el tratamiento de niñas con Síndrome de Turner.</p>
                 <div class="contenedor-video mt-1">

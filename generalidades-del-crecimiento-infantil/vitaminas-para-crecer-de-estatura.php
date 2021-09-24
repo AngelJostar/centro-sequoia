@@ -97,7 +97,7 @@
                     </ul>
                 </div>
                 <h2 id="1">Importancia de las vitaminas en el crecimiento</h2>
-                <p>El <b>crecimiento de un niño</b> depende en gran medida de su ingesta nutricional diaria. La dieta de todo niño debe aportar todas las <b>vitaminas</b> esenciales para cubrir todas sus necesidades de <a href="https://centrosequoia.com.mx/crecimiento-infantil/"> crecimiento</a></p>
+                <p>El <b>crecimiento de un niño</b> depende en gran medida de su ingesta nutricional diaria. La dieta de todo niño debe aportar todas las <b>vitaminas</b> esenciales para cubrir todas sus necesidades de <a href="/aprende-del-crecimiento-infantil"> crecimiento</a></p>
                 <p>La <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"> nutrición</a> juega un papel tan poderoso como el de la <a href="/aprende-del-crecimiento-infantil/talla-blanco-familiar/"> genética</a> para determinar la estatura futura de tus hijos. Una nutrición adecuada permitirá que sus hijos superen las alturas de sus padres.</p>
                 <p>Siempre se sugiere proporcionar las <b>vitaminas</b> solo a través de la <b>dieta</b>, ya que no se reemplazan los <b>nutrientes naturales</b>. Si su hijo es quisquilloso con la comida, considere algunos reemplazos multivitamínicos solo después de buscar el consejo de <a href="/especialistas-en-crecimiento"> un experto.</a></p>
                 <h3 id="1.1">Vitaminas que sirven para crecer</h3>
