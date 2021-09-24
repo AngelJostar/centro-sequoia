@@ -46,7 +46,7 @@
                 <h2><b>Qué si puedes controlar y qué no puedes controlar</b></h2>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p>Varios factores contribuyen a la <b>estatura final de crecimiento</b> de tu hijo o hija. Se cree que los <a href="/factores-que-influyen-en-el-crecimiento/">factores genéticos</a>representan del 60 al 80 por ciento de su <b> estatura final.</b> Ciertos factores ambientales, como la nutrición y el ejercicio, suelen representar el porcentaje restante.</p>
+                <p>Varios factores contribuyen a la <b>estatura final de crecimiento</b> de tu hijo o hija. Se cree que los <a href="/factores-que-influyen-en-el-crecimiento/">factores genéticos</a> representan del 60 al 80 por ciento de su <b> estatura final.</b> Ciertos factores ambientales, como la nutrición y el ejercicio, suelen representar el porcentaje restante.</p>
                 <p>Entre <a href="/etapas-de-la-ninez/"> 1 año de edad y la pubertad </a>, la mayoría de las personas aumentan aproximadamente 5 centímetros de estatura cada año. Una vez que llega la pubertad, es posible que tus hijos crezcan a un ritmo de 10 centímetros por año. Sin embargo, todos crecen a un ritmo diferente.</p>
                 <p>Para las niñas, este brote de crecimiento generalmente comienza temprano en la adolescencia. Es posible que los niños no experimenten este aumento repentino de estatura hasta el final de la adolescencia. </p>
             </div>
