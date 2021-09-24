@@ -36,13 +36,13 @@
                 </div>
                 <div class="menu" id="menu">
                     <ul class="menu-inner">
-                        <li class="menu-item"><a href="https://centrosequoia.com.mx/" class="menu-link active">Inicio</a></li>
-                        <li class="menu-item"><a href="/aprende-del-crecimiento-infantil" class="menu-link">Aprende del crecimiento infantil</a></li>
-                        <li class="menu-item"><a href="/crecimiento-infantil-deficiente" class="menu-link">Crecimiento infantil deficiente</a></li>
-                        <li class="menu-item"><a href="/factores-que-influyen-en-el-crecimiento" class="menu-link">Factores que influyen el crecimiento</a></li>
-                        <li class="menu-item"><a href="/cambios-en-la-adolescencia" class="menu-link">Cambios en la adolescencia</a></li>
-                        <li class="menu-item"><a href="/acerca-de-este-sitio" class="menu-link">Acerca de este sitio</a></li>
-                        <li class="menu-item"><a href="/contact" class="menu-link">Contacto</a></li>
+                        <li><a href="https://centrosequoia.com.mx/" class="menu-link active">Inicio</a></li>
+                        <li><a href="/aprende-del-crecimiento-infantil" class="menu-link">Aprende del crecimiento infantil</a></li>
+                        <li><a href="/crecimiento-infantil-deficiente" class="menu-link">Crecimiento infantil deficiente</a></li>
+                        <li><a href="/factores-que-influyen-en-el-crecimiento" class="menu-link">Factores que influyen el crecimiento</a></li>
+                        <li><a href="/cambios-en-la-adolescencia" class="menu-link">Cambios en la adolescencia</a></li>
+                        <li><a href="/acerca-de-este-sitio" class="menu-link">Acerca de este sitio</a></li>
+                        <li><a href="/contact" class="menu-link">Contacto</a></li>
                     </ul>
                 </div>
             </nav>
