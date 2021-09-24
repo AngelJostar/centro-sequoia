@@ -3792,7 +3792,7 @@ details section p:last-child {
 
 .author-info {
     background-color: #f0f8ff;
-    max-width: 100%;
+    max-width: 50%;
     margin: 0 auto;
     border: solid #e5e5e5;
     border-width: 1px 0;
@@ -3840,6 +3840,7 @@ strong {
     strong {
         font-size: calc(11px + .4vw);
         margin: 0;
+        max-width: 100%;
     }
 }
 
