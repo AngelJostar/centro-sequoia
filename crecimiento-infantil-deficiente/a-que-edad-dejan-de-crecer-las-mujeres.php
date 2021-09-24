@@ -57,8 +57,8 @@
                 <h2><b>¿Cómo afecta la pubertad al crecimiento?</b></h2>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p>Las mujeres suelen tener un <a href="/generalidades-del-crecimiento-infantil/estiron-puberal"> estirón de crecimiento </a> uno o dos años antes de que comience la menstruación.</p>
-                <p>Para la mayoría de las mujeres, la pubertad ocurre entre los 8 y los 13 años y el crecimiento acelerado ocurre entre <a href="/generalidades-del-crecimiento-infantil/estiron-puberal"> los 10 y los 14 años.</a> Crecen solo 2 a 5 centímetros
+                <p>Las mujeres suelen tener un <a href="/aprende-del-crecimiento-infantil/estiron-puberal/"> estirón de crecimiento </a> uno o dos años antes de que comience la menstruación.</p>
+                <p>Para la mayoría de las mujeres, la pubertad ocurre entre los 8 y los 13 años y el crecimiento acelerado ocurre entre <a href="/aprende-del-crecimiento-infantil/estiron-puberal/"> los 10 y los 14 años.</a> Crecen solo 2 a 5 centímetros
                     adicionales en uno o dos años después de tener su primer período. Aquí es cuando alcanzan su estatura adulta.</p>
                 <p>Sin embargo, esto puede variar. Las mujeres que comienzan su período a una edad más temprana a menudo pueden esperar ver más centímetros totales de crecimiento después del comienzo de su período.</p>
                 <p>La mayoría de las mujeres alcanzan su estatura adulta a los 14 o 15 años. Esta edad podría ser más joven dependiendo de cuándo una niña tenga su primer período. Es posible que desee comunicarse con un <a href="/especialistas-en-crecimiento"> médico especialista en crecimiento de Centro Sequoia</a>                    si su hija tiene 15 años y aún no ha comenzado su período.</p>
@@ -72,7 +72,7 @@
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p><b> El desarrollo de los senos</b> suele ser el primer signo de la pubertad. Los senos pueden comenzar a desarrollarse de 2 a 2 1/2 años antes de que la niña tenga su período.</p>
                 <p>Algunas niñas pueden notar brotes en los senos solo un año después de sus primeros períodos. Es posible que otras no comiencen a desarrollar senos durante tres o cuatro años después de comenzar la menstruación.</p>
-                <p>Es posible que los brotes no aparezcan al mismo tiempo, pero por lo general aparecen con seis meses de diferencia entre sí. Para conocer más acerca del desarrollo puberal de las mujeres da clic aquí: <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"> Cambios físicos en niñas y niños</a></p>
+                <p>Es posible que los brotes no aparezcan al mismo tiempo, pero por lo general aparecen con seis meses de diferencia entre sí. Para conocer más acerca del desarrollo puberal de las mujeres da clic aquí: <a href="/aprende-del-crecimiento-infantil/etapas-del-desarollo-de-tanner/"> Cambios físicos en niñas y niños</a></p>
             </div>
             <div class="tamaño-img ">
                 <img src="/img/banners/crecimiento-en-las-mujeres.webp" alt="como es el crecimiento en las mujeres">
@@ -117,12 +117,12 @@
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>Tu altura tiene mucho que ver con lo <a href="/factores-que-perjudican-el-crecimiento/baja-estatura-familiar/"> altos o bajos que sean tus padres.</a> Los patrones de crecimiento tienden a ser hereditarios.</p>
                 <p>Al observar el crecimiento de los niños, los pediatras a menudo preguntan a los padres sobre su propia estatura, antecedentes familiares de estatura y patrones de crecimiento.</p>
-                <p>Hay un par de formas diferentes de predecir qué tan alta puede crecer una niña. Uno de estos métodos se llama <a href="/generalidades-del-crecimiento-infantil/talla-blanco-familiar"> “Talla Diana” o “Talla Blanco Familiar”</a></p>
+                <p>Hay un par de formas diferentes de predecir qué tan alta puede crecer una niña. Uno de estos métodos se llama <a href="/aprende-del-crecimiento-infantil/talla-blanco-familiar/"> “Talla Diana” o “Talla Blanco Familiar”</a></p>
                 <p>Para usar este método, se suma la altura del padre y de la madre, se divide por dos y se le suma 6,5 si se trata de un niño y se le resta 6,5 si se trata de una niña. Hay que tener en cuenta (según los autores de tal cálculo) que el resultado
                     final es solo valido en un 85% de los casos y que el margen de error es de 5 a 10 cm.</p>
             </div>
             <div class="tamaño-img ">
-                <img src="/img/generalidades-del-crecimiento-infantil/talla-blanco-familiar-en-ninos.webp" alt="talla blanco familiar en niños">
+                <img src="/img/aprende-del-crecimiento-infantil/talla-blanco-familiar/-en-ninos.webp" alt="talla blanco familiar en niños">
             </div>
             <div class="tamaño-img mt-2">
                 <img src="/img/generalidades-del-crecimiento-infantil/talla-blaco-familiar-en-ninas.webp" alt="talla blanco familiar en niñas">
@@ -140,7 +140,7 @@
                 <p>Algunas mujeres pueden ver un <b> retraso en el crecimiento </b> debido a ciertas condiciones de salud, como problemas con la <a href=""> hormona del crecimiento </a>, artritis severa o cáncer.</p>
                 <p>Las condiciones genéticas también juegan un papel. Por ejemplo, las niñas con síndrome de Down, síndrome de Noonan o <b> síndrome de Turner </b> pueden ser más bajas que sus familiares.</p>
                 <p>Si tiene inquietudes sobre el crecimiento de su hijo, comuníquese con un <a href="/especialistas-en-crecimiento"> endocrinólogo pediatra de Centro Sequoia especialista en crecimiento infantil. </a> Una vez que una niña llega a la pubertad,
-                    el crecimiento generalmente se detiene un par de años después de su primer período. Un adolescente que ha retrasado el crecimiento tendrá menos tiempo para crecer antes del final de su <a href="/generalidades-del-crecimiento-infantil/estiron-puberal"> estirón puberal.</a></p>
+                    el crecimiento generalmente se detiene un par de años después de su primer período. Un adolescente que ha retrasado el crecimiento tendrá menos tiempo para crecer antes del final de su <a href="/aprende-del-crecimiento-infantil/estiron-puberal/"> estirón puberal.</a></p>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>¿Hay algo que pueda prevenir o retrasar la pubertad?</b></h2>
@@ -180,7 +180,7 @@
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>Si su hija parece estar muy por encima o por detrás de sus compañeros en el desarrollo físico, puede ser el momento de hablar con su pediatra. Las niñas que no muestran signos de desarrollo de los senos a los 13 años y / o que no tienen
-                    su primera menstruación a los 15 o 16 años se consideran retrasadas en la pubertad. Por otro lado, una niña que muestra signos de pubertad a los 6 o 7 años está experimentando una <a href="/generalidades-del-crecimiento-infantil/pubertad-precoz"> pubertad precoz.</a></p>
+                    su primera menstruación a los 15 o 16 años se consideran retrasadas en la pubertad. Por otro lado, una niña que muestra signos de pubertad a los 6 o 7 años está experimentando una <a href="/padecimentos-que-afectan-el-crecimiento/pubertad-precoz/"> pubertad precoz.</a></p>
                 <p>Con cualquiera de esos extremos, pídale a su pediatra que le eche un vistazo porque podría haber problemas médicos o endocrinos (hormonales) que causen una pubertad precoz o tardía. Los pediatras pueden hacer una radiografía de la edad
                     ósea en el consultorio para determinar si su hija está en camino de alcanzar la estatura promedio de un adulto.</p>
             </div>
@@ -191,7 +191,7 @@
                 <p>Las mujeres pueden ganar dos centímetros o más de <b> altura </b> desde la niñez hasta la pubertad. Dormir lo suficiente, comer alimentos nutritivos y hacer ejercicio con regularidad son buenos hábitos que pueden ayudarlos a crecer de
                     manera saludable.</p>
                 <p>Si le preocupa el patrón de crecimiento de su hija, <a href="/contact"> comuníquese con un médico de Centro Sequoia </a> lo antes posible.</p>
-                <p>Es probable que su médico le pregunte sobre el historial de crecimiento de su familia. Examinarán a su hija y observarán cuidadosamente su <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"> curva de crecimiento.</a></p>
+                <p>Es probable que su médico le pregunte sobre el historial de crecimiento de su familia. Examinarán a su hija y observarán cuidadosamente su <a href="/aprende-del-crecimiento-infantil/graficas-de-crecimiento/"> curva de crecimiento.</a></p>
                 <p>A veces, su médico puede usar pruebas como <a href="/aprende-del-crecimiento-infantil/edad-osea"> radiografías </a> o análisis de sangre para ayudarlos a determinar las causas de los retrasos en el crecimiento.</p>
             </div>
             <div class=" pt-15 justificar-texto-90  ">

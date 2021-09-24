@@ -44,7 +44,7 @@
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>La mayoría de los hombres alcanzan su altura máxima <a href="/crecimiento-infantil-por-edad/adolecentes-12-16">alrededor de los 16 años.</a> Incluso si un adolescente llega tarde a la pubertad, es poco probable que crezca significativamente después de los 18 a los 20 años. </p>
-                <p>El cuerpo de un hombre pasa por muchos cambios durante la pubertad. <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"> Estos cambios</a> pueden ser vergonzosos o confusos, pero el proceso les sucede a todos y saber qué esperar puede ayudar.</p>
+                <p>El cuerpo de un hombre pasa por muchos cambios durante la pubertad. <a href="/aprende-del-crecimiento-infantil/etapas-del-desarollo-de-tanner/"> Estos cambios</a> pueden ser vergonzosos o confusos, pero el proceso les sucede a todos y saber qué esperar puede ayudar.</p>
                 <p>El crecimiento durante la pubertad de los hombres ocurre durante un período prolongado, por lo que puede ser difícil saber cuándo ha terminado. </p>
                 <p>Cada niño crece a ritmos diferentes y la pubertad comienza y termina en momentos diferentes para todos. La pubertad puede durar entre 2 y 5 años, por lo que no siempre es fácil predecir cuándo terminará.</p>
             </div>
@@ -85,7 +85,7 @@
                 <h3><b>Genética</b></h3>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p>La genética juega el papel más importante a la hora de determinar la estatura. Se estima que alrededor del 80 por ciento de su altura está determinada por su <a href="/generalidades-del-crecimiento-infantil/talla-blanco-familiar">genética.</a> El otro 20 por ciento está influenciado por factores externos. </p>
+                <p>La genética juega el papel más importante a la hora de determinar la estatura. Se estima que alrededor del 80 por ciento de su altura está determinada por su <a href="/aprende-del-crecimiento-infantil/talla-blanco-familiar/">genética.</a> El otro 20 por ciento está influenciado por factores externos. </p>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h3><b>Nutrición</b></h3>
@@ -98,7 +98,7 @@
                 <h3><b>Dormir</b></h3>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p>Su cuerpo <a href="/generalidades-del-crecimiento-infantil/hormona-del-crecimiento"> produce hormona del crecimiento</a> y hormona estimulante de la tiroides cuando duerme. Ambas hormonas son esenciales para el correcto desarrollo de los huesos. </p>
+                <p>Su cuerpo <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento/"> produce hormona del crecimiento</a> y hormona estimulante de la tiroides cuando duerme. Ambas hormonas son esenciales para el correcto desarrollo de los huesos. </p>
                 <p>Se cree que no dormir lo suficiente frena el crecimiento, aunque se necesita más investigación para comprender completamente el papel del sueño en el desarrollo de la estatura. </p>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
@@ -137,14 +137,14 @@
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>Tu altura tiene mucho que ver con lo <a href="/factores-que-perjudican-el-crecimiento/baja-estatura-familiar/">altos o bajos que sean tus padres.</a> Los patrones de crecimiento tienden a ser hereditarios.</p>
                 <p>Al observar el crecimiento de los niños, los pediatras a menudo preguntan a los padres sobre su propia estatura, antecedentes familiares de estatura y patrones de crecimiento.</p>
-                <p>Hay un par de formas diferentes de predecir qué tan alta puede crecer una niño. Uno de estos métodos se llama <a href="/generalidades-del-crecimiento-infantil/talla-blanco-familiar">“Talla Diana” o “Talla Blanco Familiar”.</a></p>
+                <p>Hay un par de formas diferentes de predecir qué tan alta puede crecer una niño. Uno de estos métodos se llama <a href="/aprende-del-crecimiento-infantil/talla-blanco-familiar/">“Talla Diana” o “Talla Blanco Familiar”.</a></p>
                 <p>Para usar este método, se suma la altura del padre y de la madre, se divide por dos y se le suma 6,5 si se trata de un niño y se le resta 6,5 si se trata de una niña. Hay que tener en cuenta (según los autores de tal cálculo) que el resultado final es solo valido en un 85% de los casos y que el margen de error es de 5 a 10 cm.</p>
             </div>
             <!-- Banner -->
             <!-- Banner -->
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>En general, cuanto más altos sean los padres, más alto será el niño y viceversa.</p>
-                <p>Debido a que <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento">los patrones de crecimiento</a> están determinados en gran medida por la genética, existen muchas variaciones en lo que respecta a la altura "normal". Las expectativas de crecimiento general basadas en la edad provienen de estudios de poblaciones sanas de niños.</p>
+                <p>Debido a que <a href="/aprende-del-crecimiento-infantil/graficas-de-crecimiento/">los patrones de crecimiento</a> están determinados en gran medida por la genética, existen muchas variaciones en lo que respecta a la altura "normal". Las expectativas de crecimiento general basadas en la edad provienen de estudios de poblaciones sanas de niños.</p>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>Preguntas y respuestas</b></h2>
@@ -156,7 +156,7 @@
                 <h3><b>¿A qué edad terminan de crecer los genitales?</b></h3>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p>Para los niños, uno de los primeros <a href="/generalidades-del-crecimiento-infantil/etapas-del-desarollo-de-tanner"> signos de la pubertad</a> es el crecimiento de los testículos y el desarrollo del vello púbico. Los genitales crecen durante la pubertad.</p>
+                <p>Para los niños, uno de los primeros <a href="/aprende-del-crecimiento-infantil/etapas-del-desarollo-de-tanner/"> signos de la pubertad</a> es el crecimiento de los testículos y el desarrollo del vello púbico. Los genitales crecen durante la pubertad.</p>
                 <p>Debido a que la pubertad termina a diferentes edades para diferentes personas, no existe una edad establecida en la que los genitales se hayan desarrollado por completo. Una vez que se completa la pubertad, los genitales suelen estar completamente desarrollados. La pubertad suele tardar unos 4 años.</p>
                 <p>Las etapas clave del desarrollo de los genitales para los niños:</p>
             </div>
@@ -211,7 +211,7 @@
                 <h2><b>Cuando ver a un doctor</b></h2>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p>Si su hija parece estar muy por encima o por detrás de sus compañeros en el desarrollo físico, puede ser el momento de hablar con su pediatra. Las niñas que no muestran signos de desarrollo de los senos a los 13 años y / o que no tienen su primera menstruación a los 15 o 16 años se consideran retrasadas en la pubertad. Por otro lado, una niña que muestra signos de pubertad a los 6 o 7 años está experimentando una <a href="/generalidades-del-crecimiento-infantil/pubertad-precoz">pubertad precoz.</a></p>
+                <p>Si su hija parece estar muy por encima o por detrás de sus compañeros en el desarrollo físico, puede ser el momento de hablar con su pediatra. Las niñas que no muestran signos de desarrollo de los senos a los 13 años y / o que no tienen su primera menstruación a los 15 o 16 años se consideran retrasadas en la pubertad. Por otro lado, una niña que muestra signos de pubertad a los 6 o 7 años está experimentando una <a href="/padecimentos-que-afectan-el-crecimiento/pubertad-precoz/">pubertad precoz.</a></p>
                 <p>Con cualquiera de esos extremos, pídale a su pediatra que le eche un vistazo porque podría haber problemas médicos o endocrinos (hormonales) que causen una pubertad precoz o tardía. Los pediatras pueden hacer una radiografía de la edad ósea en el consultorio para determinar si su hija está en camino de alcanzar la estatura promedio de un adulto.</p>
             </div>
             <!-- Banner -->
@@ -221,7 +221,7 @@
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>Dormir lo suficiente, comer alimentos nutritivos y hacer ejercicio con regularidad son buenos hábitos que pueden ayudarlos a crecer de manera saludable.</p>
                 <p>Si le preocupa el patrón de crecimiento de su hija, <a href="/contact"> comuníquese con un médico de Centro Sequoia</a> lo antes posible.</p>
-                <p>Es probable que su médico le pregunte sobre el historial de crecimiento de su familia. Examinarán a su hija y observarán cuidadosamente su <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento">curva de crecimiento.</a></p>
+                <p>Es probable que su médico le pregunte sobre el historial de crecimiento de su familia. Examinarán a su hija y observarán cuidadosamente su <a href="/aprende-del-crecimiento-infantil/graficas-de-crecimiento/">curva de crecimiento.</a></p>
                 <p>A veces, su médico puede usar pruebas como <a href="/aprende-del-crecimiento-infantil/edad-osea">radiografías</a>  o análisis de sangre para ayudarlos a determinar las causas de los retrasos en el crecimiento.</p>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
@@ -229,7 +229,7 @@
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>El crecimiento normal, respaldado por una buena nutrición, sueño suficiente y ejercicio regular, es uno de los mejores indicadores generales de la buena salud de su hijo adolescente.</p>
-                <p>A pesar de los datos recopilados para las <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"> tablas de crecimiento,</a> las alturas y pesos "normales" son difíciles de definir. El patrón de <b>crecimiento de su hija adolescente</b> está determinado en gran medida por la genética. Los padres más bajos, por ejemplo, tienden a tener hijos más bajos, mientras que los padres más altos tienden a tener hijos más altos.</p>
+                <p>A pesar de los datos recopilados para las <a href="/aprende-del-crecimiento-infantil/graficas-de-crecimiento/"> tablas de crecimiento,</a> las alturas y pesos "normales" son difíciles de definir. El patrón de <b>crecimiento de su hija adolescente</b> está determinado en gran medida por la genética. Los padres más bajos, por ejemplo, tienden a tener hijos más bajos, mientras que los padres más altos tienden a tener hijos más altos.</p>
                 <p>Aunque puede preocuparse si su hija no es tan alto como otras compañeras de clase, la pregunta más importante es si su hija continúa creciendo a un ritmo normal. Si su médico detecta un problema, como una <b>tasa de crecimiento</b> que había sido normal pero que se ha estabilizado recientemente, es posible que realice un seguimiento de las medidas de su hijo con cuidado durante varios meses para ver si el patrón de crecimiento sugiere un <a href="/factores-que-perjudican-el-crecimiento/padecimientos-que-afectan-el-crecimiento/">posible problema de salud</a> o es solo una variación de normal.</p>
                 <p>No es inusual que <b>las adolescentes</b> tengan sus propias preocupaciones sobre cómo están creciendo y cómo se ven. Las niñas pueden ser muy críticas con su propio peso, lo que a veces puede generar preocupaciones sobre la <a href="/importancia-de-ser-mas-alto/autoestima">imagen corporal</a> y prácticas dietéticas poco saludables. Los niños tienden a estar más preocupados por su altura y desarrollo muscular, lo que también puede llevar a prácticas poco saludables, como el uso de esteroides y suplementos proteicos.</p>
                 <p>Si le preocupa la imagen corporal de su hijo adolescente o sus hábitos alimenticios y de ejercicio, hable con el médico.</p>

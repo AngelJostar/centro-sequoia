@@ -143,7 +143,7 @@
                 <img src="/img/nueva/peso2.webp" alt="Peso ideal Niños">
             </div>
             <div class="tamaño-img centrar-imagen pb-30">
-                <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"><img src="/img/banners/banner-graficas-de-crecimiento.webp" alt="Banner que manda a gráficas de crecimiento"></a>
+                <a href="/aprende-del-crecimiento-infantil/graficas-de-crecimiento/"><img src="/img/banners/banner-graficas-de-crecimiento.webp" alt="Banner que manda a gráficas de crecimiento"></a>
             </div>
 
           <div class="cuadros-crecimiento">

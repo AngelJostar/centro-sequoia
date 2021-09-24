@@ -52,7 +52,7 @@
                     en un 85% de los casos y que el margen de error es de 5 a 10 cm.</p>
             </div>
             <div class="tamaño-img pt-15">
-                <img src="/img/generalidades-del-crecimiento-infantil/talla-blanco-familiar-en-ninos.webp" alt="talla blanco familiar en niños">
+                <img src="/img/aprende-del-crecimiento-infantil/talla-blanco-familiar/-en-ninos.webp" alt="talla blanco familiar en niños">
             </div>
             <div class="tamaño-img pt-15">
                 <img src="/img/generalidades-del-crecimiento-infantil/talla-blaco-familiar-en-ninas.webp" alt="talla blanco familiar en niñas">

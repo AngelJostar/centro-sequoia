@@ -85,7 +85,7 @@
                 <p>Basándonos en las indicaciones de la OMS, podemos calcular el crecimiento del niño mes a mes, basándonos en si es niño o niña. Para aprender más sobre las gráficas de crecimiento visita nuestra sección de <span class="font-bold">“Percentiles de crecimiento”</span>.</p>
             </div>
             <div class="tamaño-img centrar-imagen pb-30">
-                <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"><img src="/img/nueva/Banner-Graficas-de-Crecimiento.webp" alt=""></a>
+                <a href="/aprende-del-crecimiento-infantil/graficas-de-crecimiento/"><img src="/img/nueva/Banner-Graficas-de-Crecimiento.webp" alt=""></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">

@@ -99,7 +99,7 @@
                 <h2><b>2. Usar suplementos y vitaminas</b></h2>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p>Hay unos casos en los que los suplementos pueden ser apropiados para aumentar la estatura en los niños. Por ejemplo, si tiene una afección que afecta la producción de la <a href="/generalidades-del-crecimiento-infantil/hormona-del-crecimiento">hormona del crecimiento</a> humano, su médico puede recomendarle un suplemento que contenga hormona del crecimiento sintética.</p>
+                <p>Hay unos casos en los que los suplementos pueden ser apropiados para aumentar la estatura en los niños. Por ejemplo, si tiene una afección que afecta la producción de la <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento/">hormona del crecimiento</a> humano, su médico puede recomendarle un suplemento que contenga hormona del crecimiento sintética.</p>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>3. Dormir la cantidad adecuada</b></h2>
@@ -107,7 +107,7 @@
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p><b>Dormir</b> es el momento en que su cuerpo crece, por lo que dormir lo suficiente equivale a darle más tiempo a tu cuerpo para crecer. Duerma entre 9 y 11 horas por noche si es preadolescente o aún tiene menos de 20 años.</p>
                 <p>La <b> hormona del crecimiento humano </b> se produce naturalmente en nuestros cuerpos, especialmente durante el sueño de ondas lentas o profundas. Dormir bien y profundamente estimulará la producción de hormona del crecimiento, que se crea en la glándula pituitaria.</p>
-                <p>Si durante la adolescencia registra regularmente menos de la cantidad de sueño recomendada, puede provocar complicaciones. Esto se debe a que su cuerpo libera <a href="/generalidades-del-crecimiento-infantil/hormona-del-crecimiento">hormona del crecimiento</a> mientras duerme. La producción de esta hormona y otras puede disminuir si no duerme lo suficiente.</p>
+                <p>Si durante la adolescencia registra regularmente menos de la cantidad de sueño recomendada, puede provocar complicaciones. Esto se debe a que su cuerpo libera <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento/">hormona del crecimiento</a> mientras duerme. La producción de esta hormona y otras puede disminuir si no duerme lo suficiente.</p>
                 <p>Se sugiere que:</p>
             </div>
             <div class="contenedor-85porciento ">
@@ -123,14 +123,14 @@
                 </div>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
-                <p>Dormir más puede incluso aumentar la producción de <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento">hormona del crecimiento</a>, así que sus hijos deben de dormir bien y tomar esa siesta energética.</p>
+                <p>Dormir más puede incluso aumentar la producción de <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento/">hormona del crecimiento</a>, así que sus hijos deben de dormir bien y tomar esa siesta energética.</p>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>4. Mantenerse activo y hacer ejercicio </b></h2>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>La actividad física mediante el juego y el deporte estimulan la producción de células óseas que ayudarán a formar huesos sanos y resistentes que alcanzarán el tamaño máximo que los genes tengan previsto. El ejercicio tonifica los músculos, oxigena los tejidos y favorece el crecimiento.</p>
-                <p>El ejercicio regular tiene muchos beneficios. Fortalece los músculos y huesos, lo ayuda a mantener un peso saludable y promueve la producción de <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento">hormona del crecimiento.</a></p>
+                <p>El ejercicio regular tiene muchos beneficios. Fortalece los músculos y huesos, lo ayuda a mantener un peso saludable y promueve la producción de <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento/">hormona del crecimiento.</a></p>
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>Los niños en la escuela deben hacer al menos una hora de ejercicio al día. Durante este tiempo, deben centrarse en:</p>
@@ -187,7 +187,7 @@
             </div>
             <div class="justificar-texto-85 justificar-derecha-texto mt-2 ">
                 <p>Visite a un <a href="/https://centrosequoia.com.mx/">médico de Centro Sequoia</a>, <a href="/especialistas-en-crecimiento">especializado en crecimiento de los niños</a> si le preocupa que su hijo sea más bajo que el promedio. Ser bajo puede ser parte de lo que eres, ¡y eso es algo bueno! Al mismo tiempo, es posible que se preocupe si todos los miembros de su familia son más altos. Hable con su médico para averiguar si es posible que tenga una afección médica que esté causando su estatura más baja y que podría requerir tratamiento.</p>
-                <p>Por ejemplo, afecciones como hipotiroidismo, niveles más <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento/">bajos de hormonas de crecimiento</a>, <a href="/generalidades-del-crecimiento-infantil/hormona-del-crecimiento">síndrome de Turner</a> y afecciones médicas graves pueden obstaculizar su crecimiento.</p>
+                <p>Por ejemplo, afecciones como hipotiroidismo, niveles más <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento/">bajos de hormonas de crecimiento</a>, <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento/">síndrome de Turner</a> y afecciones médicas graves pueden obstaculizar su crecimiento.</p>
                 <p>Consejo: si tiene una afección médica que retrasa su crecimiento, su médico puede complementarlo con un tratamiento de hormona del crecimiento. Esto te ayudará a superar el retraso en el crecimiento, pero no te hará crecer más alto de lo que te permite tu genética.</p>
                 <p>¡Si quieres hablar con un médico especialista en crecimiento infantil que te asesore en <b>cómo crecer de estatura</b> no dudes en comunicarte con nosotros! Somos especialistas en crecimiento infantil.</p>
             </div>

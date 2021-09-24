@@ -98,7 +98,7 @@
                 </div>
                 <h2 id="1">Importancia de las vitaminas en el crecimiento</h2>
                 <p>El <b>crecimiento de un niño</b> depende en gran medida de su ingesta nutricional diaria. La dieta de todo niño debe aportar todas las <b>vitaminas</b> esenciales para cubrir todas sus necesidades de <a href="https://centrosequoia.com.mx/crecimiento-infantil/"> crecimiento</a></p>
-                <p>La <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"> nutrición</a> juega un papel tan poderoso como el de la <a href="/generalidades-del-crecimiento-infantil/talla-blanco-familiar"> genética</a> para determinar la estatura futura de tus hijos. Una nutrición adecuada permitirá que sus hijos superen las alturas de sus padres.</p>
+                <p>La <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"> nutrición</a> juega un papel tan poderoso como el de la <a href="/aprende-del-crecimiento-infantil/talla-blanco-familiar/"> genética</a> para determinar la estatura futura de tus hijos. Una nutrición adecuada permitirá que sus hijos superen las alturas de sus padres.</p>
                 <p>Siempre se sugiere proporcionar las <b>vitaminas</b> solo a través de la <b>dieta</b>, ya que no se reemplazan los <b>nutrientes naturales</b>. Si su hijo es quisquilloso con la comida, considere algunos reemplazos multivitamínicos solo después de buscar el consejo de <a href="/especialistas-en-crecimiento"> un experto.</a></p>
                 <h3 id="1.1">Vitaminas que sirven para crecer</h3>
                 <p>Su cuerpo requiere la cantidad correcta de varias <b>vitaminas</b> para un <b>crecimiento</b> y desarrollo <b>adecuado</b>. Una deficiencia de cualquiera de estas vitaminas esenciales provocará efectos nocivos en su cuerpo, incluidas <a href="/factores-que-perjudican-el-crecimiento/padecimientos-que-afectan-el-crecimiento/"> enfermedades</a>  y otros problemas de salud que pueden provocar una <a href="/generalidades-del-crecimiento-infantil/baja-estatura"> disminución en el crecimiento </a></p>
@@ -155,12 +155,12 @@
                 </ul>
                 <p>Un buen lugar para comenzar es asegurarse de que su hijo obtenga una ingesta diaria de lácteos. Puede incluir requesón, cuajada y leche, ya que son ricos en minerales esenciales como calcio y vitaminas A, B, D y E.  </p>
                 <p>La leche es una potente fuente de proteínas que promueve el crecimiento celular dentro del cuerpo. La vitamina D es vital para la salud de los niños, ya que ayuda al cuerpo a absorber el calcio. Si el cuerpo carece de vitamina D, los huesos pueden debilitarse y detener el crecimiento. </p>
-                <p>La leche también está cargada con IGF-1, también conocido como <a href="/generalidades-del-crecimiento-infantil/hormona-del-crecimiento"> factor de crecimiento</a> similar a la insulina 1, una proteína que el cuerpo produce de forma natural. Esta proteína desencadena el crecimiento general y es uno de los principales contribuyentes al crecimiento vertical de un individuo. </p>
+                <p>La leche también está cargada con IGF-1, también conocido como <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento/"> factor de crecimiento</a> similar a la insulina 1, una proteína que el cuerpo produce de forma natural. Esta proteína desencadena el crecimiento general y es uno de los principales contribuyentes al crecimiento vertical de un individuo. </p>
                 <p>Otra gran opción a considerar es el yogur. También es una fuente esencial de probióticos, ideal para la inmunidad. </p>
                 <ul>
                     <li>Huevos</li>
                 </ul>
-                <p>Asegúrese de animar a sus pequeños a comer huevos. Tienen un alto contenido de calcio, proteínas, riboflavina y vitamina B12. Los huevos, las claras, contienen albúmina, que es proteína pura. Las proteínas son ricas en aminoácidos, que contienen anticuerpos, enzimas y <a href="/generalidades-del-crecimiento-infantil/hormona-del-crecimiento"> hormonas que estimulan el crecimiento en altura</a>. Además, <b>la proteína también es vital para el crecimiento</b> y la reparación de los tejidos. </p>
+                <p>Asegúrese de animar a sus pequeños a comer huevos. Tienen un alto contenido de calcio, proteínas, riboflavina y vitamina B12. Los huevos, las claras, contienen albúmina, que es proteína pura. Las proteínas son ricas en aminoácidos, que contienen anticuerpos, enzimas y <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento/"> hormonas que estimulan el crecimiento en altura</a>. Además, <b>la proteína también es vital para el crecimiento</b> y la reparación de los tejidos. </p>
                 <p>Puede ser creativo sirviendo huevos, en ensaladas, sándwiches, huevos revueltos, tortillas, arroz y huevos duros. Las posibilidades son infinitas. </p>
                 <ul>
                     <li>Pollo</li>
@@ -207,7 +207,7 @@
                 <ul>
                     <li>Frijoles</li>
                 </ul>
-                <p>Otro alimento que se sabe que <a href="/generalidades-del-crecimiento-infantil/hormona-del-crecimiento"> estimula la hormona del crecimiento</a> en el cuerpo son los frijoles. Ya sea que estén hervidos, horneados o cocidos, ¡son excelentes para su hijo! Además, los frijoles vienen cargados de fibra. proteínas y otros nutrientes también.</p>
+                <p>Otro alimento que se sabe que <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento/"> estimula la hormona del crecimiento</a> en el cuerpo son los frijoles. Ya sea que estén hervidos, horneados o cocidos, ¡son excelentes para su hijo! Además, los frijoles vienen cargados de fibra. proteínas y otros nutrientes también.</p>
                 <div class="contenedor-video mt-1">
                         <div class="reproductor" data-id="k5kz95BuKcM"></div>
                 </div>

@@ -242,7 +242,7 @@
                 <div class="linea-etapas"></div>
                 <div class="etapas-tenner-grid">
                     <div class="etapas-grado">
-                        <div class="etapas-grado-bg">
+                        <div class="etapas-grado-bg"
                             <p class="etapas-grado-hijo">GRADO V</p>
                         </div>
                     </div>
