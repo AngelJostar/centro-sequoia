@@ -64,7 +64,7 @@
 
 </section>
 <!--####HEADER####-->
-<a href="contact" class="scrollup">
+<a href="/contact" class="scrollup">
 </a>
 <!--####FOOTER####-->
 

@@ -46,7 +46,7 @@
                 <nav>
                     <ul class="breadcrumb__list">
                         <li class="breadcrumb__group">
-                            <a href="/generalidades-del-crecimiento-infantil">Generalidades del crecimiento infantil</a>
+                            <a href="/aprende-del-crecimiento-infantil">Generalidades del crecimiento infantil</a>
                             <span>></span>
                         </li>
                         <li class="breadcrumb__group">

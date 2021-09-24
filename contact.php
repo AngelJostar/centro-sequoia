@@ -188,7 +188,7 @@
                 </form>
             </div>
         </section>
-        <a href="/crecimiento-infantil">
+        <a href="/aprende-del-crecimiento-infantil">
             <picture>
                 
                 <source media="(max-width:767px)" srcset="/img/banners/banner-aprende-todo-del-crecimiento-infantil-c.webp">

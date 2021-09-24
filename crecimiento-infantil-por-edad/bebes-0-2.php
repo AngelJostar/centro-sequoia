@@ -71,7 +71,7 @@
                 </div>
             </div>
             <div class="tamaño-img centrar-imagen pb-30">
-                <a href="/causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional"><img src="/img/causas-de-la-baja-estatura/banner-pequeno-edad-gestacional.webp" alt="banner que enlaza con pequeño para edad gestacional"></a>
+                <a href="/padecimentos-que-afectan-el-crecimiento/pequeno-para-la-edad-gestacional/"><img src="/img/causas-de-la-baja-estatura/banner-pequeno-edad-gestacional.webp" alt="banner que enlaza con pequeño para edad gestacional"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">

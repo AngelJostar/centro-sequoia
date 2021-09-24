@@ -33,7 +33,7 @@
                             <span>></span>
                         </li>
                         <li class="breadcrumb__group">
-                            <a href="/causas-de-la-baja-estatura">Aprende del crecimiento infantil</a>
+                            <a href="/aprende-del-crecimiento-infantil">Aprende del crecimiento infantil</a>
 
                         </li>
                     </ol>
@@ -254,9 +254,9 @@
             <div class="biografias-template">
                 <h2>Bibliografías</h2>
                 <ol>
-                    <li>Centro Sequoia CDMX- Crecimiento Infantil. (18 de agosto de 2021). <em>Función de la hormona del crecimiento</em>. YouTube. <a href="www.youtube.com/watch?v=uO3N1cQ4aRc&t=1324s">www.youtube.com/watch?v=uO3N1cQ4aRc&t=1324s</a></li>
-                    <li>Medizi. (5 de marzo de 2021). <em>Fisiología Endocrina - Hormona de Crecimiento (GH) e IGF-1</em> [Archivo de Vídeo]. <a href="YouTube. www.youtube.com/watch?v=uO3N1cQ4aRc&t=1324s">YouTube. www.youtube.com/watch?v=uO3N1cQ4aRc&t=1324s</a></li>
-                    <li>DrCondoriCh. (2 de diciembre de 2019). RESUMEN: <em>Hormona del Crecimiento</em> [Archivo de Vídeo]. <a href="YouTube. www.youtube.com/watch?v=TJ7xL7Szikw">YouTube. www.youtube.com/watch?v=TJ7xL7Szikw</a></li>
+                    <li>Centro Sequoia CDMX- Crecimiento Infantil. (18 de agosto de 2021). <em>Función de la hormona del crecimiento</em>. YouTube. <a href="https://www.youtube.com/watch?v=uO3N1cQ4aRc&t=1324s">www.youtube.com/watch?v=uO3N1cQ4aRc&t=1324s</a></li>
+                    <li>Medizi. (5 de marzo de 2021). <em>Fisiología Endocrina - Hormona de Crecimiento (GH) e IGF-1</em> [Archivo de Vídeo]. <a href="https://www.youtube.com/watch?v=uO3N1cQ4aRc&t=1324s">YouTube. www.youtube.com/watch?v=uO3N1cQ4aRc&t=1324s</a></li>
+                    <li>DrCondoriCh. (2 de diciembre de 2019). RESUMEN: <em>Hormona del Crecimiento</em> [Archivo de Vídeo]. <a href="https://www.youtube.com/watch?v=TJ7xL7Szikw">YouTube. www.youtube.com/watch?v=TJ7xL7Szikw</a></li>
                     <li>ILERNA Online. (1 de julio de 2020). <em>La Hormona del Crecimiento</em> [Archivo de Vídeo]. YouTube. <a href="https://www.youtube.com/watch?v=YtLI2NFsj0s">https://www.youtube.com/watch?v=YtLI2NFsj0s</a></li>
                     <li>unProfesor. (18 de junio de 2019). <em>Qué es la hormona del crecimiento: somatotropina y somatomedina</em> [Archivo de Vídeo]. YouTube. <a href="https://www.youtube.com/watch?v=_n-dP45EQEI&t=330s">https://www.youtube.com/watch?v=_n-dP45EQEI&t=330s</a></li>
                 </ol>
