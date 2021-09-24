@@ -104,7 +104,7 @@
                 <p>Las radiografías de las manos y muñecas también son importantes para diagnosticar la pubertad precoz en las niñas y los niños. Estas radiografías pueden ayudar al médico a determinar la edad de los huesos del niño o niña, lo cual muestra si los huesos están madurando muy rápido.</p>       
             </div>
             <div class="tamaño-img pt-15 pb-30">
-                <a href="/contact"><img src="/img/banners/diagnostico-de-pubertad-precoz.webp" alt="agenda tu cita en sequoia"></a>
+                <a href="/contact"><img loading="lazy" src="/img/banners/diagnostico-de-pubertad-precoz.webp" alt="agenda tu cita en sequoia"></a>
             </div> 
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
@@ -125,7 +125,7 @@
                 </div>
             </div>
             <div class="tamaño-img  ph-1">
-                <img src="/img/banners/testimonio-fernanda.webp" alt="imagen de Fernanda">
+                <img loading="lazy" src="/img/banners/testimonio-fernanda.webp" alt="imagen de Fernanda">
             </div>
             <div class="body-container ph-2">
                     <div class="accordion">
@@ -140,10 +140,10 @@
                 <p>Los niños que comienzan la pubertad de manera temprana se pueden sentir diferentes a sus pares. Es posible que el sentirse diferente pueda causar problemas sociales y emocionales, incluyendo una en etapa de experimentación sexual temprana. Como padre, quizás tú también tengas problemas para lidiar con el desarrollo temprano de tu hijo o hija.</p>
             </div>
             <div class="ocultar-media">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
+                <a href="/contact"><img loading="lazy" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
             <div class="tamaño-img mostrar-media ph-1">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
+                <a href="/contact"><img loading="lazy" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-2 ">
                 <div class="titulos-principal">
@@ -218,7 +218,7 @@
                 </div>
             </div>
             <div class="tamaño-img pt-15 ">
-                <a href="/aprende-del-crecimiento-infantil/etapas-del-desarollo-de-tanner/"><img src="/img/banners/banner-cambios-fisicos.webp" alt="Banner cambios fisicos"></a>
+                <a href="/aprende-del-crecimiento-infantil/etapas-del-desarollo-de-tanner/"><img loading="lazy" src="/img/banners/banner-cambios-fisicos.webp" alt="Banner cambios fisicos"></a>
             </div> 
 
         </div>

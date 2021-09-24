@@ -51,10 +51,10 @@
                 <p>Hay señales a las que debe prestar atención que podrían indicar que su hijo no está creciendo como debería: </p>
             </div>
             <div class="tamaño-img">
-                <img src="/img/banners/seniales-de-un-mal-crecimiento.webp" alt="señales de un mal crecimiento">
+                <img loading="lazy" src="/img/banners/seniales-de-un-mal-crecimiento.webp" alt="señales de un mal crecimiento">
             </div>
             <div class="tamaño-img">
-                <a href="/contact"><img src="/img/banners/banner-contacto-centro-sequoia-ninia-d.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
+                <a href="/contact"><img loading="lazy" src="/img/banners/banner-contacto-centro-sequoia-ninia-d.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
             <div class="box-titles">
                 <h2 class="box-titles-h2">¿Qué significa un crecimiento deficiente en mi hijo?</h2>
@@ -63,13 +63,13 @@
                 <p>En algunos niños y niñas, el crecimiento deficiente puede no ser una causa de preocupación, pero, en otros, puede estar asociado con serios problemas de salud, el niño puede presentar afectaciones en: </p>
             </div>
             <div class="tamaño-img">
-                <img src="/img/banners/problemas-asociados-al-crecimiento.webp" alt="Problemas de salud que están asociados con el crecimiento infantil deficiente.">
+                <img loading="lazy" src="/img/banners/problemas-asociados-al-crecimiento.webp" alt="Problemas de salud que están asociados con el crecimiento infantil deficiente.">
             </div>
             <div class="tamaño-img ocultar-media">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
+                <a href="/contact"><img loading="lazy" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
+                <a href="/contact"><img loading="lazy" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
 
         </div>

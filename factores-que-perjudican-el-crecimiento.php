@@ -63,7 +63,7 @@
                 <li>Retraso general del <strong>crecimiento y la pubertad</strong>.</li>
             </ul>
             <div class="tamaño-img">
-                <img src="/img/causas-de-la-baja-estatura/banner-causas-baja-estatural-doctor.webp" alt="Banner informativo sobre causas de la baja estatura">
+                <img loading="lazy" src="/img/causas-de-la-baja-estatura/banner-causas-baja-estatural-doctor.webp" alt="Banner informativo sobre causas de la baja estatura">
             </div>
         </div>
 

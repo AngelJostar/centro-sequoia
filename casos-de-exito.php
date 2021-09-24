@@ -102,7 +102,7 @@
                 </div>
             </div>
             <div class="tamaño-img  ph-1">
-                <img src="/img/banners/testimonio-maria.webp" alt="Caso de éxito de María ">
+                <img loading="lazy" src="/img/banners/testimonio-maria.webp" alt="Caso de éxito de María ">
             </div>
             <div class="body-container ph-2">
                     <div class="accordion">
@@ -121,7 +121,7 @@
                 </div>
             </div>
             <div class="tamaño-img  ph-1">
-                <img src="/img/banners/testimonio-fernanda.webp" alt="Caso de éxito de Fernanda">
+                <img loading="lazy" src="/img/banners/testimonio-fernanda.webp" alt="Caso de éxito de Fernanda">
             </div>
 
             <div class="body-container ph-2">
@@ -139,7 +139,7 @@
                 </div>
             </div>
             <div class="tamaño-img  ph-1">
-                <img src="/img/banners/testimonio-gerardo.webp" alt="Caso de éxito de Gerardo">
+                <img loading="lazy" src="/img/banners/testimonio-gerardo.webp" alt="Caso de éxito de Gerardo">
             </div>
             <div class="body-container ph-2">
                     <div class="accordion">
@@ -152,10 +152,10 @@
                     </div>
             </div>
             <div class="ocultar-media">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
+                <a href="/contact"><img loading="lazy" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
+                <a href="/contact"><img loading="lazy" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>

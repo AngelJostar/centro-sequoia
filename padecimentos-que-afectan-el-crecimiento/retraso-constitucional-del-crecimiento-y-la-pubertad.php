@@ -67,7 +67,7 @@
                 <p>Por otro lado, los niños con diagnóstico presuntivo de RCCP presentan una elevada sensibilidad a la insulina, la cual probablemente se relacione con el tiempo de inicio de pubertad.</p>
             </div>
             <div class="tamaño-img pb-30">
-                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="/img/causas-de-la-baja-estatura/banner-nutricion-y-crecimiento.webp" alt="banner que enlaza con nutrición y crecimiento"></a>
+                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img loading="lazy" src="/img/causas-de-la-baja-estatura/banner-nutricion-y-crecimiento.webp" alt="banner que enlaza con nutrición y crecimiento"></a>
                 
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
@@ -88,10 +88,10 @@
                 <p>Ante cualquier cambio en el crecimiento de tu hijo no dudes en acudir con nuestros Médicos Pediatras Endocrinólogos. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente para alcanzar una mayor estatura.</p>
             </div>
             <div class="ocultar-media">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
+                <a href="/contact"><img loading="lazy" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/contact"><img src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
+                <a href="/contact"><img loading="lazy" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
             </div>
 
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">

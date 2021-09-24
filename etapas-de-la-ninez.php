@@ -54,7 +54,7 @@
             <h2>Infancia y niñez</h2>
             <p>Los dos años de vida son de <strong>crecimiento</strong> y cambio dramático. Un recién nacido, con un agudo sentido del oído pero muy deficiente visión, se transforma en un niño que camina y habla en un período de tiempo relativamente corto. Los cuidadores también se transforman de alguien que administra los horarios de alimentación y sueño a un guía en constante movimiento e inspector de seguridad para un niño enérgico y móvil.</p>
             <div class="tamaño-img">
-                <img src="/img/crecimiento-infantil-por-edad/Banner-Crecimiento-Infantil-por-Edades-.webp" alt="">
+                <img loading="lazy" src="/img/crecimiento-infantil-por-edad/Banner-Crecimiento-Infantil-por-Edades-.webp" alt="">
             </div>
             <h2>Primera infancia</h2>
             <p>La <strong>primera infancia</strong> también conocida como los años preescolares y consiste en los años que siguen a la niñez y anteceden a la escolarización formal. Cuando tiene entre tres y cinco años, el niño está ocupado aprendiendo el lenguaje, está adquiriendo un sentido de sí mismo y una mayor independencia, y está comenzando a aprender el funcionamiento del mundo físico. Sin embargo, este conocimiento no llega rápidamente y los niños en edad preescolar pueden tener inicialmente conceptos interesantes sobre el tamaño, el tiempo, el espacio y la distancia, como el temor de que se vayan por el desagüe si se sientan al frente de la bañera o al lado de la bañera demostrando cuánto tardará algo extendiendo sus dos dedos índices a varias pulgadas de distancia. La feroz determinación de un niño de hacer algo puede dar paso al sentimiento de culpa de un niño de cuatro años por una acción que genera la desaprobación de los demás.</p>
@@ -70,7 +70,7 @@
                 <picture>
                     <source media="(max-width:767px)" srcset="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp">
                     <source media="(min-width: 767px)" srcset="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp">
-                    <img class="tamaño-img" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto">
+                    <img loading="lazy" class="tamaño-img" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto">
                 </picture>
             </a>
 

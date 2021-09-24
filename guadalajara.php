@@ -37,7 +37,7 @@
                 </div>
             </div>
             <div class="sombras-img tamaño-img ocultar">
-               <img src="/img/banners/doctores-de-centro-sequoia.webp" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil">
+               <img  src="/img/banners/doctores-de-centro-sequoia.webp" alt="Médicos Pediatras Endocrinólogos especialistas en crecimiento infantil">
             </div>
             <div class="textos-azules">
                 <p>En el <span class="font-bold">Centro Sequoia</span> somos endocrinólogos pediatras especialistas en crecimiento infantil. Diagnosticaremos las causas por las que tu hijo no crece correctamente y lograremos que alcance una mayor estatura.</p>
@@ -61,7 +61,7 @@
                         </div>
                 </div>
                 <div class="contenedor-90porciento">
-                    <a href="https://www.google.com/maps/place/Centro+Sequoia+Guadalajara-Crecimiento+Infantil/@20.6912993,-103.3831778,15z/data=!4m5!3m4!1s0x0:0x296b00874ce3a155!8m2!3d20.6912993!4d-103.3831778"><img src="/img/Mapas/MAPA-GUADALAJARA-1015x542.webp" alt="Mapa-CDMX"></a>
+                    <a href="https://www.google.com/maps/place/Centro+Sequoia+Guadalajara-Crecimiento+Infantil/@20.6912993,-103.3831778,15z/data=!4m5!3m4!1s0x0:0x296b00874ce3a155!8m2!3d20.6912993!4d-103.3831778"><img loading="lazy" src="/img/Mapas/MAPA-GUADALAJARA-1015x542.webp" alt="Mapa-CDMX"></a>
                 </div>
                 <div class="contacto-grid">
                     <div class="centrar-texto texto-boton-contacto pb-2 margin-top-20">
@@ -109,7 +109,7 @@
                 <picture>
                     <source media="(max-width:767px)" srcset="/img/banners/banner-preguntas-frecuentes-c.webp">
                     <source media="(min-width: 767px)" srcset="/img/banners/banner-preguntas-frecuentes.webp">
-                    <img  class="tamaño-img" src="/img/banners/banner-preguntas-frecuentes-c.webp" alt="Banner preguntas frecuentes en Centro Sequoia">
+                    <img  loading="lazy" class="tamaño-img" src="/img/banners/banner-preguntas-frecuentes-c.webp" alt="Banner preguntas frecuentes en Centro Sequoia">
                 </picture>
             </a>
             <div class="textos-azules">

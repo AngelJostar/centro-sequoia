@@ -45,7 +45,7 @@
             </div>
             </div>
             <div class="tamaño-img ">
-                <a><img src="/img/banners/etapa-de-la-pubertad.jpg" alt="dos chicas a contra espalda disfrutando un refresco en botella en un día de campo"></a>
+                <a><img loading="lazy" src="/img/banners/etapa-de-la-pubertad.jpg" alt="dos chicas a contra espalda disfrutando un refresco en botella en un día de campo"></a>
             </div>
             <div class=" pt-15 justificar-texto-90  ">
                 <h2><b>Periodos de la pubertad</b></h2>
@@ -67,7 +67,7 @@
 <span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">En el caso de los varones, la hormona que causa el </span><b data-mce-fragment="1">desarrollo sexual</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> es la testosterona, esta es generada en los testículos y prepara al hombre para la reproducción, además de que ayuda en el </span><b data-mce-fragment="1">crecimiento de los testículos</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">.</span>
             <h2 data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Cambios físicos en niñas</span></h2>
             <div class="tamaño-img ">
-            <a><img src="/img/banners/etapa-de-la-pubertad-2.jpg" alt="dos  chicos sentados en la calle mientras revisan sus celulares"></a>
+            <a><img loading="lazy" src="/img/banners/etapa-de-la-pubertad-2.jpg" alt="dos  chicos sentados en la calle mientras revisan sus celulares"></a>
             </div>
 <ul data-mce-fragment="1">
 <li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Crecimiento de senos. El crecimiento de los pechos es la principal señal de que una niña está entrando a la pubertad y de que sus </span><b data-mce-fragment="1">hormonas sexuales</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> funcionan bien, ya que esto es una preparación para el</span><b data-mce-fragment="1"> ciclo menstrual</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">.</span></li>
@@ -77,7 +77,7 @@
 </ul>
 <h2 data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Cambios físicos en niños</span></h2>
             <div class="tamaño-img ">
-            <a><img src="/img/banners/etapa-de-la-pubertad-1.jpg" alt="hija decaída sobre la mesa frente a su madre"></a>
+            <a><img loading="lazy" src="/img/banners/etapa-de-la-pubertad-1.jpg" alt="hija decaída sobre la mesa frente a su madre"></a>
             </div>
 <ul data-mce-fragment="1">
 <li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Aumento en el </span><b data-mce-fragment="1">tamaño del pene</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> y </span><b data-mce-fragment="1">crecimiento de los testículos</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">. Es un cambio perceptible y es un signo de la </span><b data-mce-fragment="1">etapa de la pubertad</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> en los niños. En este punto, los testículos comienzan con la producción de espermatozoides y hay un aumento en el </span><b data-mce-fragment="1">tamaño del pene</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">.</span></li>
