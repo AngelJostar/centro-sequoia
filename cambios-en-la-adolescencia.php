@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Si te preocupa el crecimiento de tu hijo en Centro SEQUOIA podemos ayudarte ya que es un Centro Pediátrico Exclusivo para el Crecimiento de los niños ☝">
-<title>Cambios en la adolescencia: Todo lo que debes saber sobre adolescencia y pubertad </title>
+<meta name="description" content="La adolescencia esta llena de grandes cambios, desde fisicos a emocionales, cada adolescente atraviesa a distinto ritmo y forma esta etapa. Mira en este articulo como se viven cada de las etapas de la adolescencia.">
+<title>Cambios en la adolescencia - etapas y pubertad </title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
@@ -21,7 +21,7 @@
 
 <main class="main-container">
     <div class="box-titles">
-        <h1 class="box-titles-h2">Cambios en la adolescencia: Todo lo que debes saber sobre adolescencia y pubertad</h1>
+        <h1 class="box-titles-h2">Cambios en la adolescencia - etapas y pubertad </h1>
     </div>
     
     <div class="text-container">

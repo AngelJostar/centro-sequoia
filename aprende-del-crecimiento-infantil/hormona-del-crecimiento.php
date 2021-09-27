@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="El crecimiento de los niños se ve afectado por factores como la genética, alimentación, enfermedades, deporte, sueño, condiciones ambientales, etc.">
+<meta name="description" content="Si buscas información detallada y concisa sobre lo que es la hormona de crecimiento, este articulo te enseñara todo sobre ¿qué es? ¿que trata? y las razones de su uso.">
 <title>Todo lo que debes saber sobre la hormona de crecimiento</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">

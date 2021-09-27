@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Si te preocupa el crecimiento de tu hijo en Centro SEQUOIA podemos ayudarte ya que es un Centro Pediátrico Exclusivo para el Crecimiento de los niños ☝">
+<meta name="description" content="Los problemas del crecimiento pueden ser causados por varios factores (genética, alimentación, el ambiente, etc.). Este articulo se abordaran los trastornos genéticos relacionados con el crecimiento deficiente">
 <title>sindromes que afectan el crecimiento</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">

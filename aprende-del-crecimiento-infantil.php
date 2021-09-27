@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Si te preocupa el crecimiento de tu hijo en Centro SEQUOIA podemos ayudarte ya que es un Centro Pediátrico Exclusivo para el Crecimiento de los niños ☝">
+<meta name="description" content="Te preocupa el crecimiento de tu hijo, pero no sabes nada sobre el crecimiento infantil, en este articulo aprenderás acerca de los temas mas importantes relacionados al crecimiento en niños.">
 <title>Aprende del crecimiento infantil | ¿Qué es? y ¿Cómo se da? </title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
@@ -60,14 +60,14 @@
                 <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="yIhxulvi3r0"></div>
             </div>
-            <div class="ocultar-media">
-                <a href="/contact"><img loading="lazy" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp"
-                        alt="Banner, tu hijo puede ser más alto, contacto"></a>
-            </div>
-            <div class="tamaño-img mostrar-media ph-1">
-                <a href="/contact"><img loading="lazy" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp"
-                        alt="Banner, tu hijo puede ser más alto, contacto"></a>
-            </div>
+            <a href="/contact">
+                <picture>
+                    <source media="(max-width:767px)" srcset="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp">
+                    <source media="(min-width: 767px)" srcset="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp">
+                    <img loading="lazy" class="tamaño-img" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes-c.webp" alt="Banner, tu hijo puede ser más alto, contacto">
+                </picture>
+            </a>
+
         </div>
 
     </main>

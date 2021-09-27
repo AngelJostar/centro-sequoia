@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Si te preocupa el crecimiento de tu hijo en Centro SEQUOIA podemos ayudarte ya que es un Centro Pediátrico Exclusivo para el Crecimiento de los niños ☝">
-<title>Etapas de la niñez - conoce la 5 etapas del desarrollo infantil </title>
+<meta name="description" content="Conforme crecen los niños, se desarrollan de distintas maneras. El desarrollo infantil consta de cambios físicos, intelectuales, sociales y emocionales.">
+<title>Cuales son las etapas de la niñez - Periodos del desarrollo</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 </head>
