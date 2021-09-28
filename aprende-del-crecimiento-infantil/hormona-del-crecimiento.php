@@ -263,8 +263,8 @@
             </div>
         </div>
 
+    </main>
         <?php include_once '../includes/templates/footer.php';?>
-        </main>
 <!--####HEADER####-->
 
 <a href="/contact" class="scrollup">

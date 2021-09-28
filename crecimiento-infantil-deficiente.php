@@ -21,8 +21,8 @@
         <div class="box-titles">
             <h1 class="box-titles-h2">Crecimiento infantil deficiente </h1>
         </div>
-            <p>Si el niño no está creciendo adecuadamente, puede ser el primer signo de una posible condición médica. Esta página puede orientarte sobre los signos claves que indicarían un crecimiento deficiente y lo que pueden significar para la salud del niño.</p>
-            <p>Cualquiera que sea la edad de su hijo, es importante saber si está creciendo como debería. Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.</p>
+            <p>Si el niño no está creciendo adecuadamente, puede ser el primer signo de una posible <strong>condición médica</strong>. Esta página puede orientarte sobre los signos claves que indicarían un <strong>crecimiento deficiente</strong> y lo que pueden significar para la salud del niño.</p>
+            <p>Cualquiera que sea la edad de su hijo, es importante saber si está <strong>creciendo</strong> como debería. Si la <strong>tasa de crecimiento</strong> de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de <strong>crecimiento inadecuado</strong>.</p>
         <div class="menu-categorias">
             <a href="/generalidades-del-crecimiento-infantil/como-crecer-de-estatura"><div class="crecimiento-deficiente-img-1 menu-categorias-img" title="sección de crecimiento infantil generalidades">
                 <p><i class="fas fa-caret-right"></i>¿Cómo crecer de estatura?<i class="fas fa-caret-left"></i></p>

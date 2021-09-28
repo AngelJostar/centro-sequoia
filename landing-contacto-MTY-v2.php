@@ -56,6 +56,8 @@
                             <a href="tel:811159-2265">
                                 <span>Tel. (81) 11592265</span>
                             </a>
+                            <br>
+                            <a href="wa.link/xhwf96" target="_blank"><span>WA: 818022-9793</span></a>
                         </h2>
                         <p><span class="font-bold">DIRECCIÓN:</span>Rio Amazonas Ote. #316 Col. Del Valle</p>
                         <p>San Pedro Garza Garcia N.L C.P.66220</p>

@@ -97,7 +97,8 @@
                         <h2 class="font-ciudades">Guadalajara<br>
                                 <a href="tel:3336152835">
                                     <span>Tel. (33) 3615-2835</span>
-                                </a> <br>
+                                </a> 
+                                <br>
                                 <a href="https://api.whatsapp.com/send?phone=523333371382&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia.%0A" target="_blank"><span>WA: (33) 3337-1382</span></a>
                         </h2>
                         <p><span class="font-bold">DIRECCIÓN:</span> José María Vigil #2750, Colonia Providencia,</p>
@@ -127,8 +128,10 @@
                     <div class="tercer-p">
                         <h2 class="font-ciudades">MONTERREY<br>
                             <a href="tel:811159-2265">
-                                <span>(81) 11592265</span>
+                                <span>Tel. (81) 11592265</span>
                             </a>
+                            <br>
+                            <a href="wa.link/xhwf96" target="_blank"><span>WA: 818022-9793</span></a>
                         </h2>
                         <p><span class="font-bold">DIRECCIÓN:</span>Rio Amazonas Ote. #316 Col. Del Valle</p>
                         <p>San Pedro Garza Garcia N.L C.P.66220</p>

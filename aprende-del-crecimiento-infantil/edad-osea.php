@@ -91,23 +91,23 @@
                 <li>Trastornos de crecimiento genéticos, tales como el <a href="/sindromes/sindrome-de-turner">síndrome de Turner</a>.)</li>
                 <li>Problemas ortopédicos o de ortodoncia en los cuales el momento y el tipo de tratamiento (cirugía, aparatos ortopédicos, etc.) se deben determinar según la predicción de crecimiento del niño.</li>
             </ol>
-            <p>La <strong>edad ósea retrasada</strong> de un niño quiere decir que va a llegar a la estatura adulta más tarde que la mayoría, mientras que un niño con <strong>edad ósea adelantada</strong> alcanzará la talla definitiva antes que los demás.</p>            
+            <p>La <strong>edad ósea retrasada</strong> de un niño significa que va a llegar a la estatura adulta más tarde que la mayoría, por el contrario un niño con <strong>edad ósea adelantada</strong> alcanzará la talla definitiva antes que los demás.</p>            
             <h2 id="3">Radiografía de edad ósea</h2>
-            <p>Es un <strong>procedimiento rápido</strong>. Solo lleva unos minutos de principio a fin, y la exposición real a la <strong>radiación</strong> suele ser inferior a unos pocos segundos.</p>
-            <p>Se le pedirá a su <strong>hijo</strong> que ingrese a una habitación especial que probablemente contendrá una mesa y una <strong>máquina de rayos X</strong> grande que cuelga del techo. Los padres generalmente pueden acompañar a sus hijos para brindarles tranquilidad y apoyo. Si permanece en la habitación mientras se realiza la <strong>radiografía</strong>, se le pedirá que use un delantal de plomo para proteger ciertas partes de su cuerpo de la radiación.</p>
-            <p>Se le dará un escudo protector a su hijo. Luego, el técnico se colocará detrás de una pared o en una habitación contigua para operar la máquina. Se le pedirá a su hijo que permanezca quieto durante un par de segundos mientras se toma la radiografía. Esto es importante para evitar que la imagen de <strong>rayos X</strong> se vea borrosa.</p>
-            <p>Su hijo no sentirá nada mientras se toma la radiografía. Después de tomar la radiografía, se les pedirá a usted y a su hijo que esperen unos minutos mientras se procesan las imágenes. Si están borrosos, es posible que sea necesario volver a hacer la radiografía. La <strong>radiografía</strong> será examinada por un <strong>radiólogo</strong> (un médico especialmente capacitado para leer e interpretar imágenes de rayos X). El radiólogo enviará un informe a su médico (https://centrosequoia.com.mx/especialistas-en-crecimiento/ ) , quien discutirá los resultados con usted y le explicará lo que significan.</p>
+            <p>Es un <strong>procedimiento rápido</strong>. Solo lleva un par de minutos de principio a fin, y la exposición real a la <strong>radiación</strong> suele ser menor a unos pocos segundos.</p>
+            <p>Se le pedirá a su <strong>hijo</strong> que ingrese a una habitación especial que probablemente contendrá una mesa y una <strong>máquina de rayos X</strong> grande que cuelga del techo. Los padres usualmente pueden acompañar a sus hijos para darles tranquilidad y apoyo. Si permanece en la habitación mientras se realiza la <strong>radiografía</strong>, se le pedirá que use un delantal de plomo para proteger ciertas partes de su cuerpo de la radiación.</p>
+            <p>Se le dará un escudo protector a su hijo. Despues, el técnico se colocará detrás de una pared o en una habitación contigua para operar la máquina. Se le pedirá a su hijo que permanezca quieto durante un par de segundos mientras se toma la radiografía. Esto es importante para evitar que la imagen de <strong>rayos X</strong> se vea borrosa.</p>
+            <p>El niño no sentirá nada mientras se toma la radiografía. Después de tomar la radiografía, se les pedirá a usted y a su hijo que esperen unos minutos mientras se procesan las imágenes. Si están borrosos, es posible que sea necesario volver a hacer la radiografía. La <strong>radiografía</strong> será examinada por un <strong>radiólogo</strong> (un médico especialmente capacitado para leer e interpretar imágenes de rayos X). El radiólogo enviará un informe a su médico (https://centrosequoia.com.mx/especialistas-en-crecimiento/ ) , quien discutirá los resultados con usted y le explicará lo que significan.</p>
             <h2 id="4">Cómo se calcula</h2>
-            <p>La forma más habitual de calcularla es con una <strong>radiografía de la mano</strong>. Se hace de la mano por la gran cantidad de <strong>huesos</strong> que hay en ella, cada uno con su <strong>cartílago de crecimiento</strong>. </p>
-            <p>Para cada año hay un modelo de imagen radiológica, con el que se compara la <strong>radiografía del niño</strong> que se quiere estudiar. A través de la comparación de imágenes se sabe cuál es la edad ósea.</p>
+            <p>La forma más habitual de calcularla es con una <strong>radiografía de la mano</strong>. Se lleva acabo en la mano por la gran cantidad de <strong>huesos</strong> que contiene esta, cada uno con su <strong>cartílago de crecimiento</strong>. </p>
+            <p>Para cada año existe un modelo de imagen radiológica, con el que se compara la <strong>radiografía del niño</strong> que se quiere estudiar. Mediante la comparación de imágenes se puede saber cuál es la edad ósea.</p>
             <p>El <strong>crecimiento óseo</strong> va acompañado de un patrón predecible de <strong>maduración óseas</strong> que varía entre niños y niñas como se describe a continuación:</p>
             <h3 id="4.1">Progresión por años cumplidos en niños</h3>
             <div class="size-img-resposive">
-                <img src="/img/generalidades-del-crecimiento-infantil/crecimiento-edad-osea-mujeres.webp" alt="Progresión de la edad osea por años en niñas">
+                <img loading="lazy" src="/img/generalidades-del-crecimiento-infantil/crecimiento-edad-osea-mujeres.webp" alt="Progresión de la edad osea por años en niñas">
             </div>
             <h3 id="4.2">Progresión por años cumplidos en niñas</h3>
             <div class="size-img-resposive">
-                <img src="/img/generalidades-del-crecimiento-infantil/crecimiento-edad-osea-hombres.webp" alt="Progresión de la edad osea por años en niños">
+                <img loading="lazy" src="/img/generalidades-del-crecimiento-infantil/crecimiento-edad-osea-hombres.webp" alt="Progresión de la edad osea por años en niños">
             </div>
             <h2 id="5">Indicadores de la edad ósea</h2>
             <h3 id="5.1">Recién nacidos</h3>
@@ -116,7 +116,7 @@
                 <li>Hombres: desde el nacimiento hasta los 14 meses.</li>
             </ul>
             <div class="size-img-resposive">
-                <img src="/img/generalidades-del-crecimiento-infantil/edad-osea-1.webp" alt="Indicadores de la edad osea en recien nacidos">
+                <img loading="lazy" src="/img/generalidades-del-crecimiento-infantil/edad-osea-1.webp" alt="Indicadores de la edad osea en recien nacidos">
             </div>
             <p>Durante la infancia, se basa principalmente en la presencia o ausencia de osificación del hueso grande, el ganchoso y la epífisis distal del radio. </p>
             <h3 id="5.2">Bebes</h3>
@@ -125,7 +125,7 @@
                 <li>Hombres: 14 meses a 3 años. </li>
             </ul>
             <div class="size-img-resposive">
-                <img src="/img/generalidades-del-crecimiento-infantil/edad-osea-2.webp" alt="Indicadores de la edad osea en bebes">
+                <img loading="lazy" src="/img/generalidades-del-crecimiento-infantil/edad-osea-2.webp" alt="Indicadores de la edad osea en bebes">
             </div>
             <p>Los centros de osificación de las epífisis de todas las falanges y metacarpianos se vuelven reconocibles durante esta etapa, generalmente en el dedo medio primero y el quinto dedo al final. </p>
             <h3 id="5.3">Niños</h3>
@@ -134,7 +134,7 @@
                 <li>Hombres: 3 años a 9 años.</li>
             </ul>
             <div class="size-img-resposive">
-                <img src="/img/generalidades-del-crecimiento-infantil/edad-osea-3.webp" alt="Indicadores de la edad osea en niños">
+                <img loading="lazy" src="/img/generalidades-del-crecimiento-infantil/edad-osea-3.webp" alt="Indicadores de la edad osea en niños">
             </div>
             <p>Las evaluaciones de la madurez esquelética en niños prepúberes se basan principalmente en el tamaño epifisario de las falanges en relación con las metáfisis adyacentes. Durante esta etapa de desarrollo, los centros de osificación de las epífisis aumentan de ancho y grosor y eventualmente asumen un diámetro transversal tan ancho como las metáfisis.</p>
             <h3 id="5.4">Adolescentes chicos</h3>
@@ -143,7 +143,7 @@
                 <li>Hombres: de 9 a 14 años.</li>
             </ul>
             <div class="size-img-resposive">
-                <img src="/img/generalidades-del-crecimiento-infantil/edad-osea-4.webp" alt="Indicadores de la edad osea en adolescentes chicos">
+                <img loading="lazy" src="/img/generalidades-del-crecimiento-infantil/edad-osea-4.webp" alt="Indicadores de la edad osea en adolescentes chicos">
             </div>
             <p>Como en los niños prepúberes, las evaluaciones de la madurez esquelética en la pubertad temprana y media también se basan en el tamaño de las epífisis en las falanges distales (primera) y las falanges medias (segunda).</p>
             <h3 id="5.5">Adolescentes grandes</h3>
@@ -152,7 +152,7 @@
                 <li>Hombres: 14 años a 16 años.</li>
             </ul>
             <div class="size-img-resposive">
-                <img src="/img/generalidades-del-crecimiento-infantil/edad-osea-5.webp" alt="Indicadores de la edad osea en adolescentes grandes">
+                <img loading="lazy" src="/img/generalidades-del-crecimiento-infantil/edad-osea-5.webp" alt="Indicadores de la edad osea en adolescentes grandes">
             </div>
             <p>Las evaluaciones de la madurez esquelética en esta etapa se basan principalmente en el grado de fusión epifisaria de las falanges distales. La fusión de las epífisis con las metáfisis en los huesos largos de la mano tiende a ocurrir en un patrón característico ordenado, como sigue: 1) Fusión de las falanges distales; 2) Fusión de los metacarpianos; 3) Fusión de las falanges proximales; y, 4) Fusión de las falanges medias. Dado que todos los huesos del carpo han alcanzado ahora su forma adulta temprana, tienen menos valor para determinarla.</p>
             <h3 id="5.6">Jóvenes</h3>
@@ -161,14 +161,14 @@
                 <li>Hombres: 17 a 19 años</li>
             </ul>
             <div class="size-img-resposive">
-                <img src="/img/generalidades-del-crecimiento-infantil/edad-osea-6.webp" alt="Indicadores de la edad osea en jóvenes">
+                <img loading="lazy" src="/img/generalidades-del-crecimiento-infantil/edad-osea-6.webp" alt="Indicadores de la edad osea en jóvenes">
             </div>
             <p>En esta etapa, todos los carpianos, metacarpianos y falanges están completamente desarrollados, sus fisis están cerradas y las evaluaciones de la madurez esquelética se basan en el grado de fusión epifisaria del cúbito y radio.</p>
             <h2 id="6">Placas de crecimiento</h2>
             <p>Los <strong>huesos</strong> de los <strong>niños</strong>, como los de los dedos y la muñeca, tienen "<strong>zonas de crecimiento</strong>" en cada extremo, que reciben el nombre de "<strong>zonas de crecimiento</strong>". Estas placas están formadas por células especiales que son responsables del crecimiento longitudinal de los <strong>huesos</strong>. Las placas de crecimiento se pueden diferenciar fácilmente en una <strong>radiografía</strong> porque son más blandas y contienen menos minerales que el resto del hueso; por eso, se ven más oscuras en una radiografía.</p>
             <p>A medida que los <strong>niños crecen</strong>, las placas de crecimiento cambian de aspecto en las radiografías y se vuelven más delgadas, hasta que finalmente desaparecen (esto recibe el nombre de "placas de crecimiento cerradas"). Como las placas cambian de aspecto con el paso de los años, los <strong>médicos</strong> pueden asignar una <strong>edad ósea</strong> de acuerdo con el aspecto de los huesos y las placas de crecimiento. La edad ósea de un niño (también llamada "edad esquelética") se asigna determinando cuál de las radiografías estándar del atlas se asemeja más a los huesos del niño en la radiografía.</p>
             <div class="size-img-resposive">
-                <img src="/img/generalidades-del-crecimiento-infantil/placas-de-crecimiento.webp" alt="Placas de crecimiento">
+                <img loading="lazy" src="/img/generalidades-del-crecimiento-infantil/placas-de-crecimiento.webp" alt="Placas de crecimiento">
             </div>
             <p>Una diferencia entre la edad ósea y la edad cronológica de un niño podría indicar la presencia de un problema de crecimiento. Pero estas diferencias no siempre indican que existe un problema, porque los niños perfectamente sanos pueden tener una variación.</p>
             <h2 id="7">Aplicaciones médicas</h2>
