@@ -131,7 +131,7 @@
                                 <span>Tel. (81) 11592265</span>
                             </a>
                             <br>
-                            <a href="wa.link/xhwf96" target="_blank"><span>WA: 818022-9793</span></a>
+                            <a href="https://api.whatsapp.com/send?phone=5218180229793&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia." target="_blank"><span>WA: 818022-9793</span></a>
                         </h2>
                         <p><span class="font-bold">DIRECCIÓN:</span>Rio Amazonas Ote. #316 Col. Del Valle</p>
                         <p>San Pedro Garza Garcia N.L C.P.66220</p>

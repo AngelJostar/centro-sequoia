@@ -42,10 +42,6 @@
                 </div>
             </div>
 
-            
-            <div class="tamaño-img ">
-                    <img width="1000" height="400"  src="/img/causas-de-la-baja-estatura/Banner-doctor-sindrome-de-turner.webp" alt="Banner informativo sobre el Síndrome de Turner"></a>
-            </div>
             <div class="page">
                 <nav>
                     <ol class="breadcrumb__list">
@@ -61,7 +57,7 @@
                 </nav>
             </div>
             
-            <article class="article-container">
+            <article class="text-container">
 
 
                 <p class="centrar-texto"><em>“Revisado médicamente por el <a href="/acerca-de-este-sitio/conoce-a-nuestros-medicos-editores"> equipo médico de Centro Sequoia</a>, México  Publicado el 25 de enero del 2021 y actualizado el 10 de agosto de 2021." (Tiempo de lectura aproximado: 9 minutos)</em></p>
@@ -105,8 +101,8 @@
                     <li><strong>Tiroides.</strong>Muchas personas con este síndrome tienen problemas en la tiroides. El más común es el hipotiroidismo o una glándula tiroides hipoactiva.</li>
                 </ol>
                 <!-- banner -->
-                <div class="tamaño-img ">
-                    <img width="1000" height="1920"  src="/img/sindromes/sindrome-de-turner/-caracteristicas.webp" alt="Sindrome de turner caracteristicas"></a>
+                <div class="size-img-resposive ">
+                    <img width="1000" height="1920"  src="/img/causas-de-la-baja-estatura/sindrome-de-turner-caracteristicas.webp" alt="Sindrome de turner caracteristicas"></a>
                 </div>
                 <h2 id="turner-tratamiento">Tratamiento</h2>
                 <div></div>
@@ -116,12 +112,12 @@
                 <p>El déficit en la estatura en estas niñas es de aproximadamente 20 cm. La estatura que las niñas  pueden ganar con tratamiento de <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento/"> hormona del crecimiento </a> depende en la edad a la que se inicie la terapia. La ganancia de altura esperada cuando se inicia <b> tratamiento con hormona del crecimiento</b> a los 12 años puede ser sólo de 5 cm, mientras que la ganancia de estatura con tratamiento comenzado a los 7 años o antes puede ser de 12 cm o más.</p>
                 <h3>Estrógeno</h3>
                 <p>La mayoría de las niñas necesitan comenzar la terapia con <b> estrógenos</b> y hormonas relacionadas para comenzar la <a href="/aprende-del-crecimiento-infantil/etapas-del-desarollo-de-tanner/"> pubertad </a>. A menudo, la terapia con estrógenos se inicia alrededor de los 11 o 12 años. El estrógeno ayuda a promover el desarrollo en los senos y mejora el tamaño del útero. El estrógeno ayuda con la mineralización ósea y, cuando se usa con la hormona del crecimiento, también puede ayudar con la altura. La terapia con reemplazo de estrógenos generalmente continúa durante toda la vida, hasta que se alcanza la edad promedio en la menopausia.</p>
-                <div class="tamaño-img ">
+                <div class="size-img-resposive ">
                     <a  href="/factores-que-perjudican-el-crecimiento/sindromes-que-afectan-el-crecimiento/"><img width="1000" height="1000" loading="lazy" src="/img/causas-de-la-baja-estatura/banner-sindrome-de-williams.webp" alt="banner que enlaza a sindrome de williams"></a>
                 </div>
                 <h2 id="turner-causas">Causas</h2>
                 <p>Casi todos los seres humanos nacemos con dos cromosomas sexuales. Los niños heredan el cromosoma X de sus madres y el cromosoma Y de sus padres. Las niñas heredan un cromosoma X de cada padre. En las niñas que padecen esta enfermedad les falta (parcial o totalmente) una copia del cromosoma X.</p>
-                <div class="tamaño-img ">
+                <div class="size-img-resposive ">
                     <img  width="1000" height="1000" loading="lazy" src="/img/causas-de-la-baja-estatura/causas-del-sindrome-de-turner.webp" alt="Causas del síndrome de turner">
                 </div>
                 <p>Las variaciones en los genes que producen Síndrome de Turner podrían ser:</p>
@@ -138,7 +134,7 @@
                 <p>Este síndrome se produce en forma circunstancial. A veces, es debido a un problema con el espermatozoide o el óvulo, y otras veces ocurre al principio del desarrollo fetal.</p>
                 <h2 id="turner-diagnostico">Diagnóstico</h2>
                 <p>En caso que el <b> médico</b> sospeche que su niña tiene o puede tener este padecimiento, su médico le pedirá una <b> prueba de laboratorio</b> para analizar los cromosomas de su niña. El estudio clínico es una toma de sangre. <a href="/especialistas-en-crecimiento">El médico </a> también puede solicitar una frotis bucal o una muestra de piel. El análisis cromosómico determina si falta o no un cromosoma X o una anomalía en uno de los cromosomas X.</p>
-                <div class="tamaño-img ">
+                <div class="size-img-resposive ">
                     <img  width="1000" height="1000" loading="lazy" src="/img/causas-de-la-baja-estatura/nina-con-sindrome-de-turner.webp" alt="Niña con sindrome de turner">
                 </div>
                 <h3>Diagnóstico prenatal </h3>
@@ -148,7 +144,7 @@
                 <p>Esto implica tomar un pequeño trozo del tejido de la placenta en desarrollo. La placenta contiene el mismo material genético que el bebé. Las células de las vellosidades coriónicas se pueden enviar al laboratorio especializado en genética para estudios cromosómicos.</p>
                 <h4>Amniocentesis</h4>
                 <p>En esta prueba, se toma una muestra del líquido amniótico del útero. El bebé arroja células al líquido amniótico. El líquido se puede enviar al laboratorio de genética para estudiar los cromosomas del bebé en estas células.</p>
-                <div class="tamaño-img ">
+                <div class="size-img-resposive ">
                     <img  width="388" height="282" loading="lazy" src="/img/causas-de-la-baja-estatura/amniocentesis.webp" alt="amniocentesis - centro sequoia">
                 </div>
                 <h2 id="turner-tratamiento-en">Tratamiento en el embarazo y fertilidad para mujeres</h2>
@@ -159,7 +155,7 @@
                 <p>Se estima que en México existen 28 mil casos, con una incidencia a nivel mundial de hasta 1 en cada 2,500 niñas recién nacidas, tomando en cuenta el último censo de población y vivienda. Lo que representa aproximadamente 400 niñas al año que nacen con este síndrome.</p>
                 <h2 id="turner-especialista">Cuándo ver a un médico especialista </h2>
                 <p>A veces es difícil distinguir los signos y síntomas del síndrome de Turner. Es muy importante recibir un correcto diagnóstico rápido y adecuado y una atención precisa. Consulte a su médico especialista en crecimiento si tiene inquietudes sobre el <a href="/aprende-del-crecimiento-infantil/etapas-del-desarollo-de-tanner/"> desarrollo físico o sexual de su hija.</a></p>
-                <div class="tamaño-img">
+                <div class="size-img-resposive">
                     <a href="/contact"><img width="1920" height="1080" loading="lazy" src="/img/banners/banner-contactanos-sequoia-doctor-dorantes.webp" alt="Banner, tu hijo puede ser más alto, contacto"></a>
                 </div>
                 <h3>Preparando su cita médica con un especialista</h3>
@@ -203,6 +199,7 @@
                     <li>Judith L. Ross, MD, September 2017, Teens health, <a href="https://kidshealth.org/es/teens/turner.html">https://kidshealth.org/es/teens/turner.html</a></li>
                 </ol>
             </article>
+            
         </main>
         
 

@@ -46,7 +46,7 @@
                     </ol>
                 </nav>
             </div>
-            <p class="centrar-texto"><em>“Revisado médicamente por el <a href="/acerca-de-este-sitio/conoce-a-nuestros-medicos-editores"> equipo médico de Centro Sequoia</a>, México  Publicado el 25 de enero del 2021 y actualizado el 10 de agosto de 2021." (Tiempo de lectura aproximado: 9 minutos)</em></p>
+            <p class="centrar-texto"><em>“Revisado médicamente por el <a href="/acerca-de-este-sitio/conoce-a-nuestros-medicos-editores"> equipo médico de Centro Sequoia</a>, México - Actualizado el 29 de septiembre de 2021." (Tiempo de lectura aproximado: 9 minutos)</em></p>
             <div class="indice ">
                 <h2>Indice</h2>
                 <ol>
@@ -67,7 +67,7 @@
                         <li><a href="#5.5">Adolescentes grandes</a></li>
                         <li><a href="#5.6">Jóvenes</a></li>
                     </ol>
-                    <li><a href="#6">Placas de crecimiento</a></li>
+                    <li><a href="#6">Cartilago de crecimiento</a></li>
                     <li><a href="#7">Aplicaciones medicas</a></li>
                     <li><a href="#8">Acerca de los autores</a></li>
                 </ol>
@@ -164,7 +164,7 @@
                 <img loading="lazy" src="/img/generalidades-del-crecimiento-infantil/edad-osea-6.webp" alt="Indicadores de la edad osea en jóvenes">
             </div>
             <p>En esta etapa, todos los carpianos, metacarpianos y falanges están completamente desarrollados, sus fisis están cerradas y las evaluaciones de la madurez esquelética se basan en el grado de fusión epifisaria del cúbito y radio.</p>
-            <h2 id="6">Placas de crecimiento</h2>
+            <h2 id="6">Cartilago de crecimiento</h2>
             <p>Los <strong>huesos</strong> de los <strong>niños</strong>, como los de los dedos y la muñeca, tienen "<strong>zonas de crecimiento</strong>" en cada extremo, que reciben el nombre de "<strong>zonas de crecimiento</strong>". Estas placas están formadas por células especiales que son responsables del crecimiento longitudinal de los <strong>huesos</strong>. Las placas de crecimiento se pueden diferenciar fácilmente en una <strong>radiografía</strong> porque son más blandas y contienen menos minerales que el resto del hueso; por eso, se ven más oscuras en una radiografía.</p>
             <p>A medida que los <strong>niños crecen</strong>, las placas de crecimiento cambian de aspecto en las radiografías y se vuelven más delgadas, hasta que finalmente desaparecen (esto recibe el nombre de "placas de crecimiento cerradas"). Como las placas cambian de aspecto con el paso de los años, los <strong>médicos</strong> pueden asignar una <strong>edad ósea</strong> de acuerdo con el aspecto de los huesos y las placas de crecimiento. La edad ósea de un niño (también llamada "edad esquelética") se asigna determinando cuál de las radiografías estándar del atlas se asemeja más a los huesos del niño en la radiografía.</p>
             <div class="size-img-resposive">
@@ -199,8 +199,12 @@
                 <li>Crecimiento, Emilio Herrera Justiniano, Carlos Pavía Seara, Rafael Yturriaga Matarranz, Diaz de Santos, 1996</li>
                 <li>Avances en el déficit de hormona del crecimiento: aspectos clínicos evolutivos y psicológicos, Diaz de Santos </li>
                 <li>Manual de crecimiento y desarrollo del niño, Marcos Cusminsky, Organización Panamericana de la salud, 1994</li>
-                <li>Skeletal Maturation in the Current Pediatric Mexican Population, M Klünder-Klünder, M Espinosa-Espindola, D Lopez-Gonzalez,Endocrine Practice 26 (10), 1053-106, <a href="https://scholar.google.com.mx/citations?view_op=view_citation&hl=es&user=NPk-DXMAAAAJ&cstart=20&pagesize=80&citation_for_view=NPk-DXMAAAAJ:RHpTSmoSYBkC">https://scholar.google.com.mx/citations?view_op=view_citation&hl=es&user=NPk-DXMAAAAJ&cstart=20&pagesize=80&citation_for_view=NPk-DXMAAAAJ:RHpTSmoSYBkC</a></li>
-                <li>Automated bone age measure and metacarpal radiogrammetry versus traditional methods. M Espinosa, MK Klünder, LG Desirée, MB Peregrina, MB Paz, ALM Lora, Pediatrics 144 (2 MeetingAbstract), 29-29, <a href="https://scholar.google.com.mx/citations?view_op=view_citation&hl=es&user=NPk-DXMAAAAJ&cstart=20&pagesize=80&citation_for_view=NPk-DXMAAAAJ:L8Ckcad2t8MC">https://scholar.google.com.mx/citations?view_op=view_citation&hl=es&user=NPk-DXMAAAAJ&cstart=20&pagesize=80&citation_for_view=NPk-DXMAAAAJ:L8Ckcad2t8MC</a></li>
+                <li>Skeletal Maturation in the Current Pediatric Mexican Population, M Klünder-Klünder, M Espinosa-Espindola, D Lopez-Gonzalez,Endocrine Practice 26 (10), 1053-106, <a href="https://scholar.google.com.mx/citations?view_op=view_citation&hl=es&user=NPk-DXMAAAAJ&cstart=20&pagesize=80&citation_for_view=NPk-DXMAAAAJ:RHpTSmoSYBkC">https://scholar.google.com.mx/citations?view_op=view_
+                    citation&hl=es&user=NPk-DXMAAAAJ&cstart=20&pagesize=80&citation
+                    _for_view=NPk-DXMAAAAJ:RHpTSmoSYBkC</a></li>
+                <li>Automated bone age measure and metacarpal radiogrammetry versus traditional methods. M Espinosa, MK Klünder, LG Desirée, MB Peregrina, MB Paz, ALM Lora, Pediatrics 144 (2 MeetingAbstract), 29-29, <a href="https://scholar.google.com.mx/citations?view_op=view_citation&hl=es&user=NPk-DXMAAAAJ&cstart=20&pagesize=80&citation_for_view=NPk-DXMAAAAJ:L8Ckcad2t8MC">https://scholar.google.com.mx/citations?view_op=view
+                    _citation&hl=es&user=NPk-DXMAAAAJ&cstart=20&pagesize=80&citation
+                    _for_view=NPk-DXMAAAAJ:L8Ckcad2t8MC</a></li>
                 <li>Crecimiento y desarrollo desde la concepción hasta la adolescencia, Elbi Morla Báez, Instituto tecnológico de Santo Domingo, Santo Domingo 2002</li>
                 <li>Crecimiento, Emilio Herrera Justiniano, Carlos Pavía Seara, Rafael Yturriaga Matarranz, Diaz de Santos, 1995</li>
                 <li>Nelson Tratado de Pediatria, Richard E. Behrman, 17 a edición, Saunders, Elsevier, Madrid España, 2006</li>

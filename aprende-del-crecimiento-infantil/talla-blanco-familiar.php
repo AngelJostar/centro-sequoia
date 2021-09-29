@@ -52,13 +52,13 @@
                     en un 85% de los casos y que el margen de error es de 5 a 10 cm.</p>
             </div>
             <div class="tamaño-img pt-15">
-                <img src="/img/aprende-del-crecimiento-infantil/talla-blanco-familiar/-en-ninos.webp" alt="talla blanco familiar en niños">
+                <img src="/img/generalidades-del-crecimiento-infantil/talla-blanco-familiar-en-ninos.webp" alt="talla blanco familiar en niños">
             </div>
             <div class="tamaño-img pt-15">
                 <img src="/img/generalidades-del-crecimiento-infantil/talla-blaco-familiar-en-ninas.webp" alt="talla blanco familiar en niñas">
             </div>
             <div class="tamaño-img pt-15 ">
-                <img src="/img/generalidades-del-crecimiento-infantil/diferencia-de-altura-niño-niña.webp" alt="diferencia de altura entre niño y niña">
+                <img src="/img/generalidades-del-crecimiento-infantil/diferencia-de-altura-nino-nina.webp" alt="diferencia de altura entre niño y niña">
             </div>
             <div class="justificar-texto-85">
                 <p>El crecimiento es uno de los indicadores más sensibles del estado de salud de un niño/a, de ahí la supervisión continuada del crecimiento que se realiza especialmente en los primeros años de vida. Este proceso se ve influenciado por factores endróguenos y exógenos: entre los primeros se encuentra el componente genético, dada la correlación existente entre la talla de los padres y talla del individuo adulto; de tal manera, que a cualquier edad puede estimarse la talla que alcanzará un niño/a, a la cual denominamos Talla Diana en función de la talla de sus padres. </p>
