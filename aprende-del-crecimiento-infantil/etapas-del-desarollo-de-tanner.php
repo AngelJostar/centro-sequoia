@@ -59,7 +59,7 @@
         </div>
         <h2 id="1">¿Qué es la escala de Tanner?</h2>
         <p><strong>La escala de Tanner</strong> es un instrumento que usan los <a href="/especialistas-en-crecimiento">endocrinólogos pediatras</a> para explorar el <strong>desarrollo de las características sexuales</strong> tanto de <strong>hombres</strong>            como de mujeres. Esto es muy importante porque ayuda a determinar si el <strong>niño</strong> está desarrollándose bien físicamente. </p>
-        <p>Con esta valoración los <strong>endocrinólogos pediatras</strong> pueden valorar si sus niveles de hormona están bien y si no están sufriendo algún cambio en su desarrollo sexual (<a href="/padecimentos-que-afectan-el-crecimiento/pubertad-precoz">pubertad precoz</a>            o pubertad retrasada). </p>
+        <p>Con esta valoración los <strong>endocrinólogos pediatras</strong> pueden valorar si sus niveles de hormona están bien y si no están sufriendo algún cambio en su desarrollo sexual (<a href="/padecimentos-que-afectan-el-crecimiento/pubertad-precoz">pubertad precoz</a> o pubertad retrasada). </p>
         <p>Los autores <strong>Tanner y Marshall</strong> estudiaron en base a miles de fotografías como se <strong>desarrollaba un niño y una niña</strong>. En base a esas fotografías de cientos e incluso de miles de niños determinaron cómo se desarrollan
             las características sexuales secundarias en los niños. </p>
         <div class="contenedor-video">
@@ -76,7 +76,7 @@
         <p>Valora la <strong>maduración sexual</strong> de un niño o niña por medio de su <strong>desarrollo físico</strong> desde el inicio de la adolescencia hasta la edad adulta. </p>
         <p>Esta incluye la valoración del <strong>desarrollo testicular</strong> (qué tamaño tienen los testículos), el vello púbico (tanto en hombres como en mujeres), el desarrollo mamario (de las glándulas mamarias en las mujeres) y otros factores que
             se describirán a continuación. Con esta valoración podemos concluir si los niños tienen niveles adecuados de <strong>estrógeno</strong> y <strong>testosterona</strong>.</p>
-        <p>Con esta escala podemos detectar si el adolescente es un <a href="">madurador temprano</a>, si es un madurador normal o si es un <a href="">madurador tardío</a>. Este resultado puede tener implicaciones para su salud y su <strong>desarrollo y su crecimiento</strong>.
+        <p>Con esta escala podemos detectar si el adolescente es un <a href="/padecimentos-que-afectan-el-crecimiento/pubertad-precoz">madurador temprano</a>, si es un madurador normal o si es un madurador tardío. Este resultado puede tener implicaciones para su salud y su <strong>desarrollo y su crecimiento</strong>.
             </p>
         <div class="contenedor-video">
             <div class="reproductor" data-id="tI0-hx_0QLg"></div>
@@ -85,7 +85,9 @@
         <p>La <strong>pubertad</strong> tiende a comenzar antes de lo que los padres creen, especialmente en las niñas. Puedes ayudar a <strong>tu hija</strong> a atravesar esta etapa aprendiendo acerca de estos cambios e iniciando más pronto las conversaciones
             sobre el tema.</p>
         <h3 id="3.1">Estadios en mujeres</h3>
-        <!-- IMAGEN -->
+        <div class="size-img-resposive">
+            <img src="/img/generalidades-del-crecimiento-infantil/Etapas-tanner-mujeres.webp" alt="Etapas de tanner en mujeres">
+        </div>
         <h4>Estadio 1</h4>
         <p>Vamos a ver que los pechos de la niña son totalmente planos no va a ver ningún reborde y que el vello púbico prácticamente no va a estar presente.</p>
         <h4>Estadio 2</h4>
@@ -199,13 +201,19 @@
         </div>
         <h2 id="4">Escala de tanner en hombres</h2>
         <p>Para medir las <strong>etapas de Tanner</strong> en niños hombres se utiliza un <strong>instrumento</strong> llamado “<strong>Orquidometro de Prader</strong>”. </p>
-        <p>El Orquidometro de Prader es un <strong>instrumento</strong> que usan los <a href="">endocrinólogos pediatras</a> para medir el <strong>tamaño de los testículos</strong> y como estos van creciendo conforme se desarrolla un niño cuando avanza en su pubertad.</p>
+        <p>El Orquidometro de Prader es un <strong>instrumento</strong> que usan los <a href="/especialistas-en-crecimiento">endocrinólogos pediatras</a> para medir el <strong>tamaño de los testículos</strong> y como estos van creciendo conforme se desarrolla un niño cuando avanza en su pubertad.</p>
         <p>Es en una cadena de 12 <strong>granos numerados</strong> del 1 al 12 que son cada vez mayores a partir de la 1ra. Los granos se comparan con los testículos del adolescente. Los tamaños de los granos tienen colores que separan la etapa de maduración <strong>puberal</strong>. La etapa <strong>pre-puberal</strong> es amarilla y miden de 1 a 3 ml. El tamaño puberal es naranja y mide de 4 a 12 ml. El tamaño de adulto es rojo y mide de 15 a 25 ml. </p>
-        <!-- IMAGEN -->
+        <div class="size-img-resposive">
+            <img src="/img/generalidades-del-crecimiento-infantil/Orquidometro-de-prader.webp" alt="instrumento Orquidometro">
+        </div>
         <p>Para usar el orquidómetro los <strong>especialistas</strong> toman con mucho cuidado el <strong>testículo</strong> del paciente tratando de retirar la piel que está al rededor y medir con mucho cuidado el <strong>área testicular</strong>. Estas mediciones son bastante certeras para saber cómo está el desarrollo de los testículos en los niños. </p>
-        <!-- IMAGEN -->
+        <div class="size-img-resposive">
+            <img src="/img/generalidades-del-crecimiento-infantil/Tamano-Orquidometro-estadios.webp" alt="Comparación testicular usando orquidometro">
+        </div>
         <h3 id="4.1">Estadios en hombres</h3>
-        <!-- IMAGEN -->
+        <div class="size-img-resposive">
+            <img src="/img/generalidades-del-crecimiento-infantil/Etapas-tanner-hombres.webp" alt="Etapas de tanner en hombres">
+        </div>
         <h4>Estadio 1</h4>
         <p>Es una etapa <strong>prepuberal</strong> cuando el testículo se ubica en el tamaño 3, es menor de 2.5 cm en su longitud, esto generalmente es cuando el niño tiene menos de 11 años.</p>
         <h4>Estadio 2</h4>
@@ -314,7 +322,7 @@
             </div>
         </div>
         <h2 id="4">Escala de Tanner por edad</h2>
-        <p>La siguiente tabla muestra las <a href="">edades</a> a las que los niños y niñas progresan en sus etapas de Tanner. <strong>Recordemos que en promedio</strong> la pubertad progresa a razón de una <strong>etapa de Tanner</strong> por año. Esto es muy importante para evaluar si el proceso está ocurriendo normalmente o no. Si tu hijo se sale de estos parámetros debes acudir con un <a href="">médico especialista en crecimiento y desarrollo de los niños</a>.</p>
+        <p>La siguiente tabla muestra las <a href="/etapas-de-la-ninez">edades</a> a las que los niños y niñas progresan en sus etapas de Tanner. <strong>Recordemos que en promedio</strong> la pubertad progresa a razón de una <strong>etapa de Tanner</strong> por año. Esto es muy importante para evaluar si el proceso está ocurriendo normalmente o no. Si tu hijo se sale de estos parámetros debes acudir con un <a href="/especialistas-en-crecimiento">médico especialista en crecimiento y desarrollo de los niños</a>.</p>
     
 
 
@@ -398,7 +406,7 @@
         </table>
 
         <h2 id="5">¿Qué importancia tienen estas valoraciones? </h2>
-        <p>La <strong>utilidad</strong> que va a tener esto va a ser valorar si los genitales de los adolescentes van de acuerdo a su edad y género, es decir si el niño no tiene alguna complicación en cuanto a su desarrollo genital. También valorar si es un madurador temprano, normal o tardío, valorar si se encuentra con un <strong>crecimiento adecuado</strong> a su nivel de maduración, valorar el estado hormonal y valorar si va a ser necesario un <a href="">tratamiento de tipo hormonal</a>.</p>        
+        <p>La <strong>utilidad</strong> que va a tener esto va a ser valorar si los genitales de los adolescentes van de acuerdo a su edad y género, es decir si el niño no tiene alguna complicación en cuanto a su desarrollo genital. También valorar si es un madurador temprano, normal o tardío, valorar si se encuentra con un <strong>crecimiento adecuado</strong> a su nivel de maduración, valorar el estado hormonal y valorar si va a ser necesario un <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento">tratamiento de tipo hormonal</a>.</p>        
         <!-- IMAGEN -->
         <h2 id="6">Acerca del Autor</h2>
         <div class="author-info">

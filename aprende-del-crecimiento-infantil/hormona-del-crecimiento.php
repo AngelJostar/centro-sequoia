@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta name="description" content="Si buscas información detallada y concisa sobre lo que es la hormona de crecimiento, este articulo te enseñara todo sobre ¿qué es? ¿que trata? y las razones de su uso.">
-<title>Todo lo que debes saber sobre la hormona de crecimiento</title>
+<title>✅ Hormona de crecimiento: ¿qué es?, funciones y tratamiento </title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
@@ -39,7 +39,7 @@
                     </ol>
                 </nav>
             </div>
-            <p class="centrar-texto"><em>“Revisado médicamente por el <a href="/acerca-de-este-sitio/conoce-a-nuestros-medicos-editores"> equipo médico de Centro Sequoia</a>, México  Publicado el 25 de enero del 2021 y actualizado el 10 de agosto de 2021." (Tiempo de lectura aproximado: 9 minutos)</em></p>
+            <p class="centrar-texto"><em>“Revisado médicamente por el <a href="/acerca-de-este-sitio/conoce-a-nuestros-medicos-editores"> equipo médico de Centro Sequoia</a> - Actualizado el 29 de septiembre de 2021." (Tiempo de lectura aproximado: 9 minutos)</em></p>
             <div class="indice ">
                 <h2>Indice</h2>
                 <ol>
