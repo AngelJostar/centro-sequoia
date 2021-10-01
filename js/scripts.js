@@ -45,6 +45,12 @@
                     var i = document.createElement("div");
                     i.innerHTML = '<img class="imagen-previa-rectangular" alt="vista previa del video" src="//i.ytimg.com/vi/' + e[a].dataset.id + '/hqdefault.jpg"><div class="youtube-play"></div>', i.onclick = t, e[a].appendChild(i)
                 }
+            }(),
+            function() {
+                for (var e = document.getElementsByClassName("reproductor-vertical"), a = 0; a < e.length; a++) {
+                    var i = document.createElement("div");
+                    i.innerHTML = '<img class="imagen-previa-vertical" alt="vista previa del video" src="//i.ytimg.com/vi/' + e[a].dataset.id + '/hqdefault.jpg"><div class="youtube-play"></div>', i.onclick = t, e[a].appendChild(i)
+                }
             }()
 
 

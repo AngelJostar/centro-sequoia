@@ -1,11 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Hind:300,400&display=swap);
-@font-face {
-    font-family: 'barcelona Regular';
-    font-style: normal;
-    font-weight: 400;
-    src: local('barcelona Regular'), url(../fonts/barcelona.woff) format('woff')
-}
-
 * {
     box-sizing: border-box
 }

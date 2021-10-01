@@ -39,7 +39,7 @@
                 </ol>
             </nav>
         </div>
-        <p class="centrar-texto"><em>“Revisado médicamente por el <a href="/acerca-de-este-sitio/conoce-a-nuestros-medicos-editores"> equipo médico de Centro Sequoia</a>, México  Publicado el 25 de enero del 2021 y actualizado el 10 de agosto de 2021." (Tiempo de lectura aproximado: 9 minutos)</em></p>
+        <p class="centrar-texto"><em>“Revisado médicamente por el <a href="/acerca-de-este-sitio/conoce-a-nuestros-medicos-editores"> equipo médico de Centro Sequoia</a>, México - Actualizado el 1 de octubre de 2021." (Tiempo de lectura aproximado: 9 minutos)</em></p>
         <div class="indice ">
             <h2>Indice</h2>
             <ol>
@@ -410,16 +410,20 @@
         <p>La <strong>utilidad</strong> que va a tener esto va a ser valorar si los genitales de los adolescentes van de acuerdo a su edad y género, es decir si el niño no tiene alguna complicación en cuanto a su desarrollo genital. También valorar si es un madurador temprano, normal o tardío, valorar si se encuentra con un <strong>crecimiento adecuado</strong> a su nivel de maduración, valorar el estado hormonal y valorar si va a ser necesario un <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento">tratamiento de tipo hormonal</a>.</p>        
         <!-- IMAGEN -->
         <h2 id="7">Acerca del Autor</h2>
-        <div class="author-info">
-            <div><img width="100" height="100" loading="lazy" src="/img/doctores/dr-francisco-sequoia.webp" alt="Perfil de la Dr. Francisco Javier Alonso Jiménez"></div>
-            <div>
-                <strong>Escrito por el Dr. Francisco Javier Alonso Jiménez</strong>
-                <p><a href="/biografias/francisco-javier-alonso-jimenez"> Dr. Francisco Javier Alonso Jiménez </a> estudio Medicina para luego hacer una especialidad en Pediatría, y posteriormente en Endocrinología Pediátrica. Además está especializado en temas relacionados con el crecimiento de los niños y la pubertad. Actualmente es uno de los médicos más cotizados en la Ciudad de México para el diagnóstico y tratamiento de niños con problemas de baja estatura.</p>
-            </div>
+            <div class="author-info">
+                <div>
+                    <img width="100" height="100" loading="lazy" src="/img/doctores/dr-francisco-sequoia.webp" alt="Perfil de la Dr. Francisco Javier Alonso Jiménez">
+                </div>
+                <div>
+                    <strong>Escrito por el Dr. Francisco Javier Alonso Jiménez</strong>
+                    <p><a href="/biografias/francisco-javier-alonso-jimenez"> Dr. Francisco Javier Alonso Jiménez </a> estudio Medicina para luego hacer una especialidad en Pediatría, y posteriormente en Endocrinología Pediátrica. Además está especializado en temas relacionados con el crecimiento de los niños y la pubertad. Actualmente es uno de los médicos más cotizados en la Ciudad de México para el diagnóstico y tratamiento de niños con problemas de baja estatura.</p>
+                </div>
             </div>
             <h2>Acerca del Coautor</h2>
             <div class="author-info">
-                <div><img width="100" height="100" loading="lazy" src="/img/doctores/dra-america-sequoia.webp" alt="Perfil de la Dra. América Liliana Miranda Lora  "></div>
+                <div>
+                    <img width="100" height="100" loading="lazy" src="/img/doctores/dra-america-sequoia.webp" alt="Perfil de la Dra. América Liliana Miranda Lora  ">
+                </div>
                 <div>
                     <strong>Coautor por el Dr. América Liliana Miranda Lora</strong>
                     <p><a href="/biografias/america-liliana-miranda-lora"> Dra. América Liliana Miranda Lora</a> es especialista en Endocrinóloga Pediátrica, egresada de la Facultad de Medicina de la Universidad Nacional Autónoma de México con un promedio de 9.57. Tiene especialidad en pediatría y médico cirujano por la misma universidad. Posteriormente realizo una alta especialidad médica en diabetes en niños. Está Certificada por el Consejo Mexicano de Endocrinología y reconocida como una de las mejores especialistas en Endocrinología Pediátrica de la Ciudad de México. Actualmente es Jefa de Investigación de Medicina Basada en Evidencias del Hospital Infantil de mexica Federico Gómez, y médico de atención en Centro Sequoia. Hasta el día de hoy ha realizado 66 estudios de investigación en las áreas de edad ósea,  crecimiento infantil, pubertad precoz y obesidad.</p>
