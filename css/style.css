@@ -114,7 +114,7 @@ button {
     position: relative;
     display: none;
     cursor: pointer;
-    width: 1.3rem;
+    width: 1.5rem;
     height: 1rem;
     border: none;
     outline: none;
@@ -1383,6 +1383,7 @@ textarea {
         max-width: 50%;
     }
     .text-container h5 {
+        max-width: 50%;
         padding-left: 2.5em;
     }
     .text-container p {
@@ -1758,14 +1759,13 @@ strong {
 .reproductor-vertical {
     margin: 0 auto;
     display: block;
-    padding-bottom: 56.25%;
     overflow: hidden;
     position: relative;
     width: 312px;
-    height: 550px;
+    height: 552px;
     cursor: hand;
     cursor: pointer;
-    display: block
+    display: block;
 }
 
 .reproductor-rectangular {
@@ -3604,11 +3604,13 @@ h3 a {
 .medic-container h2 {
     color: #00205e;
     font-size: calc(2em + 1vw);
+    line-height: 2;
 }
 
 .medic-container h3 {
     color: #111;
     font-size: calc(1.1em + 1vw);
+    line-height: 2;
 }
 
 .mlist-style-no ul li {
@@ -3631,6 +3633,7 @@ h3 a {
 .medic-container p {
     font-size: 15px;
     text-align: justify;
+    line-height: 1.30;
 }
 
 .medic-container ul li {
@@ -4100,7 +4103,6 @@ em {
     font-size: calc(1.2em + 1vw);
     font-weight: 700;
     border: #bfdb49 5px solid;
-    background-color: #bfdb49 !important;
     border-radius: 12px;
     border-width: 4px;
     background: 0 0;

@@ -181,7 +181,7 @@
             <div class="author-info">
                     <div><img width="100" height="100" loading="lazy" src="/img/doctores/dra-america-sequoia.webp" alt="Perfil de la Dra. América Liliana Miranda Lora  "></div>
                     <div>
-                        <strong>Escrito por el Dr. Luis Miguel Dorantes Álvarez</strong>
+                        <strong>Escrito por el Dra. América Liliana Miranda Lora</strong>
                         <p><a href="/biografias/america-liliana-miranda-lora"> Dra. América Liliana Miranda Lora</a> es especialista en Endocrinóloga Pediátrica, egresada de la Facultad de Medicina de la Universidad Nacional Autónoma de México con un promedio de 9.57. Tiene especialidad en pediatría y médico cirujano por la misma universidad. Posteriormente realizo una alta especialidad médica en diabetes en niños. Está Certificada por el Consejo Mexicano de Endocrinología y reconocida como una de las mejores especialistas en Endocrinología Pediátrica de la Ciudad de México. Actualmente es Jefa de Investigación de Medicina Basada en Evidencias del Hospital Infantil de mexica Federico Gómez, y médico de atención en Centro Sequoia. Hasta el día de hoy ha realizado 66 estudios de investigación en las áreas de edad ósea,  crecimiento infantil, pubertad precoz y obesidad.</p>
                     </div>
             </div>

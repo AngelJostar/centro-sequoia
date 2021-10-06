@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta name="description" content="¿Cuánto debe de medir y pesar tu hijo? Entérate. Aquí encontraras las gráficas, tablas y percentiles de crecimiento estándar para diagnosticar si tu hijo está creciendo como debería en comparación a los demás niños de su edad.">
-<title>Percentiles de crecimiento en tablas de peso y talla de niños.</title>
+<title>Tablas de crecimiento y percentiles de peso y talla de niños.</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/style-casos-de-exito.css" media="all">

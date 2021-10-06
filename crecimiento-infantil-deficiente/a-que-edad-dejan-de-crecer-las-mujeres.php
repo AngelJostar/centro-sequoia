@@ -121,8 +121,8 @@
                 <p>Para usar este método, se suma la altura del padre y de la madre, se divide por dos y se le suma 6,5 si se trata de un niño y se le resta 6,5 si se trata de una niña. Hay que tener en cuenta (según los autores de tal cálculo) que el resultado
                     final es solo valido en un 85% de los casos y que el margen de error es de 5 a 10 cm.</p>
             </div>
-            <div class="tamaño-img ">
-                <img src="/img/aprende-del-crecimiento-infantil/talla-blanco-familiar/-en-ninos.webp" alt="talla blanco familiar en niños">
+            <div class="tamaño-img pt-15">
+                <img src="/img/generalidades-del-crecimiento-infantil/talla-blanco-familiar-en-ninos.webp" alt="talla blanco familiar en niños">
             </div>
             <div class="tamaño-img mt-2">
                 <img src="/img/generalidades-del-crecimiento-infantil/talla-blaco-familiar-en-ninas.webp" alt="talla blanco familiar en niñas">

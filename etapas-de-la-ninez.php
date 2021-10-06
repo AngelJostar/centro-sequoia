@@ -27,14 +27,14 @@
             <div class="menu-categorias">
                 <!-- <a href="#"><div class="menu-categorias-img etapas-niñez-1" title="">
                     <p><i class="fas fa-caret-right"></i>Cambios físicos en niños<i class="fas fa-caret-left"></i></p>
-                </div></a>
-                <a href="#"><div class="menu-categorias-img etapas-niñez-2" title="sección de crecimiento infantil generalidades">
+                </div></a> -->
+                <!-- <a href="#"><div class="menu-categorias-img etapas-niñez-2" title="sección de crecimiento infantil generalidades">
                     <p><i class="fas fa-caret-right"></i>Crecimiento y desarrollo en bebés<i class="fas fa-caret-left"></i></p>
+                </div></a> -->
+                <a href="/etapas-de-la-ninez/crecimieno-y-desarrollo-del-niño"><div class="menu-categorias-img etapas-niñez-3" title="">
+                    <p><i class="fas fa-caret-right"></i>Crecimiento y desarrollo del niño<i class="fas fa-caret-left"></i></p>
                 </div></a>
-                <a href="#"><div class="menu-categorias-img etapas-niñez-3" title="">
-                    <p><i class="fas fa-caret-right"></i>Crecimiento y desarrollo en niños pequeños<i class="fas fa-caret-left"></i></p>
-                </div></a>
-                <a href="#"><div class="menu-categorias-img etapas-niñez-4" title="">
+                <!-- <a href="#"><div class="menu-categorias-img etapas-niñez-4" title="">
                     <p><i class="fas fa-caret-right"></i>Crecimiento y desarrollo en la adolescencia<i class="fas fa-caret-left"></i></p>
                 </div></a> -->
             </div>
