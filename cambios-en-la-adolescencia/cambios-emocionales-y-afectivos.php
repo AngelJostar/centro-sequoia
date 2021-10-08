@@ -68,6 +68,9 @@
         </div>
         <h2 id="1">¿Cuáles son los cambios emocionales en un adolescente?</h2>
         <p>Debido a los <strong>cambios hormonales</strong> que se tienen en esta etapa, existen los <strong>cambios emocionales en un adolescente</strong> provocando cambios de humor que modifican con frecuencia su temperamento. Suelen presentar emociones más intensas y de mayor alcance que los niños o los adultos. En el adolescente se desarrolla una euforia de sentirse como si estuvieran en la cima del mundo en un momento y estar deprimidos al siguiente. Estos cambios emocionales afectan su desempeño escolar, apariencia, elección de amigos y su capacidad para tomar decisiones adecuadas en la vida. </p>
+        <div class="tamaño-img">
+            <img src="/img/generalidades-del-crecimiento-infantil/Banner-Cambios-Emocionales-y-afectivos-en-la-adolescencia.webp" alt="Banner cambios emocionales y afectivos en la adolescencia">
+        </div>
         <p>La adolescencia puede significar una etapa de estrés emocional y cambios <strong>emocionales en los adolescentes</strong> ya que los chicos se vuelven cada vez más independientes y sus deseos a menudo chocan con las peticiones de sus padres, tienden a correr riesgos, mientras que sus padres están interesados en su seguridad. El adolescente suele actuar impulsivamente, sin pensar en las consecuencias, y toman decisiones basadas en lo que les sienta bien en ese momento. Incluso cuando los padres tratan de explicar sus propias decisiones basándose en su experiencia de vida y sus conocimientos, los adolescentes a menudo reaccionan emocionalmente sin siquiera escuchar las razones. Por lo tanto, los problemas de comportamiento y la rebelión son comunes. Además, se presentan otros cambios emocionales en un adolescente como lo son: </p>
         <h3 id="1.1">Sentirse demasiado sensible </h3>
         <p>Durante la <strong>pubertad</strong>, dado que su cuerpo sufre muchos cambios, es común que el adolescente se sienta incómodo con ellos y se vuelva demasiado sensible con respecto a su apariencia física. Como resultado, puede: </p>
@@ -95,6 +98,15 @@
         <p>La pubertad es también la fase después de la cual se desarrolla cambios en la <strong>madurez sexual</strong>. La madurez sexual es la etapa de su vida en la que puede tener hijos. Un aspecto de la madurez sexual es sentir <strong>curiosidad por el sexo</strong> y también por los cuerpos de las personas que te atraen. Con el inicio de la pubertad, es normal que un niño o una niña se sienta atraído sexualmente.</p>
         <h2 id="2">¿Qué es la adolescencia?</h2>
         <p>La <a href="/cambios-en-la-adolescencia/">adolescencia</a> se define como la fase de la vida que se extiende entre la niñez y la edad adulta. En este proceso ocurren cambios emocionales en un adolescente durante un proceso de transición entre los 13 y los 19 años en ella se ven reflejados cambios emocionales, afectivos, físicos, psicológicos y sociales. </p>
+        <div class="size-img-resposive">
+            <img src="/img/generalidades-del-crecimiento-infantil/Cambios-Fisicos.webp" alt="Cambios físicos en la adolescencia">
+        </div>
+        <div class="size-img-resposive pt-2">
+            <img src="/img/generalidades-del-crecimiento-infantil/Cambios-Psicologicos.webp" alt="Cambios psicológicos en la adolescencia">
+        </div>
+        <div class="size-img-resposive pt-2">
+            <img src="/img/generalidades-del-crecimiento-infantil/Cambios-Sociales.webp" alt="Cambios sociales en la adolescencia">
+        </div>
         <p>Desde el aspecto biológico, podemos decir que la adolescencia tiene su comienzo en la <a href="/crecimiento-infantil-deficiente/a-que-edad-dejan-de-crecer-las-mujeres">pubertad</a> y termina cuando los cambios físicos (en órganos sexuales y en relación al peso, altura y masa muscular) ya han ocurrido. Este periodo se caracteriza también por grandes cambios a nivel de crecimiento y maduración del sistema nervioso central de los adolescentes y cambios emocionales.</p>
         <p>En esta <strong>etapa de la adolescencia</strong> los chicos tienen cambios en la forma de relacionarse con los miembros de la familia, a menudo pasan a un segundo plano y <strong>deciden socializar</strong> más con los grupos de compañeros, tienen intereses románticos y se preocupan más por la apariencia, que los adolescentes perciben como cada vez más importantes en este período, estos son parte de los cambios emocionales en un adolescente.</p>
         <p>El sentido de pasar por la adolescencia es que un niño se <strong>transforme psicológica y socialmente</strong> en un adulto joven. Romper su infancia, apego y seguridad permite a los niños a la libertad adquirir y <strong>responsabilidad</strong> para <strong>desarrollar la independencia</strong> y para diferenciarse de sus padres y la niñez para establecer su propia identidad única. </p>
