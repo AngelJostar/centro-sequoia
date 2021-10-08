@@ -142,7 +142,7 @@
         <ul>
             <li> Ansia de poder </li>
             <li>Temores nocturnos sobre todo la muerte </li>
-            <li>Fantasías y sueños · Inestabilidad afectiva </li>
+            <li>Fantasías y sueños· Inestabilidad afectiva </li>
             <li>Egocentrismo </li>
             <li>Afán de llamar la atención </li>
             <li>Irritabilidad y suspicacia </li>
@@ -159,6 +159,7 @@
         </ul>
         <h2 id="4">Tips para entender los cambios emocionales de tu hijo adolescente</h3>
         <p>Para que la adolescencia no sea una etapa complicada y de cambios emocionales para tu hijo y para ti te dejamos algunos consejos que te serán de mucha ayuda. </p>
+        <!-- VIDEO -->
         <ul>
             <li><strong>1. Mantener la mente fría</strong></li>
         </ul>
