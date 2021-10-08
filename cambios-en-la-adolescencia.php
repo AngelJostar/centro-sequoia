@@ -43,11 +43,11 @@
             </div></a>
             <a href="#"><div class="menu-categorias-img cambios-adolescentes-4" title="">
                 <p><i class="fas fa-caret-right"></i>Cambios sociales<i class="fas fa-caret-left"></i></p>
-            </div></a>
+            </div></a>-->
             <a href="#"><div class="menu-categorias-img cambios-adolescentes-5" title="">
                 <p><i class="fas fa-caret-right"></i>Cambios emocionales y afectivos<i class="fas fa-caret-left"></i></p>
             </div></a>
-            <a href="#"><div class="menu-categorias-img cambios-adolescentes-6" title="">
+            <!-- <a href="#"><div class="menu-categorias-img cambios-adolescentes-6" title="">
                 <p><i class="fas fa-caret-right"></i>Cambios hormonales<i class="fas fa-caret-left"></i></p>
             </div></a> -->
         </div>

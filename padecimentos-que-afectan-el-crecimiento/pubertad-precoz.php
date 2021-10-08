@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta name="description" content="Las graficas de crecimiento (o curvas de crecimiento) y los percentiles de crecimiento se elaboran con las mediciones de amplios grupos de niños de distintas edades.">
-<title>Pubertad Precoz</title>
+<title>Pubertad precoz: Cómo se diagnostica y cuál es su tratamiento </title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
@@ -22,7 +22,7 @@
 
     <article class="text-container">
         <div class="box-titles">
-            <h1 class="box-titles-h2">Pubertad Precoz </h1>
+            <h1 class="box-titles-h2">Pubertad precoz: Cómo se diagnostica y cuál es su tratamiento</h1>
         </div>
         <div class="page">
             <nav>

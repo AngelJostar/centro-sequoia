@@ -1609,7 +1609,7 @@ h1.box-titles-h2 {
 }
 
 .etapas-niñez-3 {
-    background-image: url(/img/index/crecimeinto-y-desarrollo-en-niños-pequeños.webp);
+    background-image: url(/img/index/crecimeinto-y-desarrollo-en-niños-pequenos.webp);
 }
 
 .etapas-niñez-4 {
@@ -4009,6 +4009,9 @@ em {
     font-size: calc(14px + .4vw) !important;
 }
 
+
+/*Tablas */
+
 .tg {
     border-collapse: collapse;
     border-spacing: 0;
@@ -4074,6 +4077,97 @@ em {
     text-align: center;
     vertical-align: middle
 }
+
+.tg .tg-o25r {
+    background-color: #85c6ff;
+    font-family: Arial, Helvetica, sans-serif !important;
+    ;
+    font-size: 18px;
+    text-align: center;
+    vertical-align: top
+}
+
+.tg .tg-3wzv {
+    background-color: #85c6ff;
+    border-color: inherit;
+    font-family: Arial, Helvetica, sans-serif !important;
+    ;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: top
+}
+
+.tg .tg-i1zu {
+    background-color: #85c6ff;
+    border-color: inherit;
+    font-family: Arial, Helvetica, sans-serif !important;
+    ;
+    font-size: 18px;
+    text-align: center;
+    vertical-align: top
+}
+
+.tg {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.tg td {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    overflow: hidden;
+    padding: 10px 7px;
+    word-break: normal;
+}
+
+.tg th {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    overflow: hidden;
+    padding: 10px 7px;
+    word-break: normal;
+}
+
+.tg .tg-gso4 {
+    background-color: #ffccef;
+    border-color: inherit;
+    font-family: Arial, Helvetica, sans-serif !important;
+    ;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: top
+}
+
+.tg .tg-2no5 {
+    background-color: #ffccef;
+    border-color: inherit;
+    font-family: Arial, Helvetica, sans-serif !important;
+    ;
+    font-size: 18px;
+    text-align: center;
+    vertical-align: top
+}
+
+.tg .tg-drnm {
+    background-color: #ffccef;
+    font-family: Arial, Helvetica, sans-serif !important;
+    ;
+    font-size: 18px;
+    text-align: center;
+    vertical-align: top
+}
+
+
+/*End-tablas*/
 
 .body-container {
     font-family: Montserrat, sans-serif;

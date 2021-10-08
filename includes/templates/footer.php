@@ -83,7 +83,7 @@
                 <P>163300201A0419</P>
             </div>
             <div class="centrar-texto texto-boton pb-5">
-                <a href="/aviso-de-privacidad"><button class="boton boton-footer">Aviso de Privacidad</button></a>
+                <a href="/aviso-de-privacidad" rel=”nofollow><button class="boton boton-footer">Aviso de Privacidad</button></a>
             </div>
             <div class="centrar-texto texto-boton pb-5">
                 <a href="/acerca-de-este-sitio"><button class="boton boton-footer">Acerca de este sitio</button></a>
