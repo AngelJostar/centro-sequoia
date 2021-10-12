@@ -75,7 +75,7 @@
         <h2 id="1">Introducción al crecimiento y desarrollo de tu hijo</h2>
         <p>Tú quieres lo mejor para tus hijos, y todos los padres quieren. Pero ser mama o papa puede ser abrumador. Además de los problemas normales que pueda tener un <strong>niño</strong>, a muchos padres les preocupa que sus hijos estén <strong>creciendo y desarrollándose</strong> como deberían.</p>
         <div class="tamaño-img">
-            <img src="/img/generalidades-del-crecimiento-infantil/Banner-Crecimiento-y-desarrollo-en-niños.webp" alt="Banner crecimiento y desarrollo en niños">
+            <img src="/img/generalidades-del-crecimiento-infantil/Banner-Crecimiento-y-desarrollo-en-ninos.webp" alt="Banner crecimiento y desarrollo en niños">
         </div>
         <p>El <strong>crecimiento y desarrollo</strong> de tus hijos es multifactorial. Hay tres factores que lo componen:</p>
         <ul>

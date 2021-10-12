@@ -92,7 +92,7 @@
             <li>El cuerpo no se vuelve más musculoso</li>
         </ul>
         <div class="contenedor-video-3">
-            <div class="reproductor-vertical" data-id="xrw6wBko7U0"></div>
+            <div class="reproductor-vertical" data-id="yEyBj5RIBy0"></div>
         </div>
         <h2 id="3">Causas </h2>
         <p>La <strong>adolescencia tardía</strong> con mayor frecuencia no tiene una <strong>causa</strong> conocida. En algunos casos, puede ser hereditario. En otros casos, puede ser causado por cualquiera de estos:</p>
@@ -125,10 +125,10 @@
         <div class="size-img-resposive">
             <img src="/img/generalidades-del-crecimiento-infantil/POST-Pubertad-Tardia-tipo-1.webp" alt="Pubertad retardada">
         </div>
-        <div class="size-img-resposive">
+        <div class="size-img-resposive pt-2">
             <img src="/img/generalidades-del-crecimiento-infantil/POST-Pubertad-Tardia-tipo-2.webp" alt="Pubertad detenida">
         </div>
-        <div class="size-img-resposive">
+        <div class="size-img-resposive pt-2">
             <img src="/img/generalidades-del-crecimiento-infantil/POST-Pubertad-Tardia-tipo-3-.webp" alt="Infantilismo sexual">
         </div>
         <h2 id="5">Diagnostico</h2>
@@ -155,9 +155,6 @@
         <p>Aquí, los niños atendidos en SEQUOIA y sus excelentes resultados.</p>
         <div class="box-titles" id="2">
             <h2 class="box-titles-h2"><strong>@JuanPaZurita, es un caso de éxito en Sequoia. <br> Conoce su historia:</strong></h2>
-        </div>
-        <div class="contenedor-video-2">
-            <div class="reproductor-rectangular" data-id="yEyBj5RIBy0"></div>
         </div>
         <h2>Cuándo visitar un médico</h2>
         <p>Llame al proveedor de atención médica de su hijo si su hijo muestra signos de adolescencia tardía.</p>
