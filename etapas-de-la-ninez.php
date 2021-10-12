@@ -25,9 +25,9 @@
             </div>
             <p>Conforme <strong>crecen los niños</strong>, se <strong>desarrollan</strong> de distintas maneras. El <strong>desarrollo infantil</strong> consta de cambios físicos, intelectuales, sociales y emocionales.</p>
             <div class="menu-categorias">
-                <!-- <a href="#"><div class="menu-categorias-img etapas-niñez-1" title="">
-                    <p><i class="fas fa-caret-right"></i>Cambios físicos en niños<i class="fas fa-caret-left"></i></p>
-                </div></a> -->
+                <a href="/etapas-de-la-ninez/cambios-fisicos-de-un-nino"><div class="menu-categorias-img etapas-niñez-1" title="">
+                    <p><i class="fas fa-caret-right"></i>Cambios físicos en niños<i class="fas fa-caret-left"></i></p> 
+                </div></a>
                 <!-- <a href="#"><div class="menu-categorias-img etapas-niñez-2" title="sección de crecimiento infantil generalidades">
                     <p><i class="fas fa-caret-right"></i>Crecimiento y desarrollo en bebés<i class="fas fa-caret-left"></i></p>
                 </div></a> -->
