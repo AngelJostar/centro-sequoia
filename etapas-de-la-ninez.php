@@ -31,7 +31,7 @@
                 <!-- <a href="#"><div class="menu-categorias-img etapas-niñez-2" title="sección de crecimiento infantil generalidades">
                     <p><i class="fas fa-caret-right"></i>Crecimiento y desarrollo en bebés<i class="fas fa-caret-left"></i></p>
                 </div></a> -->
-                <a href="/etapas-de-la-ninez/crecimieno-y-desarrollo-del-nino"><div class="menu-categorias-img etapas-niñez-3" title="">
+                <a href="/etapas-de-la-ninez/crecimiento-y-desarrollo-del-nino"><div class="menu-categorias-img etapas-niñez-3" title="">
                     <p><i class="fas fa-caret-right"></i>Crecimiento y desarrollo del niño<i class="fas fa-caret-left"></i></p>
                 </div></a>
                 <!-- <a href="#"><div class="menu-categorias-img etapas-niñez-4" title="">

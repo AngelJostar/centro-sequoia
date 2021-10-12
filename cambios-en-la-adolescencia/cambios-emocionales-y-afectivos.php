@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content=": ¡Aprende todo sobre la adolescencia tardía! Visítanos. Aquí te enseñamos cómo identificarla, sus características, causas y tratamiento.">
-<title></title>
+<meta name="description" content="Enterate de los cambios emocionales y afectivos por lo que pasa un niño al transicionar a la adolescencia">
+<title>Cambios emocionales en la adolescencia: En hombres y Mujeres </title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

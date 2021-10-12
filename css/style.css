@@ -1344,6 +1344,7 @@ textarea {
 
 .text-container ul li {
     font-size: calc(14px + .4vw);
+    padding-top: 1em;
 }
 
 .text-container strong {
@@ -1598,6 +1599,10 @@ h1.box-titles-h2 {
 
 .cambios-adolescentes-6 {
     background-image: url(/img/index/cambios-hormonales.webp);
+}
+
+.cambios-adolescentes-7 {
+    background-image: url(/img/index/Que-es-la-adolescencia.webp);
 }
 
 .etapas-niñez-1 {
@@ -2693,7 +2698,7 @@ th {
     position: relative;
     width: 100%;
     margin: 0 auto;
-    height: 600px;
+    height: 630px;
     background-color: #efefef;
     -webkit-box-shadow: inset -1px 15px 46px -23px rgb(0 0 0 / 75%);
     -moz-box-shadow: inset -1px 15px 46px -23px rgba(0, 0, 0, 0.75);

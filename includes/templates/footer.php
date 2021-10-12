@@ -40,6 +40,9 @@
                     <a href="tel:811159-2265">
                         <p>Tel: (81) 1159-2265</p>
                     </a>
+                    <a rel="noopener" href="https://api.whatsapp.com/send?phone=5218180229793&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia.">
+                        <p>WA: 818022-9793</p>
+                    </a>
                 </div>
             </div>
             <div class="letras-blue-footer">

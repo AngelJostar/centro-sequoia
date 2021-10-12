@@ -185,11 +185,6 @@
         </ul>
         <p>Aunque las relaciones de los niños con los compañeros maduran y se vuelven cada vez más prominentes durante la niñez, la conexión de los niños con sus padres y su núcleo familiar sigue siendo de tremenda importancia para su bienestar y funcionamiento.</p>
 
-
-
-
-
-
         <h2 id="3">¿Cuándo visitar un médico?</h2>
         <p>Llame a un <a href="/especialistas-en-crecimiento/">médico especialista</a> de <a href="https://centrosequoia.com.mx/">Centro Sequoia</a> en cualquier momento que tenga alguna inquietud sobre la salud física o emocional de su hijo. Asegúrese de llamarnos si su hijo:</p>
         <ul>
@@ -222,19 +217,9 @@
                 c_interpretando.pdf</a></li>
             </ol>
         </div>
-
-
-
-
-
     </article>
-
 </main>
-      
-
 <?php include_once '../includes/templates/footer.php';?>
-
-
 <a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
