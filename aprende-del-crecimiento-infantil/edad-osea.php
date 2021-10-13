@@ -101,11 +101,11 @@
             <p>La forma más habitual de calcularla es con una <strong>radiografía de la mano</strong>. Se lleva acabo en la mano por la gran cantidad de <strong>huesos</strong> que contiene esta, cada uno con su <strong>cartílago de crecimiento</strong>. </p>
             <p>Para cada año existe un modelo de imagen radiológica, con el que se compara la <strong>radiografía del niño</strong> que se quiere estudiar. Mediante la comparación de imágenes se puede saber cuál es la edad ósea.</p>
             <p>El <strong>crecimiento óseo</strong> va acompañado de un patrón predecible de <strong>maduración óseas</strong> que varía entre niños y niñas como se describe a continuación:</p>
-            <h3 id="4.1">Progresión por años cumplidos en niños</h3>
+            <h3 id="4.1">Progresión por años cumplidos en niñas</h3>
             <div class="size-img-resposive">
                 <img loading="lazy" src="/img/generalidades-del-crecimiento-infantil/crecimiento-edad-osea-mujeres.webp" alt="Progresión de la edad osea por años en niñas">
             </div>
-            <h3 id="4.2">Progresión por años cumplidos en niñas</h3>
+            <h3 id="4.2">Progresión por años cumplidos en niños</h3>
             <div class="size-img-resposive">
                 <img loading="lazy" src="/img/generalidades-del-crecimiento-infantil/crecimiento-edad-osea-hombres.webp" alt="Progresión de la edad osea por años en niños">
             </div>

@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="Enterate de los cambios emocionales y afectivos por lo que pasa un niño al transicionar a la adolescencia">
-<title>Cambios emocionales en la adolescencia: En hombres y Mujeres </title>
+<meta name="description" content="Conoce que es la adolescencia y los cambios por los que pasa un adolescente en el trayecto a su madurez.">
+<title>¿Qué es la adolescencia? | Pubertad | Mitos y Realidades </title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 

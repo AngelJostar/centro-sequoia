@@ -156,6 +156,9 @@
         <div class="box-titles" id="2">
             <h2 class="box-titles-h2"><strong>@JuanPaZurita, es un caso de éxito en Sequoia. <br> Conoce su historia:</strong></h2>
         </div>
+        <div class="contenedor-video-2">
+            <div class="reproductor-rectangular" data-id="66cgRTMZr-A"></div>
+        </div>
         <h2>Cuándo visitar un médico</h2>
         <p>Llame al proveedor de atención médica de su hijo si su hijo muestra signos de adolescencia tardía.</p>
         <h3>Preguntas para hacerle a su médico</h3>

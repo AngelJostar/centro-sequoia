@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta name="description" content="Las tablas de peso y talla en niños nos indican cuánto debe de medir y pesar tu hijo. Aquí encontraras toda la información.">
-<title>Tabla de peso y talla de niños / Percentiles de crecimiento en niños.</title>
+<title>tablas de peso y talla de niños | percentiles de crecimiento</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/style-casos-de-exito.css" media="all">
@@ -186,6 +186,26 @@
                     <td class="tg-o25r">14 años</td>
                     <td class="tg-o25r">52.15</td>
                     <td class="tg-o25r">160.92</td>
+                </tr>
+                <tr>
+                    <td class="tg-o25r">15 años</td>
+                    <td class="tg-o25r">54.49</td>
+                    <td class="tg-o25r">168.21</td>
+                </tr>
+                <tr>
+                    <td class="tg-o25r">16 años</td>
+                    <td class="tg-o25r">62.27</td>
+                    <td class="tg-o25r">171.4</td>
+                </tr>
+                <tr>
+                    <td class="tg-o25r">17 años</td>
+                    <td class="tg-o25r">66.03</td>
+                    <td class="tg-o25r">173.23</td>
+                </tr>
+                <tr>
+                    <td class="tg-o25r">18 años</td>
+                    <td class="tg-o25r">68.19</td>
+                    <td class="tg-o25r">174.1</td>
                 </tr>
             </tbody>
         </table>

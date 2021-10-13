@@ -238,8 +238,8 @@ function leerMasCategoria() {
 }
 </script>
 
-<div style="text-align:center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ICTIJ9l9o5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="contenedor-video-2">
+    <div class="reproductor-rectangular" data-id="ICTIJ9l9o5M"></div>
 </div>
 
             </div>

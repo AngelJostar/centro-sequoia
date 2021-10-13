@@ -38,7 +38,7 @@
                 </div>
                 <div class="texto-footer">
                     <a href="tel:811159-2265">
-                        <p>Tel: (81) 1159-2265</p>
+                        <p style="padding-bottom: 0px;">Tel: (81) 1159-2265</p>
                     </a>
                     <a rel="noopener" href="https://api.whatsapp.com/send?phone=5218180229793&text=%EF%BF%BD%20Hola!%20Quiero%20informaci%C3%B3n%20de%20Centro%20Sequoia.">
                         <p>WA: 818022-9793</p>
@@ -59,11 +59,6 @@
                     <div class="social-youtube">
                         <li>
                             <a href="https://www.youtube.com/channel/UCabio61jWjsUyvVPNqIYY1Q" target="_blank" rel="noopener"><img src="/img/iconos-redes/youtube-brands-01.svg" alt=""></a>
-                        </li>
-                    </div>
-                    <div class="social-whatsapp">
-                        <li>
-                            <a href="https://api.whatsapp.com/send?phone=525559677135&text=%F0%9F%8D%83%20Hola!%20%0AQuiero%20informaci%C3%B3n%20de%20Centro%20Sequoia." target="_blank" rel="noopener"><img src="/img/iconos-redes//whatsapp-brands-01.svg" alt=""></a>
                         </li>
                     </div>
                     <div class="social-instagram">

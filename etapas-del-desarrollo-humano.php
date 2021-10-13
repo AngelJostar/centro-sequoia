@@ -16,11 +16,7 @@
 </head>
 
 <?php include_once 'includes/tags/google_tag_manager_body.php';?>
-<!-- Messenger plugin de chat Code -->
-<div id="fb-root"></div>
 
-<!-- Your plugin de chat code -->
-<div id="fb-customer-chat" class="fb-customerchat">
 </div>
 
 
@@ -95,33 +91,7 @@
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->
-<!-- Messenger plugin de chat Code -->
-<div id="fb-root"></div>
 
-<!-- Your plugin de chat code -->
-<div id="fb-customer-chat" class="fb-customerchat">
-</div>
-
-<script>
-  var chatbox = document.getElementById('fb-customer-chat');
-  chatbox.setAttribute("page_id", "169518883104723");
-  chatbox.setAttribute("attribution", "biz_inbox");
-
-  window.fbAsyncInit = function() {
-    FB.init({
-      xfbml            : true,
-      version          : 'v12.0'
-    });
-  };
-
-  (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-</script>
 
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
     integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous">

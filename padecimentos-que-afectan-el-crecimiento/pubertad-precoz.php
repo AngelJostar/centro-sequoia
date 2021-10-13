@@ -216,7 +216,7 @@
             <li>No dudes en hacer otras preguntas que puedas tener.</li>
         </ol>
         <div class="size-img-resposive pt-2">
-            <img src="/img/banners/banner-cambios-fisicos.webp" alt="banner cambios Fisicos">
+            <a href="/etapas-de-la-ninez/cambios-fisicos-de-un-nino"><img src="/img/banners/banner-cambios-fisicos.webp" alt="banner cambios Fisicos"></a>
         </div>
         <p>En niñas de 8 a 10 años ya no le llamamos pubertad precoz si no le llamamos pubertad acelerada o pubertad adelantada que no se considera una enfermedad o una alteración pero que puede ser importante desde el punto de vista de crecimiento y desarrollo y de preferencia uno debería de actuar para evitar que eso sucediera.</p>
         <p>Por último debo decir que la pubertad precoz idiopática que es la que vemos con más frecuencia ocurre en niñas o niños que empiezan a desarrollarse tempranamente es diferente de la pubertad precoz que puede obedecer a trastornos  hormonales e incluso la presencia de tumores, esto es especialmente importante en niños más que en niñas, cuándo vemos a un niño con pubertad precoz un niño que se está desarrollando antes de los nueve años tenemos la posibilidad de que este niño tenga un tema más serio y debe de estudiarse  de forma completa e integral.</p>        
