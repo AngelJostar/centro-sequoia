@@ -159,7 +159,9 @@
         </ul>
         <h2 id="4">Tips para entender los cambios emocionales de tu hijo adolescente</h3>
         <p>Para que la adolescencia no sea una etapa complicada y de cambios emocionales para tu hijo y para ti te dejamos algunos consejos que te serán de mucha ayuda. </p>
-        <!-- VIDEO -->
+        <div class="contenedor-video-3">
+            <div class="reproductor-vertical" data-id="-P-J122iHIU"></div>
+        </div>
         <ul>
             <li><strong>1. Mantener la mente fría</strong></li>
         </ul>
@@ -168,9 +170,9 @@
             <li><strong>2. Ponte en sus zapatos</strong></li>
         </ul>
         <p>¿Recuerdas cómo eras tú en tu etapa como adolescente? Mantener esta pregunta te permitirá ver desde el punto de vista de tu hijo y conocer mejor sus opiniones y sus cambios emocionales. </p>
-        <u>
+        <ul>
             <li><strong>3. Toma en cuenta su opinión</strong></li>
-        </u>
+        </ul>
         <p>Dale el tiempo a que se exprese y te comunique lo que piensa en torno a un tema, y las opciones que ve para resolver problemas. Al tomar en cuenta su opinión le ayudarás a formar su autoestima y su seguridad y entender mejor sus cambios emocionales.</p>
         <ul>
             <li><strong>4. Deja que cometa sus propios errores </strong></li>
@@ -184,7 +186,8 @@
             <li><strong>6. Escucha activamente a tu adolescente </strong></li>
         </ul>
         <p>Mejora la comunicación. No es oír lo que dice, sino escucharle y conocer su lenguaje verbal y no verbal.</p>
-        
+
+
 
         <h2 id="9">Acerca del Autor</h2>
         <div class="author-info">

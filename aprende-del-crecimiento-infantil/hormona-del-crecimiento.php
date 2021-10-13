@@ -71,7 +71,7 @@
                 <div class="reproductor" data-id="mpq5KRWbJnU"></div>
             </div>
             <div class="box-titles" id="2">
-                <h2 class="box-titles-h2">2. Funciones de la hormona del crecimiento</h2>
+                <h2 class="box-titles-h2">2. Función de la hormona de crecimiento</h2>
             </div>
             <p>A <strong>nivel celular</strong> genera acciones derivadas de cualquier cosa que tenga que ver con aumentar el tamaño de nuestro organismo, en el sentido de <strong>desarrollo</strong> de sus <strong>órganos</strong> y <strong>tejidos</strong>, es decir, su función principal respecto a las células es aumentar su tamaño(<strong>hipertrofia</strong>) y estimular la mitosis(<strong>hiperplasia</strong>), en otras palabras, favorece al aumento del tamaño de las células y el aumento del número de células respectivamente.</p>
             <div class="size-img-resposive pb-15">

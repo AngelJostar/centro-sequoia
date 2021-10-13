@@ -179,6 +179,9 @@
         <h2 id="6">Cuales son lo riesgos de la adolescencia</h2>        
         <p>La adolescencia es experimentar. No es raro que un <strong>adolescente</strong> se involucre situaciones donde no puedan medir el riesgo. No es que esté buscando el riesgo; hay ocasiones en que simplemente no se da cuenta del riesgo directamente. Se involucra, porque su cerebro lo invita a “hacer”, a experimentar. </p>
         <p>En esta lista te presentamos algunos de los principales riesgos a los que está expuesto una adolescente.</p>
+        <div class="contenedor-video-3">
+            <div class="reproductor-vertical" data-id="x_2T9oBneOo"></div>
+        </div>
         <h3>Embarazos no deseados</h3>
         <p>Los embarazos durante la adolescencia representar un potencial riesgo a la salud tanto a la madre como al bebe. Debido a la falta de inmadurez de la mamá, con frecuencia el periodo de embarazo no recibe los cuidados prenatales adecuados por lo que puede provocar problemas posteriores, llegando a complicaciones como partos prematuros y niños con poco peso al nacer.</p>
         <h3>ETS (Enfermedades de transmisión sexual)</h3>

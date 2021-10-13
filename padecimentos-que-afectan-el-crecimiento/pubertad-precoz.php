@@ -215,7 +215,7 @@
             <li>¿Hay restricciones que mi hija deba cumplir?</li>
             <li>No dudes en hacer otras preguntas que puedas tener.</li>
         </ol>
-        <div class="size-img-resposive">
+        <div class="size-img-resposive pt-2">
             <img src="/img/banners/banner-cambios-fisicos.webp" alt="banner cambios Fisicos">
         </div>
         <p>En niñas de 8 a 10 años ya no le llamamos pubertad precoz si no le llamamos pubertad acelerada o pubertad adelantada que no se considera una enfermedad o una alteración pero que puede ser importante desde el punto de vista de crecimiento y desarrollo y de preferencia uno debería de actuar para evitar que eso sucediera.</p>

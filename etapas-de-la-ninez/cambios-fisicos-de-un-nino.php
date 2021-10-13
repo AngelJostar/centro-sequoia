@@ -82,7 +82,7 @@
                 <img src="/img/generalidades-del-crecimiento-infantil/POST-Cambios-fisicos-de-un-nino-Especialistas-en-crecimiento-infantil.webp" alt="¿Cómo crecer de estatura? - Especialistas en crecimiento infantil">
             </div>
         </ol>
-        <h2>Influencias en el desarrollo físico del niño</h2>
+        <h2 id="1">Influencias en el desarrollo físico del niño</h2>
         <div class="contenedor-video-3">
             <div class="reproductor-vertical" data-id="-P-J122iHIU"></div>
         </div>
@@ -96,10 +96,10 @@
         <div class="size-img-resposive">
             <img src="/img/generalidades-del-crecimiento-infantil/BANNER-Cambios-fisicos-de-un-nino.webp" alt="Banner cambios físicos de un niño">
         </div>
-        <h2>Cambios y desarrollo físico en niños de 0 a 2 años</h2>
+        <h2 id="2">Cambios y desarrollo físico en niños de 0 a 2 años</h2>
         <p>Durante las primeras semanas de vida la mayoría de los niños pesan cerca de dos kilogramos y miden entre 45 y 55 cm de largo. Los niños son más pesados y más grandes que las niñas. El <a href="/generalidades-del-crecimiento-infantil/como-crecer-de-estatura">crecimiento físico</a> es más veloz en los primeros 2 años, el peso al nacer de un niño se duplica a los 6 meses y se triplica al año. </p>
         <p>De igual forma las proporciones de un bebé cambian durante los primeros 2 años y su cabeza disminuye en proporción a su cuerpo. </p>
-        <h2>Cambios y desarrollo físico en Niños de 0 a 6 meses</h2>
+        <h2 id="3">Cambios y desarrollo físico en Niños de 0 a 6 meses</h2>
         <h3>Habilidades motoras gruesas</h3>
         <ul>
             <li>Levanta la cabeza </li>
@@ -119,7 +119,7 @@
             <li>Juega con los dedos de manos y pies.</li>
             <li>Sostiene y manipula objetos</li>
         </ul>
-        <h2>Cambios y desarrollo físico en niños de Seis a 12 meses</h2>
+        <h2 id="4">Cambios y desarrollo físico en niños de 6 a 12 meses</h2>
         <h3>Habilidades motoras gruesas</h3>
         <ul>
             <li>Gatea sobre manos y rodillas.</li>
@@ -138,7 +138,7 @@
             <li>Señala con los dedos.</li>
             <li>Transfiere juguetes de mano en mano</li>
         </ul>
-        <h2>Cambios y desarrollo físicos en niños de 12 a 18 meses</h2>        
+        <h2 id="5">Cambios y desarrollo físicos en niños de 12 a 18 meses</h2>        
         <h3>Habilidades motoras gruesas</h3>
         <ul>
             <li>Camina sin apoyo</li>
@@ -157,7 +157,7 @@
             <li>Recoge objetos pequeños con el dedo índice y el pulgar</li>
             <li>Puede construir una torre de cubos.</li>
         </ul>
-        <h2>Cambios y desarrollo físico en niños de 2 a 6 años</h2>
+        <h2 id="6">Cambios y desarrollo físico en niños de 2 a 4 años</h2>
         <p>Los niños empiezan a perder grasa o gordura, cerca de los 3 años. Los niños pequeños pronto adquieren el aspecto más delgado <strong>asociado con la infancia</strong>. El tronco y las extremidades se alargan y se forman los músculos abdominales, lo que contrae la apariencia del estómago. Los niños llegan a tener más <strong>masa muscular</strong> que las niñas. </p>
         <p>Las proporciones físicas de los niños en <strong>etapa preescolar</strong> siguen cambiando, su cabeza sigue siendo proporcionalmente más grande, pero no tanto como de recién nacido. Los niños prescolares aumentan en peso y en centímetros. Estas medidas difieren en cada niño ya que dependen de factores como nivel socioeconómico, la <strong>alimentación</strong>, salud y factores hereditarios. Muchos niños toman una siesta durante el día hasta alrededor de los 4 o 5 años, luego duermen entre 11 y 13 horas por la noche.</p>
         <p>Cuando el niño llega a los 6 años, el torso se ha alargado y las proporciones corporales se parecen a las de un adulto. La tasa de crecimiento es más lenta que la de la <a href="/etapas-de-la-ninez/crecimiento-y-desarrollo-del-nino">infancia</a>  y se acompaña de una baja del apetito entre los 2 y los 6 años. Los padres pueden sentirse preocupados por la baja de alimenticios, pero esto es normal. </p>
@@ -183,7 +183,7 @@
             <li>Corta con las tijeras.</li>
             <li>Usa cuchara y tenedor.</li>
         </ul>
-        <h2>Cambios y desarrollo físico en niños de 4- 5 años</h2>
+        <h2 id="7">Cambios y desarrollo físico en niños de 4 a 5 años</h2>
         <h3>Habilidades motoras gruesas</h3>
         <ul>
             <li>Gira, da volteretas y se cuelga de las rejas.</li>
@@ -202,7 +202,7 @@
             <li>Se viste y se desnuda</li>
             <li>Utiliza tijeras para cortar una línea recta.</li>
         </ul>
-        <h2>Cambios y desarrollo físico en niños de 5- 6 años</h2>
+        <h2 id="8">Cambios y desarrollo físico en niños de 5 a 6 años</h2>
         <h3>Habilidades motoras gruesas</h3>
         <ul>
             <li>Gira y da volteretas </li>
@@ -219,7 +219,7 @@
             <li>Construye torres de bloques </li>
             <li>Desarrolla preferencia por las manos.</li>
         </ul>
-        <h2>Cambio físico y desarrollo físico en niños de 7 a 11 años</h2>
+        <h2 id="9">Cambio físico y desarrollo físico en niños de 7 a 11 años</h2>
         <p>Con el comienzo de la niñez los chicos adquieren una <strong>apariencia delgada y atlética</strong>. Hombres y mujeres todavía tienen forma y proporciones corporales similares hasta que ambos sexos <strong>alcanzan la pubertad</strong>. Las características sexuales como los pechos y curvas en las mujeres, la voz más gruesa y hombros anchos en los hombres permiten la diferenciación entre hombres y mujeres.</p>
         <p>Las niñas y los niños crecen entre <strong>5 y 7 cm</strong> aumentando cerca de tres kilos al año hasta la pubertad. Los músculos y los huesos se <strong>alargan y se ensanchan</strong>. En la niñez media las niñas son más pequeñas que los hombres y presentan menos masa muscular. Cuando las niñas entran en la pubertad, pueden ser más grandes que los chicos de su misma edad. Los niños madurarán sexualmente y con ello se muestra la diferencia en el peso y estatura respecto a las niñas y a su cambio físico. </p>        
         <h3>Cambio físico y desarrollo físico</h3>
@@ -240,7 +240,7 @@
             <li>Participa en deportes organizados como tenis, béisbol, fútbol, natación y golf.</li>
             <li>Tiene músculos pequeños bien desarrollados.</li>
         </ul>
-        <h3>¿Por qué son importantes las habilidades motoras en el desarrollo físico del niño?</h3>
+        <h3 id="9.1">¿Por qué son importantes las habilidades motoras en el desarrollo físico del niño?</h3>
         <p>Las habilidades motoras son necesarias para el desarrollo ya que permiten realizar <strong>movimientos precisos y pequeños</strong> en cada etapa de la vida. Desde que el niño es bebé está en constante actividad lo que implica habilidades motoras que se ven en la <strong>postura, el gatear o rodar</strong>.</p>        
         <p>Toda conducta es desarrollo motriz por lo tanto las habilidades motoras son desarrollo físico. Al desarrollan habilidades motoras el comportamiento se vuelve más funcional y flexible, el niño aprende a adaptar el comportamiento a las variaciones que tiene su cuerpo y su entorno, descubriendo nuevos medios para lograr sus objetivos. Al adquirir habilidades motoras el cambio físico y desarrollo físico del niño será positivo. </p>
         <div class="author-info">
