@@ -58,7 +58,7 @@
                         <li><a href="#4.1">Progresión en niños</a></li>
                         <li><a href="#4.2">Progresión en niñas</a></li>
                     </ol>
-                    <li><a href="5">Indicadores de la edad ósea</a></li>
+                    <li><a href="#5">Indicadores de la edad ósea</a></li>
                     <ol>
                         <li><a href="#5.1">Recién nacidos</a></li>
                         <li><a href="#5.2">Bebes</a></li>
@@ -87,7 +87,7 @@
             </ol>
             <p>También permite controlar la evolución y guiar el <strong>tratamiento</strong> de los niños con <a href="/factores-que-perjudican-el-crecimiento/padecimientos-que-afectan-el-crecimiento">afecciones que afectan el crecimiento</a> tales como:</p>
             <ol>
-                <li>Enfermedades que afectan los niveles de hormonas involucradas en el crecimiento, tales como <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento.">deficiencia de la hormona de crecimiento</a> , hipotiroidismo, <a href="/generalidades-del-crecimiento-infantil/pubertad-precoz/">pubertad precoz</a>  y trastornos de la glándula adrenal.</li>
+                <li>Enfermedades que afectan los niveles de hormonas involucradas en el crecimiento, tales como <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento">deficiencia de la hormona de crecimiento</a> , hipotiroidismo, <a href="/generalidades-del-crecimiento-infantil/pubertad-precoz/">pubertad precoz</a>  y trastornos de la glándula adrenal.</li>
                 <li>Trastornos de crecimiento genéticos, tales como el <a href="/sindromes/sindrome-de-turner">síndrome de Turner</a>.)</li>
                 <li>Problemas ortopédicos o de ortodoncia en los cuales el momento y el tipo de tratamiento (cirugía, aparatos ortopédicos, etc.) se deben determinar según la predicción de crecimiento del niño.</li>
             </ol>

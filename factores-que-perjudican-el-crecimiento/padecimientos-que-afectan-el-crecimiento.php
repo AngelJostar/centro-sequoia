@@ -43,9 +43,9 @@
                 <a href="/aprende-del-crecimiento-infantil/hormona-del-crecimiento"><div class="padecimientos-img-5 menu-categorias-img" title="">
                     <p><i class="fas fa-caret-right"></i>Hormona del crecimiento<i class="fas fa-caret-left"></i></p>
                 </div></a>
-                <a href="/padecimentos-que-afectan-el-crecimiento/acondriplasia"><div class="padecimientos-img-6 menu-categorias-img" title="">
+                <!-- <a href="/"><div class="padecimientos-img-6 menu-categorias-img" title="">
                     <p><i class="fas fa-caret-right"></i>Acondroplasia<i class="fas fa-caret-left"></i></p>
-                </div></a>
+                </div></a> -->
             </div>
                 <p>El deterioro del crecimiento lineal puede además exagerarse por el retraso en la pubertad, que se asocia frecuentemente a enfermedades crónicas. Las desviaciones del patrón de crecimiento normal pueden ser las primeras pistas.</p>
                 <p>En niños conocidos por presentar una enfermedad crónica, los registros seriados de la talla/longitud y el peso, representados en gráficas de distancia estándar, son vitales para monitorizar el bienestar, la actividad patológica, los efectos clínicos adversos y la respuesta al tratamiento. En niños con enfermedades resistentes, se destaca cada vez más el carácter problemático, tanto física como psicológicamente, del deterioro del crecimiento, la estatura baja, el retraso en la pubertad y la reducción de la talla adulta. En este trabajo presentamos una actualización de la fisiopatología general del deterioro del crecimiento lineal en enfermedades crónicas y algunos procesos clave en los que aparece un considerable deterioro del crecimiento.</p>
