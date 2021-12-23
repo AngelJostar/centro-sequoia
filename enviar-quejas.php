@@ -9,7 +9,7 @@
     $centroB = $_POST["centroB"];
     $mensajeB = $_POST["mensajeB"]; 
     
-        $destinoB = "martha.silis@gmail.com, franco.guerrero.herzig@gmail.com, yaz.mendoza.guerra@gmail.com, aaguirre_sorem@yahoo.com.mx";   
+        $destinoB = "martha.silis@gmail.com, franco.guerrero.herzig@gmail.com, monica_rios@centrosequoia.com.mx, aaguirre_sorem@yahoo.com.mx";   
         $contenidoB = "Nombre: " . $nombreB . "\nNombre del Paciente: " . $nombrePaciente . "\nCorreo: " . $correoB . "\nTeléfono: " . $telefonoB . "\nAsunto: " . $centroB . "\nMensaje: " . $mensajeB;
         mail($destinoB, "Contacto: ", $contenidoB);
         header("Location: https://centrosequoia.com.mx/gracias-por-contactarnos/");
