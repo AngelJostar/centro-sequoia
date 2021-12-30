@@ -12,7 +12,6 @@
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
-
 </head>
 
 <?php include_once 'includes/tags/google_tag_manager_body.php';?>
@@ -32,10 +31,10 @@
             <a href="/cambios-en-la-adolescencia/que-es-la-adolescencia"><div class="menu-categorias-img cambios-adolescentes-7" title="">
                 <p><i class="fas fa-caret-right"></i>¿Qué es la adolescencia?<i class="fas fa-caret-left"></i></p>
             </div></a>
-            <!-- <a href="#"><div class="menu-categorias-img cambios-adolescentes-1" title="sección de crecimiento infantil generalidades">
-                <p><i class="fas fa-caret-right"></i>Cambios Fisicos<i class="fas fa-caret-left"></i></p>   
+            <a href="/cambios-en-la-adolescencia/desarrollo-y-cambios-fisicos-en-la-adolescencia"><div class="menu-categorias-img cambios-adolescentes-8" title="sección de crecimiento infantil generalidades">
+                <p><i class="fas fa-caret-right"></i>Desarrollo y cambios fisicos en la adolescentes<i class="fas fa-caret-left"></i></p>   
             </div></a>
-            <a href="#"><div class="menu-categorias-img cambios-adolescentes-2" title="">
+            <!-- <a href="#"><div class="menu-categorias-img cambios-adolescentes-2" title="">
                 <p><i class="fas fa-caret-right"></i>Cambios psicológicos<i class="fas fa-caret-left"></i></p>
             </div></a>
             <a href="#"><div class="menu-categorias-img cambios-adolescentes-3" title="">
@@ -43,7 +42,7 @@
             </div></a>
             <a href="#"><div class="menu-categorias-img cambios-adolescentes-4" title="">
                 <p><i class="fas fa-caret-right"></i>Cambios sociales<i class="fas fa-caret-left"></i></p>
-            </div></a>-->
+            </div></a> -->
             <a href="/cambios-en-la-adolescencia/cambios-emocionales-y-afectivos"><div class="menu-categorias-img cambios-adolescentes-5" title="">
                 <p><i class="fas fa-caret-right"></i>Cambios emocionales y afectivos<i class="fas fa-caret-left"></i></p>
             </div></a>

@@ -86,7 +86,7 @@
         <p>Las primeras experiencias de tu hijo, los vínculos que forma contigo como su <strong>padre o
         madre</strong> y sus primeros aprendizajes educativos, afectan su <a href="/etapas-de-la-ninez/cambios-fisicos-de-un-nino">desarrollo físico</a>, cognitivo, emocional y social para el futuro.</p>
         <p>Apuntalar los primeros años en la vida de tus hijos es la mejor inversión que puedes para
-asegurar su éxito futuro.</p>
+        asegurar su éxito futuro.</p>
         <h3>Crecimiento de estatura en la primera infancia</h3>
         <p>Los niños en la <strong>primera infancia</strong> (de 3 a 8 años de edad) crecen un ritmo muy rápido.</p>
         <p>Las proporciones corporales cambian quitando las características físicas particulares de
@@ -422,7 +422,7 @@ asegurar su éxito futuro.</p>
                 <div><img width="100" height="100" loading="lazy" src="/img/doctores/dr-dorantes-sequoia.webp" alt="Perfil del Dr. Luis Miguel Dorantes Álvarez"></div>
                 <div>
                     <strong>Escrito por el Dr. Luis Miguel Dorantes Álvarez</strong>
-                    <p><a href="/biografias/america-liliana-miranda-lora"> Dra. Dr. Luis Miguel Dorantes Álvarez</a> es
+                    <p><a href="/biografias/america-liliana-miranda-lora"> Dr. Luis Miguel Dorantes Álvarez</a> es
                     cofundador de Centro Sequoia y director médico de la misma institución a
                     nivel nacional. Es médico pediatra endocrinólogo, especialista en
                     crecimiento infantil, certificado por el Consejo Mexicano de Endocrinología.

@@ -1605,6 +1605,10 @@ h1.box-titles-h2 {
     background-image: url(/img/index/Que-es-la-adolescencia.webp);
 }
 
+.cambios-adolescentes-8 {
+    background-image: url(/img/index/desarrollo-y-cambios-fisicos-en-la-adolescencia.webp);
+}
+
 .etapas-niñez-1 {
     background-image: url(/img/index/cambios-fisicos-en-ninos.webp);
 }
@@ -1619,6 +1623,14 @@ h1.box-titles-h2 {
 
 .etapas-niñez-4 {
     background-image: url(/img/index/crecimiento-y-desarrollo-en-la-adolescencia.webp);
+}
+
+.etapas-niñez-5 {
+    background-image: url(/img/index/Crecimiento-de-un-bebe.webp);
+}
+
+.etapas-niñez-6 {
+    background-image: url(/img/index/Primera-infancia.webp);
 }
 
 .factores-crecimiento-1 {
@@ -3477,7 +3489,7 @@ th {
 }
 
 a {
-    color: #00205e;
+    color: #1157df;
 }
 
 

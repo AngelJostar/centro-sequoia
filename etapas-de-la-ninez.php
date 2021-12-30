@@ -28,15 +28,15 @@
                 <a href="/etapas-de-la-ninez/cambios-fisicos-de-un-nino"><div class="menu-categorias-img etapas-niñez-1" title="">
                     <p><i class="fas fa-caret-right"></i>Cambios físicos en niños<i class="fas fa-caret-left"></i></p> 
                 </div></a>
-                <!-- <a href="#"><div class="menu-categorias-img etapas-niñez-2" title="sección de crecimiento infantil generalidades">
-                    <p><i class="fas fa-caret-right"></i>Crecimiento y desarrollo en bebés<i class="fas fa-caret-left"></i></p>
-                </div></a> -->
+                <a href="/etapas-de-la-ninez/primera-infancia"><div class="menu-categorias-img etapas-niñez-2" title="sección de crecimiento infantil generalidades">
+                    <p><i class="fas fa-caret-right"></i>Primera Infancia<i class="fas fa-caret-left"></i></p>
+                </div></a> 
                 <a href="/etapas-de-la-ninez/crecimiento-y-desarrollo-del-nino"><div class="menu-categorias-img etapas-niñez-3" title="">
                     <p><i class="fas fa-caret-right"></i>Crecimiento y desarrollo del niño<i class="fas fa-caret-left"></i></p>
                 </div></a>
-                <!-- <a href="#"><div class="menu-categorias-img etapas-niñez-4" title="">
-                    <p><i class="fas fa-caret-right"></i>Crecimiento y desarrollo en la adolescencia<i class="fas fa-caret-left"></i></p>
-                </div></a> -->
+                <a href="/etapas-de-la-ninez/crecimiento-de-un-bebe"><div class="menu-categorias-img etapas-niñez-5" title="">
+                    <p><i class="fas fa-caret-right"></i>Crecimiento de un bebe<i class="fas fa-caret-left"></i></p>
+                </div></a>
             </div>
             <div class="box-titles">
                 <h2 class="box-titles-h2">Períodos del desarrollo</h2>

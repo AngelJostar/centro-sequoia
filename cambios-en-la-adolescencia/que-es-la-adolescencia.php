@@ -10,7 +10,7 @@
 <meta name="description" content="Conoce que es la adolescencia y los cambios por los que pasa un adolescente en el trayecto a su madurez.">
 <title>¿Qué es la adolescencia? | Pubertad | Mitos y Realidades </title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.cssg" media="all">
 
 </head>
 
@@ -18,7 +18,7 @@
 <?php include_once '../includes/templates/top-header.php';?>
 <?php include_once '../includes/templates/header.php';?>
 
-<main class="main-container">
+<main class="main-container">       
 
     <article class="text-container">
         <div class="box-titles">

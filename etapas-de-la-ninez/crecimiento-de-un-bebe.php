@@ -51,33 +51,33 @@
                     <li><a href="">¿De qué depende el peso del bebé al nacer?</a></li>
                 </ol>
                 <li><a href="#1">Tablas de crecimiento de un bebé</a></li>
-                <li><a href="#1">Crecimiento de un bebé mes con mes</a></li>
+                <li><a href="#2">Crecimiento de un bebé mes con mes</a></li>
                 <ol>
-                    <li><a href="">Recién nacido</a></li>
-                    <li><a href="">1 (un) mes</a></li>
-                    <li><a href="">2 (dos) meses</a></li>
-                    <li><a href="">3 (tres) meses</a></li>
-                    <li><a href="">4 (cuatro) meses</a></li>
-                    <li><a href="">5 (cinco) meses</a></li>
-                    <li><a href="">6 (seis) meses</a></li>
-                    <li><a href="">7 (siete) meses</a></li>
-                    <li><a href="">8 (ocho) meses</a></li>
-                    <li><a href="">9 (nueve) meses</a></li>
-                    <li><a href="">10 (diez) meses</a></li>
-                    <li><a href="">11 (once) meses</a></li>
-                    <li><a href="">12 (doce) meses / 1 (un) año</a></li>
+                    <li><a href="#2.1">Recién nacido</a></li>
+                    <li><a href="#2.2">1 (un) mes</a></li>
+                    <li><a href="#2.3">2 (dos) meses</a></li>
+                    <li><a href="#2.4">3 (tres) meses</a></li>
+                    <li><a href="#2.5">4 (cuatro) meses</a></li>
+                    <li><a href="#2.6">5 (cinco) meses</a></li>
+                    <li><a href="#2.7">6 (seis) meses</a></li>
+                    <li><a href="#2.8">7 (siete) meses</a></li>
+                    <li><a href="#2.9">8 (ocho) meses</a></li>
+                    <li><a href="#2.10">9 (nueve) meses</a></li>
+                    <li><a href="#2.11">10 (diez) meses</a></li>
+                    <li><a href="#2.12">11 (once) meses</a></li>
+                    <li><a href="#2.13">12 (doce) meses / 1 (un) año</a></li>
                 </ol>
-                <li><a href="">Gráficas de crecimiento de un bebé</a></li>
+                <li><a href="#3">Gráficas de crecimiento de un bebé</a></li>
                 <ol>
-                    <li><a href="">Peso / longitud</a></li></li>
-                    <li><a href="">Circunferencia de la cabeza / longitud</a></li>
-                    <li><a href="">Peso / edad</a></li>
-                    <li><a href="">Longitud / edad</a></li>
+                    <li><a href="#3.1">Peso / longitud</a></li></li>
+                    <li><a href="#3.2">Circunferencia de la cabeza / longitud</a></li>
+                    <li><a href="#3.3">Peso / edad</a></li>
+                    <li><a href="#3.4">Longitud / edad</a></li>
                 </ol>
             </ol>
         </div>
         <p>El día por fin llegó en el que tienes a tu esperado <strong>bebé</strong> en tus brazos.</p>
-        <p>Estas en una etapa increíble de tu vida y la de tu bebé, el empezar a conocerse y amarse es
+        <p>Estas en una <a href="/etapas-del-desarrollo-humano">etapa</a> increíble de tu vida y la de tu bebé, el empezar a conocerse y amarse es
         algo que jamás se volverá a repetir y es por eso que hay que disfrutar cada segundo de esos
         primeros meses con él, pero al mismo tiempo todas las mamás se enfrentan a un nuevo mundo
         de preocupaciones que pueden llegar distraerlas de esos preciados momentos.</p>
@@ -86,23 +86,23 @@
         <div class="tamaño-img">
             <img src="/img/etapaz-de-la-ninez/crecimiento-de-un-bebe.webp" title="Bebés en crecimiento" alt="Bebés gateando con explicación del crecimiento en bebés">
         </div>
-        <p>En <a href="">Centro Sequoia</a> entendemos la preocupación de las mamás por sus hijos y la <a href="">importancia</a> de contar con la información que pueda ayudarlas entender el <strong>crecimiento de su bebé</strong>, porque seamos honestos los bebés no nacen con instructivo y a veces no sabemos ni a quién preguntarle estas cosas. </p>
-        <p>En este artículo encontraras descripciones de <strong>peso</strong> en las primeras semanas de nacido y posteriormente de mes a mes, también podrás ver <a href="">tablas de crecimiento que te muestran los percentiles de peso y talla</a> promedio de un <strong>bebé</strong>, cuanto debe de comer un bebé normalmente, etc. con esta pequeña guía puedes observar a tu bebé desarrollarse en su primer año de vida.</p>
+        <p>En <a href="https://centrosequoia.com.mx/">Centro Sequoia</a> entendemos la preocupación de las mamás por sus hijos y la <a href="/importancia-de-ser-mas-alto">importancia</a> de contar con la información que pueda ayudarlas entender el <strong>crecimiento de su bebé</strong>, porque seamos honestos los bebés no nacen con instructivo y a veces no sabemos ni a quién preguntarle estas cosas. </p>
+        <p>En este artículo encontraras descripciones de <strong>peso</strong> en las primeras semanas de nacido y posteriormente de mes a mes, también podrás ver <a href="/aprende-del-crecimiento-infantil/graficas-de-crecimiento">tablas de crecimiento que te muestran los percentiles de peso y talla</a> promedio de un <strong>bebé</strong>, cuanto debe de comer un bebé normalmente, etc. con esta pequeña guía puedes observar a tu bebé desarrollarse en su primer año de vida.</p>
         <h2>Etapas de crecimiento de un bebé</h2>
-        <p>Al nacer todos los papás quieren que sus <strong>bebés</strong> estén sanos, <a href="">midan y pesen dentro de los
-        rangos normales</a>, si nacen muy chiquitos te preocupas si está enfermo o si está muy grande la
+        <p>Al nacer todos los papás quieren que sus <strong>bebés</strong> estén sanos, midan y pesen dentro de los
+        rangos normales, si nacen muy chiquitos te preocupas si está enfermo o si está muy grande la
         diabetes y la obesidad se vuelven un punto importante. Pero no te preocupes tanto, hay un
         rango en el que los bebés pueden nacer y ser considerados sanos y normales.</p>
         <p>Los bebés al nacer tienen un peso promedio de 2.3 kg y miden entre 45 y 55 cm, por lo que tu
         bebé es totalmente normal si nace pesando un poco más o midiendo un par de centímetros
         menos ya que esto puede variar dependiendo de su raza o etnia. En caso de que algo no se
-        vea bien, <a href="">el doctor</a> hará los estudios necesarios para saber si hay razón para inquietarse.</p>
+        vea bien, <a href="/especialistas-en-crecimiento">el doctor</a> hará los estudios necesarios para saber si hay razón para inquietarse.</p>
         <p>También es importante señalar que los bebés pierden peso en la primera semana de nacidos
         como resultado de que deja de retener líquidos y puede pesar de 5 a 10% menos de su peso
         inicial.</p>
         <h3>¿De qué depende el peso del bebé al nacer?</h3>
-        <p>Hay varios <a href="">factores</a> que pueden influenciar el peso de tu <strong>factores</strong> al nacer y mucho dependen de
-        ti, tu <a href="">genética</a> y tu estilo de vida antes y durante el embarazo. Aquí te enlistamos algunos más:</p>
+        <p>Hay varios <a href="/factores-que-perjudican-el-crecimiento">factores</a> que pueden influenciar el peso de tu <strong>factores</strong> al nacer y mucho dependen de
+        ti, tu genética y tu estilo de vida antes y durante el embarazo. Aquí te enlistamos algunos más:</p>
         <p><strong>Tu peso:</strong> si subiste mucho de peso durante el embarazo o si antes de estar embarazada tenías
         sobre peso o si no consumías los nutrientes suficientes esto puede contribuir al peso del bebé
         al nacer.</p>
