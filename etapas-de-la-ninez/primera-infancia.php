@@ -47,14 +47,14 @@
             <h2>Indice de contenidos</h2>
             <ol>
                 <li><a href="#1">Crecimiento y desarrollo en la primera infancia (3 a 8 años)</a></li>
-                    <li>
-                        <a href="1.1">Crecimiento de estatura</a>
-                        <a href="1.2">Aumento de peso</a>
-                        <a href="1.3">Habilidades motoras</a>
-                        <a href="1.4">Desarrollo cognitivo</a>
-                        <a href="1.5">Desarrollo del lenguaje</a>
-                        <a href="1.6">Desarrollo social y emocional</a>
-                    </li>
+                    <ol>
+                        <li><a href="#1.1">Crecimiento de estatura</a></li>
+                        <li><a href="#1.2">Habilidades motoras</a></li>
+                        <li><a href="#1.3">Aumento de peso</a></li>
+                        <li><a href="#1.4">Desarrollo cognitivo</a></li>
+                        <li><a href="#1.5">Desarrollo del lenguaje</a></li>
+                        <li><a href="#1.6">Desarrollo social y emocional</a></li>
+                    </ol>
                 <li><a href="#2">Crecimiento y desarrollo en bebes (0 a 2 años)</a></li>
                 <li><a href="#3">Conclusiones del autor</a></li>
                 <li><a href="#4">Acerca del autor</a></li>
@@ -70,6 +70,7 @@
         <p>Es un plazo de mucho crecimiento físico (de estatura y de peso) y también de todas las
         áreas del desarrollo. Los niños pequeños en la <strong>primera infancia</strong> pasan de <a href="/etapas-de-la-ninez/crecimiento-de-un-bebe">ser recién
         nacidos</a> a convertirse en niños que pueden controlar bien su cuerpo y convivir eficazmente con los demás.</p>
+        <h2 id="1.1">Habilidades motoras</h2>
         <p>En la primera infancia presenciamos cambios en las habilidades motoras, emocionales, intelectuales y sociales, así como desarrollo del lenguaje.</p>
         <p>En este artículo te explicaremos los <strong>cambios</strong> de los niños en la <strong>primera infancia</strong> siguiendo las áreas del desarrollo que consideramos más importantes. Estas son:</p>
         <ol>
@@ -87,7 +88,7 @@
         madre</strong> y sus primeros aprendizajes educativos, afectan su <a href="/etapas-de-la-ninez/cambios-fisicos-de-un-nino">desarrollo físico</a>, cognitivo, emocional y social para el futuro.</p>
         <p>Apuntalar los primeros años en la vida de tus hijos es la mejor inversión que puedes para
         asegurar su éxito futuro.</p>
-        <h3>Crecimiento de estatura en la primera infancia</h3>
+        <h3 id="1.2">Crecimiento de estatura en la primera infancia</h3>
         <p>Los niños en la <strong>primera infancia</strong> (de 3 a 8 años de edad) crecen un ritmo muy rápido.</p>
         <p>Las proporciones corporales cambian quitando las características físicas particulares de
         los bebes. Un ejemplo muy notorio es la proporción de la cabeza que en bebes representa
@@ -123,7 +124,7 @@
         por períodos de crecimiento lento, que duran un promedio de 18 días. El crecimiento en la
         primera infancia es diferente al crecimiento en la adolescencia, por eso es importante
         estar al pendiente de este cambio de etapa.</p>
-        <h3>Aumento de peso en la primera infancia</h3>
+        <h3 id="1.3">Aumento de peso en la primera infancia</h3>
         <h4>Aumento de peso en niños < 2 años</h4>
         <p>Hitos típicos: las pautas generales con respecto al <strong>aumento de peso</strong> durante la <strong>primera
         infancia</strong> y la niñez <strong>para bebés</strong> con parámetros de crecimiento que eran apropiados para
@@ -216,7 +217,7 @@
             <li>Se viste y se casa completamente.</li>
             <li>Puede usar herramientas, como un martillo o un destornillador.</li>
         </ul>
-        <h3>Desarrollo cognitivo en la primera infancia</h3>
+        <h3 id="1.4">Desarrollo cognitivo en la primera infancia</h3>
         <p>Los <strong>cambios físicos</strong> y motrices en la primera infancia se acompañan de cambios en el
         desarrollo cognitivo. El <strong>desarrollo cognitivo</strong> es la capacidad de los niños de razonar y
         pensar.</p>
@@ -276,7 +277,7 @@
             <li>Puede nombrar los meses y días de la semana, en orden.</li>
             <li>Disfruta coleccionando objetos.</li>
         </ul>
-        <h3>Desarrollo del lenguaje en la primera infancia</h3>
+        <h3 id="1.5">Desarrollo del lenguaje en la primera infancia</h3>
         <p>El lenguaje es una herramienta poderosa para mejorar el desarrollo cognitivo en la
         primera infancia. El uso del lenguaje le permite al niño comunicarse con los demás y
         resolver problemas.</p>
@@ -324,7 +325,7 @@
         <p>A los ocho años, los niños pueden demostrar una comprensión básica de conceptos
         menos concretos, incluido el tiempo y el dinero. Sin embargo, el niño de ocho años
         todavía razona de manera concreta y tiene dificultades para comprender ideas abstractas.</p>
-        <h3>Desarrollo socioemocional en la primera infancia</h3>
+        <h3 id="1.6">Desarrollo socioemocional en la primera infancia</h3>
         <p>Una parte importante del crecimiento en la primera infancia es aprender a interactuar y
         socializar con los demás. Esta puede ser una transición frustrante para los padres. Los
         niños pasan por diferentes etapas. Algunos de estos no siempre son fáciles de manejar.</p>
@@ -392,11 +393,11 @@
         <div class="size-img-resposive">
             <img src="/img/etapaz-de-la-ninez/desarrollo-social-en-ninos-de-8-a-9-anos.webp" title="Niños platicando" alt="Niños platicando que muestra el desarrollo social a la edad de 8 y 9 años">
         </div>
-        <h2>Bebes de cero a dos años (0 a 2)</h2>
+        <h2 id="2">Bebes de cero a dos años (0 a 2)</h2>
         <div class="size-img-resposive">
             <img src="/img/etapaz-de-la-ninez/desarrollo-fisico-en-la-primera-infancia.webp" title="Niños " alt="Explicación de la importancia de crecimiento en la niñez">
         </div>
-        <h2>Conclusiones y comentarios del autor</h2>
+        <h2 id="3">Conclusiones y comentarios del autor</h2>
         <ol>
             <li>El crecimiento de estatura y aumento de peso en la primera infancia es pulsátil.
             Los períodos de crecimiento rápido están separados por períodos de crecimiento
@@ -416,13 +417,13 @@
         <div class="size-img-resposive">
             <img src="/img/etapaz-de-la-ninez/etapas-de-la-infancia.webp" title="Etapas de la infancia " alt="Lista de las etapas de la infancia, desde el desarrollo fetal hasta la adolescencia. Con descripción grafica animada.">
         </div>
-        <h2>Acerca del Autor</h2>
+        <h2 id="4">Acerca del Autor</h2>
 
         <div class="author-info">
                 <div><img width="100" height="100" loading="lazy" src="/img/doctores/dr-dorantes-sequoia.webp" alt="Perfil del Dr. Luis Miguel Dorantes Álvarez"></div>
                 <div>
                     <strong>Escrito por el Dr. Luis Miguel Dorantes Álvarez</strong>
-                    <p><a href="/biografias/america-liliana-miranda-lora"> Dr. Luis Miguel Dorantes Álvarez</a> es
+                    <p><a href="/biografias/luis-miguel-dorantes-alvarez.php"> Dr. Luis Miguel Dorantes Álvarez</a> es
                     cofundador de Centro Sequoia y director médico de la misma institución a
                     nivel nacional. Es médico pediatra endocrinólogo, especialista en
                     crecimiento infantil, certificado por el Consejo Mexicano de Endocrinología.

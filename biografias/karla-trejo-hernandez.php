@@ -64,7 +64,7 @@
                         </ul>
                     </div>
                     <div class="tamaño-img ">
-                        <img src="/img/doctores/dr-francisco-sequoia.webp" width="auto" height="auto" alt="Perfil del Doctor Francisco Javier Alonso Jiménez">
+                        <img src="/img/doctores/DRA-KARLA.webp" width="auto" height="auto" alt="Perfil del Doctor Francisco Javier Alonso Jiménez">
                     </div>
                 </div>
                     <h2>Departamentos</h2>

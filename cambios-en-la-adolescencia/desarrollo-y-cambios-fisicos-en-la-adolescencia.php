@@ -216,7 +216,7 @@
                 </div>
         </div>
         <div class="author-info">
-                <div><img width="100" height="100" loading="lazy" src="/img/doctores/dra.ana.laura-sequoia.webp" alt="Perfil del Dr. Luis Miguel Dorantes Álvarez"></div>
+                <div><img width="100" height="100" loading="lazy" src="/img/doctores/DRA-KARLA.webp" alt="Perfil de Ana Laura"></div>
                 <div>
                     <strong>Escrito por la Dra. Karla Eugenia Hernández Trejo</strong>
                     <p>La <a href="/biografias/karla-trejo-hernandez">Dra. Karla E. Hernández Trejo</a> curso la especialidad de Pediatría en el "Hospital Universitario, Dr. José Eleuterio González" de la UANL, posteriormente realizo la subespecialidad en Endocrinología Pediátrica en el "Hospital Infantil de México, Federico Gómez" de la UNAM.</p>
