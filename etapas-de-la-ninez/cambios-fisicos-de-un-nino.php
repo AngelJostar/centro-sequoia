@@ -67,19 +67,19 @@
         <ol>
             <li><strong>Horarios de sueño de acuerdo a la edad del niño</strong> </li>
             <div class="size-img-resposive">
-                <img src="/img/generalidades-del-crecimiento-infantil/POST--Cambios-fisicos-de-un-nino-Dormir.webp" alt="¿Cómo crecer de estatura? - dormir">
+                <img loading="lazy" src="/img/generalidades-del-crecimiento-infantil/POST--Cambios-fisicos-de-un-nino-Dormir.webp" alt="¿Cómo crecer de estatura? - dormir">
             </div>
             <li><strong>Dieta saludable</strong> </li>
             <div class="size-img-resposive">
-                <img src="/img/generalidades-del-crecimiento-infantil/POST-Cambios-fisicos-de-un-nino-Nutricion-y-Crecimiento.webp" alt="¿Cómo crecer de estatura? - nutrición y crecimiento">
+                <img loading="lazy" src="/img/generalidades-del-crecimiento-infantil/POST-Cambios-fisicos-de-un-nino-Nutricion-y-Crecimiento.webp" alt="¿Cómo crecer de estatura? - nutrición y crecimiento">
             </div>
             <li><strong>Ejercicio aeróbico</strong> </li>
             <div class="size-img-resposive">
-                <img src="/img/generalidades-del-crecimiento-infantil/POST-Cambios-fisicos-de-un-nino-Ejercicios-para-crecer.webp" alt="¿Cómo crecer de estatura? - Ejercicios para crecer de estatura">
+                <img loading="lazy" src="/img/generalidades-del-crecimiento-infantil/POST-Cambios-fisicos-de-un-nino-Ejercicios-para-crecer.webp" alt="¿Cómo crecer de estatura? - Ejercicios para crecer de estatura">
             </div>
             <li><strong>Visitas periódicas con el especialista</strong>  </li>
             <div class="size-img-resposive">
-                <img src="/img/generalidades-del-crecimiento-infantil/POST-Cambios-fisicos-de-un-nino-Especialistas-en-crecimiento-infantil.webp" alt="¿Cómo crecer de estatura? - Especialistas en crecimiento infantil">
+                <img loading="lazy" src="/img/generalidades-del-crecimiento-infantil/POST-Cambios-fisicos-de-un-nino-Especialistas-en-crecimiento-infantil.webp" alt="¿Cómo crecer de estatura? - Especialistas en crecimiento infantil">
             </div>
         </ol>
         <h2 id="1">Influencias en el desarrollo físico del niño</h2>
@@ -94,7 +94,7 @@
             <li>Retrasos en el cambio físico del niño, discapacidades o problemas de salud.</li>
         </ul>
         <div class="size-img-resposive">
-            <img src="/img/generalidades-del-crecimiento-infantil/BANNER-Cambios-fisicos-de-un-nino.webp" alt="Banner cambios físicos de un niño">
+            <img loading="lazy" src="/img/generalidades-del-crecimiento-infantil/BANNER-Cambios-fisicos-de-un-nino.webp" alt="Banner cambios físicos de un niño">
         </div>
         <h2 id="2">Cambios y desarrollo físico en niños de 0 a 2 años</h2>
         <p>Durante las primeras semanas de vida la mayoría de los niños pesan cerca de dos kilogramos y miden entre 45 y 55 cm de largo. Los niños son más pesados y más grandes que las niñas. El <a href="/generalidades-del-crecimiento-infantil/como-crecer-de-estatura">crecimiento físico</a> es más veloz en los primeros 2 años, el peso al nacer de un niño se duplica a los 6 meses y se triplica al año. </p>

@@ -63,6 +63,7 @@
                     <a href="/biografias/diego-gaytan-saracho"><li>Dr. Diego Gaytán Saracho</li></a>
                     <a href="/biografias/monica-leon-valdez"><li>Dra. Mónica León Valdez</li></a>
                     <a href="/biografias/francisco-javier-alonso-jimenez"><li>Dr. Francisco Alonso Jiménez</li></a>
+                    <a href="/biografias/karla-trejo-hernandez"><li>Dra. Karla trajo hernandez</li></a>
                     <li class="text-decoration-no">Dra. María Fernanda Acosta Martínez</li>
                     <li class="text-decoration-no">Dra. Carmen Elena Quiroz Hernández</li>
                     <li class="text-decoration-no">Dra. Viena Stephanie Martínez Alvarado</li>
@@ -70,6 +71,7 @@
                     <li class="text-decoration-no">Dr. Jorge David Lopez Palomera</li>
                     <li class="text-decoration-no">Dra. Ana Paola de Cosio Farias</li>
                     <li class="text-decoration-no">Dr. Nidal Ezzy Ezzy</li>
+                    
                 </ul>
                 <h4>Nutrición</h4>
                 <ul>

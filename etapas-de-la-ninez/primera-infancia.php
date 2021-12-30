@@ -65,7 +65,7 @@
         etapa es determinante para el <strong>crecimiento y desarrollo</strong> de los niños pequeños, es el
         periodo más significativo en la formación de tu hijo.</p>
         <div class="tamaño-img">
-            <img src="/img/etapaz-de-la-ninez/cambios-en-la-primera-infancia.webp" title="Cambios en la primera infancia" alt="El Dr. Luis Miguel Dorantes explica los cambios primera infancia">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/cambios-en-la-primera-infancia.webp" title="Cambios en la primera infancia" alt="El Dr. Luis Miguel Dorantes explica los cambios primera infancia">
         </div>
         <p>Es un plazo de mucho crecimiento físico (de estatura y de peso) y también de todas las
         áreas del desarrollo. Los niños pequeños en la <strong>primera infancia</strong> pasan de <a href="/etapas-de-la-ninez/crecimiento-de-un-bebe">ser recién
@@ -82,7 +82,7 @@
             <li>Desarrollo social y emocional</li>
         </ol>
         <div class="size-img-resposive">
-            <img src="/img/etapaz-de-la-ninez/consejo-primera-infancia.webp" title="Consejo en la primera infancia" alt="Consejo para papas con hijos en la primera infancia">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/consejo-primera-infancia.webp" title="Consejo en la primera infancia" alt="Consejo para papas con hijos en la primera infancia">
         </div>
         <p>Las primeras experiencias de tu hijo, los vínculos que forma contigo como su <strong>padre o
         madre</strong> y sus primeros aprendizajes educativos, afectan su <a href="/etapas-de-la-ninez/cambios-fisicos-de-un-nino">desarrollo físico</a>, cognitivo, emocional y social para el futuro.</p>
@@ -117,7 +117,7 @@
             crecimiento puberal.</li>
         </ul>
         <div class="size-img-resposive">
-            <img src="/img/etapaz-de-la-ninez/consejo-primera-infancia.webp" title="Principios del desarrollo físico" alt="Explicación de la importancia de crecimiento en la niñez">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/consejo-primera-infancia.webp" title="Principios del desarrollo físico" alt="Explicación de la importancia de crecimiento en la niñez">
         </div>
         <p>El crecimiento <a href="/cambios-en-la-adolescencia">prepuberal</a> es un proceso no lineal, que
         consiste en brotes de crecimiento que duran un promedio de ocho semanas, separados
@@ -152,7 +152,7 @@
         <p>Un niño prepúberto cuya velocidad de peso es < 1 kg por año debe ser monitoreado de
         cerca para detectar déficits nutricionales progresivos.</p>
         <div class="tamaño-img">
-            <img src="/img/etapaz-de-la-ninez/tabla-de-habilidades-motoras-en-ninos.webp" title="Tabla de habilidades motoras finas y gruesas en niños" alt="Tabla comparativa de las habilidades motoras finas y gruesas que debe de tener un niño según su edad">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/tabla-de-habilidades-motoras-en-ninos.webp" title="Tabla de habilidades motoras finas y gruesas en niños" alt="Tabla comparativa de las habilidades motoras finas y gruesas que debe de tener un niño según su edad">
         </div>
         <p>A medida que su hijo continúe creciendo durante la primera infancia, notará que se
         desarrollan nuevas y emocionantes habilidades. Los niños pueden progresar a diferentes
@@ -391,11 +391,11 @@
             <li>Se está interesando en las relaciones entre chicos y chicas, pero no lo admite.</li>
         </ul>
         <div class="size-img-resposive">
-            <img src="/img/etapaz-de-la-ninez/desarrollo-social-en-ninos-de-8-a-9-anos.webp" title="Niños platicando" alt="Niños platicando que muestra el desarrollo social a la edad de 8 y 9 años">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/desarrollo-social-en-ninos-de-8-a-9-anos.webp" title="Niños platicando" alt="Niños platicando que muestra el desarrollo social a la edad de 8 y 9 años">
         </div>
         <h2 id="2">Bebes de cero a dos años (0 a 2)</h2>
         <div class="size-img-resposive">
-            <img src="/img/etapaz-de-la-ninez/desarrollo-fisico-en-la-primera-infancia.webp" title="Niños " alt="Explicación de la importancia de crecimiento en la niñez">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/desarrollo-fisico-en-la-primera-infancia.webp" title="Niños " alt="Explicación de la importancia de crecimiento en la niñez">
         </div>
         <h2 id="3">Conclusiones y comentarios del autor</h2>
         <ol>
@@ -415,7 +415,7 @@
             cada niño es único y desarrollará diferentes personalidades.</li>
         </ol>
         <div class="size-img-resposive">
-            <img src="/img/etapaz-de-la-ninez/etapas-de-la-infancia.webp" title="Etapas de la infancia " alt="Lista de las etapas de la infancia, desde el desarrollo fetal hasta la adolescencia. Con descripción grafica animada.">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/etapas-de-la-infancia.webp" title="Etapas de la infancia " alt="Lista de las etapas de la infancia, desde el desarrollo fetal hasta la adolescencia. Con descripción grafica animada.">
         </div>
         <h2 id="4">Acerca del Autor</h2>
 
@@ -442,7 +442,7 @@
                 <li>Kuczmarski RJ, Ogden CL, Grummer-Strawn LM. Graficas de crecimiento: Estados
                 Unidos. Numero 314. Centro Nacional para las estadísticas de la salud. Hyattsville, MD
                 2000.</li>
-                <li>Organización Mundial de la Salud, <a href="www.who.int/childgrowth/standards/en/.">Tablas de crecimiento estándar.</a></li>
+                <li>Organización Mundial de la Salud, <a href="https://www.who.int/childgrowth/training/c_interpretando.pdf">Tablas de crecimiento estándar.</a></li>
                 <li>Mei Z, Ogden CL, Flegal KM, Grummer-Strawn LM. Comparison of the prevalence of
                 shortness, underweight, and overweight among US children aged 0 to 59 months by using
                 the CDC 2000 and the WHO 2006 growth charts. J Pediatr 2008; 153:622.</li>
@@ -457,7 +457,7 @@
                 <li>Dorantes ALM, Valle GI, Ajuria GML: Desarrollo puberal masculino y sus alteraciones.
                 Rev Mex Ped 1997;5:199-208 Dorantes Álvarez LM, Medina Bravo O: Ernest Starling y el
                 nacimiento de la endocrinología Bol Med Hosp Infant Mex 2005;62:307-
-                309, <a href="http://www.scielo.org.mx/pdf/bmim/v62n5/v62n5a2.pdf">http://www.scielo.org.mx/pdf/bmim/v62n5/v62n5a2.pdf</a></li>
+                309, <a href="http://www.scielo.org.mx/pdf/bmim/v62n5/v62n5a2.pdf">http://www.scielo.org.mx/pdf/ <br> bmim/v62n5/v62n5a2.pdf</a></li>
             </ol>
         </div>
 

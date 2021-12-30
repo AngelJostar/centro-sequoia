@@ -84,7 +84,7 @@
         <p>El cuidado de tu bebé y su bienestar se vuelven prioridad máxima y buscarás todas las
         maneras de que <strong>tu bebé crezca</strong> y se fortalezca de forma correcta.</p>
         <div class="tamaño-img">
-            <img src="/img/etapaz-de-la-ninez/crecimiento-de-un-bebe.webp" title="Bebés en crecimiento" alt="Bebés gateando con explicación del crecimiento en bebés">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/crecimiento-de-un-bebe.webp" title="Bebés en crecimiento" alt="Bebés gateando con explicación del crecimiento en bebés">
         </div>
         <p>En <a href="https://centrosequoia.com.mx/">Centro Sequoia</a> entendemos la preocupación de las mamás por sus hijos y la <a href="/importancia-de-ser-mas-alto">importancia</a> de contar con la información que pueda ayudarlas entender el <strong>crecimiento de su bebé</strong>, porque seamos honestos los bebés no nacen con instructivo y a veces no sabemos ni a quién preguntarle estas cosas. </p>
         <p>En este artículo encontraras descripciones de <strong>peso</strong> en las primeras semanas de nacido y posteriormente de mes a mes, también podrás ver <a href="/aprende-del-crecimiento-infantil/graficas-de-crecimiento">tablas de crecimiento que te muestran los percentiles de peso y talla</a> promedio de un <strong>bebé</strong>, cuanto debe de comer un bebé normalmente, etc. con esta pequeña guía puedes observar a tu bebé desarrollarse en su primer año de vida.</p>
@@ -114,29 +114,29 @@
         sus hermanos.</p>
         <h2>Tablas de crecimiento de un bebé</h2>
         <div class="size-img-resposive">
-            <img src="/img/etapaz-de-la-ninez/tabla-de-crecimiento-de-un-bebe-nina.webp" title="Tabla de crecimiento (peso y talla) según edad en bebés niñas" alt="Tabla con valores ideales de peso y talla según edad en niñas bebés">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/tabla-de-crecimiento-de-un-bebe-nina.webp" title="Tabla de crecimiento (peso y talla) según edad en bebés niñas" alt="Tabla con valores ideales de peso y talla según edad en niñas bebés">
         </div>
         <div class="size-img-resposive pt-1">
-            <img src="/img/etapaz-de-la-ninez/tabla-de-crecimiento-de-un-bebe-nino.webp" title="Tabla de crecimiento (peso y talla) según edad en bebés niños" alt="Tabla con valores ideales de peso y talla según edad en niños bebés">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/tabla-de-crecimiento-de-un-bebe-nino.webp" title="Tabla de crecimiento (peso y talla) según edad en bebés niños" alt="Tabla con valores ideales de peso y talla según edad en niños bebés">
         </div>
         <h2>Crecimiento de un bebé mes con mes</h2>
         <h3>Peso de un bebé recién nacido</h3>
         <p>Como se mencionó anteriormente los bebés pueden perder de 5 a 10% del peso inicial dada la
         perdida de líquido y que no requieren alta cantidad de comida. A los 5 días notaras un
-        incremento de peso, a los 10 y 14 días ya regresó a su peso inicial o tal vez hasta este
+        incremento de peso, a los <strong>10 y 14 días</strong> ya regresó a su peso inicial o tal vez hasta este
         pesando más que en su primer día en el mundo.</p>
         <p>En este momento tu pediatra deberá monitorear el peso del bebé en sus semanas 1, 2 y 4 para
-        registrar que <a href="">su crecimiento este dentro de la norma</a>, por si no lo está para poder resolver el
+        registrar que <a href="/aprende-del-crecimiento-infantil/etapas-del-desarollo-de-tanner">su crecimiento este dentro de la norma</a>, por si no lo está para poder resolver el
         problema lo antes posible.</p>
         <p>Un ejemplo por el cual el bebé puede no estar creciendo es por la alimentación y el pediatra
-        puede sugerir suplementar al recién nacido con leche en fórmula para que pueda mantener e
+        puede sugerir suplementar al recién nacido con <strong>leche en fórmula</strong> para que pueda mantener e
         incrementar su peso. Una vez que los bebés recuperan su peso inicial, tienden a subir entre
         110 y 200 gramos a la semana entre los primeros 4 a 6 meses de vida.</p>
         <p>Los bebés tienen brotes de crecimiento muy marcados a los días 7 a 10 días de nacidos y
         luego otra vez a las 3 semanas y 6 semanas de vida. Por lo que no te espantes si tu bebé pide
         comer más veces durante los tiempos mencionados, mientras más leche pida el bebé más 
-        leche produce mamá por lo que no te debería de costar darle lo que necesita durante los brotes
-        de crecimiento.</p>
+        leche produce mamá por lo que no te debería de costar darle lo que necesita durante los <strong>brotes
+        de crecimiento</strong>.</p>
         <div class="contenedor-video-3">
             <div class="reproductor-vertical" data-id="RuF1MuuZA40"></div>
         </div>
@@ -147,7 +147,7 @@
         <h4>¿Qué pasa si no sube de peso lo suficiente o sube demasiado?</h4>
         <p>Si tu bebé no está subiendo los gramos normales de semana a semana entonces puede ser
         una de múltiples razones, siempre recomendamos checar primero con tu doctor antes de hacer
-        cualquier cambio en la alimentación y cuidado de tu bebé.</p>
+        cualquier cambio en la <strong>alimentación y cuidado</strong> de tu bebé.</p>
         <p><strong>Si no sube de peso:</strong></p>
         <p><strong>No está comiendo lo suficiente:</strong> lo normal es que los bebés coman entre 8 a 10 veces al día,
         intenta no dejar pasar más de 3 horas sin darle de comer durante el día y 4 durante la noche.</p>
@@ -189,7 +189,7 @@
             <li>Está subiendo demasiado rápido de peso</li>
         </ul>
         <div class="size-img-resposive">
-            <img src="/img/etapaz-de-la-ninez/mama-con-bebe.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/mama-con-bebe.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
         </div>
         <h3>Peso de un bebé al mes de nacido</h3>
         <p>Llegamos al primer mes de vida de tu bebé y estamos dejando atrás los las actividades de un
@@ -356,31 +356,31 @@
         </ol>
         <h3>Gráficas de peso / longitud para bebés </h3>
         <div class="tamaño-img">
-            <img src="/img/etapaz-de-la-ninez/grafica-de-peso-para-longitud-en-ninos-bebes-0-2.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
+            <img loading="lazy"src="/img/etapaz-de-la-ninez/grafica-de-peso-para-longitud-en-ninos-bebes-0-2.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
         </div>
         <div class="tamaño-img">
-            <img src="/img/etapaz-de-la-ninez/grafica-de-peso-para-longitud-en-ninas-bebes-0-2.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/grafica-de-peso-para-longitud-en-ninas-bebes-0-2.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
         </div>
         <h3>Gráficas de circunferencia de la cabeza / longitud para bebé</h3>
         <div class="tamaño-img">
-            <img src="/img/etapaz-de-la-ninez/grafica-de-perimetro-cefalico-para-edad-en-ninos-bebes.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/grafica-de-perimetro-cefalico-para-edad-en-ninos-bebes.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
         </div>
         <div class="tamaño-img">
-            <img src="/img/etapaz-de-la-ninez/grafica-de-perimetro-cefalico-para-edad-en-ninas-bebes.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/grafica-de-perimetro-cefalico-para-edad-en-ninas-bebes.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
         </div>
         <h3>Gráficas de peso / edad para bebés</h3>
         <div class="tamaño-img">
-            <img src="/img/etapaz-de-la-ninez/grafica-de-peso-para-edad-en-ninos-bebes.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/grafica-de-peso-para-edad-en-ninos-bebes.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
         </div>
         <div class="tamaño-img">
-            <img src="/img/etapaz-de-la-ninez/grafica-de-peso-para-edad-en-ninas-bebes.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/grafica-de-peso-para-edad-en-ninas-bebes.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
         </div>
         <h3>Gráficas de longitud / edad para bebés </h3>
         <div class="tamaño-img">
-            <img src="/img/etapaz-de-la-ninez/grafica-de-estatura-para-edad-en-ninos-bebes.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/grafica-de-estatura-para-edad-en-ninos-bebes.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
         </div>
         <div class="tamaño-img">
-            <img src="/img/etapaz-de-la-ninez/grafica-de-estatura-para-edad-en-ninas-bebes.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
+            <img loading="lazy" src="/img/etapaz-de-la-ninez/grafica-de-estatura-para-edad-en-ninas-bebes.webp" title="Mamá cariño a su bebé" alt="Mamá besando a su bebé dándole mucho amor">
         </div>
         <h2>Acerca del Autor</h2>
 
